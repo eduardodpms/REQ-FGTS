@@ -28,7 +28,7 @@
       </td>
       <td valign="top">
         <a href="https://github.com/MM4k">
-          <img align="center" scr="https://github.com/MM4k.png" height="100" />
+          <img align="center" scr="https://avatars.githubusercontent.com/u/125222370?v=4.png" height="100" />
           <p align="center"> Marcelo Makoto </p>
         </a>
       </td>
