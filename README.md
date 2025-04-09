@@ -13,6 +13,22 @@
 </div>
 
 <br>
+ 
+## Sobre o Projeto.
+
+ Repositório dedicado ao desenvolvimento de atividade referente a disciplina Requisito de Software da Universidade de Brasília - Faculdade de Ciências e Tecnologias em Engenharia (FCTE).Nele estará mantido todo o processo de desenvolvimento da disciplina, como gerência(pré-rastreabilidade, pós-rastreabilidade), elicitação, modelagem e análise. O aplicativo escolhido para a realização do peojeto foi o e-Título.
+  
+## O que é e-Título.
+ 
+O e-Título é a versão digital do título de eleitor, desenvolvida pela Justiça Eleitoral brasileira. Disponível como aplicativo para smartphones (Android e iOS), ele permite que o eleitor acesse seus dados cadastrais, saiba seu local de votação e, se tiver biometria cadastrada, possa usá-lo como documento oficial no dia da eleição. Além disso, o app oferece serviços como emissão de certidões, justificativa de ausência e acompanhamento de débito com a Justiça Eleitoral.
+
+## Critérios da escolha
+
+- Aplicativo não ter sido trabalhado na disciplina  
+- Facilidade de contato com o público-alvo  
+- Complexidade do aplicativo
+
+<br>
 
 ## Membros da Equipe
 
