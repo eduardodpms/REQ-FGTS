@@ -2,10 +2,10 @@
 
 <div style="text-align: center">
 <img self-align="center" src="assets/etitulo_logo.png">
-<figcaption>Figura 1: Apresentação do Compilador de C para Ruby</figcaption>
+<figcaption>Figura 1: Logo do Aplicativo E-Titulo/figcaption>
 </div>
 <br>
-Repositório dedicado ao desenvolvimento de atividade referente a disciplina Requisito de Software da Universidade de Brasília - Faculdade de Ciências e Tecnologias em Engenharia (FCTE).Nele estará mantido todo o processo de desenvolvimento da disciplina, como gerência(pré-rastreabilidade, pós-rastreabilidade), elicitação, modelagem e análise. O aplicativo escolhido para a realização do peojeto foi o e-Título.
+Repositório dedicado ao desenvolvimento de atividade referente a disciplina Requisito de Software da Universidade de Brasília - Faculdade de Ciências e Tecnologias em Engenharia (FCTE).Nele estará mantido todo o processo de desenvolvimento da disciplina, como gerência(pré-rastreabilidade, pós-rastreabilidade), elicitação, modelagem e análise. O aplicativo escolhido para a realização do projeto foi o e-Título.
 
 ## Membros da Equipe
 
