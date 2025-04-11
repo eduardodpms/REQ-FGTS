@@ -2,19 +2,19 @@
 
 ## Escolha do aplicativo
 
-No início do projeto, foram elaborados sete rich pictures, cada um por um integrante do grupo. Em seguida, foi realiada uma [reunião](/atas/ata_07_04/07_04.md) onde os rich pictures passaram por alguns critérios e a partir deles foi feita uma escolha. A tabela 1 abaixo apresenta os plicativos e os rich pictures que cada integrante escolheu desenvolver.
+No início do projeto, foram elaborados sete rich pictures, cada um por um integrante do grupo. Em seguida, foi realiada uma [reunião](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/atas/ata_07_04.md) onde os rich pictures passaram por alguns critérios e a partir deles foi feita uma escolha. A tabela 1 abaixo apresenta os plicativos e os rich pictures que cada integrante escolheu desenvolver.
 
 | Nome              | Aplicativo                                         | Rich picture     |
 | :-------------:   | :------------------------------------------------: | :--------------: |
-| Danielle      | [Canal SAÚDE](https://play.google.com/store/apps/details?id=canalsaudev2.com&hl=pt_BR) | [Rich picture](/docs/assets/rich-picture/Danielle.pdf)  |
-| Eduardo  | [e-Título](https://play.google.com/store/apps/details?id=br.jus.tse.eleitoral.etitulo&hl=pt_BR) | [Rich picture](/docs/assets/rich-picture/Eduardo.jpeg)  |
-| Enzo | [Carteira Digital De Trânsito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR) | [Rich picture](/docs/assets/rich-picture/Enzo.pdf)  | 
-| Leticia      | [Táxi-Aéreo](https://play.google.com/store/apps/details?id=br.gov.anac.ctaxmobile&hl=pt_BR) | [Rich picture](/docs/assets/rich-picture/Leticia.pdf) |
-| Marcelo     | [MonitoraSUS](https://play.google.com/store/apps/details?id=br.fiocruz.msmonitorasus&hl=pt_BR) | [Rich picture](/docs/assets/rich-picture/Marcelo.pdf)  |
-| Maria Eduarda       | [MEI](https://play.google.com/store/apps/details?id=br.gov.fazenda.receita.mei&hl=pt_BR) | [Rich picture](/docs/assets/rich-picture/Maria%20Eduarda.pdf)  |
-| Victor       | [Carteira De Trabalho Digital](https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR) | [Rich picture](/docs/assets/rich-picture/Victor.jpeg)  |
+| Danielle      | [Canal SAÚDE](https://play.google.com/store/apps/details?id=canalsaudev2.com&hl=pt_BR) | [Rich picture](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/rich-pictured-analisados/Danielle.png)  |
+| Eduardo  | [e-Título](https://play.google.com/store/apps/details?id=br.jus.tse.eleitoral.etitulo&hl=pt_BR) | [Rich picture](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/rich-pictured-analisados/Eduardo.jpeg)  |
+| Enzo | [Carteira Digital De Trânsito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR) | [Rich picture](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/rich-pictured-analisados/Enzo.png)  | 
+| Leticia      | [Táxi-Aéreo](https://play.google.com/store/apps/details?id=br.gov.anac.ctaxmobile&hl=pt_BR) | [Rich picture](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/rich-pictured-analisados/Leticia.png) |
+| Marcelo     | [MonitoraSUS](https://play.google.com/store/apps/details?id=br.fiocruz.msmonitorasus&hl=pt_BR) | [Rich picture](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/rich-pictured-analisados/Marcelo.png)  |
+| Maria Eduarda       | [MEI](https://play.google.com/store/apps/details?id=br.gov.fazenda.receita.mei&hl=pt_BR) | [Rich picture](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/rich-pictured-analisados/Maria%20Eduarda.png)  |
+| Victor       | [Carteira De Trabalho Digital](https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR) | [Rich picture](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/rich-pictured-analisados/Victor.jpeg)  |
 
-<div><p>Tabela 1 - Tabela dos rich pictures.</p></div>
+<div><p>Tabela 1 - Tabela dos rich pictures analisados.</p></div>
 
 ### Critérios de escolha
 
@@ -38,10 +38,10 @@ O e-Título é a versão digital do título de eleitor, desenvolvida pela Justi�
 
 ## Termos de uso
 
-Com o objetivo de verificar a vibilidade legal do desenvolvimento do projeto, decidimos analisar os [Termos de uso](/docs/assets/termos-de-uso.pdf) do aplicativo. Após a leitura, não encontramos nenhuma cláusula que proíba a utilização do app para fins educacionais.
+Com o objetivo de verificar a vibilidade legal do desenvolvimento do projeto, decidimos analisar os [Termos de uso](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/Termos-de-Uso.pdf) do aplicativo. Após a leitura, não encontramos nenhuma cláusula que proíba a utilização do app para fins educacionais.
 
 ## Histórico de versões
 
 | Versão | Data | Descrição | Autor(es) |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.1`  |  10/04/2025 | Modificação do texto | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |  |
+| `1.1`  |  10/04/2025 | Criação do documento | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |  |
