@@ -19,7 +19,7 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
-site_name: Ruby to C Compiler
+site_name: 2025.1-e-Título
 
 theme:
   name: material
@@ -49,3 +49,9 @@ extra_css: [stylesheets/extra.css]
 
 nav:
   - Home: index.md
+  - Atas:
+    - Ata 1: atas/ata_07_04.md
+  - Planejamento:
+    - Cronograma: Planejamento/Cronograma.md
+    - Ferramentas: Planejamento/Ferramentas.md
+    - Metodologia: Planejamento/Metodologia.md
