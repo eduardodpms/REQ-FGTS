@@ -2,10 +2,11 @@
 
 <div style="text-align: center">
 <img self-align="center" src="assets/etitulo_logo.png">
-<figcaption>Figura 1: Logo do Aplicativo E-Titulo/figcaption>
+<figcaption>Figura 1: Logo do Aplicativo E-Título</figcaption>
 </div>
 <br>
-Repositório dedicado ao desenvolvimento de atividade referente a disciplina Requisito de Software da Universidade de Brasília - Faculdade de Ciências e Tecnologias em Engenharia (FCTE).Nele estará mantido todo o processo de desenvolvimento da disciplina, como gerência(pré-rastreabilidade, pós-rastreabilidade), elicitação, modelagem e análise. O aplicativo escolhido para a realização do projeto foi o e-Título.
+
+Este site foi criado para hospedar a documentação referente à atividade desenvolvida na disciplina de Requisitos de Software da Universidade de Brasília – Faculdade de Ciências e Tecnologias em Engenharia (FCTE). Nele está registrado todo o processo de desenvolvimento da atividade, incluindo entrevistas, reuniões, atas, gerência (pré-rastreabilidade e pós-rastreabilidade), elicitação, modelagem e análise de requisitos. O aplicativo escolhido para a realização do projeto foi o e-Título, que está detalhado na página [Aplicativo](/docs/planejamento/aplicativo.md).
 
 ## Membros da Equipe
 
@@ -20,3 +21,4 @@ Repositório dedicado ao desenvolvimento de atividade referente a disciplina Req
 | Versão | Data | Descrição | Autor(es) |  Revisor(es)  |
 | ------ | ------------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  |  08/04/2025 | Formação do repositório | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `1.1`  |  10/04/2025 | Modificação do texto | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |  |
