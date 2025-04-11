@@ -1,0 +1,51 @@
+repo_url: hhttps://github.com/Requisitos-de-Software/2025.1-e-Titulo/tree/main
+repo_name: 2025.1-e-Titulo
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - footnotes
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+site_name: Ruby to C Compiler
+
+theme:
+  name: material
+  favicon: assets/etitulo_logo.png
+  logo: assets/etitulo_logo.png
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: claro
+      toggle:
+        icon: material/weather-night
+        name: Escuro
+
+    - media: "(prefers-color-scheme: light)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Claro
+
+  language: pt-BR
+
+extra_css: [stylesheets/extra.css]
+
+nav:
+  - Home: index.md
