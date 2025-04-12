@@ -10,34 +10,28 @@ Para a elaboração deste artefato, foi realizado um estudo do ambiente do aplic
 
 ## Resultados
 
-A seguir. as Figuras 1 e 2 mostram as versões do Rich Picture desenvolvidas para o aplicativo E-Titulo. A Figura 3 corresponde à legenda do Rich Picture.
+A seguir, as Figuras 1 e 2 mostram as versões do Rich Picture desenvolvidas para o aplicativo E-Titulo. A Figura 3 corresponde à legenda do Rich Picture.
 
-<figure style="text-align: center;">
-  <img src="../assets/rich-pictures-finais/richPictureV1.png" style="max-width: 80%;">
-  <figcaption>
-    Figura 1: Primeira versão do Rich Picture (Fonte: Autor, 2025)
-  </figcaption>
-</figure>
+<br>
 
-Autor: Eduardo de Pina
-Data: 07 de Abril de 2025
+![Rich Picture V1](../assets/rich-pictures-finais/richPictureV1.png)
+<div style="text-align: center;">
+    Figura 1: Primeira versão do Rich Picture (Fonte: Eduardo de Pina, 2025)
+</div>
 
-<figure style="text-align: center;">
-  <img src="../assets/rich-pictures-finais/richPictureV2.jpeg" style="max-width: 80%;">
-  <figcaption>
-    Figura 2: Segunda e atual versão do Rich Picture (Fonte: Autor, 2025)
-  </figcaption>
-</figure>
+<br>
 
-Autor: Danielle Soares
-Data: 11 de Abril de 2025
+![Rich Picture V2](../assets/rich-pictures-finais/richPictureV2.jpeg)
+<div style="text-align: center;">
+    Figura 2: Segunda e atual versão do Rich Picture (Fonte: Danielle Soares, 2025)
+</div>
 
-<figure style="text-align: center;">
-  <img src="../assets/rich-pictures-finais/richPicutreV2Legenda.jpeg" style="max-width: 80%;">
-  <figcaption>
-    Figura 3: Legenda do Rich Picture (Fonte: Autor, 2025)
-  </figcaption>
-</figure>
+<br>
+
+![Legenda Rich Picture](../assets/rich-pictures-finais/richPicutreV2Legenda.jpeg)
+<div style="text-align: center;">
+    Figura 3: Legenda do Rich Picture (Fonte: Danielle Soares, 2025)
+</div>
 
 ## Referências
 
