@@ -22,6 +22,41 @@ Tabela 01: cronograma planejado para todas as atividades da primeira entrega.
 
 <br>
 
+## Entrega 3 - Modelagem de Requisitos 1.1
+
+### Planejado
+
+Tabela 03: cronograma planejado para todas as atividades da terceira entrega.
+
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Modelagem de Requisitos 1.1</p></font>
+
+| **Atividade**              | **Período de Desenvolvimento** | **Responsáveis**                                                                 | **Período de Revisão**      | **Revisores**                 |
+|---------------------------|-------------------------------|----------------------------------------------------------------------------------|-----------------------------|-------------------------------|
+| Criação de um Cenário do sistema          | Início: 03/05 <br> Fim: 04/05 | Eduardo de Pina, Maria Eduarda | Início: 04/05 <br> Fim: 05/05 |  Marcelo, Enzo Emir        |
+| Definição do Léxico | Início: 05/05 <br> Fim: 06/05 | Marcelo, Leticia Arisa                                                                   | Início: 06/05 <br> Fim: 07/05 |  Eduardo de Pina, Victor Pontual     |
+| Construção de Use Case  | Início: 07/05 <br> Fim: 08/05 |  Victor Pontual, Enzo Emir                                          | Início: 08/05 <br> Fim: 09/05 | Leticia Arisa, Danielle     |
+| Criação da Especificação Suplementar  | Início: 09/05 <br> Fim: 10/05 |  Danielle                                           | Início: 10/05 <br> Fim: 11/05 | Maria Eduarda     |
+| Gravação da Apresentação              | Início: 11/05 <br> Fim: 12/05 | Danielle, Eduardo de Pina, Enzo Emir, Leticia Arisa, Maria Eduarda, Marcelo, Victor Pontual                                                                  | Início: 12/05 <br> Fim: 13/05 | Danielle, Eduardo de Pina, Enzo Emir, Leticia Arisa, Maria Eduarda, Marcelo, Victor Pontual                      |
+
+<br>
+
+## Entrega 4 - Modelagem de Requisitos 1.2
+
+### Planejado
+
+Tabela 04: cronograma planejado para todas as atividades da quarta entrega.
+
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Modelagem de Requisitos 1.2</p></font>
+
+| **Atividade**              | **Período de Desenvolvimento** | **Responsáveis**                                                                 | **Período de Revisão**      | **Revisores**                 |
+|---------------------------|-------------------------------|----------------------------------------------------------------------------------|-----------------------------|-------------------------------|
+| Criação de Histórias de Usuário          | Início: 19/05 <br> Fim: 20/05 | Eduardo de Pina, Danielle | Início: 20/05 <br> Fim: 21/05 |  Victor Pontual, Maria Eduarda        |
+| Implementação de Backlogs | Início: 21/05 <br> Fim: 22/05 | Victor Pontual, Marcelo                                                                   | Início: 22/05 <br> Fim: 23/05 |  Leticia Arisa, Enzo Emir     |
+| Implementação do NFR Framework  | Início: 23/05 <br> Fim: 24/05 |  Enzo Emir, Leticia Arisa, Maria Eduarda                                          | Início: 24/05 <br> Fim: 25/05 | Eduardo de Pina, Marcelo, Danielle     |
+| Gravação da Apresentação              | Início: 25/05 <br> Fim: 26/05 | Danielle, Eduardo de Pina, Enzo Emir, Leticia Arisa, Maria Eduarda, Marcelo, Victor Pontual                                                                  | Início: 26/05 <br> Fim: 27/05 | Danielle, Eduardo de Pina, Enzo Emir, Leticia Arisa, Maria Eduarda, Marcelo, Victor Pontual                      |
+
+<br>
+
 ## Entrega 6 - Pós-Rastreabilidade
 
 ### Planejado
@@ -45,3 +80,4 @@ Tabela 07: cronograma planejado para todas as atividades da sexta entrega.
 | :------: | :-------------: | :----------------------------------: | :-------------: | :-------------: |
 | `1.0` | 10/04/2025 | Criação do Cronograma | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.1` | 11/04/2025 | Cronograma da entrega 6 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |  |
+| `1.2` | 12/04/2025 | Cronogramas das entregas 3 e 4 | [Marcelo Makoto](https://github.com/MM4k) |  |
