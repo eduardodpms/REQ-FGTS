@@ -12,6 +12,8 @@ Além disso, é importante destacar que, para cada entrega, foram montados dois 
 
 ### Planejado 💡
 
+A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 1.
+
 <p style="text-align: center; font-size: 16px;">Tabela 1: <i>Planejamento do Projeto</i></p>
 
 | **Atividade** | **Período de Desenvolvimento** | **Responsáveis** | **Período de Revisão** | **Revisores** |
@@ -26,7 +28,9 @@ Além disso, é importante destacar que, para cada entrega, foram montados dois 
 
 ### Entregue 📬
 
-<p style="text-align: center; font-size: 16px;">Tabela 1: <i>Planejamento do Projeto</i></p>
+A tabela a seguir mostra o que foi *executado* no cronograma das atividades da Entrega 1.
+
+<p style="text-align: center; font-size: 16px;">Tabela 2: <i>Planejamento do Projeto</i></p>
 
 | **Atividade** | **Período de Desenvolvimento** | **Responsáveis** | **Período de Revisão** | **Revisores** |
 |:-:|:-:|:-:|:-:|:-:|
@@ -44,7 +48,9 @@ Além disso, é importante destacar que, para cada entrega, foram montados dois 
 
 ### **Planejado 💡**
 
-<p style="text-align: center; font-size: 16px;">Tabela 2: <i>Elicitação – Técnicas e Priorização</i></p>
+A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 2.
+
+<p style="text-align: center; font-size: 16px;">Tabela 3: <i>Elicitação – Técnicas e Priorização</i></p>
 
 | **Atividade**                        | **Período de Desenvolvimento**        | **Responsáveis**                                                                 | **Período de Revisão**            | **Revisores**                                                              |
 |:-------------------------------------:|:-------------------------------------:|:--------------------------------------------------------------------------------:|:--------------------------------:|:---------------------------------------------------------------------------:|
@@ -63,7 +69,9 @@ Além disso, é importante destacar que, para cada entrega, foram montados dois 
 
 ### Planejado 💡
 
-<p style="text-align: center; font-size: 16px;">Tabela 3: <i>Modelagem de Requisitos 1</i></p>
+A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 3.
+
+<p style="text-align: center; font-size: 16px;">Tabela 4: <i>Modelagem de Requisitos 1</i></p>
 
 | **Atividade** | **Período de Desenvolvimento** | **Responsáveis** | **Período de Revisão** | **Revisores** |
 |:-:|:-:|:-:|:-:|:-:|
@@ -85,7 +93,9 @@ Além disso, é importante destacar que, para cada entrega, foram montados dois 
 
 ### Planejado 💡
 
-<p style="text-align: center; font-size: 16px;">Tabela 4: <i>Modelagem de Requisitos 2</i></p>
+A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 4.
+
+<p style="text-align: center; font-size: 16px;">Tabela 5: <i>Modelagem de Requisitos 2</i></p>
 
 | **Atividade** | **Período de Desenvolvimento** | **Responsáveis** | **Período de Revisão** | **Revisores** |
 |:-:|:-:|:-:|:-:|:-:|
@@ -106,7 +116,9 @@ Além disso, é importante destacar que, para cada entrega, foram montados dois 
 
 ### Planejado 💡
 
-<p style="text-align: center; font-size: 16px;">Tabela 5: <i>Análise de Requisitos 1: Verificação e Validação</i></p>
+A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 5.
+
+<p style="text-align: center; font-size: 16px;">Tabela 6: <i>Análise de Requisitos 1: Verificação e Validação</i></p>
 
 | **Atividade** | **Período de Desenvolvimento** | **Responsáveis** | **Período de Revisão** | **Revisores** |
 |:-:|:-:|:-:|:-:|:-:|
@@ -127,6 +139,8 @@ Além disso, é importante destacar que, para cada entrega, foram montados dois 
 
 
 ### Planejado 💡
+
+A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 6.
 
 <p style="text-align: center; font-size: 16px;">Tabela 7: <i>Planejamento do Projeto</i></p>
 
