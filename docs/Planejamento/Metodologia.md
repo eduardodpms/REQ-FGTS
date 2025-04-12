@@ -32,6 +32,12 @@ Para organizar e acompanhar o progresso do projeto, serão realizadas o seguinte
 
 - **Sprint Retrospective**: Será realizada após as entregas, com o objetivo de avaliar o processo de trabalho, discutir o que funcionou bem, identificar pontos de melhoria e propor ações para aprimorar a próxima Sprint.
 
+![Legenda da Sprint](https://wac-cdn.atlassian.com/dam/jcr:14abbbfb-5870-4c24-8b26-c5a56b25de59/scrum_process_atlassian.svg?cdnVersion=2646)
+<div style="text-align: center;">
+    Figura 1: Legenda da Sprint (Fonte: https://www.atlassian.com/br/agile/scrum/sprints)
+</div>
+
+
 ## Artefatos do SCRUM
 
 No projeto, os seguintes artefatos do SCRUM serão utilizados para organizar e acompanhar as atividades de forma alinhada com o cronograma de entregas definido pelo professor:
@@ -57,6 +63,10 @@ O projeto será desenvolvido em Sprints com duração de **15 dias**, seguindo o
 - **Entrega e Encerramento**: ao final da Sprint, ocorrerá a entrega dos incrementos definidos no cronograma. Em seguida, será realizada a **Sprint Retrospective**, com o objetivo de refletir sobre o que funcionou bem, identificar dificuldades e propor melhorias para a Sprint seguinte.
 
 Esse ciclo será repetido até a finalização do projeto, sempre respeitando as datas de entrega estabelecidas.
+
+## Referências
+
+> <a id="SCRUM1" href="#TEC2">2.</a> ATLASSIAN. *Guia Ágil: Scrum*. Disponível em: <<https://www.atlassian.com/br/agile/scrum>>. Acesso em: 11/04/2025.
 
 
 ## Histórico de Versões 📅
