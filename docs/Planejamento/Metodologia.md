@@ -12,15 +12,15 @@ A escolha pela metodologia SCRUM se deu principalmente por dois motivos: a famil
 
 - **Scrum Master**: Será o responsável pela orientação e supervisão da equipe, garantindo que as práticas do Scrum sejam aplicadas de forma eficaz.
 
-Resposável: Enzo Emir
+Resposável: [Enzo](https://github.com/EnzoEmir)
 
 - **Product Owner**: Responsável por definir, priorizar e gerenciar os requisitos no *Product Backlog*, representando os interesses das partes interessadas e garantindo que o time esteja sempre focado nas entregas de maior valor.
 
-Resposável: 
+Resposável: [Danielle](https://github.com/danielle-soaress)
 
 - **Time de Desenvolvimento**: Representa os integrantes da equipe responsáveis pela implementação dos requisitos do produto. O time de desenvolvimento é composto por membros de diversas áreas do conhecimento, cada um responsável por uma parte do produto.
 
-Resposável: Todos os membros da equipe
+Resposável: Todos os membros da equipe.
 
 ## Sprints
 
@@ -64,6 +64,7 @@ O projeto será desenvolvido em Sprints com duração de **15 dias**, seguindo o
 
 Esse ciclo será repetido até a finalização do projeto, sempre respeitando as datas de entrega estabelecidas.
 
+
 ## Referências
 
 > <a id="SCRUM1" href="#TEC2">2.</a> ATLASSIAN. *Guia Ágil: Scrum*. Disponível em: <<https://www.atlassian.com/br/agile/scrum>>. Acesso em: 11/04/2025.
@@ -74,6 +75,9 @@ Esse ciclo será repetido até a finalização do projeto, sempre respeitando as
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0`  | 11/04/2025 | Adição da metodologia SCRUM | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `1.1`  | 12/04/2025 | Incremento da página, referência e imagem | [Maria Eduarda](https://github.com/dudaa28) | - |
+| `1.2`  | 12/04/2025 | Atualização página | [Maria Eduarda](https://github.com/dudaa28) | - |
+
 
 
 
