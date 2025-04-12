@@ -13,7 +13,7 @@
 
 ## • Apresentação 💡
 
-Neste site está hospedada toda a documentação referente às atividades desenvolvidas pelo Grupo 07 na disciplina de "Requisitos de Software", da [Universidade de Brasília (FCTE)](https://fcte.unb.br). Dessa forma,  verifica-se todo o processo de desenvolvimento da atividade, incluindo entrevistas, reuniões, atas, gerência (pré-rastreabilidade e pós-rastreabilidade), elicitação, modelagem e análise de requisitos. A escolha do app *e-Título* está detalhada na página [Aplicativo](/Planejamento/Aplicativo).
+Neste site está hospedada toda a documentação referente às atividades desenvolvidas pelo Grupo 07 na disciplina de "Requisitos de Software", da [Universidade de Brasília (FCTE)](https://fcte.unb.br). Dessa forma,  verifica-se todo o processo de desenvolvimento da atividade, incluindo entrevistas, reuniões, atas, gerência (pré-rastreabilidade e pós-rastreabilidade), elicitação, modelagem e análise de requisitos. A escolha do app *e-Título* está detalhada na página [Aplicativo](Planejamento/Aplicativo).
 
 <br>
 
@@ -31,4 +31,4 @@ Neste site está hospedada toda a documentação referente às atividades desenv
 | :------: | :-------------: | :----------------------------------: | :-------------: | :-------------: |
 | `1.0` | 08/04/2025 | Formação das GitPages | [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) | [Eduardo de Pina](https://github.com/eduardodpms), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.1`  |  10/04/2025 | Modificação do texto | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `1.2`  |  11/04/2025 | Atualização do texto e da aparência | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.2`  |  11/04/2025 | Atualização do texto e da aparência | [Eduardo de Pina](https://github.com/eduardodpms) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
