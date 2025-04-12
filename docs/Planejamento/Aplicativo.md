@@ -2,7 +2,7 @@
 
 ## Escolha do aplicativo
 
-No início do projeto, foram elaborados sete rich pictures, cada um por um integrante do grupo. Em seguida, foi realiada uma [reunião](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/atas/ata_07_04.md) onde os rich pictures passaram por alguns critérios e a partir deles foi feita uma escolha. A tabela 1 abaixo apresenta os plicativos e os rich pictures que cada integrante escolheu desenvolver.
+No início do projeto, foram elaborados sete rich pictures, cada um por um integrante do grupo. Em seguida, foi realiada uma [reunião](../../atas/ata_07_04) onde os rich pictures passaram por alguns critérios e a partir deles foi feita uma escolha. A tabela 1 abaixo apresenta os plicativos e os rich pictures que cada integrante escolheu desenvolver.
 
 | Nome              | Aplicativo                                         | Rich picture     |
 | :-------------:   | :------------------------------------------------: | :--------------: |
@@ -24,7 +24,7 @@ No início do projeto, foram elaborados sete rich pictures, cada um por um integ
 
 ### Motivações da escolha
 
-Após a análise de todos os rich pictures com base nos critérios definidos, foi escolhido o rich picture do aplicativo [e-Título](https://play.google.com/store/apps/details?id=br.jus.tse.eleitoral.etitulo&hl=pt_BR).
+Após a análise de todos os rich pictures com base nos critérios definidos, foi escolhido o rich picture do aplicativo [e-Título](https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo).
 
 As motivações foram as seguintes:
 
@@ -40,8 +40,10 @@ O e-Título é a versão digital do título de eleitor, desenvolvida pela Justi�
 
 Com o objetivo de verificar a vibilidade legal do desenvolvimento do projeto, decidimos analisar os [Termos de uso](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/Termos-de-Uso.pdf) do aplicativo. Após a leitura, não encontramos nenhuma cláusula que proíba a utilização do app para fins educacionais.
 
-## Histórico de versões
+<br>
+
+## Histórico de Versões 📅
 
 | Versão | Data | Descrição | Autor(es) |  Revisor(es)  |
-| ------ | ------------- | ---------------------------------- | ------------- | ------------- |
-| `1.1`  |  10/04/2025 | Criação do documento | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |  |
+| :------: | :-------------: | :----------------------------------: | :-------------: | :-------------: |
+| `1.0` | 10/04/2025 | Criação do documento | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Eduardo de Pina](https://github.com/eduardodpms) |

@@ -20,4 +20,10 @@ Tabela 01: cronograma planejado para todas as atividades da primeira entrega.
 | Documentar Equipe         | Início: 25/03 <br> Fim: 08/03 | Eduardo de Pina                                                                  | Início: 12/04 <br> Fim: 13/04 | Danielle                      |
 | Gravar apresentação       | Início: 12/04 <br> Fim: 12/04 | Danielle, Eduardo Pina, Enzo Emir, Leticia Arisa, Maria Eduarda, Marcelo, Victor Pontual | Início: 13/04 <br> Fim: 13/04 | Danielle, Eduardo de Pina     |
 
+<br>
 
+## Histórico de Versões 📅
+
+| Versão | Data | Descrição | Autor(es) |  Revisor(es)  |
+| :------: | :-------------: | :----------------------------------: | :-------------: | :-------------: |
+| `1.0` | 10/04/2025 | Criação do Cronograma | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
