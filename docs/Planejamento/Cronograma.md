@@ -73,7 +73,7 @@ Além disso, é importante destacar que, para cada entrega, foram montados dois 
 <br>
 
 
-## Entrega 5.1 (Análise de Requisitos 1: Verificação e Validação)
+## Entrega 5 (Análise de Requisitos: Verificação e Validação)
 
 
 ### Planejado 💡
