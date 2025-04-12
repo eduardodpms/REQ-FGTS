@@ -59,7 +59,7 @@ O projeto será desenvolvido em Sprints com duração de **15 dias**, seguindo o
 Esse ciclo será repetido até a finalização do projeto, sempre respeitando as datas de entrega estabelecidas.
 
 
-## Histórico de Versões
+## Histórico de Versões 📅
 
 | Versão | Data       | Descrição                         | Autor(es)                                                   | Revisor(es)                                                |
 | :----: | :--------: | :------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------------: |
