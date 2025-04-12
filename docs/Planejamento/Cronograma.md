@@ -137,8 +137,9 @@ Além disso, é importante destacar que, para cada entrega, foram montados dois 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 10/04/2025 | Criação do Cronograma | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/[eduardodpms) |
-| `1.1` | 11/04/2025 | Cronograma da entrega 6 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |  |
-| `1.2` | 12/04/2025 | Cronogramas das entregas 3 e 4 | [Marcelo Makoto](https://github.com/MM4k) |  |
-| `1.3` | 12/04/2025 | Cronograma da entrega 5.1 | [Eduardo de Pina](https://github.com/[eduardodpms) |  |
-| `1.4` | 12/04/2025 | Cronograma da entrega 2 | [Enzo Emir](https://github.com/EnzoEmir) |  |
+| `1.0` | 10/04/2025 | Criação do Cronograma | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `1.1` | 11/04/2025 | Cronograma da entrega 6 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.2` | 12/04/2025 | Cronogramas das entregas 3 e 4 | [Marcelo Makoto](https://github.com/MM4k) | [Maria Eduarda](https://github.com/dudaa28), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.3` | 12/04/2025 | Cronograma da entrega 5 | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.4` | 12/04/2025 | Cronograma da entrega 2 | [Enzo Emir](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
+
