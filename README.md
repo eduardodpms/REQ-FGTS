@@ -1,13 +1,14 @@
-<h1 style="text-align:center; margin-bottom: -10px;">
+<h1 align="center">
   <b><i>e-Título</i></b>
 </h1>
 
-<figure style="text-align: center;">
-  <img src="docs/assets/etitulo_logo.png" style="max-width: 40%;">
-  <figcaption>
-    Figura 1: <i>Logo e-Título</i>,&nbsp Fonte: <i><a href="https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo ">tse.jus.br</a></i>
-  </figcaption>
-</figure>
+<div align="center">
+  <img src="docs/assets/etitulo_logo.png">
+</div>
+
+<p align="center">
+  Figura 1:<i> Logo e-Título</i>,&nbsp Fonte: <i><a href="https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo ">tse.jus.br </a></i>
+</p>
 
 <br>
 
