@@ -26,6 +26,17 @@ Além disso, é importante destacar que, para cada entrega, foram montados dois 
 
 ### Entregue 📬
 
+<p style="text-align: center; font-size: 16px;">Tabela 1: <i>Planejamento do Projeto</i></p>
+
+| **Atividade** | **Período de Desenvolvimento** | **Responsáveis** | **Período de Revisão** | **Revisores** |
+|:-:|:-:|:-:|:-:|:-:|
+| Definição do APP | Início: 07/04 <br> Fim: 08/04 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 08/04 <br> Fim: 13/04 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms) |
+| Selecionar ferramentas do projeto | Início: 10/04 <br> Fim: 11/04 | [Victor](https://github.com/VictorPontual) | Início: 11/04 <br> Fim: 13/04 | [Maria](https://github.com/dudaa28) |
+| Realização do cronograma | Início: 10/04 <br> Fim: 13/04 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 11/04 <br> Fim: 13/04 | [Eduardo](https://github.com/eduardodpms) |
+| Rich Picture | Início: 07/04 <br> Fim: 13/04 | [Danielle](https://github.com/danielle-soaress) | Início: 07/04 <br> Fim: 13/04 | [Victor](https://github.com/VictorPontual) |
+| Documentar Equipe | Início: 08/04 <br> Fim: 11/04 | [Eduardo](https://github.com/eduardodpms) | Início: 11/04 <br> Fim: 13/04 | [Marcelo](https://github.com/MM4k) |
+| Gravar apresentação | Início: 12/04 <br> Fim: 13/04 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 13/04 <br> Fim: 13/04 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |
+
 
 <br>
 
