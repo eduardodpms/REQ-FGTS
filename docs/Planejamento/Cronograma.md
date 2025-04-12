@@ -167,4 +167,6 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 | `1.2` | 12/04/2025 | Cronogramas das entregas 3 e 4 | [Marcelo Makoto](https://github.com/MM4k) | [Maria Eduarda](https://github.com/dudaa28), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.3` | 12/04/2025 | Cronograma da entrega 5 | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.4` | 12/04/2025 | Cronograma da entrega 2 | [Enzo Emir](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.5` | 12/04/2025 | Executado do cronograma da entrega 01 | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+
 
