@@ -1,4 +1,4 @@
-repo_url: hhttps://github.com/Requisitos-de-Software/2025.1-e-Titulo/tree/main
+repo_url: https://github.com/Requisitos-de-Software/2025.1-e-Titulo/tree/main
 repo_name: 2025.1-e-Titulo
 
 markdown_extensions:
@@ -15,9 +15,6 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
 
 site_name: 2025.1-e-Título
 
@@ -49,9 +46,14 @@ extra_css: [stylesheets/extra.css]
 
 nav:
   - Home: index.md
-  - Atas:
+  - Atas de Reunião:
     - Ata 1: atas/ata_07_04.md
+    - Ata 2: atas/ata_11_04.md
   - Planejamento:
+    - Aplicativo: Planejamento/Aplicativo.md
     - Cronograma: Planejamento/Cronograma.md
     - Ferramentas: Planejamento/Ferramentas.md
     - Metodologia: Planejamento/Metodologia.md
+    - Plano de Reuniões: Planejamento/Plano-de-Reunioes.md
+  - Pré-Rastreabilidade:
+    - Rich Picute: Pré-Rastreabilidade/Rich_Picture.md
