@@ -8,6 +8,6 @@ Rich Picture é uma técnica visual utilizada na análise de sistemas para repre
 
 ## Histórico de Versões 📅
 
-| Versão | Data | Descrição | Autor(es) |  Revisor(es)  |
-| :------: | :-------------: | :----------------------------------: | :-------------: | :-------------: |
-| `-`  |  - | - | - | - |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :-: | :-: | :-: | :-------------: | :-: |
+| `-` | - | - | - | - |

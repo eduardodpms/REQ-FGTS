@@ -61,9 +61,9 @@ Esse ciclo será repetido até a finalização do projeto, sempre respeitando as
 
 ## Histórico de Versões 📅
 
-| Versão | Data       | Descrição                         | Autor(es)                                                   | Revisor(es)                                                |
-| :----: | :--------: | :------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------------: |
-| `1.0`  | 11/04/2025 | Adição da metodologia SCRUM      | [Maria Eduarda](https://github.com/dudaa28)                   | 
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: |
+| `1.0`  | 11/04/2025 | Adição da metodologia SCRUM | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
 
 
 

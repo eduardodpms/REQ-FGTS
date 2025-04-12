@@ -2,19 +2,19 @@
 
 ## Escolha do aplicativo
 
-No início do projeto, foram elaborados sete rich pictures, cada um por um integrante do grupo. Em seguida, foi realiada uma [reunião](../../atas/ata_07_04) onde os rich pictures passaram por alguns critérios e a partir deles foi feita uma escolha. A tabela 1 abaixo apresenta os plicativos e os rich pictures que cada integrante escolheu desenvolver.
+No início do projeto, foram elaborados sete rich pictures, cada um por um integrante do grupo. Em seguida, foi realiada uma [reunião](../atas/ata_07_04.md) onde os rich pictures passaram por alguns critérios e, a partir deles, foi feita uma escolha. A tabela 1 abaixo apresenta os plicativos e os rich pictures que cada integrante escolheu desenvolver.
 
-| Nome              | Aplicativo                                         | Rich picture     |
-| :-------------:   | :------------------------------------------------: | :--------------: |
-| Danielle      | [Canal SAÚDE](https://play.google.com/store/apps/details?id=canalsaudev2.com&hl=pt_BR) | [Rich picture](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/rich-pictured-analisados/Danielle.png)  |
-| Eduardo  | [e-Título](https://play.google.com/store/apps/details?id=br.jus.tse.eleitoral.etitulo&hl=pt_BR) | [Rich picture](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/rich-pictured-analisados/Eduardo.jpeg)  |
+| Nome | Aplicativo | Rich picture |
+| :-------------: | :------------------------------------------------: | :--------------: |
+| Danielle | [Canal SAÚDE](https://play.google.com/store/apps/details?id=canalsaudev2.com&hl=pt_BR) | [Rich picture](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/rich-pictured-analisados/Danielle.png)  |
+| Eduardo | [e-Título](https://play.google.com/store/apps/details?id=br.jus.tse.eleitoral.etitulo&hl=pt_BR) | [Rich picture](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/rich-pictured-analisados/Eduardo.jpeg)  |
 | Enzo | [Carteira Digital De Trânsito](https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR) | [Rich picture](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/rich-pictured-analisados/Enzo.png)  | 
-| Leticia      | [Táxi-Aéreo](https://play.google.com/store/apps/details?id=br.gov.anac.ctaxmobile&hl=pt_BR) | [Rich picture](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/rich-pictured-analisados/Leticia.png) |
-| Marcelo     | [MonitoraSUS](https://play.google.com/store/apps/details?id=br.fiocruz.msmonitorasus&hl=pt_BR) | [Rich picture](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/rich-pictured-analisados/Marcelo.png)  |
-| Maria Eduarda       | [MEI](https://play.google.com/store/apps/details?id=br.gov.fazenda.receita.mei&hl=pt_BR) | [Rich picture](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/rich-pictured-analisados/Maria%20Eduarda.png)  |
+| Leticia | [Táxi-Aéreo](https://play.google.com/store/apps/details?id=br.gov.anac.ctaxmobile&hl=pt_BR) | [Rich picture](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/rich-pictured-analisados/Leticia.png) |
+| Marcelo | [MonitoraSUS](https://play.google.com/store/apps/details?id=br.fiocruz.msmonitorasus&hl=pt_BR) | [Rich picture](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/rich-pictured-analisados/Marcelo.png)  |
+| Maria | [MEI](https://play.google.com/store/apps/details?id=br.gov.fazenda.receita.mei&hl=pt_BR) | [Rich picture](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/rich-pictured-analisados/Maria%20Eduarda.png)  |
 | Victor       | [Carteira De Trabalho Digital](https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR) | [Rich picture](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/rich-pictured-analisados/Victor.jpeg)  |
 
-<div><p>Tabela 1 - Tabela dos rich pictures analisados.</p></div>
+Tabela 1: *Tabela dos rich pictures analisados*
 
 ### Critérios de escolha
 
@@ -44,6 +44,6 @@ Com o objetivo de verificar a vibilidade legal do desenvolvimento do projeto, de
 
 ## Histórico de Versões 📅
 
-| Versão | Data | Descrição | Autor(es) |  Revisor(es)  |
-| :------: | :-------------: | :----------------------------------: | :-------------: | :-------------: |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 10/04/2025 | Criação do documento | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Eduardo de Pina](https://github.com/eduardodpms) |

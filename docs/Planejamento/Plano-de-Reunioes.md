@@ -5,6 +5,7 @@
 Foi montado, num momento inicial, um *heatmap* para análise da disponibilidade dos componentes do time de desenvolvimento, a fim de tomar decisões que tangem ao planejamento das reuniões futuras.
 
 ![Heatmap de Disponibilidade](../assets/heatmap.png)
+Tabela 1: *Disponibilidade de horário dos membros da equipe de desenvolvimento*
 
 ## Discussão e Definição
 
@@ -19,6 +20,6 @@ Ficou decidido que o número de reuniões semanais seria um número variável de
 
 ## Histórico de Versões 📅
 
-| Versão | Data | Descrição | Autor(es) |  Revisor(es)  |
-| :------: | :-------------: | :----------------------------------: | :-------------: | :-------------: |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 11/04/2025 | Criação do plano de reuniões | [Eduardo de Pina](https://github.com/eduardodpms) | - |
