@@ -29,6 +29,23 @@ Além disso, é importante destacar que, para cada entrega, foram montados dois 
 
 <br>
 
+## **Entrega 2: Elicitação – Técnicas e Priorização**
+
+### **Planejado 💡**
+
+<p style="text-align: center; font-size: 16px;">Tabela 2: <i>Elicitação – Técnicas e Priorização</i></p>
+
+| **Atividade**                        | **Período de Desenvolvimento**        | **Responsáveis**                                                                 | **Período de Revisão**            | **Revisores**                                                              |
+|:-------------------------------------:|:-------------------------------------:|:--------------------------------------------------------------------------------:|:--------------------------------:|:---------------------------------------------------------------------------:|
+| Definição das Técnicas de Elicitação  | Início: 14/04 <br> Fim: 15/04         | [Enzo](https://github.com/EnzoEmir), [Eduardo](https://github.com/eduardodpms), [Leticia](https://github.com/Leticia-Arisa-K-Higa) | Início: 16/04 <br> Fim: 17/04    | [Marcelo](https://github.com/MM4k), [Victor](https://github.com/VictorPontual) |
+| Priorização de Requisitos            | Início: 15/04 <br> Fim: 16/04         | [Enzo](https://github.com/EnzoEmir), [Victor](https://github.com/VictorPontual)    | Início: 17/04 <br> Fim: 18/04    | [Danielle](https://github.com/danielle-soaress), [Maria](https://github.com/dudaa28) |
+| Criação do Documento de Elicitação   | Início: 16/04 <br> Fim: 17/04         | [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28)           | Início: 18/04 <br> Fim: 19/04    | [Eduardo](https://github.com/eduardodpms), [Victor](https://github.com/VictorPontual) |
+| Realização de Revisão das Técnicas   | Início: 17/04 <br> Fim: 18/04         | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms) | Início: 19/04 <br> Fim: 20/04    | [Enzo](https://github.com/EnzoEmir), [Marcelo](https://github.com/MM4k) |
+| Gravação da Apresentação             | Início: 20/04 <br> Fim: 21/04         | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 21/04 <br> Fim: 22/04    | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms) |
+
+### **Entregue 📬**
+
+<br>
 
 ## Entrega 3 (Modelagem de Requisitos 1)
 
@@ -124,3 +141,4 @@ Além disso, é importante destacar que, para cada entrega, foram montados dois 
 | `1.1` | 11/04/2025 | Cronograma da entrega 6 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |  |
 | `1.2` | 12/04/2025 | Cronogramas das entregas 3 e 4 | [Marcelo Makoto](https://github.com/MM4k) |  |
 | `1.3` | 12/04/2025 | Cronograma da entrega 5.1 | [Eduardo de Pina](https://github.com/[eduardodpms) |  |
+| `1.4` | 12/04/2025 | Cronograma da entrega 2 | [Enzo Emir](https://github.com/EnzoEmir) |  |
