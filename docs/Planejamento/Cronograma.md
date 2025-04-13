@@ -157,6 +157,15 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 
 <br>
 
+## Referências
+
+> <a id="CRONO1" href="#TEC3">3.</a> REQUISITOS DE SOFTWARE. *Cronograma – Bilheteria Digital (2023.1)*. Disponível em: <<https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/>>. Acesso em: 12/04/2025.
+
+> <a id="CRONO3" href="#TEC5">5.</a> GRUPO GRASSHOPPER. *Cronograma de Planejamento - 2022.2*. Disponível em: <<https://requisitos-de-software.github.io/2022.2-Grasshopper/planejamento/cronograma/>>. Acesso em: 12/04/2025.
+
+> <a id="CRONO2" href="#TEC4">4.</a> UNIVERSIDADE DE BRASÍLIA. *FGA0303 - Engenharia de Requisitos T03/2024.1*. Disponível em: <<https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf>>. Acesso em: 12/04/2025.
+
+
 
 ## Histórico de Versões 📅
 
@@ -168,5 +177,6 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 | `1.3` | 12/04/2025 | Cronograma da entrega 5 | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.4` | 12/04/2025 | Cronograma da entrega 2 | [Enzo Emir](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.5` | 12/04/2025 | Executado do cronograma da entrega 01 | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.6` | 12/04/2025 | Adicionando referências | [Maria Eduarda](https://github.com/dudaa28) | - |
 
 
