@@ -62,4 +62,4 @@ Para garantir uma melhor organização, comunicação e produção de artefatos 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 12/04/2025 | Criação da página de ferramentas | [Victor Pontual](https://github.com/VictorPontual) | [Danielle Soares](https://github.com/danielle-soaress) |
-| `1.1` | 12/04/2025 | Adição de ferramentas (CapCut) | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.1` | 12/04/2025 | Adição de ferramentas (CapCut) | [Eduardo de Pina](https://github.com/eduardodpms) | [Marcelo Makoto](https://github.com/MM4k) |
