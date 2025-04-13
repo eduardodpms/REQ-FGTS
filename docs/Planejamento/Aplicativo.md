@@ -18,8 +18,8 @@ Tabela 1: *Tabela dos rich pictures analisados*
 
 ### Critérios de escolha
 
-* O aplicativo não possui documentos de requisitos disponíveis, ou seja, ainda não foi trabalhado na disciplina.
-* Facilidade de contato com o público-alvo.
+* O aplicativo não possui documentos de requisitos disponíveis, ou seja, ainda não foi trabalhado na disciplina;
+* Facilidade de contato com o público-alvo;
 * Complexidade do aplicativo.
 
 ### Motivações da escolha
@@ -28,13 +28,27 @@ Após a análise de todos os rich pictures com base nos critérios definidos, fo
 
 As motivações foram as seguintes:
 
-* O aplicativo não foi trabalhado na disciplina.
-* Possui um público-alvo amplo e de fácil acesso.
+* O aplicativo não foi trabalhado anteriormente na disciplina;
+* O público-alvo é amplo (todos os eleitores brasileiros) e proporciona facilidade de acesso aos usuários do aplicativo;
 * O aplicativo possui uma complexidade intermediária.
 
 ## e-Título
 
 O e-Título é a versão digital do título de eleitor, desenvolvida pela Justiça Eleitoral brasileira. Disponível como aplicativo para smartphones (Android e iOS), ele permite que o eleitor acesse seus dados cadastrais, saiba seu local de votação e, se tiver biometria cadastrada, possa usá-lo como documento oficial no dia da eleição. Além disso, o app oferece serviços como emissão de certidões, justificativa de ausência e acompanhamento de débito com a Justiça Eleitoral. <a id="REF2" href="#ref2">^2^</a>
+
+### Funcionalidades
+
+Abaixo estão listadas as principais funcionalidades do aplicativo e-Título:
+
+| Funcionalidade | Descrição |
+|----------------------------------------|-----------------------------------------------------------------------------------------------|
+| Versão digital do título | Substitui o documento físico para eleitores com biometria cadastrada. |
+| Consulta à situação eleitoral | Verifica se o título está regular, cancelado ou suspenso, e mostra débitos pendentes. |
+| Justificativa de ausência | Permite justificar ausência nas eleições diretamente pelo app.|
+| Emissão de certidões  | Gera certidões como a de quitação eleitoral e de crimes eleitorais.|
+| Consulta ao local de votação | Mostra zona, seção e endereço de votação do eleitor.|
+| Pagamento de multas via PIX | Gera QR Code para pagamento de multas eleitorais via PIX.|
+| Verificação biométrica facial | Recurso de segurança para autenticação de identidade no aplicativo.|
 
 ## Termos de uso
 
@@ -52,8 +66,8 @@ Com o objetivo de verificar a vibilidade legal do desenvolvimento do projeto, de
 
 ## Histórico de Versões 📅
 
-<<<<<<< HEAD
 | Versão | Data | Descrição | Autor(es) |  Revisor(es)  |
 | :------: | :-------------: | :----------------------------------: | :-------------: | :-------------: |
 | `1.0` | 10/04/2025 | Criação do documento | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.1` | 13/04/2025 | Referências | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `1.2` | 13/04/2025 | Modificação do texto | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
