@@ -2,7 +2,7 @@
 
 ## Escolha do aplicativo
 
-No início do projeto, foram elaborados sete rich pictures, cada um por um integrante do grupo. Em seguida, foi realiada uma [reunião](../atas/ata_07_04.md) onde os rich pictures passaram por alguns critérios e, a partir deles, foi feita uma escolha. A tabela 1 abaixo apresenta os plicativos e os rich pictures que cada integrante escolheu desenvolver.
+No início do projeto, foram elaborados sete rich pictures, cada um por um integrante do grupo. Em seguida, foi realiada uma [reunião](../../atas/ata_07_04) onde os rich pictures passaram por alguns critérios e a partir deles foi feita uma escolha. A tabela 1 abaixo apresenta os plicativos e os rich pictures que cada integrante escolheu desenvolver. <a id="REF1" href="#REF1">^1^</a>
 
 | Nome | Aplicativo | Rich picture |
 | :-------------: | :------------------------------------------------: | :--------------: |
@@ -34,16 +34,26 @@ As motivações foram as seguintes:
 
 ## e-Título
 
-O e-Título é a versão digital do título de eleitor, desenvolvida pela Justiça Eleitoral brasileira. Disponível como aplicativo para smartphones (Android e iOS), ele permite que o eleitor acesse seus dados cadastrais, saiba seu local de votação e, se tiver biometria cadastrada, possa usá-lo como documento oficial no dia da eleição. Além disso, o app oferece serviços como emissão de certidões, justificativa de ausência e acompanhamento de débito com a Justiça Eleitoral.
+O e-Título é a versão digital do título de eleitor, desenvolvida pela Justiça Eleitoral brasileira. Disponível como aplicativo para smartphones (Android e iOS), ele permite que o eleitor acesse seus dados cadastrais, saiba seu local de votação e, se tiver biometria cadastrada, possa usá-lo como documento oficial no dia da eleição. Além disso, o app oferece serviços como emissão de certidões, justificativa de ausência e acompanhamento de débito com a Justiça Eleitoral. <a id="REF2" href="#ref2">^2^</a>
 
 ## Termos de uso
 
-Com o objetivo de verificar a vibilidade legal do desenvolvimento do projeto, decidimos analisar os [Termos de uso](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/Termos-de-Uso.pdf) do aplicativo. Após a leitura, não encontramos nenhuma cláusula que proíba a utilização do app para fins educacionais.
+Com o objetivo de verificar a vibilidade legal do desenvolvimento do projeto, decidimos analisar os [Termos de uso](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/Termos-de-Uso.pdf) do aplicativo. Após a leitura, não encontramos nenhuma cláusula que proíba a utilização do app para fins educacionais. <a id="REF2" href="#ref2">^2^</a>
 
 <br>
 
+## Referências
+
+> <a id="REF1" href="#REF1">1.</a> REQUISITOS DE SOFTWARE. *Aplicativo – Bilheteria Digital (2023.1)*. Disponível em: <<https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/aplicativo.md/>>. Acesso em: 10/04/2025.
+
+> <a id="REF2" href="#REF">2.</a> E-TÍTULO. Disponível em: <<https://play.google.com/store/apps/details?id=br.jus.tse.eleitoral.etitulo&hl=pt_BR/>>. Acesso em: 10/04/2025.
+
+
+
 ## Histórico de Versões 📅
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| :-: | :-: | :-: | :-: | :-: |
+<<<<<<< HEAD
+| Versão | Data | Descrição | Autor(es) |  Revisor(es)  |
+| :------: | :-------------: | :----------------------------------: | :-------------: | :-------------: |
 | `1.0` | 10/04/2025 | Criação do documento | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `1.1` | 13/04/2025 | Referências | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Eduardo de Pina](https://github.com/eduardodpms) |
