@@ -16,11 +16,13 @@
 
 Repositório dedicado ao desenvolvimento de atividades referentes à disciplina "Requisitos de Software", da [Universidade de Brasília (FCTE)](https://fcte.unb.br). Nele estará mantido todo o processo de desenvolvimento do ***Grupo 07*** na disciplina, como gerência (pré-rastreabilidade e pós-rastreabilidade), elicitação, modelagem e análise. O aplicativo escolhido para a realização do projeto foi o [*e-Título*](https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo).
 
+<br>
 
 ## 2. O que é o *e-Título*? 📱
  
 O *e-Título* é a versão digital do título de eleitor, desenvolvida pela [Justiça Eleitoral](https://www.justicaeleitoral.jus.br) brasileira. Disponível como aplicativo para smartphones ([Android](https://play.google.com/store/apps/details?id=br.jus.tse.eleitoral.etitulo&hl=pt_BR) e [iOS](https://apps.apple.com/br/app/e-título/id1320338088)), ele permite que o eleitor acesse seus dados cadastrais, saiba seu local de votação e, tendo biometria cadastrada, use-o como documento oficial no dia da eleição. Além disso, o app oferece serviços como emissão de certidões, justificativa de ausência e acompanhamento de débito com a Justiça Eleitoral.
 
+<br>
 
 ## 3. Critérios da escolha 📋
 
@@ -30,7 +32,7 @@ O *e-Título* é a versão digital do título de eleitor, desenvolvida pela [Jus
 - Fácil acesso à documentação
 - Popularidade e Segurança do App
 
-
+<br>
 
 ## 4. Membros da Equipe 👥
 
@@ -42,6 +44,6 @@ O *e-Título* é a versão digital do título de eleitor, desenvolvida pela [Jus
 
 ## 5. Histórico de Entregas 📅
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| :-: | :-: | :-: | :-: | :-: |
-| `1.0`  |  08/04/2025 | Preparação do repositório, README e GitPages | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| Versão | Data | Descrição | Gravação | Autor(es) | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| `1.0`  |  13/04/2025 | Entrega 01 | [[LINK]](https://youtu.be/GZ2H4fPk-Dg) | Todos | - |

@@ -8,20 +8,21 @@ Para garantir uma melhor organização, comunicação e produção de artefatos 
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas Utilizadas no Projeto</p></font>
 
-|                                                                                                                           |        Ferramenta         |                               Finalidade                               |
-| :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :--------------------------------------------------------------------: |
-|                  ![Logo do GitHub](../assets/ferramentas/github.png)                  |          GitHub           | Organizar, versionar e documentar artefatos produzidos para o projeto.<a id="anchor_1" href="#FRM1">^1^</a> |
-|              ![Logo do Discord](../assets/ferramentas/discord.png)               |           Discord           |         Realizações de reuniões e gravações de apresentações.<a id="anchor_2" href="#FRM2">^2^</a>
-|              ![Logo do Microsoft Teams](../assets/ferramentas/teams.png)               |           Teams           |         Realizações de reuniões e gravações de apresentações.<a id="anchor_2" href="#FRM2">^3^</a>
-|                  ![Logo do OBS](../assets/ferramentas/obs.png)                  |          OBS           | Gravar e editar gravações.<a id="anchor_1" href="#FRM1">^4^</a> |          
-|                    ![Logo do Figma](../assets/ferramentas/figma.png)                    |           Figma           |                    Produção de artefatos gráficos.<a id="anchor_3" href="#FRM3">^5^</a>                     |
-|                                    ![Logo do MkDocs](../assets/ferramentas/mkdocs.png)                                    |          MkDocs           |                  Criação das páginas de documentação.<a id="anchor_4" href="#FRM4">^6^</a>                  |
-|             ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png)             |    Visual Studio Code     |                  Edição dos arquivos de documentação.<a id="anchor_5" href="#FRM5">^7^</a>                  |
-|                 ![Logo do WhatsApp](../assets/ferramentas/whatsapp.png)                 |         WhatsApp          |             Utilizado como principal canal de comunicação.<a id="anchor_6" href="#FRM6">^8^</a>             |
-|                 ![Logo do YouTube](../assets/ferramentas/youtube.png)                  |          YouTube          |                    Hospedagem de vídeos produzidos.<a id="anchor_7" href="#FRM7">^9^</a>                    |
-|             ![Logo do Google Planilhas](../assets/ferramentas/gsheets.png)              |     Google Planilhas      |      Criação de planilhas relacionadas ao cronograma e horários.<a id="anchor_8" href="#FRM8">^10^</a>       |
-|                 ![Logo do Google Docs](../assets/ferramentas/gdocs.png)                 |        Google Docs        |                Criação e edição de tabelas e arquivos.<a id="anchor_9" href="#FRM9">^11^</a>
-| ![Logo do ChatGPT](../assets/ferramentas/chatgpt.png) | ChatGPT |              Criação de imagens falsas para as personas.<a id="anchor_12" href="#FRM10">^12^</a>               |
+| Logo | Ferramenta | Finalidade |
+| :-: | :-: | :-: |
+| ![Logo do GitHub](../assets/ferramentas/github.png) | GitHub | Organização, versionamento e documentação de artefatos produzidos para o projeto.<a id="anchor_1" href="#FRM1">^1^</a> |
+| ![Logo do Discord](../assets/ferramentas/discord.png) | Discord | Realização de reuniões e de apresentações.<a id="anchor_2" href="#FRM2">^2^</a>
+| ![Logo do Microsoft Teams](../assets/ferramentas/teams.png) | Teams | Realização de reuniões e de apresentações.<a id="anchor_2" href="#FRM2">^3^</a>
+| ![Logo do OBS](../assets/ferramentas/obs.png) | OBS | Gravação de vídeos.<a id="anchor_1" href="#FRM1">^4^</a> |          
+| ![Logo do Figma](../assets/ferramentas/figma.png) | Figma | Produção de artefatos gráficos.<a id="anchor_3" href="#FRM3">^5^</a> |
+| ![Logo do MkDocs](../assets/ferramentas/mkdocs.png) | MkDocs | Criação das páginas de documentação.<a id="anchor_4" href="#FRM4">^6^</a> |
+| ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png) | Visual Studio Code | Edição dos arquivos de documentação.<a id="anchor_5" href="#FRM5">^7^</a> |
+| ![Logo do WhatsApp](../assets/ferramentas/whatsapp.png) | WhatsApp | Comunicação do time e agendamento de tarefas.<a id="anchor_6" href="#FRM6">^8^</a> |
+| ![Logo do YouTube](../assets/ferramentas/youtube.png) | YouTube | Hospedagem de vídeos produzidos.<a id="anchor_7" href="#FRM7">^9^</a> |
+| ![Logo do Google Planilhas](../assets/ferramentas/gsheets.png) | Google Planilhas | Criação de planilhas relacionadas ao cronograma e horários.<a id="anchor_8" href="#FRM8">^10^</a> |
+| ![Logo do Google Docs](../assets/ferramentas/gdocs.png) | Google Docs | Criação e edição de tabelas e arquivos.<a id="anchor_9" href="#FRM9">^11^</a>
+| ![Logo do ChatGPT](../assets/ferramentas/chatgpt.png) | ChatGPT | Criação de imagens falsas para as personas.<a id="anchor_12" href="#FRM10">^12^</a> |
+| ![Logo do CapCut](../assets/ferramentas/capcut.png) | CapCut | Edição de vídeos.<a id="anchor_13" href="#FRM11">^13^</a> |
 
 
 
@@ -51,10 +52,14 @@ Para garantir uma melhor organização, comunicação e produção de artefatos 
 >
 ><a id="FRM12" href="#anchor_12">12.</a> ChatGPT. Disponível em: https://openai.com/index/chatgpt. Acesso em: 12 de abr. de 2025.
 >
+><a id="FRM13" href="#anchor_13">13.</a> CapCut. Disponível em: https://www.capcut.com. Acesso em: 13 de abr. de 2025.
+>
 
+<br>
 
-## Histórico de Versões
+## Histórico de Versões 📅
 
-| Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   |
-| :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
-|  `1.0`  | 12/04/2025 |            Criação da página de ferramentas.            | [Victor Pontual Guedes Arruda Nóbrega](https://github.com/VictorPontual) | [Danielle Soares Da Silva](https://github.com/danielle-soaress) |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: |
+| `1.0` | 12/04/2025 | Criação da página de ferramentas | [Victor Pontual](https://github.com/VictorPontual) | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.1` | 12/04/2025 | Adição de ferramentas (CapCut) | [Eduardo de Pina](https://github.com/eduardodpms) | - |

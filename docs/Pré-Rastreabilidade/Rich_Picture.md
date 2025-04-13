@@ -42,4 +42,4 @@ A seguir, as Figuras 1 e 2 mostram as versões do Rich Picture desenvolvidas par
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-------------: | :-: |
-| `1.0` | 12/04/2025 | Seções "Metodologias e Ferramentas" e "Resultados". | Danielle Soares da Silva | Victor Pontual Guedes Arruda Nóbrega |
+| `1.0` | 12/04/2025 | Metodologias e Ferramentas, Resultados e Referências | [Danielle Soares](https://github.com/danielle-soaress) | [Victor Pontual](https://github.com/VictorPontual) |
