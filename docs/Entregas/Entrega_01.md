@@ -4,7 +4,7 @@
 
 ![Lista](../assets/entregas/entrega_01/lista_01.png)
 ![Lista2](../assets/entregas/entrega_01/lista_02.png)
-![Lista3](..\assets\entregas\entrega_01\lista_03.png)
+![Lista3](../assets/entregas/entrega_01/lista_03.png)
 
 ## Vídeo
 
