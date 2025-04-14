@@ -16,4 +16,4 @@
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0`  | 13/04/2025 | Adição da Entrega 01 | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `1.0`  | 13/04/2025 | Adição da Entrega 01 | [Enzo Emir](https://github.com/EnzoEmir) | [Victor Pontual Guedes Arruda Nóbrega](https://github.com/VictorPontual) |
