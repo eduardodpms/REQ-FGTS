@@ -46,4 +46,4 @@ O *e-Título* é a versão digital do título de eleitor, desenvolvida pela [Jus
 
 | Versão | Data | Descrição | Gravação | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| `1.0`  |  13/04/2025 | Entrega 01 | [[LINK]](https://youtu.be/GZ2H4fPk-Dg) | Todos | - |
+| `1.0`  |  13/04/2025 | Entrega 01 | [[LINK]](https://youtu.be/GZ2H4fPk-Dg) | Todos | [Enzo Emir](https://github.com/EnzoEmir),[Danielle Soares](https://github.com/danielle-soaress) |
