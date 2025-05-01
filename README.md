@@ -1,26 +1,24 @@
-<h1 align="center">
-  <b><i>e-Título</i></b>
-</h1>
 
 <div align="center">
-  <img src="docs/assets/etitulo_logo.png">
+  <img src="docs/assets/logo_fgts.png">
 </div>
 
 <p align="center">
-  Figura 1:<i> Logo e-Título</i>,&nbsp Fonte: <i><a href="https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo ">tse.jus.br </a></i>
+  Figura 1:<i> Logo FGTS</i>,&nbsp Fonte: <i><a href="https://www.caixa.gov.br/atendimento/aplicativos/fgts/Paginas/default.aspx">caixa.gov.br</a></i>
 </p>
 
 <br>
 
 ## 1. Introdução ao Projeto 💡
 
-Repositório dedicado ao desenvolvimento de atividades referentes à disciplina "Requisitos de Software", da [Universidade de Brasília (FCTE)](https://fcte.unb.br). Nele estará mantido todo o processo de desenvolvimento do ***Grupo 07*** na disciplina, como gerência (pré-rastreabilidade e pós-rastreabilidade), elicitação, modelagem e análise. O aplicativo escolhido para a realização do projeto foi o [*e-Título*](https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo).
+Repositório dedicado ao desenvolvimento de atividades referentes à disciplina "Requisitos de Software", da [Universidade de Brasília (FCTE)](https://fcte.unb.br). Nele estará mantido todo o processo de desenvolvimento do ***Grupo 07*** na disciplina, como gerência (pré-rastreabilidade e pós-rastreabilidade), elicitação, modelagem e análise. O aplicativo escolhido para a realização do projeto foi o [*App FGTS*](https://www.caixa.gov.br/atendimento/aplicativos/fgts/Paginas/default.aspx).
 
 <br>
 
-## 2. O que é o *e-Título*? 📱
- 
-O *e-Título* é a versão digital do título de eleitor, desenvolvida pela [Justiça Eleitoral](https://www.justicaeleitoral.jus.br) brasileira. Disponível como aplicativo para smartphones ([Android](https://play.google.com/store/apps/details?id=br.jus.tse.eleitoral.etitulo&hl=pt_BR) e [iOS](https://apps.apple.com/br/app/e-título/id1320338088)), ele permite que o eleitor acesse seus dados cadastrais, saiba seu local de votação e, tendo biometria cadastrada, use-o como documento oficial no dia da eleição. Além disso, o app oferece serviços como emissão de certidões, justificativa de ausência e acompanhamento de débito com a Justiça Eleitoral.
+## 2. O que é o *App FGTS*? 📱
+
+É o aplicativo oficial da [Caixa Econômica Federal](https://www.caixa.gov.br/Paginas/home-caixa.aspx) que permite aos trabalhadores consultarem informações sobre o [Fundo de Garantia do Tempo de Serviço (FGTS)](https://www.caixa.gov.br/beneficios-trabalhador/fgts/Paginas/default.aspx). Com ele, é possível acompanhar depósitos feitos pelos empregadores, solicitar saques, atualizar dados cadastrais e receber notificações sobre movimentações na conta. Também é possível solicitar saques, incluindo o saque-aniversário, saques por emergência, e realizar transferências via PIX. O aplicativo está disponível para smartphones [Android](https://play.google.com/store/apps/details?id=br.gov.caixa.fgts.trabalhador&hl=pt_BR) e [IOs](https://apps.apple.com/br/app/fgts/id1038441027).
+
 
 <br>
 
