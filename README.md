@@ -1,3 +1,6 @@
+<h1 style="text-align:center; margin-bottom: -10px;">
+  <b><i>Aplicativo FGTS</i></b>
+</h1>
 
 <div align="center">
   <img src="docs/assets/logo_fgts.png">
