@@ -1,6 +1,6 @@
-<h1 align="center">
-  <b><i>FGTS</i></b>
-</h1>
+<h2 align="center">
+  <b><i>FGTS - Fundo de Garantia do Tempo de Serviço</i></b>
+</h2>
 
 <div align="center">
   <img src="docs/assets/logo_fgts.png">
