@@ -15,8 +15,10 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+  - pymdownx.snippets
+  - pymdownx.keys
 
-site_name: 2025.1-FGTS
+site_name: FGTS
 
 theme:
   name: material
@@ -24,8 +26,15 @@ theme:
   logo: assets/logo_fgts.png
   features:
     - navigation.instant
+    - content.code.annotate
+    - content.tabs.link
+    - header.autohide
+    - navigation.expand
     - navigation.instant.progress
     - navigation.tracking
+    - navigation.tabs
+    - navigation.top
+    
     
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -57,9 +66,10 @@ nav:
     - Ferramentas: Planejamento/Ferramentas.md
     - Metodologia: Planejamento/Metodologia.md
     - Plano de Reuniões: Planejamento/Plano-de-Reunioes.md
-  - Entrega:
-    - Entrega 1: Entregas/Entrega_01.md
-  - Inspeção do Grupo +1:
-    - Inspeção Entrega 1: Inspeção-do-Grupo-+1/Inspeção-Entrega-1.md
   - Pré-Rastreabilidade:
     - Rich Picute: Pré-Rastreabilidade/Rich_Picture.md
+  - Elicitação:
+    - Elicitação: Elicitacao/Elicitacao.md
+  - Verificação:
+    - Grupo +1:
+      - Entrega 1: Inspecao-do-Grupo-+1/Inspecao-Entrega-1.md
