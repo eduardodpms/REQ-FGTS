@@ -56,10 +56,10 @@ extra_css: [stylesheets/extra.css]
 nav:
   - Home: index.md
   - Atas de Reunião:
-    - Ata 1: Atas/ata_07_04.md
-    - Ata 2: Atas/ata_11_04.md
-    - Ata 3: Atas/ata_25_04.md
-    - Ata 4: Atas/ata_01_05.md
+    - Ata 1 (07/04): Atas/ata_07_04.md
+    - Ata 2 (11/04): Atas/ata_11_04.md
+    - Ata 3 (25/04): Atas/ata_25_04.md
+    - Ata 4 (01/05): Atas/ata_01_05.md
   - Planejamento:
     - Aplicativo: Planejamento/Aplicativo.md
     - Cronograma: Planejamento/Cronograma.md
