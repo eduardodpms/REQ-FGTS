@@ -8,13 +8,13 @@ De acordo com Barbosa et al. (2021), o perfil de usuário é uma descrição det
 
 No TCC “As transformações digitais das instituições financeiras e sua influência na redefinição do papel das agências como canal de serviços: perfil dos usuários”, de Nycolli Bussolo Mendes, foi realizado um questionário que tem como objetivo analisar o perfil dos usuários que utilizam instituições financeiras de forma digital e física. Assim, pode-se assimilar o público-alvo do aplicativo FGTS com os respondentes do questionário e, logo, é possível determinar o perfil de usuário com pessoas reais. 
 
-## Resultados 
+## Resultados do Questionário
 
 O questionário contou com 183 participantes e os resultados foram: 
 
 Faixa etária predominante: entre 41 e 54 anos e entre 24 e 30 anos. 
 <br>
-<p style="text-align: center; font-size: 16px;">Tabela 1: <i>Faixa etária</i></p>
+<p style="text-align: center; font-size: 16px;">Figura 1: <i>Faixa etária</i></p>
 
 ![Faixa etária](../assets/perfil-de-usuario/faixa-etaria.png)
 <br>
@@ -23,7 +23,7 @@ Faixa etária predominante: entre 41 e 54 anos e entre 24 e 30 anos.
 <br>
 Escolaridade predominante: ensino superior completo ou incompleto. 
 <br>
-<p style="text-align: center; font-size: 16px;">Tabela 2: <i>Escolaridade</i></p>
+<p style="text-align: center; font-size: 16px;">Figura 2: <i>Escolaridade</i></p>
 
 ![Escolaridade](../assets/perfil-de-usuario/escolaridade.png)
 <br>
@@ -32,7 +32,7 @@ Escolaridade predominante: ensino superior completo ou incompleto.
 <br>
 Gênero: 69% feminino e 31% masculino. 
 <br>
-<p style="text-align: center; font-size: 16px;">Tabela 3: <i>Gênero</i></p>
+<p style="text-align: center; font-size: 16px;">Figura 3: <i>Gênero</i></p>
 
 ![Gênero](../assets/perfil-de-usuario/genero.png)
 <br>
@@ -41,11 +41,22 @@ Gênero: 69% feminino e 31% masculino.
 <br>
 Renda predominante: entre R$2.000 e R$5.000.
 <br>
-<p style="text-align: center; font-size: 16px;">Tabela 4: <i>Renda</i></p>
+<p style="text-align: center; font-size: 16px;">Figura 4: <i>Renda</i></p>
 
 ![Renda](../assets/perfil-de-usuario/renda.png)
 <br>
 <p style="text-align: center; font-size: 16px;">Fonte: <i>Mendes (2020), TCC em Ciências Econômicas – UFSC</i></p>
+<br>
+
+## Experimento com IA
+
+Para fins experimentais, foi utilizado o ChatGPT para gerar um perfil de usuário geral do aplicativo FGTS. Vale ressaltar que esse experimento não é mais relevante que o questionário conduzido anteriormente.
+<br>
+<p style="text-align: center; font-size: 16px;">Figura 5: <i>Perfil de usuário gerado pelo ChatGPT</i></p>
+
+![GPT](../assets/perfil-de-usuario/perfil-gpt.png)
+<br>
+<p style="text-align: center; font-size: 16px;">Fonte: <i>OPENAI. ChatGPT. Perfil de usuário geral para o aplicativo FGTS. Disponível em: https://chat.openai.com. Acesso em: 2 maio 2025.</i></p>
 <br>
 
 ## Bibliografia
@@ -59,3 +70,4 @@ Renda predominante: entre R$2.000 e R$5.000.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 02/05/2025 | Criação da página de Perfil de Usuário | [Eduardo de Pina](https://github.com/eduardodpms), [Marcelo Makoto](https://github.com/MM4k) | - |
+| `1.1` | 02/05/2025 | Adição do Experimento com IA | [Marcelo Makoto](https://github.com/MM4k) | - |
