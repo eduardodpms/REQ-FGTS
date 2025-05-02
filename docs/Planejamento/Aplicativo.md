@@ -2,7 +2,7 @@
 
 ## Escolha do aplicativo
 
-No início do projeto, foram elaborados sete rich pictures, cada um por um integrante do grupo. Em seguida, foi realiada uma [reunião](../../atas/ata_07_04) onde os rich pictures passaram por alguns critérios e a partir deles foi feita uma escolha. A tabela 1 abaixo apresenta os plicativos e os rich pictures que cada integrante escolheu desenvolver. <a id="REF1" href="#REF1">^1^</a>
+No início do projeto, foram elaborados sete rich pictures, um por cada integrante do grupo. Em seguida, foi realizada uma [reunião](../../atas/ata_07_04) na qual os rich pictures passaram por alguns critérios e, a partir deles, foi feita a escolha do nosso primeiro aplicativo. No entanto, após discussões com o professor, decidimos substituir o aplicativo escolhido, pois ele já havia sido utilizado em semestres anteriores. A tabela 1 abaixo apresenta os plicativos e os rich pictures que cada integrante escolheu desenvolver. <a id="REF1" href="#REF1">^1^</a>
 
 | Nome | Aplicativo | Rich picture |
 | :-------------: | :------------------------------------------------: | :--------------: |
@@ -24,7 +24,7 @@ Tabela 1: *Tabela dos rich pictures analisados*
 
 ### Motivações da escolha
 
-Após a análise de todos os rich pictures com base nos critérios definidos, foi escolhido o rich picture do aplicativo [e-Título](https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo).
+Após a análise de todos os rich pictures com base nos critérios definidos, o rich picture do aplicativo [e-Título](https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo) <a id="REF4" href="#ref4">^4^</a> foi inicialmente selecionado. Contudo, após a consulta com o professor e o monitor, foi recomendado que escolhesse um novo aplicativo, já que o e-Título havia sido utilizado em semestres passados. Decidimos, então, que o novo aplicativo seria o [FGTS] (https://www.caixa.gov.br/atendimento/aplicativos/fgts/Paginas/default.aspx).
 
 As motivações foram as seguintes:
 
@@ -32,9 +32,9 @@ As motivações foram as seguintes:
 * O público-alvo é amplo (todos os eleitores brasileiros) e proporciona facilidade de acesso aos usuários do aplicativo;
 * O aplicativo possui uma complexidade intermediária.
 
-## e-Título
+## FGTS
 
-O e-Título é a versão digital do título de eleitor, desenvolvida pela Justiça Eleitoral brasileira. Disponível como aplicativo para smartphones (Android e iOS), ele permite que o eleitor acesse seus dados cadastrais, saiba seu local de votação e, se tiver biometria cadastrada, possa usá-lo como documento oficial no dia da eleição. Além disso, o app oferece serviços como emissão de certidões, justificativa de ausência e acompanhamento de débito com a Justiça Eleitoral. <a id="REF2" href="#ref2">^2^</a>
+O [FGTS] (https://play.google.com/store/apps/details?id=br.gov.caixa.fgts.trabalhador&hl=pt_BR&pli=1) é o aplicativo oficial do Fundo de Garantia do Tempo de Serviço, desenvolvido pela [Caixa Econômica Federal] (https://www.caixa.gov.br/Paginas/home-caixa.aspx). Disponível gratuitamente para smartphones (Android e IOS), ele permite que o trabalhador acompanhe o saldo das contas do FGTS, consulte os depósitos realizados pelo empregador, imprima seus extratos e escolha entre as opções de saque, como o Saque-aniversário. Além disso, o app oferece funcionalidades como solicitação de saques por instituições financeiras e atualização de endereço. <a id="REF2" href="#ref2">^2^</a>
 
 ### Funcionalidades
 
@@ -52,7 +52,7 @@ Abaixo estão listadas as principais funcionalidades do aplicativo e-Título:
 
 ## Termos de uso
 
-Com o objetivo de verificar a vibilidade legal do desenvolvimento do projeto, decidimos analisar os [Termos de uso](https://github.com/Requisitos-de-Software/2025.1-e-Titulo/blob/main/docs/assets/Termos-de-Uso.pdf) do aplicativo. Após a leitura, não encontramos nenhuma cláusula que proíba a utilização do app para fins educacionais. <a id="REF2" href="#ref2">^2^</a>
+Com o objetivo de verificar a vibilidade legal do desenvolvimento do projeto, decidimos analisar os [Termos de uso](https://github.com/Requisitos-de-Software/2025.1-FGTS/tree/main/docs/assets/Termos_de_uso_FGTS.pdf) do aplicativo FGTS. Após a leitura, não encontramos nenhuma cláusula que proíba a utilização do app para fins educacionais. <a id="REF3" href="#ref3">^3^</a>
 
 <br>
 
@@ -60,7 +60,13 @@ Com o objetivo de verificar a vibilidade legal do desenvolvimento do projeto, de
 
 > <a id="REF1" href="#REF1">1.</a> REQUISITOS DE SOFTWARE. *Aplicativo – Bilheteria Digital (2023.1)*. Disponível em: <<https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/aplicativo.md/>>. Acesso em: 10/04/2025.
 
-> <a id="REF2" href="#REF">2.</a> E-TÍTULO. Disponível em: <<https://play.google.com/store/apps/details?id=br.jus.tse.eleitoral.etitulo&hl=pt_BR/>>. Acesso em: 10/04/2025.
+> <a id="REF2" href="#REF">2.</a> FGTS. Disponível em: <<https://www.caixa.gov.br/atendimento/aplicativos/fgts/Paginas/default.aspx>>. Acesso em: 01/05/2025.
+
+> <a id="REF3" href="#REF3">3.</a> Aplicativo FGTS. Disponível em: <<https://play.google.com/store/apps/details?id=br.gov.caixa.fgts.trabalhador&hl=pt_BR&pli=1>>. Acesso em: 01/05/2025.
+
+> <a id="REF4" href="#REF4">4.</a> Site e-Título. Disponível em <<https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo>>. Acesso em: 10/04/2025.
+
+> Aplicativo e-Título. Disponível em: <<https://play.google.com/store/apps/details?id=br.jus.tse.eleitoral.etitulo&hl=pt_BR>>. Acesso em: 10/04/2025.
 
 
 
@@ -71,3 +77,5 @@ Com o objetivo de verificar a vibilidade legal do desenvolvimento do projeto, de
 | `1.0` | 10/04/2025 | Criação do documento | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.1` | 13/04/2025 | Referências | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.2` | 13/04/2025 | Modificação do texto | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `1.3` | 13/04/2025 | Modificação do Aplicativo| [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo](https://github.com/MM4k) |
+
