@@ -2,7 +2,7 @@
 
 ## Escolha do aplicativo
 
-No início do projeto, foram elaborados sete rich pictures, cada um por um integrante do grupo. Em seguida, foi realiada uma [reunião](../../atas/ata_07_04) onde os rich pictures passaram por alguns critérios e a partir deles foi feita uma escolha. A tabela 1 abaixo apresenta os plicativos e os rich pictures que cada integrante escolheu desenvolver. <a id="REF1" href="#REF1">^1^</a>
+No início do projeto, foram elaborados sete rich pictures, cada um por um integrante do grupo. Em seguida, foi realiada uma [reunião](../../Atas/ata_07_04) onde os rich pictures passaram por alguns critérios e a partir deles foi feita uma escolha. A tabela 1 abaixo apresenta os plicativos e os rich pictures que cada integrante escolheu desenvolver. <a id="REF1" href="#REF1">^1^</a>
 
 | Nome | Aplicativo | Rich picture |
 | :-------------: | :------------------------------------------------: | :--------------: |

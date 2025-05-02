@@ -1,10 +1,10 @@
-# Entrega 1: Inspeção do Grupo +1 
+# Inspeção do Grupo +1 (Entrega 1) 
 
 ## Introdução
 
 Aqui está definida a inspeção da entrega 1 do Grupo 08, cujo projeto aborda, inicialmente, o app *Carteira Digital de Trânsito*. A análise contemplou os principais tópicos definidos para a entrega 1, como definição da equipe e de seus papéis, escolha e justificativa do aplicativo, ferramentas utilizadas, cronograma de atividades e representação visual (Rich Picture).
 
-O modelo de tabela utilizado está definido em [Entrega 01](../../Entregas/Entrega_01), e foi construído com a participação de todos os membros do grupo 07. Os registros da avaliação foram feitos de forma criteriosa, incluindo prints, datas e horários das avaliações.
+O modelo de tabela utilizado está definido em [Entrega 1](../../Entregas/Entrega-1), e foi construído com a participação de todos os membros do grupo 07. Os registros da avaliação foram feitos de forma criteriosa, incluindo prints, datas e horários das avaliações.
 
 
 ## Links

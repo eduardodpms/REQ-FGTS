@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A entrega 1 consiste na base inicial que guiará o time nas próximas entregas. Com o app definido a princípio, o *e-Título*, o grupo 07 estabeleceu e organizou o *GitHub Pages* com o esquema inicial de páginas para apresentar a documentação do projeto. Além disso, cumpriu também a etapa de [Pré-Rastreabilidade](../../Pré-Rastreabilidade/Rich_Picture), que consiste na criação do Rich Picture. Dessa forma, o time concluiu a sua primeira entrega e seguiu para a [Inspeção do Grupo +1](../../Inspecao-do-Grupo-mais1/Inspecao-Entrega-1).
+A entrega 1 consiste na base inicial que guiará o time nas próximas entregas. Com o app definido a princípio, o *e-Título*, o grupo 07 estabeleceu e organizou o *GitHub Pages* com o esquema inicial de páginas para apresentar a documentação do projeto. Além disso, cumpriu também a etapa de [Pré-Rastreabilidade](../../Pre-Rastreabilidade/Rich-Picture), que consiste na criação do Rich Picture. Dessa forma, o time concluiu a sua primeira entrega e seguiu para a [Inspeção do Grupo +1](../../Inspecao-mais1/Entrega-1).
 
 ## Apresentação
 
@@ -71,4 +71,3 @@ A entrega 1 consiste na base inicial que guiará o time nas próximas entregas. 
 | `1.0`  | 13/04/2025 | Adição da Entrega 01 | [Enzo Emir](https://github.com/EnzoEmir) | [Victor Pontual](https://github.com/VictorPontual) |
 | `1.1`  | 13/04/2025 | Correção do link | [Eduardo de Pina](https://github.com/eduardodpms) | - |
 | `1.2`  | 02/05/2025 | Edição do texto e correção da tabela | [Eduardo de Pina](https://github.com/eduardodpms) | - |
-
