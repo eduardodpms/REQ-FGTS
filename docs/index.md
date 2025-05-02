@@ -17,9 +17,17 @@ Neste site está hospedada toda a documentação referente às atividades desenv
 
 ## • Membros da Equipe 👥
 
-| [![](https://avatars.githubusercontent.com/danielle-soaress)](https://github.com/danielle-soaress) | [![](https://avatars.githubusercontent.com/eduardodpms)](https://github.com/eduardodpms) | [![](https://avatars.githubusercontent.com/EnzoEmir)](https://github.com/EnzoEmir) | [![](https://avatars.githubusercontent.com/Leticia-Arisa-K-Higa)](https://github.com/Leticia-Arisa-K-Higa) | [![](https://avatars.githubusercontent.com/MM4k)](https://github.com/MM4k) | [![](https://avatars.githubusercontent.com/dudaa28)](https://github.com/dudaa28) | [![](https://avatars.githubusercontent.com/VictorPontual)](https://github.com/VictorPontual) |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) | [Maria Eduarda](https://github.com/dudaa28) | [Victor Pontual](https://github.com/VictorPontual) |
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/danielle-soaress"><img src="https://avatars.githubusercontent.com/danielle-soaress" width="100px" style="border-radius: 50%;"><br/>Danielle Soares</a></td>
+    <td align="center"><a href="https://github.com/eduardodpms"><img src="https://avatars.githubusercontent.com/eduardodpms" width="100px" style="border-radius: 50%;"><br/>Eduardo de Pina</a></td>
+    <td align="center"><a href="https://github.com/EnzoEmir"><img src="https://avatars.githubusercontent.com/EnzoEmir" width="100px" style="border-radius: 50%;"><br/>EnzoEmir</a></td>
+    <td align="center"><a href="https://github.com/Leticia-Arisa-K-Higa"><img src="https://avatars.githubusercontent.com/Leticia-Arisa-K-Higa" width="100px" style="border-radius: 50%;"><br/>Leticia Arisa</a></td>
+    <td align="center"><a href="https://github.com/MM4k"><img src="https://avatars.githubusercontent.com/MM4k" width="100px" style="border-radius: 50%;"><br/>Marcelo Makoto</a></td>
+    <td align="center"><a href="https://github.com/dudaa28"><img src="https://avatars.githubusercontent.com/dudaa28" width="100px" style="border-radius: 50%;"><br/>Maria Eduarda</a></td>
+    <td align="center"><a href="https://github.com/VictorPontual"><img src="https://avatars.githubusercontent.com/VictorPontual" width="100px" style="border-radius: 50%;"><br/>Victor Pontual</a></td>
+  </tr>
+</table>
 
 <br>
 
@@ -30,3 +38,5 @@ Neste site está hospedada toda a documentação referente às atividades desenv
 | `1.0` | 08/04/2025 | Formação das GitPages | [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) | [Eduardo de Pina](https://github.com/eduardodpms), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.1` | 10/04/2025 | Modificação do texto | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.2` | 11/04/2025 | Atualização do texto e da aparência | [Eduardo de Pina](https://github.com/eduardodpms) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.3` | 01/05/2025 | Modificação do texto | [Danielle Soares](https://github.com/danielle-soaress) | --- |
+| `1.4` | 02/05/2025 | Atualização da aparência das tabelas | [Danielle Soares](https://github.com/danielle-soaress) | --- |
