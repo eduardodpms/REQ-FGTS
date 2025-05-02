@@ -75,7 +75,7 @@ Esse ciclo será repetido até a finalização do projeto, sempre respeitando as
 | `1.0`  | 11/04/2025 | Adição da metodologia SCRUM                 | [Maria Eduarda](https://github.com/dudaa28)                | [Eduardo de Pina](https://github.com/eduardodpms)         |
 | `1.1`  | 12/04/2025 | Incremento da página, referência e imagem   | [Maria Eduarda](https://github.com/dudaa28)                | [Enzo Emir](https://github.com/EnzoEmir)                  |
 | `1.2`  | 12/04/2025 | Atualização página                          | [Maria Eduarda](https://github.com/dudaa28)                | [Enzo Emir](https://github.com/EnzoEmir)                  |
-| `1.3`  | 01/05/2025 | Atualização da página e inclusão de referência | [Maria Eduarda](https://github.com/dudaa28)                | [Enzo Emir](https://github.com/EnzoEmir)                  |
+| `1.3`  | 01/05/2025 | Atualização da página e inclusão de referência | [Maria Eduarda](https://github.com/dudaa28)                | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)                  |
 
 
 
