@@ -14,9 +14,6 @@ A escolha pela metodologia SCRUM se deu principalmente por dois motivos: a famil
 
 Resposável: [Enzo](https://github.com/EnzoEmir)
 
-- **Product Owner**: Responsável por definir, priorizar e gerenciar os requisitos no *Product Backlog*, representando os interesses das partes interessadas e garantindo que o time esteja sempre focado nas entregas de maior valor.
-
-Resposável: [Danielle](https://github.com/danielle-soaress)
 
 - **Time de Desenvolvimento**: Representa os integrantes da equipe responsáveis pela implementação dos requisitos do produto. O time de desenvolvimento é composto por membros de diversas áreas do conhecimento, cada um responsável por uma parte do produto.
 
@@ -32,9 +29,9 @@ Para organizar e acompanhar o progresso do projeto, serão realizadas o seguinte
 
 - **Sprint Retrospective**: Será realizada após as entregas, com o objetivo de avaliar o processo de trabalho, discutir o que funcionou bem, identificar pontos de melhoria e propor ações para aprimorar a próxima Sprint.
 
-![Legenda da Sprint](https://wac-cdn.atlassian.com/dam/jcr:14abbbfb-5870-4c24-8b26-c5a56b25de59/scrum_process_atlassian.svg?cdnVersion=2646)
+![Legenda da Sprint](https://blog.runrun.it/wp-content/uploads/2022/08/infografico_metodologia_scrum.png.webp)
 <div style="text-align: center;">
-    Figura 1: Legenda da Sprint (Fonte: https://www.atlassian.com/br/agile/scrum/sprints)
+    Figura 1: Legenda da Sprint (Fonte: https://blog.runrun.it/metodologia-scrum/)
 </div>
 
 
@@ -64,19 +61,25 @@ O projeto será desenvolvido em Sprints com duração de **15 dias**, seguindo o
 
 Esse ciclo será repetido até a finalização do projeto, sempre respeitando as datas de entrega estabelecidas.
 
+Estando disponível essa metodologia usada em um modelo de cronograma do planejamento de entregas no [roadmap do Figma](https://www.figma.com/board/xSSxSQVfdcaUxAc1tFFIGa/MAPEAMENTO-REQUISITOS--Grupo-07-?node-id=0-1&p=f&t=N8YBHnmxADRwqMQq-0).
+
+
 
 ## Referências
 
-> <a id="SCRUM1" href="#TEC2">2.</a> ATLASSIAN. *Guia Ágil: Scrum*. Disponível em: <<https://www.atlassian.com/br/agile/scrum>>. Acesso em: 11/04/2025.
+> <a id="SCRUM2" href="#TEC2">3.</a> RUNRUN.IT. *Metodologia Scrum: entenda o que é e como aplicar*. Disponível em: <<https://blog.runrun.it/metodologia-scrum/>>. Acesso em: 01/05/2025.
+
 
 
 ## Histórico de Versões 📅
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| :-: | :-: | :-: | :-: | :-: |
-| `1.0`  | 11/04/2025 | Adição da metodologia SCRUM | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `1.1`  | 12/04/2025 | Incremento da página, referência e imagem | [Maria Eduarda](https://github.com/dudaa28) | [Enzo Emir](https://github.com/EnzoEmir) |
-| `1.2`  | 12/04/2025 | Atualização página | [Maria Eduarda](https://github.com/dudaa28) |[Enzo Emir](https://github.com/EnzoEmir) |
+| Versão | Data       | Descrição                                   | Autor(es)                                                  | Revisor(es)                                               |
+| :----: | :--------: | :------------------------------------------ | :---------------------------------------------------------- | :--------------------------------------------------------- |
+| `1.0`  | 11/04/2025 | Adição da metodologia SCRUM                 | [Maria Eduarda](https://github.com/dudaa28)                | [Eduardo de Pina](https://github.com/eduardodpms)         |
+| `1.1`  | 12/04/2025 | Incremento da página, referência e imagem   | [Maria Eduarda](https://github.com/dudaa28)                | [Enzo Emir](https://github.com/EnzoEmir)                  |
+| `1.2`  | 12/04/2025 | Atualização página                          | [Maria Eduarda](https://github.com/dudaa28)                | [Enzo Emir](https://github.com/EnzoEmir)                  |
+| `1.3`  | 01/05/2025 | Atualização da página e inclusão de referência | [Maria Eduarda](https://github.com/dudaa28)                | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)                  |
+
 
 
 
