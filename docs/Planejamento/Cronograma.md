@@ -1,4 +1,5 @@
-# Cronograma
+# Cronograma das Entregas
+
 ## Descrição 
 
 O cronograma visa à organização de todas as tarefas que deverão ser realizadas no decorrer da disciplina de Requisitos de Software. Portanto, as atividades foram classificadas quanto às suas respectivas etapas nas quais devem ser realizadas. Os cronogramas executados estarão sujeitos a atualizações ao longo do tempo, por circunstâncias diversas.
@@ -7,8 +8,7 @@ Além disso, é importante destacar que, para cada entrega, foram montados dois 
 
 <br>
 
-## Entrega 1 (Planejamento do Projeto)
-
+## E1: Pré-Rastreabilidade
 
 ### Planejado 💡
 
@@ -47,7 +47,7 @@ A tabela a seguir mostra o que foi *executado* no cronograma das atividades da E
 
 <br>
 
-## **Entrega 2: Elicitação – Técnicas e Priorização**
+## **E2: Elicitação e Priorização**
 
 ### **Planejado 💡**
 
@@ -56,19 +56,19 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 <p style="text-align: center; font-size: 16px;">Tabela 3: <i>Elicitação – Técnicas e Priorização</i></p>
 
 
-| **Atividade**                        | **Período de Desenvolvimento**        | **Responsáveis**                                                                 | **Período de Revisão**            | **Revisores**                                                              |
-|:-------------------------------------:|:-------------------------------------:|:--------------------------------------------------------------------------------:|:--------------------------------:|:---------------------------------------------------------------------------:|
-| Definição das Técnicas de Elicitação  | Início: 14/04 <br> Fim: 15/04         | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 16/04 <br> Fim: 17/04    | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |
-| Definição das Técnicas de Priorização | Início: 14/04 <br> Fim: 15/04         | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 16/04 <br> Fim: 17/04    | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |
-| Técnica de Elicitação: Entrevista                           | Início: 01/05 <br> Fim: 04/05         | [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir)                                         | Início: 04/05 <br> Fim: 05/05    | [Maria](https://github.com/dudaa28), [Marcelo](https://github.com/MM4k)   |
-| Técnica de Elicitação: Storytelling                         | Início: 01/05 <br> Fim: 04/05         | [Marcelo](https://github.com/MM4k), [Leticia](https://github.com/Leticia-Arisa-K-Higa)                                 | Início: 04/05 <br> Fim: 05/05    | [Danielle](https://github.com/danielle-soaress), [Victor](https://github.com/VictorPontual) |
-| Técnica de Elicitação: Introspecção                         | Início: 01/05 <br> Fim: 04/05         | [Danielle](https://github.com/danielle-soaress), [Maria](https://github.com/dudaa28)                                   | Início: 04/05 <br> Fim: 05/05    | [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Enzo](https://github.com/EnzoEmir)   |
-| Técnica de Elicitação: Observação                           | Início: 01/05 <br> Fim: 04/05         | [Eduardo](https://github.com/eduardodpms), [Victor](https://github.com/VictorPontual)                                  | Início: 04/05 <br> Fim: 05/05    | [Danielle](https://github.com/danielle-soaress), [Marcelo](https://github.com/MM4k)   |
-| Técnica de Priorização: $100 Test                           | Início: 01/05 <br> Fim: 04/05         | [Enzo](https://github.com/EnzoEmir), [Danielle](https://github.com/danielle-soaress)                                   | Início: 04/05 <br> Fim: 05/05    | [Victor](https://github.com/VictorPontual), [Maria](https://github.com/dudaa28)   |
-| Técnica de Priorização: First Things First                  | Início: 01/05 <br> Fim: 04/05         | [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Enzo](https://github.com/EnzoEmir)                                | Início: 04/05 <br> Fim: 05/05    | [Eduardo](https://github.com/eduardodpms), [Marcelo](https://github.com/MM4k)   |
-| Técnica de Priorização: Three-Level Scale                   | Início: 01/05 <br> Fim: 04/05         | [Victor](https://github.com/VictorPontual), [Marcelo](https://github.com/MM4k)                                         | Início: 04/05 <br> Fim: 05/05    | [Danielle](https://github.com/danielle-soaress), [Leticia](https://github.com/Leticia-Arisa-K-Higa)   |
-| Técnica de Priorização: In or Out                           | Início: 01/05 <br> Fim: 04/05         | [Maria](https://github.com/dudaa28), [Enzo](https://github.com/EnzoEmir)                                               | Início: 04/05 <br> Fim: 05/05    | [Eduardo](https://github.com/eduardodpms), [Victor](https://github.com/VictorPontual)   |
-| Gravação da Apresentação             | Início: 04/05 <br> Fim: 04/05         | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 04/05 <br> Fim: 05/05    | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms) |
+| **Atividade** | **Período de Desenvolvimento** | **Responsáveis** | **Período de Revisão** | **Revisores** |
+|:-:|:-:|:-:|:-:|:-:|
+| Definição das Técnicas de Elicitação | Início: 14/04 <br> Fim: 15/04 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 16/04 <br> Fim: 17/04 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |
+| Definição das Técnicas de Priorização | Início: 14/04 <br> Fim: 15/04 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 16/04 <br> Fim: 17/04 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |
+| Técnica de Elicitação: Entrevista | Início: 01/05 <br> Fim: 04/05 | [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir) | Início: 04/05 <br> Fim: 05/05 | [Maria](https://github.com/dudaa28), [Marcelo](https://github.com/MM4k) |
+| Técnica de Elicitação: Storytelling | Início: 01/05 <br> Fim: 04/05 | [Marcelo](https://github.com/MM4k), [Leticia](https://github.com/Leticia-Arisa-K-Higa) | Início: 04/05 <br> Fim: 05/05 | [Danielle](https://github.com/danielle-soaress), [Victor](https://github.com/VictorPontual) |
+| Técnica de Elicitação: Introspecção | Início: 01/05 <br> Fim: 04/05 | [Danielle](https://github.com/danielle-soaress), [Maria](https://github.com/dudaa28) | Início: 04/05 <br> Fim: 05/05 | [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Enzo](https://github.com/EnzoEmir) |
+| Técnica de Elicitação: Observação | Início: 01/05 <br> Fim: 04/05 | [Eduardo](https://github.com/eduardodpms), [Victor](https://github.com/VictorPontual) | Início: 04/05 <br> Fim: 05/05 | [Danielle](https://github.com/danielle-soaress), [Marcelo](https://github.com/MM4k) |
+| Técnica de Priorização: $100 Test | Início: 01/05 <br> Fim: 04/05 | [Enzo](https://github.com/EnzoEmir), [Danielle](https://github.com/danielle-soaress) | Início: 04/05 <br> Fim: 05/05 | [Victor](https://github.com/VictorPontual), [Maria](https://github.com/dudaa28) |
+| Técnica de Priorização: First Things First | Início: 01/05 <br> Fim: 04/05 | [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Enzo](https://github.com/EnzoEmir) | Início: 04/05 <br> Fim: 05/05 | [Eduardo](https://github.com/eduardodpms), [Marcelo](https://github.com/MM4k) |
+| Técnica de Priorização: Three-Level Scale | Início: 01/05 <br> Fim: 04/05 | [Victor](https://github.com/VictorPontual), [Marcelo](https://github.com/MM4k) | Início: 04/05 <br> Fim: 05/05 | [Danielle](https://github.com/danielle-soaress), [Leticia](https://github.com/Leticia-Arisa-K-Higa) |
+| Técnica de Priorização: In or Out | Início: 01/05 <br> Fim: 04/05 | [Maria](https://github.com/dudaa28), [Enzo](https://github.com/EnzoEmir) | Início: 04/05 <br> Fim: 05/05 | [Eduardo](https://github.com/eduardodpms), [Victor](https://github.com/VictorPontual) |
+| Gravação da Apresentação | Início: 04/05 <br> Fim: 04/05 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 04/05 <br> Fim: 05/05 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms) |
 
 
 ### **Entregue 📬**
@@ -76,7 +76,7 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 <br>
 
 
-## Entrega 3 (Modelagem de Requisitos 1)
+## E3: Modelagem de Requisitos 1
 
 
 ### Planejado 💡
@@ -100,7 +100,7 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 <br>
 
 
-## Entrega 4 (Modelagem de Requisitos 2)
+## E4: Modelagem de Requisitos 2
 
 
 ### Planejado 💡
@@ -123,7 +123,7 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 <br>
 
 
-## Entrega 5 (Análise de Requisitos: Verificação e Validação)
+## E5: Verificação e Validação
 
 
 ### Planejado 💡
@@ -147,7 +147,7 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 <br>
 
 
-## Entrega 6 (Pós-Rastreabilidade)
+## E6: Pós-Rastreabilidade
 
 
 ### Planejado 💡
@@ -177,7 +177,7 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 
 > <a id="CRONO2" href="#TEC4">4.</a> UNIVERSIDADE DE BRASÍLIA. *FGA0303 - Engenharia de Requisitos T03/2024.1*. Disponível em: <<https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf>>. Acesso em: 12/04/2025.
 
-
+<br>
 
 ## Histórico de Versões 📅
 
