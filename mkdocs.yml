@@ -1,5 +1,5 @@
-repo_url: https://github.com/Requisitos-de-Software/2025.1-e-Titulo/tree/main
-repo_name: 2025.1-e-Titulo
+repo_url: https://github.com/Requisitos-de-Software/2025.1-FGTS/tree/main
+repo_name: 2025.1-FGTS
 
 markdown_extensions:
   - admonition
@@ -16,12 +16,12 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
-site_name: 2025.1-e-Título
+site_name: 2025.1-FGTS
 
 theme:
   name: material
-  favicon: assets/etitulo_logo.png
-  logo: assets/etitulo_logo.png
+  favicon: assets/logo_fgts.png
+  logo: assets/logo_fgts.png
   features:
     - navigation.instant
     - navigation.instant.progress

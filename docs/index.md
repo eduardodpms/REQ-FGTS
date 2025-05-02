@@ -1,17 +1,17 @@
 <h1 style="text-align:center; margin-bottom: -10px;">
-  <b><i>e-Título</i></b>
+  <b><i>FGTS</i></b>
 </h1>
 
 <figure style="text-align: center;">
-  <img src="assets/etitulo_logo.png" style="max-width: 80%;">
+  <img src="assets/logo_fgts.png" style="max-width: 80%;">
   <figcaption>
-    Figura 1: <i>Logo e-Título</i>,&nbsp Fonte: <i><a href="https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo ">tse.jus.br</a></i>
+    Figura 1:<i> Logo FGTS</i>,&nbsp Fonte: <i><a href="https://www.caixa.gov.br/atendimento/aplicativos/fgts/Paginas/default.aspx">caixa.gov.br</a></i>
   </figcaption>
 </figure>
 
 ## • Apresentação 💡
 
-Neste site está hospedada toda a documentação referente às atividades desenvolvidas pelo Grupo 07 na disciplina de "Requisitos de Software", da [Universidade de Brasília (FCTE)](https://fcte.unb.br). Dessa forma,  verifica-se todo o processo de desenvolvimento da atividade, incluindo entrevistas, reuniões, atas, gerência (pré-rastreabilidade e pós-rastreabilidade), elicitação, modelagem e análise de requisitos. A escolha do app *e-Título* está detalhada na página [Aplicativo](Planejamento/Aplicativo.md).
+Neste site está hospedada toda a documentação referente às atividades desenvolvidas pelo Grupo 07 na disciplina de "Requisitos de Software", da [Universidade de Brasília (FCTE)](https://fcte.unb.br). Dessa forma,  verifica-se todo o processo de desenvolvimento da atividade, incluindo entrevistas, reuniões, atas, gerência (pré-rastreabilidade e pós-rastreabilidade), elicitação, modelagem e análise de requisitos. A escolha do app *FGTS* está detalhada na página [Aplicativo](Planejamento/Aplicativo.md).
 
 <br>
 
