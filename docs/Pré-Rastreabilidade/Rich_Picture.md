@@ -10,27 +10,20 @@ Para a elaboração deste artefato, foi realizado um estudo do ambiente do aplic
 
 ## Resultados
 
-A seguir, as Figuras 1 e 2 mostram as versões do Rich Picture desenvolvidas para o aplicativo E-Titulo. A Figura 3 corresponde à legenda do Rich Picture.
+A seguir, a Figura 1 mostra o Rich Picture desenvolvido para o aplicativo do FGTS. A Figura 2 corresponde à legenda do Rich Picture.
 
 <br>
 
-![Rich Picture V1](../assets/rich-pictures-finais/richPictureV1.png)
+![Rich Picture V1](../assets/rich-pictures-finais/richPictureV3-fgts.png)
 <div style="text-align: center;">
-    Figura 1: Primeira versão do Rich Picture (Fonte: Eduardo de Pina, 2025)
-</div>
-
-<br>
-
-![Rich Picture V2](../assets/rich-pictures-finais/richPictureV2.jpeg)
-<div style="text-align: center;">
-    Figura 2: Segunda e atual versão do Rich Picture (Fonte: Danielle Soares, 2025)
+    Figura 1:  Rich Picture (Fonte: Danielle Soares, 2025)
 </div>
 
 <br>
 
 ![Legenda Rich Picture](../assets/rich-pictures-finais/richPicutreV2Legenda.jpeg)
 <div style="text-align: center;">
-    Figura 3: Legenda do Rich Picture (Fonte: Danielle Soares, 2025)
+    Figura 2: Legenda do Rich Picture (Fonte: Danielle Soares, 2025)
 </div>
 
 ## Referências
@@ -43,3 +36,4 @@ A seguir, as Figuras 1 e 2 mostram as versões do Rich Picture desenvolvidas par
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-------------: | :-: |
 | `1.0` | 12/04/2025 | Metodologias e Ferramentas, Resultados e Referências | [Danielle Soares](https://github.com/danielle-soaress) | [Victor Pontual](https://github.com/VictorPontual) |
+| `1.1` | 03/05/2025 | Atualização do Rich Picture | [Danielle Soares](https://github.com/danielle-soaress), [Maria Eduarda](https://github.com/dudaa28) | |
