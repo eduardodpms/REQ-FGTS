@@ -1,9 +1,22 @@
 # Introspecção
 
+### Requisitos Elicitados
 
-## Resultados
+A seguir, as Tabelas 2 e 3 descrevem os requisitos elicitados, incluindo tanto os que foram implementados quanto os que ainda não foram. Por fim, a Tabela 2 apresenta a legenda das Tabelas 2 e 3.
 
-## Requisitos Funcionais
+<font size="3"><p style="text-align: center">Tabela 2: Legenda</p></font>
+
+
+| Código | Descrição                                      |
+|-------------|------------------------------------------------|
+| **RFx**     | Requisito Funcional nº x                      |
+| **RNFx**    | Requisito Não-Funcional nº x                  |
+| **ISx**     | Requisito nº x elicitado pela introspecção     |
+
+
+
+<font size="3"><p style="text-align: center">Tabela 3: Requisitos Funcionais</p></font>
+
 
 | Código | Requisito Funcional | ID | Implementado |
 | :-: | - | :-: | :-: |
@@ -26,7 +39,8 @@
 | RF17  | O aplicativo deve permitir a solicitação de ressarcimento de valores do PIS/PASEP | IS17 | Sim |
 
 
-## Requisitos Não Funcionais
+<font size="3"><p style="text-align: center">Tabela 4: Requisitos Não Funcionais</p></font>
+
 
 | Código | Requisito Funcional | ID | Implementado |
 | :-: | - | :-: | :-: |
@@ -37,7 +51,6 @@
 | RNF05  | -- | IS22 | -- |
 | RNF06  | -- | IS23 | -- |
 | RNF07  | -- | IS24 | -- |
-
 
 
 <br>
