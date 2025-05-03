@@ -98,7 +98,7 @@ Para fins experimentais e complementares, foi utilizada a ferramenta de Intelig�
 Após análise dos resultados obtidos nos métodos desenvolvidos para definição de perfil de usuário, foi montada a lista a seguir, a qual generaliza as características de um usuário "padrão":
 
 | Atributo | Descrição |
-|:-:|-|
+|-|-|
 | Idade | 24-55 anos |
 | Sexo | Indistinto |
 | Região | Todas as regiões do Brasil |
