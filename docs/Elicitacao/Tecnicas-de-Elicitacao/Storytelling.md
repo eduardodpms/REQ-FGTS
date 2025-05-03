@@ -21,6 +21,20 @@ Beatriz abre o app FGTS, mas não entende direito o que é “sistemática de sa
 
 No dia seguinte, sua filha a ajuda a navegar no app. Com paciência, ela encontra o saldo e consegue ver que pode sacar. Após orientação da filha, Beatriz cadastra sua conta bancária e solicita o valor. Ela comenta com a filha com um tom irônico que se tivesse uma explicação com passo a passo ou ícones para guiá-la, ela mesma conseguiria ter feito o saque. 
 
+## Patrícia Nogueira (Persona Primária) 
+
+Patrícia, mãe de dois filhos e técnica de enfermagem, leva uma vida bem corrida, por isso sempre procura formas simples de resolver seus problemas.
+
+Depois que um desastre natural atingiu sua residência, ela precisou fazer um saque emergencial do FGTS. Com o dia cheio entre trabalho, filhos e ainda tendo que resolver sozinha os problemas de casa, já que seu marido estava em uma viagem de negócios e só voltaria em dois dias, Patrícia não queria perder tempo indo até uma agência e enfrentando filas. Foi então que se lembrou do aplicativo do FGTS.
+
+Ela decidiu instalar e, para sua surpresa, achou tudo muito fácil e rápido. Em poucos minutos, cadastrou sua conta, solicitou o saque e ainda recebeu notificações do andamento. Isso a deixou aliviada, já que conseguiu resolver tudo sem sair de casa e sem desperdiçar o tempo precioso que não tinha.
+
+### Antônio Ribeiro (Persona Secundária)
+
+Antônio, de 61 anos, aposentado e morador de Porto Alegre, não queria ocupar o tempo dos filhos levando-o até a agência para consultar seus saldos e fazer saques.Quando comentou isso com eles, seus filhos sugeriram que ele usasse o aplicativo do FGTS, mas Antônio ficou receoso, já que não tem muita prática com tecnologias. Seu filho, então, garantiu que o ajudaria. Juntos, instalaram o aplicativo no celular.
+
+Para a surpresa de ambos, o aplicativo era fácil de usar. Com letras grandes, poucos botões por tela e um login simples, conseguiram verificar os dados da conta bancária e fazer o pedido de saque sem dificuldades. Antônio ficou aliviado e satisfeito por poder resolver tudo em casa, sem tomar o tempo precioso dos filhos. Ele até acha que agora consegue mexer sozinho.
+
 ## 5. Requisitos elicitados
 **Legendas:**
 
