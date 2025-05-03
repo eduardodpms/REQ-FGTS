@@ -31,9 +31,10 @@ Ela decidiu instalar e, para sua surpresa, achou tudo muito fácil e rápido. Em
 
 ### Antônio Ribeiro (Persona Secundária)
 
-Antônio, de 61 anos, aposentado e morador de Porto Alegre, não queria ocupar o tempo dos filhos levando-o até a agência para consultar seus saldos e fazer saques.Quando comentou isso com eles, seus filhos sugeriram que ele usasse o aplicativo do FGTS, mas Antônio ficou receoso, já que não tem muita prática com tecnologias. Seu filho, então, garantiu que o ajudaria. Juntos, instalaram o aplicativo no celular.
+Antônio, de 61 anos, aposentado e morador de Porto Alegre, não queria ocupar o tempo dos filhos levando-o até a agência para consultar seus saldos e fazer saques. Quando comentou isso com eles, seus filhos sugeriram que ele usasse o aplicativo do FGTS, mas Antônio ficou receoso, já que não tem muita prática com tecnologias. Seu filho, então, garantiu que o ajudaria. Juntos, instalaram o aplicativo no celular.
 
-Para a surpresa de ambos, o aplicativo era fácil de usar. Com letras grandes, poucos botões por tela e um login simples, conseguiram verificar os dados da conta bancária e fazer o pedido de saque sem dificuldades. Antônio ficou aliviado e satisfeito por poder resolver tudo em casa, sem tomar o tempo precioso dos filhos. Ele até acha que agora consegue mexer sozinho.
+Ao abrir o app, Antônio logo percebeu uma dificuldade: as letras eram pequenas. Porém, com poucos botões por tela e um login simples, ele conseguiu, com a ajuda do filho para ler as informações, verificar os dados da conta bancária e fazer o pedido de saque. No fim, Antônio ficou satisfeito por ter resolvido tudo em casa, mas comentou que, se o aplicativo tivesse letras maiores, seria ainda melhor.
+
 
 ## 5. Requisitos elicitados
 **Legendas:**
