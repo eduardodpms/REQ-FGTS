@@ -21,7 +21,7 @@ A seguir, a Figura 1 mostra o Rich Picture desenvolvido para o aplicativo do FGT
 
 <br>
 
-![Legenda Rich Picture](../assets/rich-pictures-finais/richPicutreV2Legenda.jpeg)
+![Legenda Rich Picture](../assets/rich-pictures-finais/richPictureV3Legenda-fgts.png)
 <div style="text-align: center;">
     Figura 2: Legenda do Rich Picture (Fonte: Danielle Soares, 2025)
 </div>
@@ -36,4 +36,5 @@ A seguir, a Figura 1 mostra o Rich Picture desenvolvido para o aplicativo do FGT
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-------------: | :-: |
 | `1.0` | 12/04/2025 | Metodologias e Ferramentas, Resultados e Referências | [Danielle Soares](https://github.com/danielle-soaress) | [Victor Pontual](https://github.com/VictorPontual) |
-| `1.1` | 03/05/2025 | Atualização do Rich Picture | [Danielle Soares](https://github.com/danielle-soaress), [Maria Eduarda](https://github.com/dudaa28) | |
+| `1.1` | 03/05/2025 | Atualização do Rich Picture | [Danielle Soares](https://github.com/danielle-soaress), [Maria Eduarda](https://github.com/dudaa28) | --- |
+| `1.2` | 03/05/2025 | Atualização da Legenda | [Danielle Soares](https://github.com/danielle-soaress), [Maria Eduarda](https://github.com/dudaa28) | --- |
