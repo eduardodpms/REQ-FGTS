@@ -61,6 +61,9 @@ O projeto será desenvolvido em Sprints com duração de **15 dias**, seguindo o
 
 Esse ciclo será repetido até a finalização do projeto, sempre respeitando as datas de entrega estabelecidas.
 
+Estando disponível essa metodologia usada em um modelo de cronograma do planejamento de entregas no [roadmap do Figma](https://www.figma.com/board/xSSxSQVfdcaUxAc1tFFIGa/MAPEAMENTO-REQUISITOS--Grupo-07-?node-id=0-1&p=f&t=N8YBHnmxADRwqMQq-0).
+
+
 
 ## Referências
 

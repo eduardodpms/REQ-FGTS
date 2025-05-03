@@ -1,6 +1,6 @@
-<h1 align="center">
-  <b><i>App FGTS</i></b>
-</h1>
+<h2 align="center">
+  <b><i>FGTS - Fundo de Garantia do Tempo de Serviço</i></b>
+</h2>
 
 <div align="center">
   <img src="docs/assets/logo_fgts.png">
@@ -20,8 +20,7 @@ Repositório dedicado ao desenvolvimento de atividades referentes à turma 03 da
 
 ## 2. Documentação 🗃️
 
-Toda a documentação pertinente ao desenvolvimento do projeto está mantida ná página referenciada pelo link a
-seguir. Esse registro é sustentado com o auxílio das ferramentas [*GitHub Pages*](https://pages.github.com) e [*MkDocs*](https://www.mkdocs.org).
+Toda a documentação pertinente ao desenvolvimento do projeto está mantida na página referenciada pelo link a seguir. Esse registro é sustentado com o auxílio das ferramentas [*GitHub Pages*](https://pages.github.com) e [*MkDocs*](https://www.mkdocs.org).
 
 ### *Acesse:* *https://requisitos-de-software.github.io/2025.1-FGTS* 💻
 

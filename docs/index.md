@@ -1,6 +1,4 @@
-<h1 style="text-align:center; margin-bottom: -10px;">
-  <b><i>FGTS</i></b>
-</h1>
+# ◾*** FGTS - Fundo de Garantia do Tempo de Serviço***
 
 <figure style="text-align: center;">
   <img src="assets/logo_fgts.png" style="max-width: 80%;">
@@ -38,5 +36,5 @@ Neste site está hospedada toda a documentação referente às atividades desenv
 | `1.0` | 08/04/2025 | Formação das GitPages | [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) | [Eduardo de Pina](https://github.com/eduardodpms), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.1` | 10/04/2025 | Modificação do texto | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.2` | 11/04/2025 | Atualização do texto e da aparência | [Eduardo de Pina](https://github.com/eduardodpms) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| `1.3` | 01/05/2025 | Modificação do texto | [Danielle Soares](https://github.com/danielle-soaress) | --- |
-| `1.4` | 02/05/2025 | Atualização da aparência das tabelas | [Danielle Soares](https://github.com/danielle-soaress) | --- |
+| `1.3` | 01/05/2025 | Modificação do texto | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `1.4` | 02/05/2025 | Atualização da aparência das tabelas | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
