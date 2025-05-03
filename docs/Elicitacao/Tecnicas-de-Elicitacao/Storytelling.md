@@ -1,6 +1,14 @@
 # Storytelling
 
-## Lucas Almeida (Persona Primária) 
+## Introdução
+
+Para realizar a elicitação de requisitos, uma das técnicas utilizadas foi o storytelling, aplicado com base nas personas criadas a partir dos perfis de usuários. Foram utilizadas quatro personas, sendo duas primárias e duas secundárias. Foi desenvolvida uma história (storytelling) para cada persona e, a partir delas, foram identificadas suas dificuldades, necessidades e tarefas. Com base nessas observações, alguns requisitos foram definidos.
+
+## Storytelling
+
+Storytelling é uma técnica que utiliza histórias como ferramenta de comunicação para compartilhar conhecimentos e experiências. Ao utilizar narrativas do cotidiano, essa abordagem torna o processo mais envolvente e divertido. No contexto de levantamento de requisitos, o storytelling permite que os usuários compartilhem experiências ao interagir com o sistema que está sendo analisado, ajudando a identificar necessidades, desafios e expectativas. As histórias coletadas são então compartilhadas com a equipe envolvida no projeto, ampliando o conhecimento sobre os usuários e suas necessidades <a id="anchor_1" href="#REF1">^1^</a>.
+
+### Lucas Almeida (Persona Primária) 
 
 Lucas Almeida, 26 anos, é analista de suporte de TI. Ele mora em São Paulo, é independente, prático e resolve praticamente tudo pelo celular. Lucas já está acostumado a usar aplicativos bancários e acompanha seu FGTS com frequência. 
 
@@ -11,7 +19,7 @@ Ao entrar no app, ele encontra o valor disponível, ao clicar para sacar, perceb
 Após confirmar os dados e inserir sua conta bancária, ele finaliza o processo e recebe uma notificação de que o saque foi solicitado com sucesso. Como Lucas estava fazendo aniversário nesse mês, ele ficou muito animado e decidiu sair com os amigos para comemorar o seu saque.
 
 
-## Beatriz Fernandes (Persona Secundária) 
+### Beatriz Fernandes (Persona Secundária) 
 
 Beatriz Fernandes tem 45 anos e é comerciante autônoma em Recife. Ela trabalha o dia todo em sua loja e usa o celular só quando precisa, principalmente à noite. 
 
@@ -21,7 +29,7 @@ Beatriz abre o app FGTS, mas não entende direito o que é “sistemática de sa
 
 No dia seguinte, sua filha a ajuda a navegar no app. Com paciência, ela encontra o saldo e consegue ver que pode sacar. Após orientação da filha, Beatriz cadastra sua conta bancária e solicita o valor. Ela comenta com a filha com um tom irônico que se tivesse uma explicação com passo a passo ou ícones para guiá-la, ela mesma conseguiria ter feito o saque. 
 
-## Patrícia Nogueira (Persona Primária) 
+### Patrícia Nogueira (Persona Primária) 
 
 Patrícia, mãe de dois filhos e técnica de enfermagem, leva uma vida bem corrida, por isso sempre procura formas simples de resolver seus problemas.
 
@@ -49,7 +57,35 @@ Ao abrir o app, Antônio logo percebeu uma dificuldade: as letras eram pequenas.
 
 | ID   | Descrição                                                                                                                                                                | Tipo |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |:----:|
-| ST01 |  |  |
+| ST01 | Páginas com poucos botões para facilitar o acesso. | RF |
+| ST02 | Exibir um resumo claro dos tipos de saque disponíveis. | RF |
+| ST03 | Enviar notificações sobre o status das solicitações de saque. | RF |
+| ST04 | Utilizar termos e ícones familiares aos usuários. | RF |
+| ST05 | Permitir o cadastro de conta bancária | RF |
+| ST06 | Permitir a solicitação de saques. | RF |
+| ST07 | Disponibilizar um guia interativo para orientar o usuário durante o processo. | RF |
+| ST08 | Permitir o ajuste do tamanho das fontes na interface. | RF |
+| ST09 | Enviar notificações sobre o andamento da solicitação de saque. | RF |
+| ST010 | Permitir a visualização dos dados da conta bancária cadastrada. | RF |
+| ST011 | Oferecer uma interface de login simples. | RF |
+| ST012 | Disponibilizar uma página para escolha da sistemática de saque. | RF |
+| ST013 | Incluir a opção de saque no modelo ‘Saque-aniversário’. | RF |
+| ST014 | Incluir a opção de saque no modelo ‘Saque-rescisão’. | RF |
+| ST015 | Enviar notificação ao usuário quando o saque for recebido. | RF |
+| ST016 | Disponibilizar termo de adesão. | RF |
+| ST017 | Garantir tempo de resposta de até 1 segundo para o cadastro da conta bancária. | RNF |
+| ST018 | Garantir tempo de resposta de até 1 segundo para a solicitação de saque. | RNF |
+| ST019 | Garantir tempo de resposta de até 1 segundo para o processo de login. | RNF |
+
+
+## Referências
+
+> REQUISITOS DE SOFTWARE. *Aplicativo – Lichess (2022.2)*. Disponível em: <<https://requisitos-de-software.github.io/2022.2-Lichess/elicitacao/storytelling/>>. Acesso em: 03/05/2025.
+
+> <a id="REF1" href="#anchor_1">1.</a> SERRANO, Milene; SERRANO, Maurício. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponícel em: <<https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>>. Acesso em: 03/05/2025.
+
+
+
 <br>
 
 ## Histórico de Versões 📅
