@@ -65,6 +65,8 @@ Para fins experimentais, foi utilizado o ChatGPT para gerar um perfil de usuári
 
 > <a id="PERFIL2" href="#PERFIL2">2.</a> MENDES, Nycolli Bussolo. As transformações digitais das instituições financeiras e sua influência na redefinição do papel das agências como canal de serviços: perfil dos usuários. 2020. 66 f. Trabalho de Conclusão de Curso (Bacharelado em Ciências Econômicas) – Universidade Federal de Santa Catarina, Florianópolis, 2020. Disponível em: https://repositorio.ufsc.br/bitstream/handle/123456789/218557/TCC_-_Nycolli_Bussolo_Mendes_.pdf?sequence=2&isAllowed=y. Acesso em: 2 maio 2025.
 
+> <a id="PERFIL3" href="#PERFIL3">3.</a> OPENAI. ChatGPT (versão GPT-4). São Francisco, 2025. Disponível em: https://chat.openai.com. Acesso em: 2 maio 2025.
+
 ## Histórico de Versões 📅
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
