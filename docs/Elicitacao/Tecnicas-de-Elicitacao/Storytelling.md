@@ -77,6 +77,11 @@ Ao abrir o app, Antônio logo percebeu uma dificuldade: as letras eram pequenas.
 | ST018 | Garantir tempo de resposta de até 1 segundo para a solicitação de saque. | RNF |
 | ST019 | Garantir tempo de resposta de até 1 segundo para o processo de login. | RNF |
 
+## Gravação da Elicitação
+
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAhJHENC3Vk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 
 ## Referências
 
@@ -93,3 +98,5 @@ Ao abrir o app, Antônio logo percebeu uma dificuldade: as letras eram pequenas.
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0`  | 03/05 | Criação da aba de storytelling | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Marcelo Makoto](https://github.com/MM4k) | - |
+| `1.1`  | 03/05 | Adição da seção de Introdução | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.2`  | 04/05 | Adição da gravação | [Marcelo Makoto](https://github.com/MM4k) | - |
