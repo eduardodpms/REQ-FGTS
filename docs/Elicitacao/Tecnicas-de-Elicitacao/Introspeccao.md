@@ -14,13 +14,34 @@ O processo de introspecção foi realizado individualmente pelas integrantes Mar
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
 
-| Nome          | Data       | Hora  |
-|---------------|------------|-------|
-| Danielle | 03/05/2023 | 14:30 |
-| Maria Eduarda | 03/05/2023 | 14:30 |
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Data</th>
+      <th>Hora</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Danielle</td>
+      <td>03/05/2023</td>
+      <td>14:30</td>
+    </tr>
+    <tr>
+      <td>Maria Eduarda</td>
+      <td>03/05/2023</td>
+      <td>14:30</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 
-<p style="text-align: center; font-size: 16px;">**Fonte**: <i>Maria Eduarda</i></p>
+<p style="text-align: center; font-size: 16px;">Fonte: <i>Maria Eduarda</i></p>
 
 
 
@@ -32,13 +53,34 @@ A seguir, as Tabelas 3 e 4 descrevem os requisitos elicitados, incluindo tanto o
 
 
 
-| Código   | Descrição                                       |
-|----------|-------------------------------------------------|
-| **RFx**  | Requisito Funcional nº x                        |
-| **RNFx** | Requisito Não-Funcional nº x                    |
-| **ISx**  | Requisito nº x elicitado pela introspecção      |
+<div align="center">
 
-<p style="text-align: center; font-size: 16px;">**Fonte**: <i>Danielle</i></p>
+<table>
+  <thead>
+    <tr>
+      <th>Código</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>RFx</strong></td>
+      <td>Requisito Funcional nº x</td>
+    </tr>
+    <tr>
+      <td><strong>RNFx</strong></td>
+      <td>Requisito Não-Funcional nº x</td>
+    </tr>
+    <tr>
+      <td><strong>ISx</strong></td>
+      <td>Requisito nº x elicitado pela introspecção</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<p style="text-align: center; font-size: 16px;">Fonte: <i>Danielle</i></p>
 
 
 ### Requisitos Funcionais
@@ -66,7 +108,7 @@ A seguir, as Tabelas 3 e 4 descrevem os requisitos elicitados, incluindo tanto o
 | RF16  | O aplicativo deve conter uma seção de ajuda com orientações sobre o uso do aplicativo | IS16 | Não |
 | RF17  | O aplicativo deve permitir a solicitação de ressarcimento de valores do PIS/PASEP | IS17 | Sim |
 
-<p style="text-align: center; font-size: 16px;">**Fonte**: <i>Danielle</i></p>
+<p style="text-align: center; font-size: 16px;">Fonte: <i>Danielle</i></p>
 
 ### Requisitos Não Funcionais
 
@@ -84,7 +126,7 @@ A seguir, as Tabelas 3 e 4 descrevem os requisitos elicitados, incluindo tanto o
 | RNF06   | O aplicativo deve proporcionar segurança de dados pessoais                          | IS23 | Sim          |
 | RNF07   | O aplicativo deve proporcionar agilidade ao acessar as funcionalidades              | IS24 | Sim          |
 
-<p style="text-align: center; font-size: 16px;">**Fonte**: <i>Maria Eduarda</i></p>
+<p style="text-align: center; font-size: 16px;">Fonte: <i>Maria Eduarda</i></p>
 
 ## Gravação da Elicitação
 
