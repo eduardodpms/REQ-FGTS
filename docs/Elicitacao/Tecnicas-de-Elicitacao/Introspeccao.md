@@ -160,6 +160,13 @@ A seguir, as Tabelas 3 e 4 descrevem os requisitos elicitados, incluindo tanto o
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5DNvaRJVY74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
+<div style="border-left: 4px solid #1e88e5; background-color: #e3f2fd; padding: 16px; border-radius: 4px; font-family: sans-serif;">
+  <strong style="color: #1e88e5;">&#9432; Info</strong>
+  <p style="margin-top: 8px;">
+    Os requisitos elicitados por essa técnica podem divergir dos demais, tendo em vista que é uma técnica aplicada por participantes do projeto por sua definição.
+  </p>
+</div>
+
 
 ## Referências
 
