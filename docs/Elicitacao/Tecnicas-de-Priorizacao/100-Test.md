@@ -8,7 +8,6 @@ A técnica dos 100 dólares é um método de priorização que simula a alocaç�
 
 ## Participantes
 
-
 <font size="3"><p style="text-align: center">Tabela 1: Participantes.</p></font>
 
 <div align="center">
@@ -23,10 +22,9 @@ A técnica dos 100 dólares é um método de priorização que simula a alocaç�
 
 <font size="3"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress).</p></font>
 
-
 ## Metodologia
 
-Para aplicar a técnica de priorização dos 100 dólares, foi realizada uma reunião remota via Discord no dia 04/05/2025, com início às 17h45, entre os participantes: Danielle Soares, Enzo Emir e Maria Eduarda Quaresma (ver Tabela 1). A reunião teve duração aproximada de 25 minutos. Durante o encontro, um dos integrantes atuou como mediador, explicando ao outro os princípios da técnica, que consiste em distribuir um total limitado de recursos fictícios — neste caso, 100 dólares imaginários — entre os requisitos funcionais previamente elicitados por meio das técnicas de Observação e Introspecção.
+Para aplicar a técnica de priorização dos 100 dólares, foi realizada uma reunião remota via Discord no dia 04/05/2025, com início às 17h45, entre os participantes: Danielle Soares, Enzo Emir e Maria Eduarda Quaresma (ver Tabela 1). A reunião teve duração aproximada de 25 minutos. Durante o encontro, um dos integrantes atuou como mediador, explicando ao outro os princípios da técnica, que consisteem distribuir um total limitado de recursos fictícios — neste caso, 100 dólares imaginários — entre os requisitos funcionais previamente elicitados por meio das técnicas de Observação e Introspecção.
 
 Cada participante recebeu sua própria planilha para alocar os valores conforme a importância percebida de cada requisito. Embora o valor total disponível fosse de 100 dólares por pessoa, não houve imposição de valores mínimos ou máximos por requisito, o que permitiu maior liberdade de priorização. Ao final da alocação individual, os dados foram consolidados em uma planilha única, na qual se somaram os valores atribuídos a cada requisito, revelando aqueles com maior prioridade coletiva.
 
