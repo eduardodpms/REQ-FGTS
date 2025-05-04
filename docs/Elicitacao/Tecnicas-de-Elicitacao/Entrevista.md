@@ -8,7 +8,7 @@ Neste trabalho, foi realizada uma entrevista com um usuário do aplicativo FGTS,
 
 ## Metodologia
 
-A entrevista foi aplicada por **Enzo Emir**, com perguntas organizadas em estrutura de funil (do geral ao específico). As respostas foram registradas manualmente e analisadas posteriormente para a identificação dos requisitos.
+A entrevista foi aplicada por **Enzo Emir e Eduardo de Pina**, com perguntas organizadas em estrutura de funil (do geral ao específico). As respostas foram registradas manualmente e analisadas posteriormente para a identificação dos requisitos.
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
@@ -24,7 +24,7 @@ A entrevista foi aplicada por **Enzo Emir**, com perguntas organizadas em estrut
   </thead>
   <tbody>
     <tr>
-      <td>Entrevistado (anônimo)</td>
+      <td>Entrevistado 1 (anônimo)</td>
       <td>03/05/2025</td>
       <td>17:30</td>
     </tr>
@@ -33,12 +33,23 @@ A entrevista foi aplicada por **Enzo Emir**, com perguntas organizadas em estrut
       <td>03/05/2025</td>
       <td>17:30</td>
     </tr>
+    <tr>
+      <td>Entrevistado 2 (anônimo)</td>
+      <td>04/05/2025</td>
+      <td>15:00</td>
+    </tr>
+    <tr>
+      <td>Entrevistador: Enzo Emir e Eduardo de Pina</td>
+      <td>04/05/2025</td>
+      <td>15:00</td>
+    </tr>
   </tbody>
 </table>
 
 </div>
 
-<p style="text-align: center; font-size: 16px;">Fonte: <i>Enzo Emir</i></p>
+
+<p style="text-align: center; font-size: 16px;">Fonte: <i>Enzo Emir e Eduardo de Pina</i></p>
 
 ## Requisitos Elicitados
 
