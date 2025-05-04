@@ -122,10 +122,10 @@ A seguir, os requisitos elicitados foram organizados em duas categorias: funcion
 ## Gravação da Elicitação
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://youtu.be/r9nRinXUWE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/r9nRinXUWE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://youtu.be/_trr3zNFNu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/_trr3zNFNu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
 <a href="../../../assets/Entrevista.pdf" target="_blank">📄 Ver documento completo</a>
@@ -139,5 +139,6 @@ A seguir, os requisitos elicitados foram organizados em duas categorias: funcion
 
 | Versão | Data       | Descrição                                      | Autor(es)   | Revisor(es) |
 |:------:|:----------:|:-----------------------------------------------|:------------|:-----------:|
-|  1.0   | 04/05/2025 | Criação da estrutura de entrevista e tabelas   | Enzo Emir   | -           |
-|  1.1   | 04/05/2025 | Criação da estrutura de entrevista e tabelas   | Enzo Emir, Eduardo de Pina   | -           |
+|  1.0   | 04/05/2025 | Criação da estrutura de entrevista e tabelas   | Enzo Emir   | [Marcelo Makoto](https://github.com/MM4k)
+|  1.1   | 04/05/2025 | Criação da estrutura de entrevista e tabelas   | Enzo Emir, Eduardo de Pina   | [Marcelo Makoto](https://github.com/MM4k)           |
+|  1.2   | 04/05/2025 | Correção dos links dos vídeos   | [Marcelo Makoto](https://github.com/MM4k)   | -           |
