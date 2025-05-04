@@ -1,19 +1,50 @@
 # Introspecção
 
-### Requisitos Elicitados
 
-A seguir, as Tabelas 2 e 3 descrevem os requisitos elicitados, incluindo tanto os que foram implementados quanto os que ainda não foram. Por fim, a Tabela 2 apresenta a legenda das Tabelas 2 e 3.
+## Introdução
+
+A introspecção é uma técnica muito rica e profunda de elicitação de requisitos. Ela consiste em compreender quais propriedades o sistema deve possuir para ser bem-sucedido, exigindo que o engenheiro de requisitos imagine o que ele gostaria que o sistema fizesse, caso estivesse desempenhando uma tarefa com os recursos disponíveis. Por meio dessa reflexão pessoal e analítica, é possível levantar aspectos essenciais do sistema, mesmo sem a presença direta de usuários ou especialistas.
+
+Dessa forma, os requisitos elicitados a partir da introspecção estão organizados nas Tabelas 2 e 3, categorizados entre requisitos funcionais e não-funcionais.
+
+## Metodologia
+
+O processo de introspecção foi realizado individualmente pelas integrantes Maria Eduarda e Danielle. Cada uma fez sua própria análise do aplicativo, aplicando a técnica de forma isolada. Em seguida, por meio de uma chamada, categorizamos as elicitações em requisitos funcionais e não-funcionais. Ao final desse processo individual, nos reunimos para avaliar em conjunto cada uma das elicitações feitas pela técnica e organizamos os requisitos resultantes nas Tabelas 3 e 4.
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
+
+<div align="center">
+
+| Nome          | Data       | Hora  |
+|---------------|------------|-------|
+| Danielle | 03/05/2023 | 14:30 |
+| Maria Eduarda | 03/05/2023 | 14:30 |
+
+**Fonte**: Maria Eduarda
+
+</div>
+
+
+## Requisitos Elicitados
+
+A seguir, as Tabelas 3 e 4 descrevem os requisitos elicitados, incluindo tanto os que foram implementados quanto os que ainda não foram. Por fim, a Tabela 2 apresenta a legenda das Tabelas 3 e 4.
 
 <font size="3"><p style="text-align: center">Tabela 2: Legenda</p></font>
 
 
-| Código | Descrição                                      |
-|-------------|------------------------------------------------|
-| **RFx**     | Requisito Funcional nº x                      |
-| **RNFx**    | Requisito Não-Funcional nº x                  |
-| **ISx**     | Requisito nº x elicitado pela introspecção     |
+<div align="center">
 
+| Código   | Descrição                                       |
+|----------|-------------------------------------------------|
+| **RFx**  | Requisito Funcional nº x                        |
+| **RNFx** | Requisito Não-Funcional nº x                    |
+| **ISx**  | Requisito nº x elicitado pela introspecção      |
 
+**Fonte**: Danielle
+
+</div>
+
+## Requisitos Funcionais
 
 <font size="3"><p style="text-align: center">Tabela 3: Requisitos Funcionais</p></font>
 
@@ -38,25 +69,41 @@ A seguir, as Tabelas 2 e 3 descrevem os requisitos elicitados, incluindo tanto o
 | RF16  | O aplicativo deve conter uma seção de ajuda com orientações sobre o uso do aplicativo | IS16 | Não |
 | RF17  | O aplicativo deve permitir a solicitação de ressarcimento de valores do PIS/PASEP | IS17 | Sim |
 
+**Fonte**: Danielle
+
+## Requisitos Não Funcionais
+
 
 <font size="3"><p style="text-align: center">Tabela 4: Requisitos Não Funcionais</p></font>
 
 
-| Código | Requisito Funcional | ID | Implementado |
-| :-: | - | :-: | :-: |
-| RNF01  | -- | IS18 | -- |
-| RNF02  | -- | IS19 | -- |
-| RNF03  | -- | IS20 | -- |
-| RNF04  | -- | IS21 | -- |
-| RNF05  | -- | IS22 | -- |
-| RNF06  | -- | IS23 | -- |
-| RNF07  | -- | IS24 | -- |
+| Código  | Requisito Funcional                                                                 | ID    | Implementado |
+|:-------:|--------------------------------------------------------------------------------------|:-----:|:------------:|
+| RNF01   | O aplicativo deve fornecer as mesmas funcionalidades para diferentes plataformas e versões | IS18 | Não          |
+| RNF02   | Os menus devem fornecer informações não repetidas                                   | IS19 | Não          |
+| RNF03   | O aplicativo deve aplicar princípios de usabilidade                                 | IS20 | Não          |
+| RNF04   | O aplicativo deve aplicar princípios de acessibilidade                              | IS21 | Não          |
+| RNF05   | O aplicativo deve estar disponível para outras plataformas, como web                | IS22 | Não          |
+| RNF06   | O aplicativo deve proporcionar segurança de dados pessoais                          | IS23 | Sim          |
+| RNF07   | O aplicativo deve proporcionar agilidade ao acessar as funcionalidades              | IS24 | Sim          |
 
+**Fonte**: Maria Eduarda
+
+## Gravação da Elicitação
+
+
+## Referências
+
+> <a id="REF1" href="#anchor_1">1.</a> SERRANO, Milene; SERRANO, Maurício. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponícel em: <<https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>>. Acesso em: 03/05/2025.
 
 <br>
 
 ## Histórico de Versões 📅
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| :-: | :-: | :-: | :-: | :-: |
-| `-`  | - | - | - | - |
+
+| Versão | Data       | Descrição                                       | Autor(es)      | Revisor(es) |
+|:------:|:----------:|:------------------------------------------------|:---------------|:-----------:|
+|   -    | -          | -                                               | -              | -           |
+|  1.0   | 03/05/2025 | Requisitos Funcionais e Criação da página       | Danielle       | -           |
+|  1.1   | 03/05/2025 | Requisitos Não-Funcionais e Atualização da página | Maria Eduarda | -           |
+
