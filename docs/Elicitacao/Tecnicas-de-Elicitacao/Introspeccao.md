@@ -43,6 +43,15 @@ O processo de introspecção foi realizado individualmente pelas integrantes Mar
 
 <p style="text-align: center; font-size: 16px;">Fonte: <i>Maria Eduarda</i></p>
 
+<p>Com o objetivo de registrar o estudo e realização da tecnica da introspecção, disponibilizamos o documento completo no link abaixo:</p>
+
+<a href="../../assets/INTROSPECCAO.pdf" target="_blank">📄 Ver documento completo</a>
+
+<iframe src="../../assets/INTROSPECCAO.pdf" width="100%" height="450px">
+    Este navegador não suporta PDFs. Faça o download <a href="../../assets/INTROSPECCAO.pdf">aqui</a>.
+</iframe>
+
+
 
 
 ## Requisitos Elicitados
