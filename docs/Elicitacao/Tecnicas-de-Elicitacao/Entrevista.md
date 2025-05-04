@@ -8,7 +8,7 @@ Neste trabalho, foi realizada uma entrevista com um usuário do aplicativo FGTS,
 
 ## Metodologia
 
-A entrevista foi aplicada por **Enzo Emir**, de forma individual, com perguntas organizadas em estrutura de funil (do geral ao específico). As respostas foram registradas manualmente e analisadas posteriormente para a identificação dos requisitos.
+A entrevista foi aplicada por **Enzo Emir**, com perguntas organizadas em estrutura de funil (do geral ao específico). As respostas foram registradas manualmente e analisadas posteriormente para a identificação dos requisitos.
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
