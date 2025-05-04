@@ -107,7 +107,7 @@ A seguir, os requisitos elicitados foram organizados em duas categorias: funcion
 ## Gravação da Elicitação
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://youtu.be/r9nRinXUWE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/r9nRinXUWE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
 ## Referências
@@ -120,4 +120,5 @@ A seguir, os requisitos elicitados foram organizados em duas categorias: funcion
 
 | Versão | Data       | Descrição                                      | Autor(es)   | Revisor(es) |
 |:------:|:----------:|:-----------------------------------------------|:------------|:-----------:|
-|  1.0   | 04/05/2025 | Criação da estrutura de entrevista e tabelas   | Enzo Emir   | -           |
+|  1.0   | 04/05/2025 | Criação da estrutura de entrevista e tabelas   | [Enzo Emir](https://github.com/EnzoEmir)   | [Marcelo Makoto](https://github.com/MM4k)           |
+|  1.1   | 04/05/2025 | Correção do link da gravação   | [Marcelo Makoto](https://github.com/MM4k)   | -           |
