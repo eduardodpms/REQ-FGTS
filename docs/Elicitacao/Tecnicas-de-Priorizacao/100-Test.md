@@ -12,13 +12,31 @@ A técnica dos 100 dólares é um método de priorização que simula a alocaç�
 
 <div align="center">
 
-|Nome| Função|
-|-----|---------|
-|[Danielle Soares](https://github.com/danielle-soaress) |  Mediador
-|[Enzo Emir](https://github.com/EnzoEmir) |  Mediador
-|<span style = "color: orange"> Maria Eduarda</span> | Equipe/Usuária
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Função</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+      <td>Mediador</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+      <td>Mediador</td>
+    </tr>
+    <tr>
+      <td><span style="color: orange;">Maria Eduarda</span></td>
+      <td>Equipe/Usuária</td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
+
 
 <font size="3"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress).</p></font>
 
@@ -30,6 +48,268 @@ Cada participante recebeu sua própria planilha para alocar os valores conforme 
 
 Por fim, foi realizada uma breve discussão conjunta para revisão e eventual rebalanceamento das escolhas, considerando convergências e divergências nas prioridades atribuídas.
 
+Com o objetivo de registrar o estudo e realização da tecnica de priorização $100 feita em chamada, de forma individual e coletiva no ambiente **EXCEL** , disponibilizamos o documento completo no link abaixo:
+
+<a href="../../../assets/priocem.pdf" target="_blank">📄 Ver documento completo</a>
+
+<iframe src="../../../assets/priocem.pdf" width="100%" height="450px">
+    Este navegador não suporta PDFs. Faça o download <a href="../../../assets/priocem.pdf">aqui</a>.
+</iframe>
+
+### Aplicação da técnica
+
+A técnica foi aplicada de forma individual, sendo que cada participante aplicou a técnica de acordo com sua própria planilha, como as tabelas a seguir mostram:
+
+<font size="3"><p style="text-align: center">Tabela 2: Planilha de priorização dos 100 dólares - Danielle.</p></font>
+
+
+| Código  | Descrição                                                                                          | Origem                                 | Valor |
+|---------|----------------------------------------------------------------------------------------------------|----------------------------------------|-------|
+| RF01    | Informar claramente as datas previstas para liberação de valores                                   | EN03                                   | 2     |
+| RF02    | Oferecer canal de suporte ou chatbot para esclarecer dúvidas                                       | EN04                                   | 0     |
+| RF03    | Permitir consulta ao saldo da conta vinculada do FGTS                                              | EN05                                   | 5     |
+| RF04    | “Disponibilizar saque-aniversário”, “Disponibilizar sistemáticas”                                  | EN06, ST013, ST014                     | 5     |
+| RF05    | O aplicativo deve permitir a atualização dos dados pessoais do usuário                             | IS01                                   | 5     |
+| RF06    | O sistema deve permitir a consulta de dados pessoais do usuário                                    | IS02                                   | 5     |
+| RF07    | “Consultar saldo”, “Exibir extrato por empregador”, “Mostrar saldo disponível”                     | IS04, OB04                             | 5     |
+| RF08    | “Acompanhar situação do saque”, “Exibir status atualizado”, “Notificação de andamento”             | IS05, EN02                             | 5     |
+| RF09    | O sistema deve permitir que o usuário cancele um saque solicitado                                  | IS06                                   | 2     |
+| RF10    | O aplicativo deve permitir o filtro dos saques por tipo (ex: aniversário, doença, falecimento)     | IS07                                   | 0     |
+| RF11    | O aplicativo deve fornecer informações sobre saques bloqueados e os motivos do bloqueio            | IS08                                   | 0     |
+| RF12    | O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras     | IS09                                   | 4     |
+| RF13    | O aplicativo deve permitir o filtro do extrato por data (mês e ano).                               | IS10                                   | 0     |
+| RF14    | “Permitir o cadastro de uma conta bancária”                                                        | IS11, ST05, OB08                       | 5     |
+| RF15    | O aplicativo deve permitir que o usuário entre em contato com um assistente via chat               | IS13                                   | 0     |
+| RF16    | O aplicativo deve disponibilizar um campo de busca para facilitar a localização de funcionalidades | IS14                                   | 1     |
+| RF17    | O aplicativo deve conter uma seção de ajuda com orientações sobre o FGTS e PIS/PAESP               | IS15                                   | 3     |
+| RF18    | O aplicativo deve conter uma seção de ajuda com orientações sobre o uso do aplicativo              | IS16                                   | 0     |
+| RF19    | O aplicativo deve permitir a solicitação de ressarcimento de valores do PIS/PASEP                  | IS17                                   | 0     |
+| RF20    | Permitir login seguro pelo aplicativo                                                              | OB01                                   | 8     |
+| RF21    | Apresentar resumo de empregadores anteriores com botão para consultar contas vinculadas ao FGTS   | OB02                                   | 0     |
+| RF22    | Mostrar nome completo dos empregadores anteriores                                                  | OB05                                   | 0     |
+| RF23    | Disponibilizar histórico de saques realizados                                                      | OB06                                   | 4     |
+| RF24    | Ter uma aba dedicada à solicitação e acompanhamento de saques                                      | OB07                                   | 5     |
+| RF25    | Incluir aba para itens diversos como PIS/PASEP, convocações, sistemática de saque, ajuda, etc.     | OB09                                   | 0     |
+| RF26    | Exibir um resumo claro dos tipos de saque disponíveis.                                             | ST02                                   | 0     |
+| RF27    | “Notificar status”, “Notificar saque recebido”, “Enviar notificações”                              | ST03, ST09, ST015                      | 0     |
+| RF28    | Permitir a solicitação de saques                                                                   | EN01, IS03, ST06, OB03                 | 7     |
+| RF29    | Disponibilizar um guia interativo para orientar o usuário durante o processo.                      | ST07                                   | 0     |
+| RF30    | Permitir o ajuste do tamanho das fontes na interface.                                              | ST08                                   | 0     |
+| RF31    | Permitir a visualização dos dados da conta bancária cadastrada.                                    | ST010                                  | 0     |
+| RF32    | Oferecer uma interface de login simples.                                                           | ST011                                  | 2     |
+| RF33    | Disponibilizar uma página para escolha da sistemática de saque.                                    | ST012                                  | 5     |
+| RF34    | “Disponibilizar termo de adesão”                                                                   | ST016                                  | 0     |
+| RNF01   | “Interface simples e de fácil navegação”, “menus claros”, “aplicação acessível”                    | EN07, IS20, OB11, ST01, ST04           | 0     |
+| RNF02   | O processo de login deve ser simplificado                                                          | EN08                                   | 0     |
+| RNF03   | O sistema deve apresentar informações de forma transparente e confiável                            | EN09                                   | 0     |
+| RNF04   | Os prazos informados no app devem ser cumpridos fielmente                                          | EN10                                   | 0     |
+| RNF05   | O aplicativo deve ser confiável e evitar falhas ou inconsistências nos processos                   | EN11                                   | 7     |
+| RNF06   | O aplicativo deve funcionar corretamente mesmo com conexão instável                                | EN12                                   | 0     |
+| RNF07   | O aplicativo deve fornecer as mesmas funcionalidades para diferentes plataformas e versões        | IS18                                   | 5     |
+| RNF08   | Os menus devem fornecer informações não repetidas                                                  | IS19                                   | 0     |
+| RNF09   | O aplicativo deve aplicar princípios de acessibilidade                                             | IS21                                   | 0     |
+| RNF10   | O aplicativo deve estar disponível para outras plataformas, como web                               | IS22                                   | 0     |
+| RNF11   | O aplicativo deve proporcionar segurança de dados pessoais                                         | IS23                                   | 0     |
+| RNF12   | O aplicativo deve proporcionar agilidade ao acessar as funcionalidades                             | IS24                                   | 0     |
+| RNF13   | O sistema deve garantir segurança firme com verificação de dados pelo usuário                      | OB10                                   | 5     |
+| RNF14   | A aplicação deve exibir notificações ou notícias úteis de forma acessível                          | OB12                                   | 0     |
+| RNF15   | As informações devem estar organizadas de forma clara e com terminologia compreensível             | OB13                                   | 5     |
+| RNF16   | Garantir tempo de resposta de até 1 segundo para o cadastro da conta bancária                      | ST017                                  | 0     |
+| RNF17   | Garantir tempo de resposta de até 1 segundo para a solicitação de saque                            | ST018                                  | 0     |
+| RNF18   | Garantir tempo de resposta de até 1 segundo para o processo de login                               | ST019                                  | 0     |
+
+
+<p style="text-align: center; font-size: 16px;">Fonte: <i>Danielle</i></p>
+
+
+<font size="3"><p style="text-align: center">Tabela 3: Planilha de priorização dos 100 dólares - Enzo.</p></font>
+
+
+| Código  | Descrição                                                                                   | Origem                          | Valor |
+|---------|----------------------------------------------------------------------------------------------|----------------------------------|-------|
+| RF01    | Informar claramente as datas previstas para liberação de valores                            | EN03                             | 0     |
+| RF02    | Oferecer canal de suporte ou chatbot para esclarecer dúvidas                                 | EN04                             | 0     |
+| RF03    | Permitir consulta ao saldo da conta vinculada do FGTS                                        | EN05                             | 15    |
+| RF04    | “Disponibilizar saque-aniversário”, “Disponibilizar sistemáticas”                            | EN06, ST013, ST014               | 0     |
+| RF05    | O aplicativo deve permitir a atualização dos dados pessoais do usuário                       | IS01                             | 0     |
+| RF06    | O sistema deve permitir a consulta de dados pessoais do usuário                              | IS02                             | 10    |
+| RF07    | “Consultar saldo”, “Exibir extrato por empregador”, “Mostrar saldo disponível”               | IS04, OB04                       | 10    |
+| RF08    | “Acompanhar situação do saque”, “Exibir status atualizado”, “Notificação de andamento”       | IS05, EN02                       | 5     |
+| RF09    | O sistema deve permitir que o usuário cancele um saque solicitado                            | IS06                             | 10    |
+| RF10    | O aplicativo deve permitir o filtro dos saques por tipo (ex: aniversário, doença, falecimento)| IS07                            | 0     |
+| RF11    | O aplicativo deve fornecer informações sobre saques bloqueados e os motivos do bloqueio      | IS08                             | 0     |
+| RF12    | O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras| IS09                            | 0     |
+| RF13    | O aplicativo deve permitir o filtro do extrato por data (mês e ano)                          | IS10                             | 0     |
+| RF14    | “Permitir o cadastro de uma conta bancária”                                                  | IS11, ST05, OB08                 | 15    |
+| RF15    | O aplicativo deve permitir que o usuário entre em contato com um assistente via chat         | IS13                             | 0     |
+| RF16    | O aplicativo deve disponibilizar um campo de busca para facilitar a localização de funcionalidades| IS14                          | 0     |
+| RF17    | O aplicativo deve conter uma seção de ajuda com orientações sobre o FGTS e PIS/PAESP         | IS15                             | 0     |
+| RF18    | O aplicativo deve conter uma seção de ajuda com orientações sobre o uso do aplicativo        | IS16                             | 0     |
+| RF19    | O aplicativo deve permitir a solicitação de ressarcimento de valores do PIS/PASEP            | IS17                             | 5     |
+| RF20    | Permitir login seguro pelo aplicativo                                                        | OB01                             | 10    |
+| RF21    | Apresentar resumo de empregadores anteriores com botão para consultar contas vinculadas ao FGTS| OB02                          | 0     |
+| RF22    | Mostrar nome completo dos empregadores anteriores                                            | OB05                             | 0     |
+| RF23    | Disponibilizar histórico de saques realizados                                                | OB06                             | 0     |
+| RF24    | Ter uma aba dedicada à solicitação e acompanhamento de saques                                | OB07                             | 0     |
+| RF25    | Incluir aba para itens diversos como PIS/PASEP, convocações, sistemática de saque, ajuda, etc.| OB09                           | 0     |
+| RF26    | Exibir um resumo claro dos tipos de saque disponíveis.                                       | ST02                             | 0     |
+| RF27    | “Notificar status”, “Notificar saque recebido”, “Enviar notificações”                        | ST03, ST09, ST015                | 0     |
+| RF28    | Permitir a solicitação de saques                                                             | EN01, IS03, ST06, OB03           | 0     |
+| RF29    | Disponibilizar um guia interativo para orientar o usuário durante o processo.                | ST07                             | 0     |
+| RF30    | Permitir o ajuste do tamanho das fontes na interface.                                        | ST08                             | 0     |
+| RF31    | Permitir a visualização dos dados da conta bancária cadastrada.                              | ST010                            | 5     |
+| RF32    | Oferecer uma interface de login simples.                                                     | ST011                            | 0     |
+| RF33    | Disponibilizar uma página para escolha da sistemática de saque.                              | ST012                            | 0     |
+| RF34    | “Disponibilizar termo de adesão”                                                             | ST016                            | 0     |
+| RNF01   | “Interface simples e de fácil navegação”, “menus claros”, “aplicação acessível”              | EN07, IS20, OB11, ST01, ST04     | 0     |
+| RNF02   | O processo de login deve ser simplificado                                                    | EN08                             | 0     |
+| RNF03   | O sistema deve apresentar informações de forma transparente e confiável                      | EN09                             | 0     |
+| RNF04   | Os prazos informados no app devem ser cumpridos fielmente                                    | EN10                             | 0     |
+| RNF05   | O aplicativo deve ser confiável e evitar falhas ou inconsistências nos processos             | EN11                             | 0     |
+| RNF06   | O aplicativo deve funcionar corretamente mesmo com conexão instável                          | EN12                             | 0     |
+| RNF07   | O aplicativo deve fornecer as mesmas funcionalidades para diferentes plataformas e versões   | IS18                             | 0     |
+| RNF08   | Os menus devem fornecer informações não repetidas                                            | IS19                             | 0     |
+| RNF09   | O aplicativo deve aplicar princípios de acessibilidade                                       | IS21                             | 0     |
+| RNF10   | O aplicativo deve estar disponível para outras plataformas, como web                         | IS22                             | 0     |
+| RNF11   | O aplicativo deve proporcionar segurança de dados pessoais                                   | IS23                             | 5     |
+| RNF12   | O aplicativo deve proporcionar agilidade ao acessar as funcionalidades                       | IS24                             | 0     |
+| RNF13   | O sistema deve garantir segurança firme com verificação de dados pelo usuário                | OB10                             | 10    |
+| RNF14   | A aplicação deve exibir notificações ou notícias úteis de forma acessível                    | OB12                             | 0     |
+| RNF15   | As informações devem estar organizadas de forma clara e com terminologia compreensível       | OB13                             | 0     |
+| RNF16   | Garantir tempo de resposta de até 1 segundo para o cadastro da conta bancária                | ST017                            | 0     |
+| RNF17   | Garantir tempo de resposta de até 1 segundo para a solicitação de saque                      | ST018                            | 0     |
+| RNF18   | Garantir tempo de resposta de até 1 segundo para o processo de login                         | ST019                            | 0     |
+
+
+<p style="text-align: center; font-size: 16px;">Fonte: <i>Enzo</i></p>
+
+
+<font size="3"><p style="text-align: center">Tabela 3: Planilha de priorização dos 100 dólares - Maria Eduarda.</p></font>
+
+| Código | Descrição | Origem | Valor |
+|--------|-----------|--------|-------|
+| RF01   | Informar claramente as datas previstas para liberação de valores | EN03 | 4 |
+| RF02   | Oferecer canal de suporte ou chatbot para esclarecer dúvidas | EN04 | 2 |
+| RF03   | Permitir consulta ao saldo da conta vinculada do FGTS | EN05 | 4 |
+| RF04   | “Disponibilizar saque-aniversário”, “Disponibilizar sistemáticas” | EN06, ST013, ST014 | 2 |
+| RF05   | O aplicativo deve permitir a atualização dos dados pessoais do usuário | IS01 | 1 |
+| RF06   | O sistema deve permitir a consulta de dados pessoais do usuário | IS02 | 3 |
+| RF07   | “Consultar saldo”, “Exibir extrato por empregador”, “Mostrar saldo disponível” | IS04, OB04 | 0 |
+| RF08   | “Acompanhar situação do saque”, “Exibir status atualizado”, “Notificação de andamento” | IS05, EN02 | 1 |
+| RF09   | O sistema deve permitir que o usuário cancele um saque solicitado | IS06 | 4 |
+| RF10   | O aplicativo deve permitir o filtro dos saques por tipo (ex: aniversário, doença, falecimento) | IS07 | 1 |
+| RF11   | O aplicativo deve fornecer informações sobre saques bloqueados e os motivos do bloqueio | IS08 | 5 |
+| RF12   | O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras | IS09 | 0 |
+| RF13   | O aplicativo deve permitir o filtro do extrato por data (mês e ano) | IS10 | 5 |
+| RF14   | “Permitir o cadastro de uma conta bancária” | IS11, ST05, OB08 | 5 |
+| RF15   | O aplicativo deve permitir que o usuário entre em contato com um assistente via chat | IS13 | 4 |
+| RF16   | O aplicativo deve disponibilizar um campo de busca para facilitar a localização de funcionalidades | IS14 | 3 |
+| RF17   | O aplicativo deve conter uma seção de ajuda com orientações sobre o FGTS e PIS/PAESP | IS15 | 4 |
+| RF18   | O aplicativo deve conter uma seção de ajuda com orientações sobre o uso do aplicativo | IS16 | 5 |
+| RF19   | O aplicativo deve permitir a solicitação de ressarcimento de valores do PIS/PASEP | IS17 | 3 |
+| RF20   | Permitir login seguro pelo aplicativo | OB01 | 3 |
+| RF21   | Apresentar resumo de empregadores anteriores com botão para consultar contas vinculadas ao FGTS | OB02 | 0 |
+| RF22   | Mostrar nome completo dos empregadores anteriores | OB05 | 0 |
+| RF23   | Disponibilizar histórico de saques realizados | OB06 | 2 |
+| RF24   | Ter uma aba dedicada à solicitação e acompanhamento de saques | OB07 | 2 |
+| RF25   | Incluir aba para itens diversos como PIS/PASEP, convocações, sistemática de saque, ajuda, etc. | OB09 | 0 |
+| RF26   | Exibir um resumo claro dos tipos de saque disponíveis. | ST02 | 3 |
+| RF27   | “Notificar status”, “Notificar saque recebido”, “Enviar notificações” | ST03, ST09, ST015 | 4 |
+| RF28   | Permitir a solicitação de saques | EN01, IS03, ST06, OB03 | 5 |
+| RF29   | Disponibilizar um guia interativo para orientar o usuário durante o processo. | ST07 | 5 |
+| RF30   | Permitir o ajuste do tamanho das fontes na interface. | ST08 | 2 |
+| RF31   | Permitir a visualização dos dados da conta bancária cadastrada. | ST010 | 3 |
+| RF32   | Oferecer uma interface de login simples. | ST011 | 2 |
+| RF33   | Disponibilizar uma página para escolha da sistemática de saque. | ST012 | 1 |
+| RF34   | “Disponibilizar termo de adesão” | ST016 | 0 |
+| RNF01  | “Interface simples e de fácil navegação”, “menus claros”, “aplicação acessível” | EN07, IS20, OB11, ST01, ST04 | 0 |
+| RNF02  | O processo de login deve ser simplificado | EN08 | 0 |
+| RNF03  | O sistema deve apresentar informações de forma transparente e confiável | EN09 | 2 |
+| RNF04  | Os prazos informados no app devem ser cumpridos fielmente | EN10 | 0 |
+| RNF05  | O aplicativo deve ser confiável e evitar falhas ou inconsistências nos processos | EN11 | 2 |
+| RNF06  | O aplicativo deve funcionar corretamente mesmo com conexão instável | EN12 | 0 |
+| RNF07  | O aplicativo deve fornecer as mesmas funcionalidades para diferentes plataformas e versões | IS18 | 2 |
+| RNF08  | Os menus devem fornecer informações não repetidas | IS19 | 1 |
+| RNF09  | O aplicativo deve aplicar princípios de acessibilidade | IS21 | 1 |
+| RNF10  | O aplicativo deve estar disponível para outras plataformas, como web | IS22 | 1 |
+| RNF11  | O aplicativo deve proporcionar segurança de dados pessoais | IS23 | 0 |
+| RNF12  | O aplicativo deve proporcionar agilidade ao acessar as funcionalidades | IS24 | 0 |
+| RNF13  | O sistema deve garantir segurança firme com verificação de dados pelo usuário | OB10 | 2 |
+| RNF14  | A aplicação deve exibir notificações ou notícias úteis de forma acessível | OB12 | 0 |
+| RNF15  | As informações devem estar organizadas de forma clara e com terminologia compreensível para o usuário | OB13 | 1 |
+| RNF16  | Garantir tempo de resposta de até 1 segundo para o cadastro da conta bancária | ST017 | 0 |
+| RNF17  | Garantir tempo de resposta de até 1 segundo para a solicitação de saque | ST018 | 0 |
+| RNF18  | Garantir tempo de resposta de até 1 segundo para o processo de login | ST019 | 0 |
+
+
+<p style="text-align: center; font-size: 16px;">Fonte: <i>Maria Eduarda</i></p>
+
+A proxima tabela (Tabela 4) mostra os dados consolidados em uma única planilha, com os valores atribuidos a cada requisito, somados e sendo filtrados por aqueles com maior prioridade (de valor) ao de menor prioridade.
+
+<font size="3"><p style="text-align: center">Tabela 4: Planilha de priorização dos 100 dólares.</p></font>
+
+
+| CÓDIGO | DESCRIÇÃO | ORIGEM | DANIELLE | ENZO | MARIA EDUARDA | TOTAL |
+|--------|-----------|--------|----------|------|----------------|--------|
+| RF14 | “Permitir o cadastro de uma conta bancária” | IS11, ST05, OB08 | 5 | 15 | 5 | 25 |
+| RF03 | Permitir consulta ao saldo da conta vinculada do FGTS | EN05 | 5 | 15 | 4 | 24 |
+| RF20 | Permitir login seguro pelo aplicativo | OB01 | 8 | 10 | 3 | 21 |
+| RF06 | O sistema deve permitir a consulta de dados pessoais do usuário | IS02 | 5 | 10 | 3 | 18 |
+| RNF13 | O sistema deve garantir segurança firme com verificação de dados pelo usuário | OB10 | 5 | 10 | 2 | 17 |
+| RF09 | O sistema deve permitir que o usuário cancele um saque solicitado | IS06 | 2 | 10 | 4 | 16 |
+| RF07 | “Consultar saldo”, “Exibir extrato por empregador”, “Mostrar saldo disponível” | IS04, OB04 | 5 | 10 | 0 | 15 |
+| RF28 | Permitir a solicitação de saques | EN01, IS03, ST06, OB03 | 7 | 0 | 5 | 12 |
+| RF08 | “Acompanhar situação do saque”, “Exibir status atualizado”, “Notificação de andamento” | IS05, EN02 | 5 | 5 | 1 | 11 |
+| RNF05 | O aplicativo deve ser confiável e evitar falhas ou inconsistências nos processos | EN11 | 7 | 0 | 2 | 9 |
+| RF19 | O aplicativo deve permitir a solicitação de ressarcimento de valores do PIS/PASEP | IS17 | 0 | 5 | 3 | 8 |
+| RF31 | Permitir a visualização dos dados da conta bancária cadastrada. | ST010 | 0 | 5 | 3 | 8 |
+| RF04 | “Disponibilizar saque-aniversário”, “Disponibilizar sistemáticas” | EN06, ST013, ST014 | 5 | 0 | 2 | 7 |
+| RF17 | O aplicativo deve conter uma seção de ajuda com orientações sobre o FGTS e PIS/PAESP | IS15 | 3 | 0 | 4 | 7 |
+| RF24 | Ter uma aba dedicada à solicitação e acompanhamento de saques | OB07 | 5 | 0 | 2 | 7 |
+| RNF07 | O aplicativo deve fornecer as mesmas funcionalidades para diferentes plataformas e versões | IS18 | 5 | 0 | 2 | 7 |
+| RF01 | Informar claramente as datas previstas para liberação de valores | EN03 | 2 | 0 | 4 | 6 |
+| RF05 | O aplicativo deve permitir a atualização dos dados pessoais do usuário | IS01 | 5 | 0 | 1 | 6 |
+| RF23 | Disponibilizar histórico de saques realizados | OB06 | 4 | 0 | 2 | 6 |
+| RF33 | Disponibilizar uma página para escolha da sistemática de saque. | ST012 | 5 | 0 | 1 | 6 |
+| RNF15 | As informações devem estar organizadas de forma clara e com terminologia compreensível para o usuário | OB13 | 5 | 0 | 1 | 6 |
+| RF11 | O aplicativo deve fornecer informações sobre saques bloqueados e os motivos do bloqueio | IS08 | 0 | 0 | 5 | 5 |
+| RF13 | O aplicativo deve permitir o filtro do extrato por data (mês e ano). | IS10 | 0 | 0 | 5 | 5 |
+| RF18 | O aplicativo deve conter uma seção de ajuda com orientações sobre o uso do aplicativo | IS16 | 0 | 0 | 5 | 5 |
+| RF29 | Disponibilizar um guia interativo para orientar o usuário durante o processo. | ST07 | 0 | 0 | 5 | 5 |
+| RNF11 | O aplicativo deve proporcionar segurança de dados pessoais | IS23 | 0 | 5 | 0 | 5 |
+| RF12 | O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras | IS09 | 4 | 0 | 0 | 4 |
+| RF15 | O aplicativo deve permitir que o usuário entre em contato com um assistente via chat | IS13 | 0 | 0 | 4 | 4 |
+| RF16 | O aplicativo deve disponibilizar um campo de busca para facilitar a localização de funcionalidades | IS14 | 1 | 0 | 3 | 4 |
+| RF27 | “Notificar status”, “Notificar saque recebido”, “Enviar notificações” | ST03, ST09, ST015 | 0 | 0 | 4 | 4 |
+| RF32 | Oferecer uma interface de login simples. | ST011 | 2 | 0 | 2 | 4 |
+| RF26 | Exibir um resumo claro dos tipos de saque disponíveis. | ST02 | 0 | 0 | 3 | 3 |
+| RF02 | Oferecer canal de suporte ou chatbot para esclarecer dúvidas | EN04 | 0 | 0 | 2 | 2 |
+| RF30 | Permitir o ajuste do tamanho das fontes na interface. | ST08 | 0 | 0 | 2 | 2 |
+| RNF03 | O sistema deve apresentar informações de forma transparente e confiável | EN09 | 0 | 0 | 2 | 2 |
+| RF10 | O aplicativo deve permitir o filtro dos saques por tipo (ex: aniversário, doença, falecimento) | IS07 | 0 | 0 | 1 | 1 |
+| RNF08 | Os menus devem fornecer informações não repetidas | IS19 | 0 | 0 | 1 | 1 |
+| RNF09 | O aplicativo deve aplicar princípios de acessibilidade | IS21 | 0 | 0 | 1 | 1 |
+| RNF10 | O aplicativo deve estar disponível para outras plataformas, como web | IS22 | 0 | 0 | 1 | 1 |
+| RF21 | Apresentar resumo de empregadores anteriores com botão para consultar contas vinculadas ao FGTS | OB02 | 0 | 0 | 0 | 0 |
+| RF22 | Mostrar nome completo dos empregadores anteriores | OB05 | 0 | 0 | 0 | 0 |
+| RF25 | Incluir aba para itens diversos como PIS/PASEP, convocações, sistemática de saque, ajuda, etc. | OB09 | 0 | 0 | 0 | 0 |
+| RF34 | “Disponibilizar termo de adesão” | ST016 | 0 | 0 | 0 | 0 |
+| RNF01 | “Interface simples e de fácil navegação”, “menus claros”, “aplicação acessível” | EN07, IS20, OB11, ST01, ST04 | 0 | 0 | 0 | 0 |
+| RNF02 | O processo de login deve ser simplificado | EN08 | 0 | 0 | 0 | 0 |
+| RNF04 | Os prazos informados no app devem ser cumpridos fielmente | EN10 | 0 | 0 | 0 | 0 |
+| RNF06 | O aplicativo deve funcionar corretamente mesmo com conexão instável | EN12 | 0 | 0 | 0 | 0 |
+| RNF12 | O aplicativo deve proporcionar agilidade ao acessar as funcionalidades | IS24 | 0 | 0 | 0 | 0 |
+| RNF14 | A aplicação deve exibir notificações ou notícias úteis de forma acessível | OB12 | 0 | 0 | 0 | 0 |
+| RNF16 | Garantir tempo de resposta de até 1 segundo para o cadastro da conta bancária | ST017 | 0 | 0 | 0 | 0 |
+| RNF17 | Garantir tempo de resposta de até 1 segundo para a solicitação de saque | ST018 | 0 | 0 | 0 | 0 |
+| RNF18 | Garantir tempo de resposta de até 1 segundo para o processo de login | ST019 | 0 | 0 | 0 | 0 |
+| **Total** |  |  | **100** | **100** | **100** | **300** |
+
+<p style="text-align: center; font-size: 16px;">Fonte: <i>Maria Eduarda</i></p>
+
+## Gravação da Técnica
+
+
 ## Referências
 
 > <a id="REF1" href="#anchor_1">1.</a> WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013.
@@ -39,3 +319,4 @@ Por fim, foi realizada uma breve discussão conjunta para revisão e eventual re
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0`  | 04/05/2025 | Criação do documento | [Danielle Soares](https://github.com/danielle-soaress) | - |
+| `1.1`  | 04/05/2025 | Atualização do Documento | [Maria](https://github.com/dudaa28) | - |
