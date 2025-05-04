@@ -44,7 +44,7 @@ Antônio, de 61 anos, aposentado e morador de Porto Alegre, não queria ocupar o
 Ao abrir o app, Antônio logo percebeu uma dificuldade: as letras eram pequenas. Porém, com poucos botões por tela e um login simples, ele conseguiu, com a ajuda do filho para ler as informações, verificar os dados da conta bancária e fazer o pedido de saque. No fim, Antônio ficou satisfeito por ter resolvido tudo em casa, mas comentou que, se o aplicativo tivesse letras maiores, seria ainda melhor.
 
 
-## 5. Requisitos elicitados
+## Requisitos elicitados
 **Legendas:**
 
 * ST - Storytelling
@@ -97,6 +97,6 @@ Ao abrir o app, Antônio logo percebeu uma dificuldade: as letras eram pequenas.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0`  | 03/05 | Criação da aba de storytelling | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Marcelo Makoto](https://github.com/MM4k) | - |
+| `1.0`  | 03/05 | Criação da aba de storytelling | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Marcelo Makoto](https://github.com/MM4k) | [Maria](https://github.com/dudaa28) |
 | `1.1`  | 03/05 | Adição da seção de Introdução | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.2`  | 04/05 | Adição da gravação | [Marcelo Makoto](https://github.com/MM4k) | - |

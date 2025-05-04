@@ -60,7 +60,7 @@ Ao imaginar meu uso do aplicativo, percebi que funcionalidades como ver o saldo 
 
 Também notei a importância de poder excluir contas e visualizar informações organizadas por ícones e categorias. A introspecção me fez enxergar que um aplicativo útil é aquele que combina clareza, praticidade e autonomia ao usuário desde o primeiro acesso.
 
-
+---
 
 Com o objetivo de registrar o estudo e realização da tecnica da introspecção feita em chamada, de forma individual no ambiente **FIGMA** , disponibilizamos o documento completo no link abaixo:
 
@@ -172,7 +172,7 @@ A seguir, as Tabelas 3 e 4 descrevem os requisitos elicitados, incluindo tanto o
 
 | Versão | Data       | Descrição                                           | Autor(es)      | Revisor(es) |
 |:------:|:----------:|:----------------------------------------------------|:---------------|:-----------:|
-|  1.0   | 03/05/2025 | Requisitos Funcionais e Criação da página           | Danielle       | -           |
-|  1.1   | 03/05/2025 | Requisitos Não-Funcionais e Atualização da página   | Maria Eduarda  | -           |
+|  1.0   | 03/05/2025 | Requisitos Funcionais e Criação da página           | [Danielle](https://github.com/danielle-soaress)      | -           |
+|  1.1   | 03/05/2025 | Requisitos Não-Funcionais e Atualização da página   | [Maria](https://github.com/dudaa28)  | -           |
 
 
