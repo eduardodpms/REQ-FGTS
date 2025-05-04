@@ -13,16 +13,15 @@ O processo de introspecção foi realizado individualmente pelas integrantes Mar
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
-<div align="center">
 
 | Nome          | Data       | Hora  |
 |---------------|------------|-------|
 | Danielle | 03/05/2023 | 14:30 |
 | Maria Eduarda | 03/05/2023 | 14:30 |
 
-**Fonte**: Maria Eduarda
 
-</div>
+<p style="text-align: center; font-size: 16px;">**Fonte**: <i>Maria Eduarda</i></p>
+
 
 
 ## Requisitos Elicitados
@@ -32,7 +31,6 @@ A seguir, as Tabelas 3 e 4 descrevem os requisitos elicitados, incluindo tanto o
 <font size="3"><p style="text-align: center">Tabela 2: Legenda</p></font>
 
 
-<div align="center">
 
 | Código   | Descrição                                       |
 |----------|-------------------------------------------------|
@@ -40,11 +38,10 @@ A seguir, as Tabelas 3 e 4 descrevem os requisitos elicitados, incluindo tanto o
 | **RNFx** | Requisito Não-Funcional nº x                    |
 | **ISx**  | Requisito nº x elicitado pela introspecção      |
 
-**Fonte**: Danielle
+<p style="text-align: center; font-size: 16px;">**Fonte**: <i>Danielle</i></p>
 
-</div>
 
-## Requisitos Funcionais
+### Requisitos Funcionais
 
 <font size="3"><p style="text-align: center">Tabela 3: Requisitos Funcionais</p></font>
 
@@ -69,9 +66,9 @@ A seguir, as Tabelas 3 e 4 descrevem os requisitos elicitados, incluindo tanto o
 | RF16  | O aplicativo deve conter uma seção de ajuda com orientações sobre o uso do aplicativo | IS16 | Não |
 | RF17  | O aplicativo deve permitir a solicitação de ressarcimento de valores do PIS/PASEP | IS17 | Sim |
 
-**Fonte**: Danielle
+<p style="text-align: center; font-size: 16px;">**Fonte**: <i>Danielle</i></p>
 
-## Requisitos Não Funcionais
+### Requisitos Não Funcionais
 
 
 <font size="3"><p style="text-align: center">Tabela 4: Requisitos Não Funcionais</p></font>
@@ -87,7 +84,7 @@ A seguir, as Tabelas 3 e 4 descrevem os requisitos elicitados, incluindo tanto o
 | RNF06   | O aplicativo deve proporcionar segurança de dados pessoais                          | IS23 | Sim          |
 | RNF07   | O aplicativo deve proporcionar agilidade ao acessar as funcionalidades              | IS24 | Sim          |
 
-**Fonte**: Maria Eduarda
+<p style="text-align: center; font-size: 16px;">**Fonte**: <i>Maria Eduarda</i></p>
 
 ## Gravação da Elicitação
 
