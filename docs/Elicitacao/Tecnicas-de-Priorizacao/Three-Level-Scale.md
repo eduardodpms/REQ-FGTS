@@ -24,15 +24,15 @@ A partir da combinação desses critérios, os requisitos foram classificados da
 
 Dessa maneira, os requisitos podem ser priorizados de maneira relativamente fácil e rápido, tornando a técnica de priorização Three-Level Scale eficiente.
 
-## 5. Requisitos priorizados
+## Requisitos priorizados
 **Legendas:**
 
-* RF: Requisito Funcional
-* RNF: Requisito Não Funcional
-* EN: Requisito elicitado pela entrevista
-* IN: Requisito elicitado pela introspecção
-* OBS: Requisito elicitado pela observação
-* ST: Requisito elicitado pelo storytelling
+* RFx: Requisito Funcional número x
+* RNFx: Requisito Não Funcional número x
+* ENx: Requisito elicitado pela entrevista número x
+* INx: Requisito elicitado pela introspecção número x
+* OBSx: Requisito elicitado pela observação número x
+* STx: Requisito elicitado pelo storytelling número x
 
 <div style="text-align: center">
 <p>Tabela 1: Requisitos priorizados</p>
@@ -53,3 +53,4 @@ Dessa maneira, os requisitos podem ser priorizados de maneira relativamente fác
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0`  | 04/05 | Criação das seções de Introdução, Metodologia e Requisitos priorizados | [Marcelo Makoto](https://github.com/MM4k) | - |
+| `1.1`  | 04/05 | Correções de texto | [Marcelo Makoto](https://github.com/MM4k) | - |

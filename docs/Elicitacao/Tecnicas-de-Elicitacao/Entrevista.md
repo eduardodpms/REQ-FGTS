@@ -8,7 +8,7 @@ Neste trabalho, foi realizada uma entrevista com um usuário do aplicativo FGTS,
 
 ## Metodologia
 
-A entrevista foi aplicada por **Enzo Emir**, com perguntas organizadas em estrutura de funil (do geral ao específico). As respostas foram registradas manualmente e analisadas posteriormente para a identificação dos requisitos.
+A entrevista foi aplicada por **Enzo Emir e Eduardo de Pina**, com perguntas organizadas em estrutura de funil (do geral ao específico). As respostas foram registradas manualmente e analisadas posteriormente para a identificação dos requisitos.
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
@@ -24,7 +24,7 @@ A entrevista foi aplicada por **Enzo Emir**, com perguntas organizadas em estrut
   </thead>
   <tbody>
     <tr>
-      <td>Entrevistado (anônimo)</td>
+      <td>Entrevistado 1 (anônimo)</td>
       <td>03/05/2025</td>
       <td>17:30</td>
     </tr>
@@ -33,12 +33,23 @@ A entrevista foi aplicada por **Enzo Emir**, com perguntas organizadas em estrut
       <td>03/05/2025</td>
       <td>17:30</td>
     </tr>
+    <tr>
+      <td>Entrevistado 2 (anônimo)</td>
+      <td>04/05/2025</td>
+      <td>15:00</td>
+    </tr>
+    <tr>
+      <td>Entrevistador: Enzo Emir e Eduardo de Pina</td>
+      <td>04/05/2025</td>
+      <td>15:00</td>
+    </tr>
   </tbody>
 </table>
 
 </div>
 
-<p style="text-align: center; font-size: 16px;">Fonte: <i>Enzo Emir</i></p>
+
+<p style="text-align: center; font-size: 16px;">Fonte: <i>Enzo Emir e Eduardo de Pina</i></p>
 
 ## Requisitos Elicitados
 
@@ -77,7 +88,7 @@ A seguir, os requisitos elicitados foram organizados em duas categorias: funcion
 
 ### Requisitos Funcionais
 
-<font size="3"><p style="text-align: center">Tabela 3: Requisitos Funcionais</p></font>
+#### Tabela 3: Requisitos Funcionais
 
 | Código | Requisito Funcional                                                                 | ID    | Implementado |
 |:------:|--------------------------------------------------------------------------------------|:-----:|:------------:|
@@ -85,14 +96,16 @@ A seguir, os requisitos elicitados foram organizados em duas categorias: funcion
 | RF02   | Exibir status comentado e atualizado do processo de saque                          | EN02  | Não          |
 | RF03   | Informar claramente as datas previstas para liberação de valores                   | EN03  | Não          |
 | RF04   | Oferecer canal de suporte ou chatbot para esclarecer dúvidas                       | EN04  | Não          |
+| RF05   | Permitir consulta ao saldo da conta vinculada do FGTS                              | EN05  | Sim          |
+| RF06   | Disponibilizar funcionalidade acessível para saque-aniversário                     | EN06  | Sim          |
 
+**Fonte:** *Enzo Emir e Eduardo de Pina*
 
-
-<p style="text-align: center; font-size: 16px;">Fonte: <i>Enzo Emir</i></p>
+---
 
 ### Requisitos Não Funcionais
 
-<font size="3"><p style="text-align: center">Tabela 4: Requisitos Não Funcionais</p></font>
+#### Tabela 4: Requisitos Não Funcionais
 
 | Código  | Requisito Não-Funcional                                                           | ID    | Implementado |
 |:-------:|------------------------------------------------------------------------------------|:-----:|:------------:|
@@ -101,15 +114,21 @@ A seguir, os requisitos elicitados foram organizados em duas categorias: funcion
 | RNF03   | O sistema deve apresentar informações de forma transparente e confiável           | EN09  | Não          |
 | RNF04   | Os prazos informados no app devem ser cumpridos fielmente                         | EN10  | Não          |
 | RNF05   | O aplicativo deve ser confiável e evitar falhas ou inconsistências nos processos  | EN11  | Parcialmente |
+| RNF06   | O aplicativo deve funcionar corretamente mesmo com conexão instável               | EN12  | Não          |
 
-<p style="text-align: center; font-size: 16px;">Fonte: <i>Enzo Emir</i></p>
+**Fonte:** *Enzo Emir e Eduardo de Pina*
+
 
 ## Gravação da Elicitação
 
 <p style="text-align: center">
 <iframe width="560" height="315" src="https://youtube.com/embed/r9nRinXUWE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://youtube.com/embed/_trr3zNFNu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 
+<a href="../../../assets/Entrevista.pdf" target="_blank">📄 Ver documento completo</a>
 ## Referências
 
 > VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. *Engenharia de Requisitos: software orientado ao negócio*. Brasport, 2016.  
@@ -120,5 +139,6 @@ A seguir, os requisitos elicitados foram organizados em duas categorias: funcion
 
 | Versão | Data       | Descrição                                      | Autor(es)   | Revisor(es) |
 |:------:|:----------:|:-----------------------------------------------|:------------|:-----------:|
-|  1.0   | 04/05/2025 | Criação da estrutura de entrevista e tabelas   | [Enzo Emir](https://github.com/EnzoEmir)   | [Marcelo Makoto](https://github.com/MM4k)           |
-|  1.1   | 04/05/2025 | Correção do link da gravação   | [Marcelo Makoto](https://github.com/MM4k)   | -           |
+|  1.0   | 04/05/2025 | Criação da estrutura de entrevista e tabelas   | Enzo Emir   | [Marcelo Makoto](https://github.com/MM4k)
+|  1.1   | 04/05/2025 | Criação da estrutura de entrevista e tabelas   | Enzo Emir, Eduardo de Pina   | [Marcelo Makoto](https://github.com/MM4k)           |
+|  1.2   | 04/05/2025 | Correção dos links dos vídeos   | [Marcelo Makoto](https://github.com/MM4k)   | -           |
