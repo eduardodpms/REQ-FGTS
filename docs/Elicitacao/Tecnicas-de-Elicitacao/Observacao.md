@@ -15,12 +15,32 @@ Durante a análise da gravação, Victor Pontual foi responsável por registrar 
 <font size="3"><p style="text-align: center">Tabela 1: Detalhes da Observação</p></font>
 
 <div align="center">
-  
-| Nome da Usuária Observada | Data       | Hora  | Observador      | Anotador de Requisitos | Meio de Observação    |
-| ------------------------- | ---------- | ----- | --------------- | ---------------------- | --------------------- |
-| Maria Eduarda             | 04/05/2025 | 14:26 | Eduardo de Pina | Victor Pontual         | Gravação de Interação |
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome da Usuária Observada</th>
+      <th>Data</th>
+      <th>Hora</th>
+      <th>Observador</th>
+      <th>Anotador de Requisitos</th>
+      <th>Meio de Observação</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Maria Eduarda</td>
+      <td>04/05/2025</td>
+      <td>14:26</td>
+      <td>Eduardo de Pina</td>
+      <td>Victor Pontual</td>
+      <td>Gravação de Interação</td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
+
 
 <p style="text-align: center; font-size: 16px;">Fonte: <i>Enzo Emir</i></p>
 
@@ -34,13 +54,31 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 
 <div align="center">
 
-| Código | Descrição                               |
-| ------ | --------------------------------------- |
-| RFx    | Requisito Funcional nº x                |
-| RNFx   | Requisito Não-Funcional nº x            |
-| EOx    | Requisito nº x elicitado por observação |
+<table>
+  <thead>
+    <tr>
+      <th>Código</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>RFx</td>
+      <td>Requisito Funcional nº x</td>
+    </tr>
+    <tr>
+      <td>RNFx</td>
+      <td>Requisito Não-Funcional nº x</td>
+    </tr>
+    <tr>
+      <td>EOx</td>
+      <td>Requisito nº x elicitado por observação</td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
+
 
 <p style="text-align: center; font-size: 16px;">Fonte: <i>Enzo Emir</i></p>
 
