@@ -6,6 +6,10 @@ A entrega 2 consistiu na elicitação e priorização de requisitos, além do de
 
 ## Apresentação
 
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://youtube.com/embed/MWnO37Rvfqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
 ## Lista de Verificação 
 
 ### ✅ Itens Gerais
