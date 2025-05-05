@@ -100,6 +100,12 @@ Dessa maneira, os requisitos podem ser priorizados de maneira relativamente fác
 | RNF17  | Garantir tempo de resposta de até 1 segundo para a solicitação de saque                                  | ST018  |Média|
 | RNF18  | Garantir tempo de resposta de até 1 segundo para o processo de login                                     | ST019  |Média|
 
+## Gravação
+
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=DwxwhCZ52eg&ab_channel=VictorPontual" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
 ## Bibliografia
 
 > <a id="REF1" href="#anchor_1">1.</a> WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3rd ed. Redmond: Microsoft Press, 2013. Cap. 16, p. 319.
