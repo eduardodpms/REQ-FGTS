@@ -1,4 +1,4 @@
-# Entrega 1 
+# Entrega 2
 
 ## Introdução
 
@@ -71,7 +71,7 @@ A entrega 2 consistiu na elicitação e priorização de requisitos, além do de
 | 30             | Está sendo apresentado como requisito pode ser verificado na aplicação (critério de aceitação)?                                          | [Eduardo de Pina](https://github.com/eduardodpms) |                               |                                  |
 | 31             | Cada requisito está escrito de forma clara, objetiva e testável, seguindo boas práticas (ex.: padrão IEEE ou formato “O sistema deve…")? | [Enzo Emir](https://github.com/EnzoEmir)          |                               |                                  |
 
-## ✅ Priorização
+### ✅ Priorização
 
 | Número do Item | Descrição                                                                                       | Autor                                                    | Resposta (Sim/Não/Incompleto) | Versão, Data e Hora da Avaliação |
 | -------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ----------------------------- | -------------------------------- |
