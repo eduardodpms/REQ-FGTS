@@ -49,10 +49,10 @@ Legenda:
 - OB: Requisitos da Observação
 - EN: Requisitos da Entrevista
 
-<a href="../../../assets/First-Things-First.pdf" target="_blank">📄 Ver documento completo</a>
+<a href="../../../assets/First-Things-Firtst.pdf" target="_blank">📄 Ver documento completo</a>
 
-<iframe src="../../../assets/pFirst-Things-First.pdf" width="100%" height="450px">
-    Este navegador não suporta PDFs. Faça o download <a href="../../../assets/First-Things-First.pdf">aqui</a>.
+<iframe src="../../../assets/First-Things-Firtst.pdf" width="100%" height="450px">
+    Este navegador não suporta PDFs. Faça o download <a href="../../../assets/First-Things-Firtst.pdf">aqui</a>.
 </iframe>
 
 ## Gravação
