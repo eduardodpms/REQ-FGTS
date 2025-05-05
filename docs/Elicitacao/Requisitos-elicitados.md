@@ -96,5 +96,5 @@ Essa página tem como objetivo compilar todos os requisitos elicitados com a uti
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0`  | 04/05 | Criação da página de requisitos elicitados | [Marcelo Makoto](https://github.com/MM4k) | - |
-| `1.1`  | 04/05 | Adição das tabelas de requisitos elicitados | [Victor Pontual](https://github.com/VictorPontual) | - |
+| `1.0`  | 04/05 | Criação da página de requisitos elicitados | [Marcelo Makoto](https://github.com/MM4k) | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.1`  | 04/05 | Adição das tabelas de requisitos elicitados | [Victor Pontual](https://github.com/VictorPontual) | [Maria Eduarda](https://github.com/dudaa28) |

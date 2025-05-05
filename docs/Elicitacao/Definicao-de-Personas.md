@@ -141,5 +141,5 @@ Foram criadas cinco personas (duas primárias, duas secundárias e uma antiperso
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 02/05/2025 | Criação da página de Personas | [Marcelo Makoto](https://github.com/MM4k) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `1.1` | 03/05/2025 | Atualização de textos e detalhes | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.0` | 02/05/2025 | Criação da página de Personas | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.1` | 03/05/2025 | Atualização de textos e detalhes | [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir) |

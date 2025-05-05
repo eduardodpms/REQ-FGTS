@@ -116,7 +116,7 @@ Dessa maneira, os requisitos podem ser priorizados de maneira relativamente fác
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0`  | 04/05 | Criação das seções de Introdução, Metodologia e Requisitos priorizados | [Marcelo Makoto](https://github.com/MM4k) | - |
-| `1.1`  | 04/05 | Correções de texto | [Marcelo Makoto](https://github.com/MM4k) | - |
-| `1.2`  | 04/05 | Priorização dos requisitos | [Marcelo Makoto](https://github.com/MM4k), [Victor Pontual](https://github.com/VictorPontual) | - |
-| `1.3`  | 04/05 | Correções de texto | [Marcelo Makoto](https://github.com/MM4k) | - |
+| `1.0`  | 04/05 | Criação das seções de Introdução, Metodologia e Requisitos priorizados | [Marcelo Makoto](https://github.com/MM4k) | [Danielle](https://github.com/danielle-soaress) |
+| `1.1`  | 04/05 | Correções de texto | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.2`  | 04/05 | Priorização dos requisitos | [Marcelo Makoto](https://github.com/MM4k), [Victor Pontual](https://github.com/VictorPontual) | [Maria](https://github.com/dudaa28) |
+| `1.3`  | 04/05 | Correções de texto | [Marcelo Makoto](https://github.com/MM4k) | [Maria](https://github.com/dudaa28) |
