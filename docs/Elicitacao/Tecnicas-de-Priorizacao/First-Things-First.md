@@ -49,10 +49,10 @@ Legenda:
 - OB: Requisitos da Observação
 - EN: Requisitos da Entrevista
 
-<a href="../../../assets/First-Things-Firtst.pdf" target="_blank">📄 Ver documento completo</a>
+<a href="../../../assets/first.pdf" target="_blank">📄 Ver documento completo</a>
 
-<iframe src="../../../assets/First-Things-Firtst.pdf" width="100%" height="450px">
-    Este navegador não suporta PDFs. Faça o download <a href="../../../assets/First-Things-Firtst.pdf">aqui</a>.
+<iframe src="../../../assets/first.pdf" width="100%" height="450px">
+    Este navegador não suporta PDFs. Faça o download <a href="../../../assets/first.pdf">aqui</a>.
 </iframe>
 
 ## Gravação
@@ -70,4 +70,4 @@ Legenda:
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0`  | 03/05 | Criação da aba First Things First | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Enzo Emir] (https://github.com/EnzoEmir) | - |
+| `1.0`  | 03/05 | Criação da aba First Things First | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Enzo Emir] (https://github.com/EnzoEmir) | [Danielle](https://github.com/danielle-soaress) |

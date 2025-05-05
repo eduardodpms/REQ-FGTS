@@ -94,7 +94,7 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
 ## Gravação
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=k4DjZhRIiK4&ab_channel=VictorPontual" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/k4DjZhRIiK4?si=SREsx3YvMQTnJs0S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
 
@@ -107,4 +107,4 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
 
 | Versão | Data       | Descrição                        | Autor(es)                      | Revisor(es) |
 | ------ | ---------- | -------------------------------- | ------------------------------ | ----------- |
-| 1.0    | 04/05/2025 | Criação da priorização In or Out | Victor Pontual, Enzo Emir | -           |
+| 1.0    | 04/05/2025 | Criação da priorização In or Out | Victor Pontual, Enzo Emir | [Victor Pontual](https://github.com/VictorPontual)         |

@@ -103,7 +103,7 @@ Dessa maneira, os requisitos podem ser priorizados de maneira relativamente fác
 ## Gravação
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=DwxwhCZ52eg&ab_channel=VictorPontual" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/DwxwhCZ52eg?si=BDPZH-oKGJnPUjf3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
 ## Bibliografia
@@ -116,7 +116,7 @@ Dessa maneira, os requisitos podem ser priorizados de maneira relativamente fác
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0`  | 04/05 | Criação das seções de Introdução, Metodologia e Requisitos priorizados | [Marcelo Makoto](https://github.com/MM4k) | - |
-| `1.1`  | 04/05 | Correções de texto | [Marcelo Makoto](https://github.com/MM4k) | - |
-| `1.2`  | 04/05 | Priorização dos requisitos | [Marcelo Makoto](https://github.com/MM4k), [Victor Pontual](https://github.com/VictorPontual) | - |
-| `1.3`  | 04/05 | Correções de texto | [Marcelo Makoto](https://github.com/MM4k) | - |
+| `1.0`  | 04/05 | Criação das seções de Introdução, Metodologia e Requisitos priorizados | [Marcelo Makoto](https://github.com/MM4k) | [Danielle](https://github.com/danielle-soaress) |
+| `1.1`  | 04/05 | Correções de texto | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.2`  | 04/05 | Priorização dos requisitos | [Marcelo Makoto](https://github.com/MM4k), [Victor Pontual](https://github.com/VictorPontual) | [Maria](https://github.com/dudaa28) |
+| `1.3`  | 04/05 | Correções de texto | [Marcelo Makoto](https://github.com/MM4k) | [Maria](https://github.com/dudaa28) |
