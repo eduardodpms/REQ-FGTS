@@ -107,4 +107,4 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
 
 | Versão | Data       | Descrição                        | Autor(es)                      | Revisor(es) |
 | ------ | ---------- | -------------------------------- | ------------------------------ | ----------- |
-| 1.0    | 04/05/2025 | Criação da priorização In or Out | Victor Pontual, Enzo Emir | -           |
+| 1.0    | 04/05/2025 | Criação da priorização In or Out | Victor Pontual, Enzo Emir | [Victor Pontual](https://github.com/VictorPontual)         |
