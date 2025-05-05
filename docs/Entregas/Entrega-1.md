@@ -12,7 +12,7 @@ A entrega 1 consiste na base inicial que guiará o time nas próximas entregas. 
 
 <br>
 
-## Template para Lista de Inspeção
+## Lista de verificação
 
 ### ✅ Equipe
 
