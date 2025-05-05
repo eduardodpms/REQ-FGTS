@@ -69,5 +69,5 @@ A entrega 1 consiste na base inicial que guiará o time nas próximas entregas. 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0`  | 13/04/2025 | Adição da Entrega 01 | [Enzo Emir](https://github.com/EnzoEmir) | [Victor Pontual](https://github.com/VictorPontual) |
-| `1.1`  | 13/04/2025 | Correção do link | [Eduardo de Pina](https://github.com/eduardodpms) | - |
-| `1.2`  | 02/05/2025 | Edição do texto e correção da tabela | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.1`  | 13/04/2025 | Correção do link | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.2`  | 02/05/2025 | Edição do texto e correção da tabela | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
