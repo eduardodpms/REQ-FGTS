@@ -120,7 +120,10 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 <p style="text-align: center">Figura 1 – Print da anotação feita durante a observação da usuária Maria Eduarda</p> <div align="center"> <img src="https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/de360069d904511f4ce44b321816e0403384e92c/docs/assets/observa%C3%A7%C3%A3o/notasDeObserva%C3%A7%C3%A3o.jpg?raw=true" width="500px"/> </div> <p style="text-align: center; font-size: 16px;">Fonte: <i>Victor Pontual (anotações registradas durante a observação)</i></p>
 
 ---
-
+<p style="text-align: center">
+<iframe width="560" height="315" src="[[https://www.youtube.com/embed/zAhJHENC3Vk](https://youtu.be/Ih51yK-A90c)](https://www.youtube.com/watch?v=Ih51yK-A90c&ab_channel=VictorPontual)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+---
 ## Referências
 
 > VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Brasport, 2016.
