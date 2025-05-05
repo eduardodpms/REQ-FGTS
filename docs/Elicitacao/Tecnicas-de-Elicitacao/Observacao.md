@@ -122,7 +122,7 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 ## Gravação
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Ih51yK-A90c&ab_channel=VictorPontual" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/Ih51yK-A90c?si=yIwT0zeufa5ZDdIv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
 ## Referências
