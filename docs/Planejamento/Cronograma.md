@@ -73,6 +73,26 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 
 ### **Entregue 📬**
 
+<p style="text-align: center; font-size: 16px;">Tabela 4: <i>Elicitação – Técnicas e Priorização</i></p>
+
+
+| **Atividade** | **Período de Desenvolvimento** | **Responsáveis** | **Período de Revisão** | **Revisores** |
+|:-:|:-:|:-:|:-:|:-:|
+| Definição das Técnicas de Elicitação | Início: 25/04 <br> Fim: 26/04 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 25/04 <br> Fim: 04/05 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |
+| Definição das Técnicas de Priorização | Início: 25/04 <br> Fim: 26/04 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 25/04 <br> Fim: 04/05 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |
+| Técnica de Elicitação: Entrevista | Início: 01/05 <br> Fim: 04/05 | [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir) | Início: 04/05 <br> Fim: 05/05 | [Maria](https://github.com/dudaa28), [Marcelo](https://github.com/MM4k) |
+| Técnica de Elicitação: Storytelling | Início: 01/05 <br> Fim: 04/05 | [Marcelo](https://github.com/MM4k), [Leticia](https://github.com/Leticia-Arisa-K-Higa) | Início: 04/05 <br> Fim: 05/05 | [Danielle](https://github.com/danielle-soaress), [Enzo](https://github.com/EnzoEmir)|
+| Técnica de Elicitação: Introspecção | Início: 01/05 <br> Fim: 04/05 | [Danielle](https://github.com/danielle-soaress), [Maria](https://github.com/dudaa28) | Início: 04/05 <br> Fim: 05/05 | [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Enzo](https://github.com/EnzoEmir) |
+| Técnica de Elicitação: Observação | Início: 01/05 <br> Fim: 04/05 | [Eduardo](https://github.com/eduardodpms), [Victor](https://github.com/VictorPontual) | Início: 04/05 <br> Fim: 05/05 | [Maria](https://github.com/dudaa28)|
+| Técnica de Priorização: $100 Test | Início: 01/05 <br> Fim: 04/05 | [Enzo](https://github.com/EnzoEmir), [Danielle](https://github.com/danielle-soaress) | Início: 04/05 <br> Fim: 05/05 | [Victor](https://github.com/VictorPontual), [Eduardo](https://github.com/eduardodpms) |
+| Técnica de Priorização: First Things First | Início: 01/05 <br> Fim: 04/05 | [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Enzo](https://github.com/EnzoEmir) | Início: 04/05 <br> Fim: 05/05 | [Danielle](https://github.com/danielle-soaress)|
+| Técnica de Priorização: Three-Level Scale | Início: 01/05 <br> Fim: 04/05 | [Victor](https://github.com/VictorPontual), [Marcelo](https://github.com/MM4k) | Início: 04/05 <br> Fim: 05/05 | [Maria](https://github.com/dudaa28)| [Leticia](https://github.com/Leticia-Arisa-K-Higa) |
+| Técnica de Priorização: In or Out | Início: 01/05 <br> Fim: 04/05 | [Maria](https://github.com/dudaa28), [Enzo](https://github.com/EnzoEmir) | Início: 04/05 <br> Fim: 05/05 | [Victor](https://github.com/VictorPontual) |
+| Gravação da Apresentação | Início: 04/05 <br> Fim: 04/05 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 04/05 <br> Fim: 05/05 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms) |
+| Formulação de Personas | Início: 01/05 <br> Fim: 04/05 | [Eduardo](https://github.com/eduardodpms), [Marcelo](https://github.com/MM4k) | Início: 04/05 <br> Fim: 05/05 | [Victor](https://github.com/VictorPontual) | [Danielle](https://github.com/danielle-soaress) |
+| Formulação de Perfil de Usuário | Início: 01/05 <br> Fim: 04/05 | [Eduardo](https://github.com/eduardodpms), [Marcelo](https://github.com/MM4k) | Início: 04/05 <br> Fim: 05/05 | [Enzo](https://github.com/EnzoEmir) | [Maria](https://github.com/dudaa28) |
+
+
 <br>
 
 
@@ -83,7 +103,7 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 
 A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 3.
 
-<p style="text-align: center; font-size: 16px;">Tabela 4: <i>Modelagem de Requisitos 1</i></p>
+<p style="text-align: center; font-size: 16px;">Tabela 5: <i>Modelagem de Requisitos 1</i></p>
 
 | **Atividade** | **Período de Desenvolvimento** | **Responsáveis** | **Período de Revisão** | **Revisores** |
 |:-:|:-:|:-:|:-:|:-:|
@@ -107,7 +127,7 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 
 A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 4.
 
-<p style="text-align: center; font-size: 16px;">Tabela 5: <i>Modelagem de Requisitos 2</i></p>
+<p style="text-align: center; font-size: 16px;">Tabela 7: <i>Modelagem de Requisitos 2</i></p>
 
 | **Atividade** | **Período de Desenvolvimento** | **Responsáveis** | **Período de Revisão** | **Revisores** |
 |:-:|:-:|:-:|:-:|:-:|
@@ -130,7 +150,7 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 
 A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 5.
 
-<p style="text-align: center; font-size: 16px;">Tabela 6: <i>Análise de Requisitos 1: Verificação e Validação</i></p>
+<p style="text-align: center; font-size: 16px;">Tabela 9: <i>Análise de Requisitos 1: Verificação e Validação</i></p>
 
 | **Atividade** | **Período de Desenvolvimento** | **Responsáveis** | **Período de Revisão** | **Revisores** |
 |:-:|:-:|:-:|:-:|:-:|
@@ -154,7 +174,7 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 
 A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 6.
 
-<p style="text-align: center; font-size: 16px;">Tabela 7: <i>Planejamento do Projeto</i></p>
+<p style="text-align: center; font-size: 16px;">Tabela 11: <i>Planejamento do Projeto</i></p>
 
 | **Atividade** | **Período de Desenvolvimento** | **Responsáveis** | **Período de Revisão** | **Revisores** |
 |:-:|:-:|:-:|:-:|:-:|
@@ -191,4 +211,5 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 | `1.5` | 12/04/2025 | Executado do cronograma da entrega 01 | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.6` | 12/04/2025 | Adicionando referências | [Maria Eduarda](https://github.com/dudaa28) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.7` | 02/05/2025 | Melhorando o cronograma da entrega 2 | [Enzo Emir](https://github.com/EnzoEmir) | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.8` | 04/05/2025 | Cronograma da entrega 2 - Entregue | [Maria Eduarda](https://github.com/dudaa28) | [Enzo Emir](https://github.com/EnzoEmir) |
 
