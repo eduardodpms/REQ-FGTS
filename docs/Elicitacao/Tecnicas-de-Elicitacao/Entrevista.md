@@ -141,4 +141,4 @@ A seguir, os requisitos elicitados foram organizados em duas categorias: funcion
 |:------:|:----------:|:-----------------------------------------------|:------------|:-----------:|
 |  1.0   | 04/05/2025 | Criação da estrutura de entrevista e tabelas   | Enzo Emir   | [Marcelo Makoto](https://github.com/MM4k)
 |  1.1   | 04/05/2025 | Criação da estrutura de entrevista e tabelas   | Enzo Emir, Eduardo de Pina   | [Marcelo Makoto](https://github.com/MM4k)           |
-|  1.2   | 04/05/2025 | Correção dos links dos vídeos   | [Marcelo Makoto](https://github.com/MM4k)   | -           |
+|  1.2   | 04/05/2025 | Correção dos links dos vídeos   | [Marcelo Makoto](https://github.com/MM4k)   | [Maria](https://github.com/dudaa28) |
