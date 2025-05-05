@@ -91,6 +91,13 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
 | RNF17   | Garantir tempo de resposta de até 1 segundo para a solicitação de saque                                | ST018                              | OUT        | É bom mas não é necessário.                |
 | RNF18   | Garantir tempo de resposta de até 1 segundo para o processo de login                                  | ST019                              | OUT        | É bom mas não é necessário.                |
 
+
+<p style="text-align: center">
+<iframe width="560" height="315" src="[[https://www.youtube.com/embed/zAhJHENC3Vk](https://youtu.be/Ih51yK-A90c)](https://www.youtube.com/watch?v=Ih51yK-A90c&ab_channel=VictorPontual)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
+
+
 ## Referências
 
 > WIEGERS, Karl; BEATTY, Joy. *Software Requirements*. 3. ed. Redmond: Microsoft Press, 2013. Cap. 16, p. 319.
