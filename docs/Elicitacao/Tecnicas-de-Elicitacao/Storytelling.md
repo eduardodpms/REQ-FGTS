@@ -99,4 +99,4 @@ Ao abrir o app, Antônio logo percebeu uma dificuldade: as letras eram pequenas.
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0`  | 03/05 | Criação da aba de storytelling | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Marcelo Makoto](https://github.com/MM4k) | [Maria](https://github.com/dudaa28) |
 | `1.1`  | 03/05 | Adição da seção de Introdução | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
-| `1.2`  | 04/05 | Adição da gravação | [Marcelo Makoto](https://github.com/MM4k) | - |
+| `1.2`  | 04/05 | Adição da gravação | [Marcelo Makoto](https://github.com/MM4k) | [Enzo Emir](https://github.com/EnzoEmir),   |
