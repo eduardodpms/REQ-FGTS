@@ -9,7 +9,7 @@ Dessa forma, os requisitos elicitados a partir da introspecção estão organiza
 
 ## Metodologia
 
-O processo de introspecção foi realizado individualmente pelas integrantes Maria Eduarda e Danielle. Por meio de uma chamada foi estudado e compreendido a técnica e logo após, cada uma criou seu próprio cenário e por meio desse cenário foi feita a análise do aplicativo e a elicitação dos requisitos, sendo aplicada a técnica de forma isolada na ferramenta **FIGMA*.Em seguida, categorizamos as elicitações em requisitos funcionais e não-funcionais. Ao final desse processo individual, foi organizado os requisitos resultantes nas Tabelas 3 e 4.
+O processo de introspecção foi realizado individualmente pelas integrantes Maria Eduarda e Danielle. Por meio de uma chamada foi estudado e compreendido a técnica e logo após, cada uma criou seu próprio cenário e por meio desse cenário foi feita a análise do aplicativo e a elicitação dos requisitos, sendo aplicada a técnica de forma isolada na ferramenta **FIGMA**.Em seguida, categorizamos as elicitações em requisitos funcionais e não-funcionais. Ao final desse processo individual, foi organizado os requisitos resultantes nas Tabelas 3 e 4.
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
