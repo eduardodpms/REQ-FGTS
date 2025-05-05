@@ -77,4 +77,4 @@ A entrega 2 consistiu na elicitação e priorização de requisitos, além do de
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0`  | 04/05/2025 | Criação do documento | [Danielle Soares](https://github.com/danielle-soaress) | -- |
+| `1.0`  | 04/05/2025 | Criação do documento | [Danielle Soares](https://github.com/danielle-soaress) | [Victor Pontual](https://github.com/VictorPontual) |
