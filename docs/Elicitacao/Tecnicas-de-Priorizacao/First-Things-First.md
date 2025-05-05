@@ -42,8 +42,6 @@ A técnica de priorização **First Things First** segue um processo no qual é 
 
 ## Requisitos
 
-<div style="text-align:justify">A Figura 1 a seguir contém a priorização dos Requisitos elicitados.</div>
-
 Legenda: 
 
 - ST: Requisitos de StoryTelling
@@ -51,9 +49,11 @@ Legenda:
 - OB: Requisitos da Observação
 - EN: Requisitos da Entrevista
 
-<img src="https://github.com/Requisitos-de-Software/2025.1-FGTS/tree/main/docs/assets/First-Things-First.pdf" align="center">
+<a href="../../../assets/First-Things-First.pdf" target="_blank">📄 Ver documento completo</a>
 
-<div style="text-align:center"> Figura 1: Priorização dos requisitos de acordo com método First Things First</div>
+<iframe src="../../../assets/pFirst-Things-First.pdf" width="100%" height="450px">
+    Este navegador não suporta PDFs. Faça o download <a href="../../../assets/First-Things-First.pdf">aqui</a>.
+</iframe>
 
 ## Gravação
 
