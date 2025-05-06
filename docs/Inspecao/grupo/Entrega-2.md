@@ -76,12 +76,6 @@ Aqui está definida a inspeção da entrega 2 do nosso grupo, cujo projeto abord
 | 36             | As técnicas MoSCoW e/ou 100\$ só foram usadas após outras duas técnicas?                        | [Marcelo Makoto](https://github.com/MM4k)                |          Sim        |   [Danielle Soares](https://github.com/danielle-soaress)   |       04/05/2025 às 22:56     |
 
 
-## Gravação
-
-<p style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vAZRAeZJ5Oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
-
 <br>
 
 ## Histórico de Versões 📅

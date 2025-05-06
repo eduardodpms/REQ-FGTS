@@ -20,6 +20,12 @@ O modelo de tabela utilizado está definido em [Entrega 2](../../Entregas/Entreg
 
 ![Rich Picture V3](../../assets/Inspeção2/L_Entrega2_3.png)
 
+## Gravação
+
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vAZRAeZJ5Oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
 ## Histórico de Versões 📅
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
