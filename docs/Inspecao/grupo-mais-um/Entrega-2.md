@@ -14,12 +14,16 @@ O modelo de tabela utilizado está definido em [Entrega 2](../../Entregas/Entreg
 ## Lista de Inspeção do Grupo 08
 
 
-![Rich Picture V1](../assets/Inspeção2/L_Entrega2.png)
-![Rich Picture V2](../assets/Inspeção2/L_Entrega2_2.png)
-![Rich Picture V3](../assets/Inspeção2/L_Entrega2_3.png)
+![Rich Picture V1](../../assets/Inspeção2/L_Entrega2.png)
+
+![Rich Picture V2](../../assets/Inspeção2/L_Entrega2_2.png)
+
+![Rich Picture V3](../../assets/Inspeção2/L_Entrega2_3.png)
 
 ## Histórico de Versões 📅
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0`  | 13/04/2025 | Adição da Entrega 02 +1 | [Enzo Emir](https://github.com/EnzoEmir) | [-]() |
+
+    
