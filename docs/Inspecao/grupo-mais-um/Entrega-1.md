@@ -1,10 +1,11 @@
 # Inspeção do Grupo +1 (Entrega 1) 
 
+
 ## Introdução
 
 Aqui está definida a inspeção da entrega 1 do Grupo 08, cujo projeto aborda, inicialmente, o app *Carteira Digital de Trânsito*. A análise contemplou os principais tópicos definidos para a entrega 1, como definição da equipe e de seus papéis, escolha e justificativa do aplicativo, ferramentas utilizadas, cronograma de atividades e representação visual (Rich Picture).
 
-O modelo de tabela utilizado está definido em [Entrega 1](../../Entregas/Entrega-1), e foi construído com a participação de todos os membros do grupo 07. Os registros da avaliação foram feitos de forma criteriosa, incluindo prints, datas e horários das avaliações.
+O modelo de lista de verificação utilizado está definido em [Entrega 1](../../../Entregas/Entrega-1), e foi construído com a participação de todos os membros do grupo 07. Os registros da avaliação foram feitos de forma criteriosa, incluindo prints, datas e horários das avaliações.
 
 
 ## Links
@@ -13,55 +14,68 @@ O modelo de tabela utilizado está definido em [Entrega 1](../../Entregas/Entreg
 
 - *GitHub Pages* do grupo inspecionado: [[LINK]](https://requisitos-de-software.github.io/2025.1-Carteira-Digital-de-Transito/)
 
+
+## Gravação
+
+---
+
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
+*Obs.: O grupo não realizou uma gravação para essa atividade.*
+
+---
+
 ## Lista de Inspeção do Grupo 08
 
 ### ✅ Equipe
 
-| Criador(es) | Questão | Resposta (Sim/Não/Incompleto) | Print | Data e Hora da Avaliação |
-| :-: | :-: | :-: | :-: | :-: |
-| [Danielle Soares](https://github.com/danielle-soaress) | Os membros da equipe foram definidos? | Sim | **![][image1]** | 14/04/2025 às 18:07 |
-| [Danielle Soares](https://github.com/danielle-soaress) | Os papéis e responsabilidades de cada membro estão claros? | Sim | ![][image2] | 14/04/2025 às 18:10 |
-| [Danielle Soares](https://github.com/danielle-soaress) | A forma de comunicação entre os membros foi estabelecida? | Sim | ![][image3] ![][image4] | 14/04/2025 às 18:12 |
-| [Eduardo de Pina](https://github.com/eduardodpms) | Há encontros periódicos agendados para acompanhamento do progresso da equipe? | Sim | ![][image5] | 14/04/2025 às 22:21 |
+| Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+| ***01:*** Os membros da equipe foram definidos? | [Danielle](https://github.com/danielle-soaress) | Sim | --- | ![][image1] | [Danielle](https://github.com/danielle-soaress) | 14/04/202 \ 18:07 |
+| ***02:*** Os papéis e responsabilidades de cada membro estão claros? | [Danielle](https://github.com/danielle-soaress) | Sim | --- | ![][image2] | [Danielle](https://github.com/danielle-soaress) | 14/04/202 \ 18:10 |
+| ***03:*** A forma de comunicação entre os membros foi estabelecida? | [Danielle](https://github.com/danielle-soaress) | Sim | --- | ![][image3] ![][image4] | [Danielle](https://github.com/danielle-soaress) | 14/04/2025 \ 18:12 |
+| ***04:*** Há encontros periódicos agendados para acompanhamento do progresso da equipe? | [Eduardo](https://github.com/eduardodpms) | Sim | --- | ![][image5] | [Eduardo](https://github.com/eduardodpms) | 14/04/2025 \ 22:21 |
 
 
 ### ✅ App Selecionado para o Projeto
 
-| Criador(es) | Questão | Resposta (Sim/Não/Incompleto) | Print | Data e Hora da Avaliação |
-| :-: | :-: | :-: | :-: | :-: |
-| [Eduardo de Pina](https://github.com/eduardodpms) | O aplicativo foi claramente escolhido e justificado? | Sim | ![][image6] | 14/04/2025 às 22:18 |
-| [Eduardo de Pina](https://github.com/eduardodpms) | As funcionalidades principais do app estão listadas? | Sim | ![][image7] | 14/04/2025 às 22:24 |
-| [Enzo Emir](https://github.com/EnzoEmir) | O público-alvo do app está identificado? | Sim | ![][image8] | 14/04/2025 às 19:25 |
+| Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+| ***05:*** O aplicativo foi claramente escolhido e justificado? | [Eduardo](https://github.com/eduardodpms) | Sim | --- | ![][image6] | [Eduardo](https://github.com/eduardodpms) | 14/04/2025 \ 22:18 |
+| ***06:*** As funcionalidades principais do app estão listadas? | [Eduardo](https://github.com/eduardodpms) | Sim | --- | ![][image7] | [Eduardo](https://github.com/eduardodpms) | 14/04/2025 \ 22:24 |
+| ***07:*** O público-alvo do app está identificado? | [Enzo](https://github.com/EnzoEmir) | Sim | --- | ![][image8] | [Enzo](https://github.com/EnzoEmir) | 14/04/2025 \ 19:25 |
 
 
 ### ✅ Ferramentas do Projeto
 
-| Criador(es) | Questão | Resposta (Sim/Não/Incompleto) | Print | Data e Hora da Avaliação |
-| :-: | :-: | :-: | :-: | :-: |
-| [Enzo Emir](https://github.com/EnzoEmir) | As ferramentas de desenvolvimento foram selecionadas? | Sim | ![][image9]![][image10]![][image11] | 14/04/2025 às 19:19 |
-| [Enzo Emir](https://github.com/EnzoEmir) | Ferramentas de versionamento (ex: Git) estão definidas? | Sim | ![][image12] | 14/04/2025 às 19:19 |
-| [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | Ferramentas de comunicação e organização (ex: Trello, Discord) foram escolhidas? | Sim | ![][image13]![][image14] | 14/04/2025 às 18:37 |
-| [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | Há uma estratégia definida para backup e recuperação das informações do projeto?  | Sim | ![][image12] | 14/04/2025 às 19:48 |
+| Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+| ***08:*** As ferramentas de desenvolvimento foram selecionadas? | [Enzo](https://github.com/EnzoEmir) | Sim | --- | ![][image9] ![][image10] ![][image11] | [Enzo](https://github.com/EnzoEmir) | 14/04/2025 \ 19:19 |
+| ***09:*** Ferramentas de versionamento (ex: Git) estão definidas? | [Enzo](https://github.com/EnzoEmir) | Sim | --- | ![][image12] | [Enzo](https://github.com/EnzoEmir) | 14/04/2025 \ 19:19 |
+| ***10:*** Ferramentas de comunicação e organização (ex: Trello, Discord) foram escolhidas? | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | Sim | --- | ![][image13] ![][image14] | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | 14/04/2025 \ 18:37 |
+| ***11:*** Há uma estratégia definida para backup e recuperação das informações do projeto?  | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | Sim | --- | ![][image12] | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | 14/04/2025 \ 19:48 |
 
 ### ✅ Cronograma das Atividades
 
-| Criador(es) | Questão | Resposta (Sim/Não/Incompleto) | Print | Data e Hora da Avaliação |
-| :-: | :-: | :-: | :-: | :-: |
-| [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | As atividades do projeto estão listadas e descritas? | Sim | ![][image15] | 14/04/2025 às 19:39  |
-| [Marcelo Makoto](https://github.com/MM4k) | Cada atividade tem uma estimativa de duração? | Sim | ![][image16] | 14/04/2025 às 19:30 |
-| [Marcelo Makoto](https://github.com/MM4k) | As datas de início e fim do projeto estão definidas? | Sim | ![][image17] ![][image18] | 14/04/2025 às 19:32 |
-| [Marcelo Makoto](https://github.com/MM4k) | As dependências entre atividades foram consideradas? | Sim | ![][image19] | 14/04/2025 às 19:35 |
-| [Maria Eduarda](https://github.com/dudaa28) | O cronograma está sendo acompanhado e atualizado? | Sim | ![][image20]![][image21] | 14/04/2025 às 19:01 |
+| Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+| ***12:*** As atividades do projeto estão listadas e descritas? | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | Sim | --- | ![][image15] | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | 14/04/2025 \ 19:39  |
+| ***13:*** Cada atividade tem uma estimativa de duração? | [Marcelo](https://github.com/MM4k) | Sim | --- | ![][image16] | [Marcelo](https://github.com/MM4k) | 14/04/2025 \ 19:30 |
+| ***14:*** As datas de início e fim do projeto estão definidas? | [Marcelo](https://github.com/MM4k) | Sim | --- | ![][image17] ![][image18] | [Marcelo](https://github.com/MM4k) | 14/04/2025 \ 19:32 |
+| ***15:*** As dependências entre atividades foram consideradas? | [Marcelo](https://github.com/MM4k) | Sim | --- | ![][image19] | [Marcelo](https://github.com/MM4k) | 14/04/2025 \ 19:35 |
+| ***16:*** O cronograma está sendo acompanhado e atualizado? | [Maria](https://github.com/dudaa28) | Sim | --- | ![][image20] ![][image21] | [Maria](https://github.com/dudaa28) | 14/04/2025 \ 19:01 |
 
 ### ✅ Rich Picture
 
-| Criador(es) | Questão | Resposta (Sim/Não/Incompleto) | Print | Data e Hora da Avaliação |
-| :-: | :-: | :-: | :-: | :-: |
-| [Maria Eduarda](https://github.com/dudaa28) | O Rich Picture representa todos os atores envolvidos no sistema? | Sim | ![][image22]![][image23] | 14/04/2025 às 19:20 |
-| [Maria Eduarda](https://github.com/dudaa28) | Os fluxos de informação entre os elementos estão ilustrados? | Sim | ![][image23] | 14/04/2025 às 20:00 |
-| [Victor Pontual](https://github.com/VictorPontual) | As principais operações do sistema estão representadas? | Sim | ![][image24] | 14/04/2025 às 19:19 |
-| [Victor Pontual](https://github.com/VictorPontual) | Os limites do sistema estão claramente indicados? | Sim | ![][image25] | 14/04/2025 às 19:19 |
-| [Victor Pontual](https://github.com/VictorPontual) | O Rich Picture foi validado com a equipe ou stakeholders? | Sim | ![][image26] | 14/04/2025 às 19:19 |
+| Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
+|-|:-:|:-:|:-:|:-:|:-:|:-:|
+| ***17:*** O Rich Picture representa todos os atores envolvidos no sistema? | [Maria](https://github.com/dudaa28) | Sim | --- | ![][image22] ![][image23] | [Maria](https://github.com/dudaa28) | 14/04/2025 \ 19:20 |
+| ***18:*** Os fluxos de informação entre os elementos estão ilustrados? | [Maria](https://github.com/dudaa28) | Sim | --- | ![][image23] | [Maria](https://github.com/dudaa28) | 14/04/2025 \ 20:00 |
+| ***19:*** As principais operações do sistema estão representadas? | [Victor](https://github.com/VictorPontual) | Sim | --- | ![][image24] | [Victor](https://github.com/VictorPontual) | 14/04/2025 \ 19:19 |
+| ***20:*** Os limites do sistema estão claramente indicados? | [Victor](https://github.com/VictorPontual) | Sim | --- | ![][image25] | [Victor](https://github.com/VictorPontual) | 14/04/2025 \ 19:19 |
+| ***21:*** O Rich Picture foi validado com a equipe ou stakeholders? | [Victor](https://github.com/VictorPontual) | Sim | --- | ![][image26] | [Victor](https://github.com/VictorPontual) | 14/04/2025 \ 19:19 |
 
 <br>
 
@@ -72,6 +86,7 @@ O modelo de tabela utilizado está definido em [Entrega 1](../../Entregas/Entreg
 | `1.0` | 21/04/2025 | Criação do documento | [Eduardo de Pina](https://github.com/eduardodpms) |[Danielle Soares](https://github.com/danielle-soaress) |
 | `1.1` | 02/05/2025 | Atualização do texto e da aparência | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.2` | 02/05/2025 | Atualização do texto e da aparência | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.3` | 07/05/2025 | Ajuste de textos, links, paths e elementos na lista | [Eduardo de Pina](https://github.com/eduardodpms) | - |
 
 
 
