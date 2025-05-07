@@ -71,4 +71,4 @@ Legenda:
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0`  | 03/05 | Criação da aba First Things First | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Enzo Emir](https://github.com/EnzoEmir) | [Danielle](https://github.com/danielle-soaress) |
-| `1.1`  | 03/05 | Criação da aba First Things First | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.1`  | 03/05 | Correção de erros de formatação e gramática | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |
