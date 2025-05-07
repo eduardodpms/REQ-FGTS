@@ -135,4 +135,4 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 
 | Versão | Data       | Descrição                                      | Autor(es) | Revisor(es)    |
 | ------ | ---------- | ---------------------------------------------- | --------- | -------------- |
-| 1.0    | 04/05/2025 | Documento de elicitação com base em observação | Victor Pontual Guedes Arruda Nóbrega | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
+| 1.0    | 04/05/2025 | Documento de elicitação com base em observação | [Victor Pontual](https://github.com/VictorPontual) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
