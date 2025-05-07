@@ -121,4 +121,4 @@ Legenda:
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0`  | 03/05 | Criação da aba First Things First | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Enzo Emir](https://github.com/EnzoEmir) | [Danielle](https://github.com/danielle-soaress) |
 | `1.1`  | 03/05 | Correção de erros de formatação e gramática | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |
-| `1.2`  | 07/05 | Adição da tabela dos participantes | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
+| `1.2`  | 07/05 | Adição da tabela dos participantes | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Enzo Emir](https://github.com/EnzoEmir) |
