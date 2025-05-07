@@ -101,10 +101,10 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
 
 ## Referências
 
-> WIEGERS, Karl; BEATTY, Joy. *Software Requirements*. 3. ed. Redmond: Microsoft Press, 2013. Cap. 16, p. 319.
+> <a id="REF1" href="#anchor_1">1.</a> WIEGERS, Karl; BEATTY, Joy. *Software Requirements*. 3. ed. Redmond: Microsoft Press, 2013. Cap. 16, p. 319.
 
 ## Histórico de Versões 🗓️
 
 | Versão | Data       | Descrição                        | Autor(es)                      | Revisor(es) |
 | ------ | ---------- | -------------------------------- | ------------------------------ | ----------- |
-| 1.0    | 04/05/2025 | Criação da priorização In or Out | Victor Pontual, Enzo Emir | [Victor Pontual](https://github.com/VictorPontual)         |
+| 1.0    | 04/05/2025 | Criação da priorização In or Out | [Victor Pontual](https://github.com/VictorPontual), [Enzo Emir](https://github.com/EnzoEmir) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)         |
