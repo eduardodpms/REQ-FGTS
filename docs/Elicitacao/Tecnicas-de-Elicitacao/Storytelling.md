@@ -6,7 +6,7 @@ Para realizar a elicitação de requisitos, uma das técnicas utilizadas foi o s
 
 ## Storytelling
 
-Storytelling é uma técnica que utiliza histórias como ferramenta de comunicação para compartilhar conhecimentos e experiências. Ao utilizar narrativas do cotidiano, essa abordagem torna o processo mais envolvente e divertido. No contexto de levantamento de requisitos, o storytelling permite que os usuários compartilhem experiências ao interagir com o sistema que está sendo analisado, ajudando a identificar necessidades, desafios e expectativas. As histórias coletadas são então compartilhadas com a equipe envolvida no projeto, ampliando o conhecimento sobre os usuários e suas necessidades <a id="anchor_1" href="#REF1">^1^</a>.
+Storytelling é uma técnica que utiliza histórias como ferramenta de comunicação para compartilhar conhecimentos e experiências. Ao utilizar narrativas do cotidiano, essa abordagem torna o processo mais envolvente e divertido. No contexto de levantamento de requisitos, o storytelling permite que os usuários compartilhem experiências ao interagir com o sistema que está sendo analisado, ajudando a identificar necessidades, desafios e expectativas. As histórias coletadas são então compartilhadas com a equipe envolvida no projeto, ampliando o conhecimento sobre os usuários e suas necessidades <a id="anchor_1" href="#REF1">^2^</a>.
 
 ### Lucas Almeida (Persona Primária) 
 
@@ -85,9 +85,9 @@ Ao abrir o app, Antônio logo percebeu uma dificuldade: as letras eram pequenas.
 
 ## Referências
 
-> REQUISITOS DE SOFTWARE. *Aplicativo – Lichess (2022.2)*. Disponível em: <<https://requisitos-de-software.github.io/2022.2-Lichess/elicitacao/storytelling/>>. Acesso em: 03/05/2025.
+> 1.</a> REQUISITOS DE SOFTWARE. *Aplicativo – Lichess (2022.2)*. Disponível em: <<https://requisitos-de-software.github.io/2022.2-Lichess/elicitacao/storytelling/>>. Acesso em: 03/05/2025.
 
-> <a id="REF1" href="#anchor_1">1.</a> SERRANO, Milene; SERRANO, Maurício. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponícel em: <<https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>>. Acesso em: 03/05/2025.
+> <a id="REF1" href="#anchor_1">2.</a> SERRANO, Milene; SERRANO, Maurício. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponícel em: <<https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>>. Acesso em: 03/05/2025.
 
 
 

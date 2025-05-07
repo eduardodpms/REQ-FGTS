@@ -127,7 +127,7 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 
 ## Referências
 
-> <a id="REF1" href="#anchor_1">1.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Brasport, 2016.
+> 1.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Brasport, 2016.
 
 ---
 

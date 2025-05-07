@@ -108,7 +108,7 @@ Dessa maneira, os requisitos podem ser priorizados de maneira relativamente fác
 
 ## Bibliografia
 
-> <a id="REF1" href="#anchor_1">1.</a> WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3rd ed. Redmond: Microsoft Press, 2013. Cap. 16, p. 319.
+> 1.</a> WIEGERS, Karl; BEATTY, Joy. Software Requirements. 3rd ed. Redmond: Microsoft Press, 2013. Cap. 16, p. 319.
 
 <br>
 

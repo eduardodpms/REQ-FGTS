@@ -30,6 +30,6 @@ O modelo de tabela utilizado está definido em [Entrega 2](../../Entregas/Entreg
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0`  | 13/04/2025 | Adição da Entrega 02 +1 | [Enzo Emir](https://github.com/EnzoEmir) | [-]() |
+| `1.0`  | 13/04/2025 | Adição da Entrega 02 +1 | [Enzo Emir](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
 
     
