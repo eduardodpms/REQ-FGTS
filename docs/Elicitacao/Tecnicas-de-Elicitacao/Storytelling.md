@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Para realizar a elicitação de requisitos, uma das técnicas utilizadas foi o storytelling, aplicado com base nas personas criadas a partir dos perfis de usuários. É possivel observar na tabela 1 os participantes dessa técnica de elicitação. Foram utilizadas quatro personas, sendo duas primárias e duas secundárias. Foi desenvolvida uma história (storytelling) para cada persona e, a partir delas, foram identificadas suas dificuldades, necessidades e tarefas. Com base nessas observações, alguns requisitos foram definidos na tabela 2.
+Para realizar a elicitação de requisitos, uma das técnicas utilizadas foi o storytelling, aplicado com base nas personas criadas a partir dos perfis de usuários. É possivel observar na tabela 1 os participantes dessa técnica de elicitação. Foram utilizadas quatro personas, sendo duas primárias e duas secundárias. Foi desenvolvida uma história (storytelling) para cada persona e, a partir delas, foram identificadas suas dificuldades, necessidades e tarefas. Com base nessas observações, alguns requisitos foram definidos nas tabelas 2 e 3.
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
@@ -104,31 +104,44 @@ Ao abrir o app, Antônio logo percebeu uma dificuldade: as letras eram pequenas.
 * RF: Requisito Funcional
 * RNF: Requisito Não Funcional
 
+### Requisitos Funcionais
+
 <div style="text-align: center">
-<p>Tabela 1: Requisitos elicitados</p>
+<p>Tabela 2: Requisitos Funcionais</p>
 </div>
 
-| ID   | Descrição                                                                                                                                                                | Tipo |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |:----:|
-| ST01 | O aplicativo deve ter poucos botões para facilitar o acesso. | RF |
-| ST02 | O aplicativo deve exibir um resumo claro dos tipos de saque disponíveis. | RF |
-| ST03 | O aplicativo deve enviar notificações sobre o status das solicitações de saque. | RF |
-| ST04 | O aplicativo deve utilizar termos e ícones familiares aos usuários. | RF |
-| ST05 | O aplicativo deve permitir o cadastro de conta bancária | RF |
-| ST06 | O aplicativo deve permitir a solicitação de saques. | RF |
-| ST07 | O aplicativo deve disponibilizar um guia interativo para orientar o usuário durante o processo. | RF |
-| ST08 | O aplicativo deve permitir o ajuste do tamanho das fontes na interface. | RF |
-| ST09 | O aplicativo deve enviar notificações sobre o andamento da solicitação de saque. | RF |
-| ST010 | O aplicativo deve permitir a visualização dos dados da conta bancária cadastrada. | RF |
-| ST011 | O aplicativo deve oferecer uma interface de login simples. | RF |
-| ST012 | O aplicativo deve disponibilizar uma página para escolha da sistemática de saque. | RF |
-| ST013 | O aplicativo deve incluir a opção de saque no modelo ‘Saque-aniversário’. | RF |
-| ST014 | O aplicativo deve incluir a opção de saque no modelo ‘Saque-rescisão’. | RF |
-| ST015 | O aplicativo deve enviar notificação ao usuário quando o saque for recebido. | RF |
-| ST016 | O aplicativo deve disponibilizar termo de adesão. | RF |
-| ST017 | O aplicativo deve garantir tempo de resposta de até 1 segundo para o cadastro da conta bancária. | RNF |
-| ST018 | O aplicativo deve garantir tempo de resposta de até 1 segundo para a solicitação de saque. | RNF |
-| ST019 | O aplicativo deve garantir tempo de resposta de até 1 segundo para o processo de login. | RNF |
+| Código | Requisito Funcional | ID | Implementado |
+| :-: | - | :-: | :-: |
+| RF01  | O aplicativo deve ter poucos botões para facilitar o acesso. | ST01 | Sim |
+| RF02  | O aplicativo deve exibir um resumo claro dos tipos de saque disponíveis. | ST02 | Sim |
+| RF03  | O aplicativo deve enviar notificações sobre o status das solicitações de saque. | ST03 | Sim |
+| RF04  | O aplicativo deve utilizar termos e ícones familiares aos usuários. | ST04 | Sim |
+| RF05  | O aplicativo deve permitir o cadastro de conta bancária. | ST05 | Sim |
+| RF06  | O aplicativo deve permitir a solicitação de saques. | ST06 | Sim |
+| RF07  | O aplicativo deve disponibilizar um guia interativo para orientar o usuário durante o processo. | ST07 | Não |
+| RF08  | O aplicativo deve permitir o ajuste do tamanho das fontes na interface. | ST08 | Não |
+| RF09  | O aplicativo deve enviar notificações sobre o andamento da solicitação de saque. | ST09 | Sim |
+| RF10  | O aplicativo deve permitir a visualização dos dados da conta bancária cadastrada. | ST010 | Sim |
+| RF11  | O aplicativo deve oferecer uma interface de login simples. | ST011 | Sim |
+| RF12  | O aplicativo deve disponibilizar uma página para escolha da sistemática de saque. | ST012 | Sim |
+| RF13  | O aplicativo deve incluir a opção de saque no modelo ‘Saque-aniversário’. | ST013 | Sim |
+| RF14  | O aplicativo deve incluir a opção de saque no modelo ‘Saque-rescisão’. | ST014 | Sim |
+| RF15  | O aplicativo deve enviar notificação ao usuário quando o saque for recebido. | ST015 | Sim |
+| RF16  | O aplicativo deve disponibilizar termo de adesão. | ST016 | Sim |
+
+**Fonte:** *Leticia Arisa e Marcelo Makoto*
+
+
+
+<div style="text-align: center">
+<p>Tabela 3: Requisitos Não-Funcionais</p>
+</div>
+
+| Código | Requisito Não-Funcional | ID | Implementado |
+| :-: | - | :-: | :-: |
+| RNF01  | O aplicativo deve garantir tempo de resposta de até 1 segundo para o cadastro da conta bancária.. | ST017 | Sim |
+| RNF02  | O aplicativo deve garantir tempo de resposta de até 1 segundo para a solicitação de saque. | ST018 | Sim |
+| RNF03  | O aplicativo deve garantir tempo de resposta de até 1 segundo para o processo de login. | ST019 | Sim |
 
 **Fonte:** *Leticia Arisa e Marcelo Makoto*
 
@@ -155,4 +168,4 @@ Ao abrir o app, Antônio logo percebeu uma dificuldade: as letras eram pequenas.
 | `1.0`  | 03/05 | Criação da aba de storytelling | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Marcelo Makoto](https://github.com/MM4k) | [Maria](https://github.com/dudaa28) |
 | `1.1`  | 03/05 | Adição da seção de Introdução | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.2`  | 04/05 | Adição da gravação | [Marcelo Makoto](https://github.com/MM4k) | [Enzo Emir](https://github.com/EnzoEmir),   |
-| `1.2`  | 06/05 | Correção da formatação dos requisitos elicitados e adição da tabela dos participantes. | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
+| `1.3`  | 06/05 | Correção da formatação dos requisitos elicitados, adição da tabela dos participantes e correção das tabelas. | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
