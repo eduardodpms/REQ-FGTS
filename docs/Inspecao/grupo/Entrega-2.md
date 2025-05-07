@@ -82,7 +82,7 @@ Aqui está definida a inspeção da entrega 2 do nosso grupo, cujo projeto abord
 
 | Versão | Data | Descrição | Autor(es) |  Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 21/04/2025 | Criação do documento | [Danielle Soares](https://github.com/danielle-soaress) | --- |
+| `1.0` | 21/04/2025 | Criação do documento | [Danielle Soares](https://github.com/danielle-soaress) | [Victor Pontual](https://github.com/VictorPontual) |
 
 
 
