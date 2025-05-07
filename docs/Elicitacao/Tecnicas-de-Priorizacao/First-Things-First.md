@@ -40,6 +40,55 @@ A técnica de priorização **First Things First** segue um processo no qual é 
 
     Por fim, os requisitos foram ordenados de forma decrescente, de modo que os requisitos no topo da lista tenham maior prioridade e os últimos, menor prioridade.
 
+## Participantes
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes.</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Função</th>
+      <th>Data</th>
+      <th>Hora</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="[Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)">Leticia Arisa</a></td>
+      <td>Desenvolvedor</td>
+      <td>04/05/2025</td>
+      <td>18:00</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+      <td>Desenvolvedor</td>
+      <td>04/05/2025</td>
+      <td>18:00</td>
+    </tr>
+    <tr>
+      <td><span style="color: orange;">Arthur</span></td>
+      <td>Usuário</td>
+      <td>04/05/2025</td>
+      <td>18:00</td>
+    </tr>
+    <tr>
+      <td><span style="color: orange;">João</span></td>
+      <td>Usuário</td>
+      <td>04/05/2025</td>
+      <td>18:00</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+
+<font size="3"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress).</p></font>
+
 ## Requisitos
 
 Legenda: 
@@ -72,3 +121,4 @@ Legenda:
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0`  | 03/05 | Criação da aba First Things First | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Enzo Emir](https://github.com/EnzoEmir) | [Danielle](https://github.com/danielle-soaress) |
 | `1.1`  | 03/05 | Correção de erros de formatação e gramática | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.2`  | 07/05 | Adição da tabela dos participantes | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
