@@ -82,4 +82,4 @@ Com o objetivo de verificar a vibilidade legal do desenvolvimento do projeto, de
 | `1.1` | 13/04/2025 | Referências | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.2` | 13/04/2025 | Modificação do texto | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.3` | 02/05/2025 | Modificação do Aplicativo | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo](https://github.com/MM4k) |
-| `1.4` | 02/05/2025 | Visualização dos termos de uso e adição de paths | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.4` | 02/05/2025 | Visualização dos termos de uso e adição de paths | [Eduardo de Pina](https://github.com/eduardodpms) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |

@@ -2,7 +2,60 @@
 
 ## Introdução
 
-Para realizar a elicitação de requisitos, uma das técnicas utilizadas foi o storytelling, aplicado com base nas personas criadas a partir dos perfis de usuários. Foram utilizadas quatro personas, sendo duas primárias e duas secundárias. Foi desenvolvida uma história (storytelling) para cada persona e, a partir delas, foram identificadas suas dificuldades, necessidades e tarefas. Com base nessas observações, alguns requisitos foram definidos.
+Para realizar a elicitação de requisitos, uma das técnicas utilizadas foi o storytelling, aplicado com base nas personas criadas a partir dos perfis de usuários. É possivel observar na tabela 1 os participantes dessa técnica de elicitação. Foram utilizadas quatro personas, sendo duas primárias e duas secundárias. Foi desenvolvida uma história (storytelling) para cada persona e, a partir delas, foram identificadas suas dificuldades, necessidades e tarefas. Com base nessas observações, alguns requisitos foram definidos na tabela 2.
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Data</th>
+      <th>Hora</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Leticia Arisa</td>
+      <td>03/05/2023</td>
+      <td>14:40</td>
+    </tr>
+    <tr>
+      <td>Marcelo Makoto</td>
+      <td>03/05/2023</td>
+      <td>14:40</td>
+    </tr>
+    <tr>
+      <td>Lucas Almeida (Persona)</td>
+      <td>03/05/2023</td>
+      <td>14:40</td>
+    </tr>
+    <tr>
+      <td>Beatriz Fernandes (Persona)</td>
+      <td>03/05/2023</td>
+      <td>14:40</td>
+    </tr>
+    <tr>
+      <td>Patrícia Nogueira (Persona)</td>
+      <td>03/05/2023</td>
+      <td>14:40</td>
+    </tr>
+    <tr>
+      <td>Antônio Ribeiro (Persona)</td>
+      <td>03/05/2023</td>
+      <td>14:40</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+
+<p style="text-align: center; font-size: 16px;">Fonte: <i>Leticia Arisa e Marcelo Makoto</i></p>
+
+
 
 ## Storytelling
 
@@ -57,25 +110,27 @@ Ao abrir o app, Antônio logo percebeu uma dificuldade: as letras eram pequenas.
 
 | ID   | Descrição                                                                                                                                                                | Tipo |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |:----:|
-| ST01 | Páginas com poucos botões para facilitar o acesso. | RF |
-| ST02 | Exibir um resumo claro dos tipos de saque disponíveis. | RF |
-| ST03 | Enviar notificações sobre o status das solicitações de saque. | RF |
-| ST04 | Utilizar termos e ícones familiares aos usuários. | RF |
-| ST05 | Permitir o cadastro de conta bancária | RF |
-| ST06 | Permitir a solicitação de saques. | RF |
-| ST07 | Disponibilizar um guia interativo para orientar o usuário durante o processo. | RF |
-| ST08 | Permitir o ajuste do tamanho das fontes na interface. | RF |
-| ST09 | Enviar notificações sobre o andamento da solicitação de saque. | RF |
-| ST010 | Permitir a visualização dos dados da conta bancária cadastrada. | RF |
-| ST011 | Oferecer uma interface de login simples. | RF |
-| ST012 | Disponibilizar uma página para escolha da sistemática de saque. | RF |
-| ST013 | Incluir a opção de saque no modelo ‘Saque-aniversário’. | RF |
-| ST014 | Incluir a opção de saque no modelo ‘Saque-rescisão’. | RF |
-| ST015 | Enviar notificação ao usuário quando o saque for recebido. | RF |
-| ST016 | Disponibilizar termo de adesão. | RF |
-| ST017 | Garantir tempo de resposta de até 1 segundo para o cadastro da conta bancária. | RNF |
-| ST018 | Garantir tempo de resposta de até 1 segundo para a solicitação de saque. | RNF |
-| ST019 | Garantir tempo de resposta de até 1 segundo para o processo de login. | RNF |
+| ST01 | O aplicativo deve ter poucos botões para facilitar o acesso. | RF |
+| ST02 | O aplicativo deve exibir um resumo claro dos tipos de saque disponíveis. | RF |
+| ST03 | O aplicativo deve enviar notificações sobre o status das solicitações de saque. | RF |
+| ST04 | O aplicativo deve utilizar termos e ícones familiares aos usuários. | RF |
+| ST05 | O aplicativo deve permitir o cadastro de conta bancária | RF |
+| ST06 | O aplicativo deve permitir a solicitação de saques. | RF |
+| ST07 | O aplicativo deve disponibilizar um guia interativo para orientar o usuário durante o processo. | RF |
+| ST08 | O aplicativo deve permitir o ajuste do tamanho das fontes na interface. | RF |
+| ST09 | O aplicativo deve enviar notificações sobre o andamento da solicitação de saque. | RF |
+| ST010 | O aplicativo deve permitir a visualização dos dados da conta bancária cadastrada. | RF |
+| ST011 | O aplicativo deve oferecer uma interface de login simples. | RF |
+| ST012 | O aplicativo deve disponibilizar uma página para escolha da sistemática de saque. | RF |
+| ST013 | O aplicativo deve incluir a opção de saque no modelo ‘Saque-aniversário’. | RF |
+| ST014 | O aplicativo deve incluir a opção de saque no modelo ‘Saque-rescisão’. | RF |
+| ST015 | O aplicativo deve enviar notificação ao usuário quando o saque for recebido. | RF |
+| ST016 | O aplicativo deve disponibilizar termo de adesão. | RF |
+| ST017 | O aplicativo deve garantir tempo de resposta de até 1 segundo para o cadastro da conta bancária. | RNF |
+| ST018 | O aplicativo deve garantir tempo de resposta de até 1 segundo para a solicitação de saque. | RNF |
+| ST019 | O aplicativo deve garantir tempo de resposta de até 1 segundo para o processo de login. | RNF |
+
+**Fonte:** *Leticia Arisa e Marcelo Makoto*
 
 ## Gravação da Elicitação
 
@@ -100,3 +155,4 @@ Ao abrir o app, Antônio logo percebeu uma dificuldade: as letras eram pequenas.
 | `1.0`  | 03/05 | Criação da aba de storytelling | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Marcelo Makoto](https://github.com/MM4k) | [Maria](https://github.com/dudaa28) |
 | `1.1`  | 03/05 | Adição da seção de Introdução | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.2`  | 04/05 | Adição da gravação | [Marcelo Makoto](https://github.com/MM4k) | [Enzo Emir](https://github.com/EnzoEmir),   |
+| `1.2`  | 06/05 | Correção da formatação dos requisitos elicitados e adição da tabela dos participantes. | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
