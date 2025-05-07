@@ -90,15 +90,15 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 
 | Código | Requisito Funcional                                                                             | ID   | Implementado |
 | ------ | ----------------------------------------------------------------------------------------------- | ---- | :----------: |
-| RF05   | Permitir login seguro pelo aplicativo                                                           | EO01 |      Sim     |
-| RF06   | Apresentar resumo de empregadores anteriores com botão para consultar contas vinculadas ao FGTS | EO02 |      Sim     |
-| RF07   | Permitir solicitação de saque com justificativa selecionável                                    | EO03 |      Sim     |
-| RF08   | Exibir extrato do FGTS por empregador individual                                                | EO04 |      Sim     |
-| RF09   | Mostrar nome completo dos empregadores anteriores                                               | EO05 |      Sim     |
-| RF10   | Disponibilizar histórico de saques realizados                                                   | EO06 |      Sim     |
-| RF11   | Ter uma aba dedicada à solicitação e acompanhamento de saques                                   | EO07 |      Sim     |
-| RF12   | Possibilitar configuração de conta bancária para depósito e visualização de termos do FGTS      | EO08 |      Sim     |
-| RF13   | Incluir aba para itens diversos como PIS/PASEP, convocações, sistemática de saque, ajuda, etc.  | EO09 |      Sim     |
+| RF05   | O aplicativo deve permitir login seguro                                                           | EO01 |      Sim     |
+| RF06   | O aplicativo deve apresentar resumo de empregadores anteriores com botão para consultar contas vinculadas ao FGTS | EO02 |      Sim     |
+| RF07   | O aplicativo deve permitir solicitação de saque com justificativa selecionável                                    | EO03 |      Sim     |
+| RF08   | O aplicativo deve exibir extrato do FGTS por empregador individual                                                | EO04 |      Sim     |
+| RF09   | O aplicativo deve mostrar nome completo dos empregadores anteriores                                               | EO05 |      Sim     |
+| RF10   | O aplicativo deve disponibilizar histórico de saques realizados                                                   | EO06 |      Sim     |
+| RF11   | O aplicativo deve ter uma aba dedicada à solicitação e acompanhamento de saques                                   | EO07 |      Sim     |
+| RF12   | O aplicativo deve possibilitar configuração de conta bancária para depósito e visualização de termos do FGTS      | EO08 |      Sim     |
+| RF13   | O aplicativo deve incluir aba para itens diversos como PIS/PASEP, convocações, sistemática de saque, ajuda, etc.  | EO09 |      Sim     |
 
 ---
 

@@ -92,12 +92,12 @@ A seguir, os requisitos elicitados foram organizados em duas categorias: funcion
 
 | Código | Requisito Funcional                                                                 | ID    | Implementado |
 |:------:|--------------------------------------------------------------------------------------|:-----:|:------------:|
-| RF01   | Permitir solicitação de saque por rescisão contratual                              | EN01  | Sim          |
-| RF02   | Exibir status comentado e atualizado do processo de saque                          | EN02  | Não          |
-| RF03   | Informar claramente as datas previstas para liberação de valores                   | EN03  | Não          |
-| RF04   | Oferecer canal de suporte ou chatbot para esclarecer dúvidas                       | EN04  | Não          |
-| RF05   | Permitir consulta ao saldo da conta vinculada do FGTS                              | EN05  | Sim          |
-| RF06   | Disponibilizar funcionalidade acessível para saque-aniversário                     | EN06  | Sim          |
+| RF01   | O aplicativo deve permitir solicitação de saque por rescisão contratual                              | EN01  | Sim          |
+| RF02   | O aplicativo deve exibir status comentado e atualizado do processo de saque                          | EN02  | Não          |
+| RF03   | O aplicativo deve informar claramente as datas previstas para liberação de valores                   | EN03  | Não          |
+| RF04   | O aplicativo deve oferecer canal de suporte ou chatbot para esclarecer dúvidas                       | EN04  | Não          |
+| RF05   | O aplicativo deve permitir consulta ao saldo da conta vinculada do FGTS                              | EN05  | Sim          |
+| RF06   | O aplicativo deve disponibilizar funcionalidade acessível para saque-aniversário                     | EN06  | Sim          |
 
 **Fonte:** *Enzo Emir e Eduardo de Pina*
 
@@ -142,3 +142,4 @@ A seguir, os requisitos elicitados foram organizados em duas categorias: funcion
 |  1.0   | 04/05/2025 | Criação da estrutura de entrevista e tabelas   | [Enzo Emir](https://github.com/EnzoEmir)   | [Marcelo Makoto](https://github.com/MM4k)
 |  1.1   | 04/05/2025 | Criação da estrutura de entrevista e tabelas   | [Enzo Emir](https://github.com/EnzoEmir),[Eduardo de Pina](https://github.com/eduardodpms)  | [Marcelo Makoto](https://github.com/MM4k)           |
 |  1.2   | 04/05/2025 | Correção dos links dos vídeos   | [Marcelo Makoto](https://github.com/MM4k)   | [Maria](https://github.com/dudaa28) |
+| 1.3  | 06/05 | Correção da formatação dos requisitos elicitados. | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
