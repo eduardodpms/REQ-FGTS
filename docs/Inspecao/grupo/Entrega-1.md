@@ -1,82 +1,63 @@
-# Inspeção do Grupo (Entrega 2)
+# Inspeção do Grupo (Entrega 1)
 
 
 ## Introdução
 
-Aqui está definida a inspeção da entrega 2 do nosso grupo, cujo projeto aborda, o app *FGTS*. A análise contemplou os principais tópicos definidos para a entrega 2, como a qualidade do processo de elicitação e documentação de requisitos, etapa de priorrização de requisitos e a definição clara do perfil e das personas. O modelo de lista de verificação utilizado está definido em [Entrega 2](../../../Entregas/Entrega-2), e foi construído com a participação de todos os membros do grupo 07.
+Aqui está definida a inspeção da entrega 1 do nosso grupo, no que tange ao app *e-Título*. A análise contemplou os principais tópicos definidos para a entrega 1, como a pré-rastreabilidade, criação do rich map, e planejamento da equipe. O modelo de lista de verificação utilizado está definido em [Entrega 1](../../../Entregas/Entrega-1), e foi construído com a participação de todos os membros do grupo 07.
+
+*Obs.: A avaliação dos elementos dessa lista foi realizada após a data da entrega 1 e da inspeção da entrega 1, pois a sua realização não estava prevista pelo time a princípio.*
 
 
 ## Lista de Inspeção do Grupo 
 
 
-### ✅ Itens Gerais
+### ✅ Equipe
 
 | Item | Autor(es) | Avaliação | Observação | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? | [Danielle](https://github.com/danielle-soaress) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:21 |
-| ***02:*** O artefato apresenta um histórico de versões com id, Item das versões, autores e revisores? | [Danielle](https://github.com/danielle-soaress) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:21 |
-| ***03:*** As tabelas e imagens apresentam legenda e fonte? | [Danielle](https://github.com/danielle-soaress) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:22 |
-| ***04:*** O artefato apresenta uma introdução? | [Eduardo](https://github.com/eduardodpms) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:24 |
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | [Eduardo](https://github.com/eduardodpms) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:25 |
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | [Eduardo](https://github.com/eduardodpms) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:27 |
+| ***01:*** Os membros da equipe foram definidos? | [Danielle](https://github.com/danielle-soaress) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 01:58 |
+| ***02:*** Os papéis e responsabilidades de cada membro estão claros? | [Danielle](https://github.com/danielle-soaress) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 01:59 |
+| ***03:*** A forma de comunicação entre os membros foi estabelecida? | [Danielle](https://github.com/danielle-soaress) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 01:59 |
+| ***04:*** Há encontros periódicos agendados para acompanhamento do progresso da equipe? | [Eduardo](https://github.com/eduardodpms) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:04 |
 
 
-### ✅ Perfil de Usuário
+### ✅ App Selecionado para o Projeto
 
 | Item | Autor(es) | Avaliação | Observação | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| ***07:*** O perfil do usuário especifica características demográficas e comportamentais, como idade, nível de experiência e atitudes em relação à tecnologia? | [Enzo](https://github.com/EnzoEmir) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:32 |
-| ***08:*** As tarefas primárias do usuário (como compra, venda ou outras ações no sistema) estão claramente descritas? | [Enzo](https://github.com/EnzoEmir) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:35 |
-| ***09:*** Os dados utilizados para construir o perfil de usuário foram obtidos por meio de estudos, como entrevistas, questionários ou observação? | [Enzo](https://github.com/EnzoEmir) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:36 |
-| ***10:*** Ao final, os usuários foram categorizados em grupos com base em suas semelhanças, considerando a porcentagem em cada faixa? | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:36 |
+| ***05:*** O aplicativo foi claramente escolhido e justificado? | [Eduardo](https://github.com/eduardodpms) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:04 |
+| ***06:*** As funcionalidades principais do app estão listadas? | [Eduardo](https://github.com/eduardodpms) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:05 |
+| ***07:*** O público-alvo do app está identificado? | [Enzo](https://github.com/EnzoEmir) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:06 |
 
 
-### ✅ Personas
-
-| Item | Autor(es) | Avaliação | Observação | Avaliador(es) | Data e Hora |
-|-|:-:|:-:|:-:|:-:|:-:|
-| ***11:*** A persona recebeu um nome completo, idade e outros dados demográficos representativos? | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:38 |
-| ***12:*** Uma foto foi adicionada ao perfil da persona para torná-la mais realista e memorável? | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:38 |
-| ***13:*** Foi definido o status da persona (primária, secundária, stakeholder ou antiusuário)? | [Marcelo](https://github.com/MM4k) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:38 |
-| ***14:*** As principais tarefas realizadas pela persona foram levantadas? | [Marcelo](https://github.com/MM4k) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:39 |
-| ***15:*** Os relacionamentos da persona foram identificados? | [Marcelo](https://github.com/MM4k) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:40 |
-| ***16:*** Os requisitos da persona foram definidos com base em suas necessidades reais? | [Maria](https://github.com/dudaa28) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:40 |
-| ***17:*** Existe ao menos uma persona primária claramente identificada como foco principal do design? | [Maria](https://github.com/dudaa28) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:40 |
-| ***18:*** Existem antipersonas definidas para deixar claro quem não é o foco do projeto? | [Maria](https://github.com/dudaa28) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:41 |
-
-
-### ✅ Elicitação
+### ✅ Ferramentas do Projeto
 
 | Item | Autor(es) | Avaliação | Observação | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| ***19:*** Existe um cronograma com data para realização da elicitação de requisito? | [Victor](https://github.com/VictorPontual) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:43 |
-| ***20:*** O local de realização da elicitação foi especificado? | [Victor](https://github.com/VictorPontual) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22: |
-| ***21:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? | [Victor](https://github.com/VictorPontual) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:43 |
-| ***22:*** Foram utilizadas no mínimo quatro técnicas distintas de elicitação? | [Victor](https://github.com/VictorPontual) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:43 |
-| ***23:*** As técnicas utilizadas estão identificadas claramente? | [Danielle](https://github.com/danielle-soaress) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:44 |
-| ***24:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? | [Danielle](https://github.com/danielle-soaress) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:44 |
-| ***25:*** Foram feitas gravações e registros formais das atividades de elicitação? | [Danielle](https://github.com/danielle-soaress) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:45 |
-| ***26:*** Cada requisito identificado tem pelo menos uma fonte de origem associada (ex.: entrevista, observação)? | [Eduardo](https://github.com/eduardodpms) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:46 |
+| ***08:*** As ferramentas de desenvolvimento foram selecionadas? | [Enzo](https://github.com/EnzoEmir) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:08 |
+| ***09:*** Ferramentas de versionamento (ex: Git) estão definidas? | [Enzo](https://github.com/EnzoEmir) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:09 |
+| ***10:*** Ferramentas de comunicação e organização (ex: Trello, Discord) foram escolhidas? | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:09 |
+| ***11:*** Há uma estratégia definida para backup e recuperação das informações do projeto?  | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:09 |
 
-
-### ✅ Documentação de Requisitos
+### ✅ Cronograma das Atividades
 
 | Item | Autor(es) | Avaliação | Observação | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| ***27:*** Foi feita a apresentação de requisitos implementados e não implementados? | [Eduardo](https://github.com/eduardodpms) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:50 |
-| ***28:*** O que está sendo apresentado como requisito pode ser verificado na aplicação (critério de aceitação)? | [Eduardo](https://github.com/eduardodpms) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:51 |
-| ***29:*** Cada requisito está escrito de forma clara, objetiva e testável, seguindo boas práticas (ex.: padrão IEEE ou formato “O sistema deve…”)? | [Enzo](https://github.com/EnzoEmir) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:51 |
+| ***12:*** As atividades do projeto estão listadas e descritas? | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:13 |
+| ***13:*** Cada atividade tem uma estimativa de duração? | [Marcelo](https://github.com/MM4k) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:15 |
+| ***14:*** As datas de início e fim do projeto estão definidas? | [Marcelo](https://github.com/MM4k) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:15 |
+| ***15:*** As dependências entre atividades foram consideradas? | [Marcelo](https://github.com/MM4k) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:16 |
+| ***16:*** O cronograma está sendo acompanhado e atualizado? | [Maria](https://github.com/dudaa28) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:17 |
 
-
-### ✅ Priorização
+### ✅ Rich Picture
 
 | Item | Autor(es) | Avaliação | Observação | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| ***30:*** Existe um cronograma com data para realização da priorização dos requisitos? | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:53 |
-| ***31:*** O local para a priorização foi definido? | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:53 |
-| ***32:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona? | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:53 |
-| ***33:*** Foram utilizadas no mínimo quatro técnicas de priorização (ex.: MoSCoW, 100$, ROI, QFD, etc.)? | [Marcelo](https://github.com/MM4k) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:54 |
-| ***34:*** As técnicas MoSCoW e/ou 100$ só foram usadas após outras duas técnicas? | [Marcelo](https://github.com/MM4k) | Sim | --- | [Danielle](https://github.com/danielle-soaress) | 04/05/2025 \ 22:56 |
+| ***17:*** O Rich Picture representa todos os atores envolvidos no sistema? | [Maria](https://github.com/dudaa28) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:18 |
+| ***18:*** Os fluxos de informação entre os elementos estão ilustrados? | [Maria](https://github.com/dudaa28) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:20 |
+| ***19:*** As principais operações do sistema estão representadas? | [Victor](https://github.com/VictorPontual) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:20 |
+| ***20:*** Os limites do sistema estão claramente indicados? | [Victor](https://github.com/VictorPontual) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:21 |
+| ***21:*** O Rich Picture foi validado com a equipe ou stakeholders? | [Victor](https://github.com/VictorPontual) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:21 |
 
 
 <br>
@@ -85,8 +66,7 @@ Aqui está definida a inspeção da entrega 2 do nosso grupo, cujo projeto abord
 
 | Versão | Data | Descrição | Autor(es) |  Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 05/05/2025 | Criação do documento | [Danielle Soares](https://github.com/danielle-soaress) | [Victor Pontual](https://github.com/VictorPontual) |
-| `1.1` | 07/05/2025 | Ajuste textual e da lista de inspeção | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.0` | 07/05/2025 | Criação do documento | [Eduardo de Pina](https://github.com/eduardodpms) | - |
 
 
 
