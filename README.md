@@ -52,8 +52,8 @@ O [*FGTS*](https://www.caixa.gov.br/atendimento/aplicativos/fgts/Paginas/default
 
 ## 6. Histórico de Entregas 📅
 
-| Versão | Data | Descrição | Gravação | Autor(es) | Revisor(es) |
+| Item | Componentes | Data | Gravação | Autor(es) | Revisor(es) |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-| `1.0`  | 13/04/2025 | Entrega 01 | [[LINK]](https://youtu.be/GZ2H4fPk-Dg) | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | [Enzo](https://github.com/EnzoEmir), [Danielle](https://github.com/danielle-soaress) |
-
+| `Entrega 1` | **Pré-Rastreabilidade** | 13/04/2025 | [[LINK]](https://youtu.be/GZ2H4fPk-Dg) | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | [Enzo](https://github.com/EnzoEmir), [Danielle](https://github.com/danielle-soaress) |
+| `Entrega 2` | **Perfil de Usuário**, **Personas**, **Técnicas de Elicitação** e **Técnicas de Priorização** | 04/05/2025 | [[LINK]](https://youtu.be/MWnO37Rvfqc) | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | [Eduardo](https://github.com/eduardodpms) |
 
