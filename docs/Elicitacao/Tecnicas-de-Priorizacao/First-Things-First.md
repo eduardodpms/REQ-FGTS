@@ -6,7 +6,7 @@ Depois de fazer a elicitação dos requisitos utilizando as técnicas de Entrevi
 
 ## Metodologia (FTF)
 
-A técnica de priorização **First Things First** segue um processo no qual é necessário levantar alguns dados, como benefícios, custos e riscos de cada requisito. Com esses dados, os requisito são organizados em ordem de prioridade, do mais importante para o menos importante. O passo a passo do processo é explicado a seguir<a id="REF1" href="#anchor_1">1.</a>:
+A técnica de priorização **First Things First** segue um processo no qual é necessário levantar alguns dados, como benefícios, custos e riscos de cada requisito. Com esses dados, os requisito são organizados em ordem de prioridade, do mais importante para o menos importante. O passo a passo do processo é explicado a seguir:
 
 1. **Criar uma planilha listando todos os requisitos**
 
@@ -59,9 +59,9 @@ Legenda:
 
 ## Referências
 
-> REQUISITOS DE SOFTWARE. *Aplicativo – VLC (2023.1)*. Disponível em: <<https://requisitos-de-software.github.io/2023.1-VLC/#/README>>. Acesso em: 03/05/2025.
+>  <a id="REF1" href="#anchor_1">1.</a> REQUISITOS DE SOFTWARE. *Aplicativo – VLC (2023.1)*. Disponível em: <<https://requisitos-de-software.github.io/2023.1-VLC/#/README>>. Acesso em: 03/05/2025.
 
-> <a id="REF1" href="#anchor_1">1.</a> SERRANO, Milene; SERRANO, Maurício. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponícel em: <<https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>>. Acesso em: 03/05/2025.
+> <a id="REF1" href="#anchor_2">2.</a> SERRANO, Milene; SERRANO, Maurício. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponícel em: <<https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>>. Acesso em: 03/05/2025.
 
 
 <br>
@@ -70,4 +70,5 @@ Legenda:
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0`  | 03/05 | Criação da aba First Things First | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Enzo Emir] (https://github.com/EnzoEmir) | [Danielle](https://github.com/danielle-soaress) |
+| `1.0`  | 03/05 | Criação da aba First Things First | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Enzo Emir](https://github.com/EnzoEmir) | [Danielle](https://github.com/danielle-soaress) |
+| `1.1`  | 03/05 | Criação da aba First Things First | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |
