@@ -98,4 +98,4 @@ Dessa forma, para essa entrega, foi construído um [perfil de usuário](../../El
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0`  | 04/05/2025 | Criação do documento | [Danielle Soares](https://github.com/danielle-soaress) | [Victor Pontual](https://github.com/VictorPontual) |
-| `1.1`  | 07/05/2025 | Ajustes na lista, paths e textos | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.1`  | 07/05/2025 | Ajustes na lista, paths e textos | [Eduardo de Pina](https://github.com/eduardodpms) | [Leticia](https://github.com/Leticia-Arisa-K-Higa) |
