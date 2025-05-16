@@ -11,6 +11,8 @@ Dessa forma, os requisitos elicitados a partir da introspecção estão organiza
 
 O processo de introspecção foi realizado individualmente pelas integrantes Maria Eduarda e Danielle. Por meio de uma chamada foi estudado e compreendido a técnica e logo após, cada uma criou seu próprio cenário e por meio desse cenário foi feita a análise do aplicativo e a elicitação dos requisitos, sendo aplicada a técnica de forma isolada na ferramenta **FIGMA**.Em seguida, categorizamos as elicitações em requisitos funcionais e não-funcionais. Ao final desse processo individual, foi organizado os requisitos resultantes nas Tabelas 3 e 4.
 
+<br>
+
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
 
@@ -43,8 +45,11 @@ O processo de introspecção foi realizado individualmente pelas integrantes Mar
 
 <p style="text-align: center; font-size: 16px;">Fonte: <i>Maria Eduarda</i></p>
 
+<br>
 
-### <span style="color:blue">Danielle</span>
+A seguir, estão os relatos das integrantes que participaram da técnica de Introspecção.
+
+<details> <summary><strong>Relato da Danielle Soares</strong></summary>
 
 Durante o processo de introspecção, me coloquei no lugar de uma usuária que busca praticidade para consultar e movimentar seu benefício. Imaginei que o aplicativo ideal deveria permitir ações simples como ver o saldo, realizar saques digitais e acompanhar sua situação com clareza. 
 
@@ -52,15 +57,16 @@ Ao pensar nas dificuldades, percebi a falta de recursos como chat com assistente
 
 A reflexão mostrou a importância de um sistema que vá além do básico, oferecendo controle real ao usuário.
 
----
+</details>
 
-### <span style="color:blue">Maria Eduarda</span>
+</details> <details> <summary><strong>Relato da Maria Eduarda </strong></summary>
 
 Ao imaginar meu uso do aplicativo, percebi que funcionalidades como ver o saldo total na tela inicial e acessar o histórico de movimentações são fundamentais. Reflito que a experiência melhora quando o sistema oferece busca por atividade, variedade de bancos e uma ajuda acessível.
 
 Também notei a importância de poder excluir contas e visualizar informações organizadas por ícones e categorias. A introspecção me fez enxergar que um aplicativo útil é aquele que combina clareza, praticidade e autonomia ao usuário desde o primeiro acesso.
 
----
+</details>
+
 
 Com o objetivo de registrar o estudo e realização da tecnica da introspecção feita em chamada, de forma individual no ambiente **FIGMA** , disponibilizamos o documento completo no link abaixo:
 

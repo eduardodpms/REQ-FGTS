@@ -96,3 +96,6 @@ nav:
     - Requisitos Elicitados: Elicitacao/Requisitos-elicitados.md
   - Modelagem:
     - Cenários: Modelagem/Cenarios.md
+    - Diagrama: Modelagem/Diagrama.md
+    - Especificação Suplementar: Modelagem/EspecificacaoSuplementar.md
+    - Léxicos: Modelagem/Lexicos.md
