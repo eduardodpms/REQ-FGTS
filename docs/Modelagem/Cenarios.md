@@ -29,8 +29,8 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
   <tbody>
     <tr>
       <td> Danielle Soares </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 16/05/2025 </td>
+      <td> 23:28 </td>
     </tr>
     <tr>
       <td> Eduardo de Pina </td>
@@ -186,23 +186,16 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <center>
 
-| Cenário 6 | Título do Cenário | 
-| :-:       | :-:            |
-| **Título** | Consulta de saques bloqueados | 
-| **Objetivo** | Permitir que o usuário visualize quais saques estão bloqueados e os motivos do bloqueio. | 
-| **Contexto**    | Local: Casa do Usuário<br>Tempo: Durante o dia<br>Pré-condições: Ter uma conta FGTS, ter o aplicativo FGTS instalado, estar com os dados da conta em mãos e ter acesso à internet. |
-| **Atores** | Usuário do App FGTS | 
-| **Recursos** | Dispositivo com o aplicativo instalado. <br> Conexão com internet<br>Base de dados com status dos saques e motivos de bloqueio. | 
-| **Episódios** |  
-1. O usuário abre o aplicativo.<br>
-2. Insere seus dados de acesso e realiza o login.<br>
-3. Acessa a seção "Saques" no menu principal.<br>
-4. Seleciona a opção "Saques Bloqueados".<br>
-5. O sistema exibe a lista de saques bloqueados com os respectivos detalhes, incluindo o motivo do bloqueio. | 
-| **Restrições** | O motivo do bloqueio só será exibido se estiver registrado no sistema; caso contrário, uma mensagem genérica será apresentada. <br>
-O usuário também precisa ter saques bloqueados. | 
-| **Exceção** | Se houver falha na conexão com o servidor ou indisponibilidade dos dados, o sistema exibirá uma mensagem de erro informando a impossibilidade de recuperar as informações no momento. | 
-| **Autor** | [Danielle Soares](https://github.com/danielle-soaress) | 
+| **Cenário 6**               | **Consulta de saques bloqueados** |
+|----------------------------|------------------------------------|
+| **Objetivo**               | <p>Permitir que o usuário visualize quais saques estão bloqueados e os motivos do bloqueio.</p> |
+| **Contexto**               | <p>Local: Casa do Usuário</p> <p>Tempo: Durante o dia</p> <p>Pré-condições: Ter uma conta FGTS, aplicativo FGTS instalado, estar logado e com acesso à internet.</p> |
+| **Atores**                 | <p>Usuário do App FGTS</p> |
+| **Recursos**               | <p>Dispositivo com o aplicativo instalado</p> <p>Conexão com a internet</p> <p>Base de dados com status dos saques e motivos de bloqueio</p> |
+| **Episódios**              | <p>1. O usuário abre o aplicativo.</p> <p>2. Insere seus dados de acesso e realiza o login.</p> <p>3. Acessa a seção "Saques" no menu principal.</p> <p>4. Seleciona a opção "Saques Bloqueados".</p> <p>5. O sistema exibe a lista de saques bloqueados com os respectivos detalhes, incluindo o motivo do bloqueio.</p> |
+| **Restrições**             | <p>O motivo do bloqueio só será exibido se estiver registrado no sistema; caso contrário, uma mensagem genérica será apresentada.</p> <p>O usuário também precisa ter saques bloqueados.</p> |
+| **Exceção**                | <p>Se houver falha na conexão com o servidor ou indisponibilidade dos dados, o sistema exibirá uma mensagem de erro informando a impossibilidade de recuperar as informações no momento.</p> |
+| **Autor**                  | [Danielle Soares](https://github.com/danielle-soaress) |
 
 </center>
 
@@ -258,26 +251,16 @@ O usuário também precisa ter saques bloqueados. |
 
 <center>
 
-| Cenário 9 | Título do Cenário | 
-| :-:       | :-:            |
-| **Título**     | Cadastro de mais de uma conta bancária  |
-| **Objetivo**   | Permitir que o usuário cadastre uma ou mais contas bancárias de diferentes instituições financeiras. |
-| **Contexto**   | Local: Casa do Usuário<br>Tempo: Durante o dia<br>Pré-condições: Ter o aplicativo FGTS instalado, estar logado em sua conta, ter os dados da(s) conta(s) bancária(s) em mãos e acesso à internet. |
-| **Atores**     | Usuário do App FGTS |
-| **Recursos**   | Aplicativo FGTS instalado<br>Conexão com a internet<br>Dados da(s) conta(s) bancárias(s) |
-| **Episódios**  | 
-1. O usuário acessa e realiza login no aplicativo.<br>
-2. Acessa a seção "Meus Dados" no menu principal.<br>
-3. Seleciona a opção "Conta Bancária".<br>
-4. Clica em "Cadastrar nova conta bancária".<br>
-5. O sistema solicita os dados da nova conta: banco, agência, número da conta, tipo de conta e titularidade.<br>
-6. O usuário preenche os dados e confirma o cadastro.<br>
-7. O sistema valida as informações e salva a nova conta associada ao usuário.<br>
-8. O usuário repete o processo para adicionar outra conta de uma instituição diferente.<br>
-9. O sistema exibe a lista completa de contas cadastradas. |
-| **Restrições** | O sistema não deve permitir contas duplicadas (mesmo banco, agência e número). <br>Deve haver validação de CPF/titularidade. |
-| **Exceção**    | Se os dados da conta forem inválidos ou incompletos, o sistema exibirá uma mensagem de erro orientando a correção. |
-| **Autor**      | [Danielle Soares](https://github.com/danielle-soaress) |
+| **Cenário 9**               | **Cadastro de mais de uma conta bancária** |
+|----------------------------|---------------------------------------------|
+| **Objetivo**               | <p>Permitir que o usuário cadastre uma ou mais contas bancárias de diferentes instituições financeiras.</p> |
+| **Contexto**               | <p>Local: Casa do Usuário</p> <p>Tempo: Durante o dia</p> <p>Pré-condições: Ter o aplicativo FGTS instalado, estar logado em sua conta, ter os dados da(s) conta(s) bancária(s) em mãos e acesso à internet.</p> |
+| **Atores**                 | <p>Usuário do App FGTS</p> |
+| **Recursos**               | <p>Aplicativo FGTS instalado</p> <p>Conexão com a internet</p> <p>Dados da(s) conta(s) bancária(s)</p> |
+| **Episódios**              | <p>1. O usuário acessa e realiza login no aplicativo.</p> <p>2. Acessa a seção "Meus Dados" no menu principal.</p> <p>3. Seleciona a opção "Conta Bancária".</p> <p>4. Clica em "Cadastrar nova conta bancária".</p> <p>5. O sistema solicita os dados da nova conta: banco, agência, número da conta, tipo de conta e titularidade.</p> <p>6. O usuário preenche os dados e confirma o cadastro.</p> <p>7. O sistema valida as informações e salva a nova conta associada ao usuário.</p> <p>8. O usuário repete o processo para adicionar outra conta de uma instituição diferente.</p> <p>9. O sistema exibe a lista completa de contas cadastradas.</p> |
+| **Restrições**             | <p>O sistema não deve permitir contas duplicadas (mesmo banco, agência e número).</p> <p>Deve haver validação de CPF/titularidade.</p> |
+| **Exceção**                | <p>Se os dados da conta forem inválidos ou incompletos, o sistema exibirá uma mensagem de erro orientando a correção.</p> |
+| **Autor**                  | [Danielle Soares](https://github.com/danielle-soaress) |
 
 </center>
 
@@ -403,4 +386,5 @@ O usuário também precisa ter saques bloqueados. |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 15/05/2025 | Criação do documento | [Danielle Soares](https://github.com/danielle-soaress) |[Enzo Emir ](https://github.com/EnzoEmir) |
 | `1.1` | 16/05/2025 | Adição do texto da Introdução,Metodologia e Bibliografia | [Enzo Emir ](https://github.com/EnzoEmir) |[Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)|
-| `1.2` | 16/05/2025 | Organização das tabelas | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |-|
+| `1.2` | 16/05/2025 | Organização das tabelas | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |[Danielle Soares](https://github.com/danielle-soaress)|
+| `1.3` | 16/05/2025 | Adicionando cenários 6 e 9 | [Danielle Soares](https://github.com/danielle-soaress) | -- |
