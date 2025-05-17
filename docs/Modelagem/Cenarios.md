@@ -44,8 +44,8 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
     </tr>
     <tr>
       <td> Leticia Arisa </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 16/05 </td>
+      <td> 23:50 </td>
     </tr>
     <tr>
       <td> Marcelo Makoto </td>
@@ -205,20 +205,20 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 ## Cenário 7
 
-<font size="3"><p style="text-align: center">Tabela 7: Cenário...</p></font>
+<font size="3"><p style="text-align: center">Tabela 7: Cenário de visualizar histórico de movimentação financeira</p></font>
 
 <center>
 
-| Cenário 7 | Título do Cenário | 
+| Cenário 7 | Visualizar histórico de movimentação financeira | 
 | :-:       | :-:            |
-| **Título** |  | 
-| **Objetivo** |  | 
-| **Contexto** |  | 
-| **Atores** |  | 
-| **Recursos** |  | 
-| **Episódios** |   | 
-| **Restrições** |  | 
-| **Exceção** |  | 
+| **Título** | Visualizar informações detalhadas do histórico de movimentação financeira | 
+| **Objetivo** | Permitir que o usuário consulte informações detalhadas de suas movimentações financeiras passadas | 
+| **Contexto** | Local: Página "Movimentações" (a ser implementada no aplicativo) <br> Tempo: A qualquer momento <br> Pré-condição: O usuário deve estar autenticado no sistema e deve possuir movimentações financeiras anteriores registradas | 
+| **Atores** | Usuário do aplicativo FGTS | 
+| **Recursos** | Conexão com a internet <br> Smartphone com o aplicativo FGTS instalado | 
+| **Episódios** | Usuário abre o aplicativo e faz login. <br> Usuário acessa a página "Movimentações". <br> Aplicativo exibe uma lista de movimentações. <br> Usuário seleciona uma movimentação especifíca. <br> Aplicativo exibe os detalhes da movimentação. | 
+| **Restrições** | O usuário precisa estar conectado à internet. <br> O usuário precisa ter movimentações financeira registradas. <br> O aplicativo precisa ter acesso aos dados de movimentação do usuário. | 
+| **Exceção** | Falha na conexão com a internet. <br> Caso não haja movimentações registradas, o aplicativo deve exibir uma mensagem informando: "Nenhuma movimentação encontrada." | 
 | **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | 
 
 </center>
@@ -227,20 +227,20 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 ## Cenário 8
 
-<font size="3"><p style="text-align: center">Tabela 8: Cenário...</p></font>
+<font size="3"><p style="text-align: center">Tabela 8: Cenário de filtrar extrato por data</p></font>
 
 <center>
 
-| Cenário 8 | Título do Cenário | 
+| Cenário 8 | Filtrar extrato por data | 
 | :-:       | :-:            |
-| **Título** |  | 
-| **Objetivo** |  | 
-| **Contexto** |  | 
-| **Atores** |  | 
-| **Recursos** |  | 
-| **Episódios** |   | 
-| **Restrições** |  | 
-| **Exceção** |  | 
+| **Título** | Filtrar extrato por data (mês e ano) | 
+| **Objetivo** | Permitir que o usuário selecione um mês e ano específico para visualizar os extratos correspondentes. | 
+| **Contexto** | Local: Página "Movimentações" (a ser implementada no aplicativo) <br> Tempo: A qualquer momento <br> Pré-condição: O usuário deve estar autenticado no sistema e deve possuir movimentações financeiras registradas em diferentes datas | 
+| **Atores** | Usuário do aplicativo FGTS | 
+| **Recursos** | Conexão com a internet <br> Smartphone com o aplicativo FGTS instalado | 
+| **Episódios** |  Usuário abre o aplicativo e faz login. <br> Usuário acessa a página "Movimentações". <br> Aplicativo exibe uma lista de movimentações. <br> Usuário clica no filtro de data. <br> Usuário seleciona o mês e o ano desejado. <br> Aplicativo filtra e exibe apenas os extratos correspondentes ao período selecionado. | 
+| **Restrições** | O filtro deve permitir selecionar apenas períodos válidos (mês e ano) | 
+| **Exceção** | Falha na conexão com a internet. <br> Caso não haja extratos registrados no período selecionado, o aplicativo deve exibir uma mensagem informando: "Nunhum extrato encontrado para o período selecionado" | 
 | **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | 
 
 </center>
@@ -391,5 +391,6 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 | `1.2` | 16/05/2025 | Organização das tabelas | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |[Danielle Soares](https://github.com/danielle-soaress)|
 | `1.3` | 16/05/2025 | Adicionando cenários 6 e 9 | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir ](https://github.com/EnzoEmir) |
 | `1.4` | 17/05/2025 | Adição cenários 1 e 2 | [Enzo Emir ](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
-| `1.5` | 17/05/2025 | Adição dos cenários 10 e 11 | [Marcelo Makoto](https://github.com/MM4k) | - |
+| `1.5` | 17/05/2025 | Adição dos cenários 10 e 11 | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.6` | 17/05/2025 | Adição dos cenários 07 e 08 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
 
