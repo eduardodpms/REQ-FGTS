@@ -2,9 +2,51 @@
 
 ## Introdução
 
+**Léxico** é uma técnica utilizada para descrever os símbolos(termos) de uma linguagem, identificado palavras ou expressões específicas. Cada símbolo é descrito por meio de **noção** e **impacto**. A **noção** corresponde à denotação do símbolo, ou seja, seu significado literal. Já o **impacto** refere-se à conotação, descrevendo o efeito,uso ou ocorrência do símbolo na aplicação, ou ainda o impacto que algum elemento da aplicação exerce sobre ele.
+Um símbolo pode possuir zero ou mais senônimos, uma ou mais noções, e um ou mais impactos (SERRANO et al.).
+
 ## Metodologia
 
-<font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
+A construção dos léxicos foi baseada na notação LAL — Léxico Ampliado da Linguagem —, que utiliza a descrição de termos por meio de léxicos. Na Tabela 1, é possível observar as regras utilizadas para a elaboração dos léxicos, categorizadas por tipo. Já a Tabela 2 apresenta o template adotado para a criação dos léxicos.
+
+Seguindo a recomendação do professor de que cada membro do grupo fosse responsável por, no mínimo, dois requisitos funcionais não implementados, todos os integrantes contribuíram com a criação dos léxicos. Na Tabela 3, estão listados os nomes dos participantes, a data de elaboração dos léxicos por cada um e o horário de conclusão.
+
+<font size="3"><p style="text-align: center">Tabela 1: Tipos de léxicos</p></font>
+
+<center>
+
+| Tipo    | Noção                                                                       | Impacto                                                                                  |
+| ------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- 
+| Verbo   | Quem realiza, quando acontece e quais os procedimentos envolvidos.          | Quais os reflexos da ação no ambiente (outras ações que devem ocorrer) e quais os novos estados decorrentes    |
+| Objeto  | Definir o objeto e identificar os outros objetos com os quais se relaciona. | Ações que podem ser aplicadas ao objeto.                                                 |
+| Estado  | O que significa e quais ações levaram a esse estado.                        | Identificar outros estados e ações que podem ocorrer a partir do estado que se descreve. |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: SERRANO et al.</p></font>
+
+<br>
+
+<font size="3"><p style="text-align: center">Tabela 2: Template Léxicos</p></font>
+
+<center>
+
+| L0X | Descrição | 
+| :-:       | :-:            |
+| **Termo** |  | 
+| **Tipo** |  | 
+| **Impacto** |  | 
+| **Noção** |  | 
+| **Sinônimos** |  | 
+| **Autor** |  | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
+
+<br>
+
+<font size="3"><p style="text-align: center">Tabela 3: Participantes</p></font>
 
 <div align="center">
 
@@ -220,6 +262,8 @@ O sétimo léxico, apresentado na tabela X, utiliza o seguinte requisito não im
 
 <font size="3"><p style="text-align: center">Tabela X: Léxico 07 – Exibir informações detalhadas (L07)</p></font>
 
+<center>
+
 | L07 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Exibir informações detalhadas | 
@@ -228,6 +272,8 @@ O sétimo léxico, apresentado na tabela X, utiliza o seguinte requisito não im
 | **Noção** | Tarefa realizada pelo sistema. <br> Acontece quando o usuário seleciona uma transação no histórico de movimentações financeiras. <br> Sistema verifica se os dados das movimentações financeiras estão registrados. | 
 | **Sinônimos** | Mostrar informações detalhada | 
 | **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | 
+
+</center>
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
@@ -238,6 +284,8 @@ O oitavo léxico, apresentado na tabela X, utiliza o seguinte requisito não imp
 
 <font size="3"><p style="text-align: center">Tabela X: Léxico 08 – Informações detalhadas (L08)</p></font>
 
+<center>
+
 | L08 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Informações detalhadas | 
@@ -247,6 +295,8 @@ O oitavo léxico, apresentado na tabela X, utiliza o seguinte requisito não imp
 | **Sinônimos** | Dados específicos <br> informações completas | 
 | **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | 
 
+</center>
+
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
 ## L09: Histórico de movimentações financeiras
@@ -254,6 +304,8 @@ O oitavo léxico, apresentado na tabela X, utiliza o seguinte requisito não imp
 O nono léxico, apresentado na tabela X, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF12</a>)
 
 <font size="3"><p style="text-align: center">Tabela X: Léxico 09 – Histórico de movimentações financeiras (L09)</p></font>
+
+<center>
 
 | L09 | Descrição | 
 | :-:       | :-:            |
@@ -264,9 +316,13 @@ O nono léxico, apresentado na tabela X, utiliza o seguinte requisito não imple
 | **Sinônimos** | Extrato, Registro de transações, Lista de movimentações. | 
 | **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | 
 
+</center>
+
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
 ## L010: Histórico de movimentações financeiras
+
+<center>
 
 O décimo léxico, apresentado na tabela X, utiliza o seguinte requisito não implementado: O aplicativo deve permitir o filtro do extrato por data (mês e ano) 
 (<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF13</a>)
@@ -281,6 +337,8 @@ O décimo léxico, apresentado na tabela X, utiliza o seguinte requisito não im
 | **Noção** | Tarefa realizada pelo usuário. <br> Acontece quando o usuário seleciona uma data(mês e ano) específico. <br> sistema valida a data selecionada. | 
 | **Sinônimos** | Aplicar, Buscar | 
 | **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | 
+
+</center>
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
@@ -394,6 +452,7 @@ O décimo léxico, apresentado na tabela X, utiliza o seguinte requisito não im
 
 ## Bibliografia
 
+> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 10. UnB, 2025. Disponível em: <[https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf)>. Acesso em: 17 de maio 2025. p. 12–20.
 
 ## Histórico de Versão
 
@@ -404,3 +463,4 @@ O décimo léxico, apresentado na tabela X, utiliza o seguinte requisito não im
 | `1.2` | 17/05/2025 | Adicionando léxicos 1 e 2 | [Enzo Emir](https://github.com/EnzoEmir)  | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.3` | 17/05/2025 | Adição dos léxicos 10 e 11 | [Marcelo Makoto](https://github.com/MM4k)  | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.4` | 17/05/2025 | Adição dos léxicos 07 e 08 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
+| `1.5` | 17/05/2025 | Adição da introdução e metodologia | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |

@@ -125,7 +125,7 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 <iframe width="560" height="315" src="https://youtube.com/embed/Ih51yK-A90c?si=yIwT0zeufa5ZDdIv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
-## Referências
+## Bibliografia
 
 > 1.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Brasport, 2016.
 
