@@ -34,8 +34,8 @@
     </tr>
     <tr>
       <td> Leticia Arisa </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 17/05 </td>
+      <td> 8:24 </td>
     </tr>
     <tr>
       <td> Marcelo Makoto </td>
@@ -214,34 +214,72 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
-## L07: Trocar pelo termo
+## L07: Exibir informações detalhadas
 
+O sétimo léxico, apresentado na tabela X, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF12</a>)
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 07 – Trocar pelo termo (L07)</p></font>
+<font size="3"><p style="text-align: center">Tabela X: Léxico 07 – Exibir informações detalhadas (L07)</p></font>
 
 | L07 | Descrição | 
 | :-:       | :-:            |
-| **Termo** |  | 
-| **Tipo** |  | 
-| **Impacto** |  | 
-| **Noção** |  | 
-| **Sinônimos** |  | 
+| **Termo** | Exibir informações detalhadas | 
+| **Tipo** | Verbo | 
+| **Impacto** |  O sistema consulta o banco de dados para recuperar os registros relacionados à movimentação financeira selecionada. <br> O sistema abre uma nova aba que apresenta as informações detalhadas.  | 
+| **Noção** | Tarefa realizada pelo sistema. <br> Acontece quando o usuário seleciona uma transação no histórico de movimentações financeiras. <br> Sistema verifica se os dados das movimentações financeiras estão registrados. | 
+| **Sinônimos** | Mostrar informações detalhada | 
 | **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | 
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
-## L08: Trocar pelo termo
+## L08: Informações detalhadas
+
+O oitavo léxico, apresentado na tabela X, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF12</a>)
 
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 08 – Trocar pelo termo (L08)</p></font>
+<font size="3"><p style="text-align: center">Tabela X: Léxico 08 – Informações detalhadas (L08)</p></font>
 
 | L08 | Descrição | 
 | :-:       | :-:            |
-| **Termo** |  | 
-| **Tipo** |  | 
-| **Impacto** |  | 
-| **Noção** |  | 
-| **Sinônimos** |  | 
+| **Termo** | Informações detalhadas | 
+| **Tipo** | Objeto | 
+| **Impacto** | Podem ser exibidas ao usuário, armazenadas e consultadas. | 
+| **Noção** | Conjunto de dados de uma movimentação financeira. <br> São consultadas no histórico de movimentações financeiras. | 
+| **Sinônimos** | Dados específicos <br> informações completas | 
+| **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | 
+
+<font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
+
+## L09: Histórico de movimentações financeiras
+
+O nono léxico, apresentado na tabela X, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF12</a>)
+
+<font size="3"><p style="text-align: center">Tabela X: Léxico 09 – Histórico de movimentações financeiras (L09)</p></font>
+
+| L09 | Descrição | 
+| :-:       | :-:            |
+| **Termo** | Histórico de movimentações financeiras | 
+| **Tipo** | Objeto | 
+| **Impacto** | Podem ser exibidas ao usuário, consultado e filtrado por data. | 
+| **Noção** | Registros de movimentações financeiras realizadas pelo usuário ao longo do tempo. <br> Pode exibir informações detalhadas das movimentações financeiras. | 
+| **Sinônimos** | Extrato, Registro de transações, Lista de movimentações. | 
+| **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | 
+
+<font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
+
+## L010: Histórico de movimentações financeiras
+
+O décimo léxico, apresentado na tabela X, utiliza o seguinte requisito não implementado: O aplicativo deve permitir o filtro do extrato por data (mês e ano) 
+(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF13</a>)
+
+<font size="3"><p style="text-align: center">Tabela X: Léxico 010 – Filtrar (L010)</p></font>
+
+| L10 | Descrição | 
+| :-:       | :-:            |
+| **Termo** | Filtrar | 
+| **Tipo** | Verbo | 
+| **Impacto** | Permite que o usuário restrinja as movimentações exibidas no histórico de movimentações financeiras com base na data(mês e ano). | 
+| **Noção** | Tarefa realizada pelo usuário. <br> Acontece quando o usuário seleciona uma data(mês e ano) específico. <br> sistema valida a data selecionada. | 
+| **Sinônimos** | Aplicar, Buscar | 
 | **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | 
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>

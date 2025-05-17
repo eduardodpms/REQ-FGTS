@@ -35,8 +35,8 @@
     </tr>
     <tr>
       <td> Leticia Arisa </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 17/05 </td>
+      <td> 14:45 </td>
     </tr>
     <tr>
       <td> Marcelo Makoto </td>
