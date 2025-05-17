@@ -54,8 +54,8 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
     </tr>
     <tr>
       <td> Maria Eduarda </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 17/05/2025 </td>
+      <td> 19:17 </td>
     </tr>
     <tr>
       <td> Victor Pontual </td>
@@ -116,27 +116,29 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Enzo Emir](https://github.com/EnzoEmir)</i> </p></font>
 
+
 ## Cenário 3
 
-<font size="3"><p style="text-align: center">Tabela 3: Cenário...</p></font>
+<font size="3"><p style="text-align: center">Tabela 3: Cenário de Atendimento de Dúvidas via Chatbot</p></font>
 
 <center>
 
-| Cenário 3 | Título do Cenário | 
+| Cenário 3 | Atendimento de Dúvidas via Chatbot | 
 | :-:       | :-:            |
-| **Título** |  | 
-| **Objetivo** |  | 
-| **Contexto** |  | 
-| **Atores** |  | 
-| **Recursos** |  | 
-| **Episódios** |   | 
-| **Restrições** |  | 
-| **Exceção** |  | 
+| **Título** | EN03 | 
+| **Objetivo** | Permitir que o usuário esclareça dúvidas frequentes por meio de um canal automatizado de atendimento dentro do aplicativo | 
+| **Contexto** | Local: Residência do usuário<br>Tempo: Durante o uso do aplicativo<br>Pré-condições: Estar logado, possuir conexão com a internet e ter o aplicativo instalado | 
+| **Atores** | Usuário do aplicativo FGTS, sistema de chatbot | 
+| **Recursos** | Dispositivo com o aplicativo FGTS instalado<br>Conexão com a internet<br>Banco de dados com perguntas e respostas<br>Módulo de chatbot funcional | 
+| **Episódios** | 1. Usuário acessa o aplicativo FGTS e faz login<br>2. Acessa o menu de "Ajuda" ou "Suporte"<br>3. Chatbot é carregado<br>4. Usuário digita a dúvida<br>5. Chatbot responde automaticamente<br>6. Caso necessário, oferece atendimento humano | 
+| **Restrições** | O chatbot precisa estar online e conectado ao banco de dados<br>Atendimento humano limitado ao horário comercial<br>Necessário internet estável | 
+| **Exceção** | Se o chatbot não responder ou falhar, o sistema exibe: "Desculpe, não entendi sua pergunta. Você pode reformular ou entrar em contato com o suporte humano." | 
 | **Autor** | [Maria Eduarda](https://github.com/dudaa28) | 
 
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Maria Eduarda](https://github.com/dudaa28)</i> </p></font>
+
 
 ## Cenário 4
 
@@ -358,20 +360,20 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 ## Cenário 14
 
-<font size="3"><p style="text-align: center">Tabela 14: Cenário...</p></font>
+<font size="3"><p style="text-align: center">Tabela 14: Cenário Ajuste do Tamanho das Fontes na Interface</p></font>
 
 <center>
 
-| Cenário 14 | Título do Cenário | 
+| Cenário 14 | Ajuste do Tamanho das Fontes na Interface | 
 | :-:       | :-:            |
-| **Título** |  | 
-| **Objetivo** |  | 
-| **Contexto** |  | 
-| **Atores** |  | 
-| **Recursos** |  | 
-| **Episódios** |   | 
-| **Restrições** |  | 
-| **Exceção** |  | 
+| **Título** | ST08 | 
+| **Objetivo** | Permitir que o usuário ajuste o tamanho das fontes exibidas na interface do aplicativo para melhorar a acessibilidade e a usabilidade. | 
+| **Contexto** | Usuário acessa o aplicativo e deseja aumentar ou diminuir o tamanho da fonte para melhor visualização do conteúdo. | 
+| **Atores** | Usuário do aplicativo FGTS | 
+| **Recursos** | Interface do aplicativo, configurações de exibição, controle de tamanho de fonte | 
+| **Episódios** | 1. Usuário abre as configurações da interface. <br> 2. Usuário seleciona a opção de ajuste de tamanho da fonte. <br> 3. Usuário escolhe o tamanho desejado (ex: pequeno, médio, grande). <br> 4. A interface atualiza o tamanho das fontes exibidas. | 
+| **Restrições** | O ajuste de tamanho deve ser aplicado a todos os elementos textuais da interface. <br> Deve ser possível retornar ao tamanho padrão. | 
+| **Exceção** | Caso o ajuste não seja aplicado corretamente, o aplicativo deve exibir uma mensagem de erro e manter o tamanho anterior. | 
 | **Autor** | [Maria Eduarda](https://github.com/dudaa28) | 
 
 </center>
@@ -379,8 +381,13 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 <font size="2"><p style="text-align: center">Fonte: <i>[Maria Eduarda](https://github.com/dudaa28)</i> </p></font>
 
 
+
 ## Bibliografia
 > 1.</a> BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuario. Auto publicação, 2021. 
+
+> 2.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 10. UnB, 2025, p. 8. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf). Acesso em: 17 de maio de 2025.
+
+
 
 ## Histórico de Versão
 
@@ -392,5 +399,6 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 | `1.3` | 16/05/2025 | Adicionando cenários 6 e 9 | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir ](https://github.com/EnzoEmir) |
 | `1.4` | 17/05/2025 | Adição cenários 1 e 2 | [Enzo Emir ](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.5` | 17/05/2025 | Adição dos cenários 10 e 11 | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| `1.6` | 17/05/2025 | Adição dos cenários 07 e 08 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
+| `1.6` | 17/05/2025 | Adição dos cenários 07 e 08 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.7` | 17/05/2025 | Adição dos cenários 03 e 14 | [Maria Eduarda](https://github.com/dudaa28) | - |
 
