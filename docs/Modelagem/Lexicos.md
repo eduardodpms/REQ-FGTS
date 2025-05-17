@@ -160,6 +160,7 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
 - **Tipo:** Estado  
 - **Descrição:** Estado alcançado após o usuário acessar a tela de acompanhamento do saque.
 
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
 ## L02: Requisito EN03
 
@@ -189,6 +190,8 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
 - **Tipo:** Estado  
 - **Descrição:** Estado atingido após o usuário acessar a previsão de liberação dos valores.
 
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
 ## L03: Trocar pelo termo
 
 
@@ -205,35 +208,144 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
 
-## L04: Trocar pelo termo
+---
+
+## Requisito IS06
+
+## [Cancelar Solicitação](#cancelar-solicitação)
+
+| LXX           | Descrição                                                                                                                                                                     |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Termo**     | Cancelar Solicitação                                                                                                                                                          |
+| **Tipo**      | Verbo                                                                                                                                                                         |
+| **Impacto**   | Permite que o usuário interrompa uma solicitação de saque ativa, evitando que ela seja processada ou liberada.                                                                |
+| **Noção**     | Ação executada pelo usuário para cancelar um pedido de saque em andamento. O sistema verifica a possibilidade de cancelamento e atualiza o status conforme a ação do usuário. |
+| **Sinônimos** | Anular pedido, Revogar solicitação                                                                                                                                            |
+| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                                                                            |
+
+---
+
+## [Solicitação de Saque](#solicitação-de-saque)
+
+| LXX           | Descrição                                                                                                      |
+| ------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Termo**     | Solicitação de Saque                                                                                           |
+| **Tipo**      | Objeto                                                                                                         |
+| **Impacto**   | Representa o pedido formal do usuário para saque de valores do FGTS.                                           |
+| **Noção**     | Documento digital que contém as informações necessárias para a liberação dos valores solicitados pelo usuário. |
+| **Sinônimos** | Pedido de saque, Requisição de saque                                                                           |
+| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                             |
+
+---
+
+## [Confirmação de Cancelamento](#confirmação-de-cancelamento)
+
+| LXX           | Descrição                                                                                                                         |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **Termo**     | Confirmação de Cancelamento                                                                                                       |
+| **Tipo**      | Objeto                                                                                                                            |
+| **Impacto**   | Garante que o usuário valide sua intenção de cancelar a solicitação de saque, evitando cancelamentos acidentais.                  |
+| **Noção**     | Ato do usuário de confirmar a operação de cancelamento após ser solicitado pelo sistema, assegurando que a ação seja intencional. |
+| **Sinônimos** | Validação de cancelamento, Confirmação de ação                                                                                    |
+| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                                |
 
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 04 – Trocar pelo termo (L04)</p></font>
+---
 
-| L04 | Descrição | 
-| :-:       | :-:            |
-| **Termo** |  | 
-| **Tipo** |  | 
-| **Impacto** |  | 
-| **Noção** |  | 
-| **Sinônimos** |  | 
-| **Autor** | [Victor Pontual](https://github.com/VictorPontual) | 
+## [Solicitação Ativa](#solicitação-ativa)
+
+| LXX           | Descrição                                                                                                           |
+| ------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **Termo**     | Solicitação Ativa                                                                                                   |
+| **Tipo**      | Estado                                                                                                              |
+| **Impacto**   | Indica que a solicitação de saque está vigente e pode ser modificada ou cancelada pelo usuário.                     |
+| **Noção**     | Estado em que a solicitação de saque foi feita e ainda está em processamento, aguardando conclusão ou cancelamento. |
+| **Sinônimos** | Pedido em andamento, Solicitação vigente                                                                            |
+| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                  |
+
+---
+
+## [Solicitação Cancelada](#solicitação-cancelada)
+
+| LXX           | Descrição                                                                                              |
+| ------------- | ------------------------------------------------------------------------------------------------------ |
+| **Termo**     | Solicitação Cancelada                                                                                  |
+| **Tipo**      | Estado                                                                                                 |
+| **Impacto**   | Indica que a solicitação de saque foi anulada e não será processada pelo sistema.                      |
+| **Noção**     | Estado final em que o pedido de saque foi oficialmente cancelado pelo usuário e registrado no sistema. |
+| **Sinônimos** | Pedido cancelado, Requisição anulada                                                                   |
+| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                     |
+
+---
+
+## [Solicitação Processada](#solicitação-processada)
+
+| LXX           | Descrição                                                                                                              |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Termo**     | Solicitação Processada                                                                                                 |
+| **Tipo**      | Estado                                                                                                                 |
+| **Impacto**   | Indica que a solicitação de saque foi analisada e concluída pelo sistema, não podendo mais ser cancelada pelo usuário. |
+| **Noção**     | Estado final onde o pedido de saque foi processado e encaminhado para liberação dos valores ou rejeição.               |
+| **Sinônimos** | Pedido concluído, Solicitação finalizada                                                                               |
+| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                     |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
 
-## L05: Trocar pelo termo
+## Requisito IS07
+
+## [Filtrar Saques por Tipo](#filtrar-saques-por-tipo)
+
+| LXX           | Descrição                                                                                                                                 |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **Termo**     | Filtrar Saques por Tipo                                                                                                                   |
+| **Tipo**      | Verbo                                                                                                                                     |
+| **Impacto**   | Permite que o usuário restrinja a visualização dos saques exibidos no histórico com base no tipo (ex.: aniversário, doença, falecimento). |
+| **Noção**     | Ação do usuário de selecionar um critério de tipo para que o sistema exiba apenas os saques correspondentes àquela categoria.             |
+| **Sinônimos** | Aplicar filtro, Selecionar tipo, Restringir visualização                                                                                  |
+| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                                        |
 
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 05 – Trocar pelo termo (L05)</p></font>
+---
 
-| L05 | Descrição | 
-| :-:       | :-:            |
-| **Termo** |  | 
-| **Tipo** |  | 
-| **Impacto** |  | 
-| **Noção** |  | 
-| **Sinônimos** |  | 
-| **Autor** | [Victor Pontual](https://github.com/VictorPontual) | 
+## [Lista de Saques](#lista-de-saques)
+
+| LXX           | Descrição                                                                                                                              |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Termo**     | Lista de Saques                                                                                                                        |
+| **Tipo**      | Objeto                                                                                                                                 |
+| **Impacto**   | Representa o conjunto de registros das solicitações de saque do usuário, possibilitando a consulta e gerenciamento dessas informações. |
+| **Noção**     | Coleção organizada dos pedidos de saque efetuados pelo usuário, incluindo detalhes como tipo, valor, data e status de cada saque.      |
+| **Sinônimos** | Histórico de saques, Registro de saques                                                                                                |
+| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                                     |
+
+
+---
+
+## [Filtro de Tipo](#filtro-de-tipo)
+
+| LXX           | Descrição                                                                                                                           |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Termo**     | Filtro de Tipo                                                                                                                      |
+| **Tipo**      | Objeto                                                                                                                              |
+| **Impacto**   | Permite segmentar ou restringir a visualização da lista de saques com base no tipo selecionado pelo usuário.                        |
+| **Noção**     | Critério utilizado para classificar e apresentar apenas os saques que pertencem a uma categoria específica (ex: saque-aniversário). |
+| **Sinônimos** | Critério de seleção, Opção de filtro                                                                                                |
+| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                                  |
+
+---
+
+## [Lista Filtrada](#lista-filtrada)
+
+| LXX           | Descrição                                                                                                                      |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Termo**     | Lista Filtrada                                                                                                                 |
+| **Tipo**      | Estado                                                                                                                         |
+| **Impacto**   | Representa o estado em que a lista de saques exibe somente os registros que correspondem aos critérios de filtro aplicados.    |
+| **Noção**     | Visualização da lista de saques reduzida e organizada conforme a seleção feita pelo usuário para facilitar o acesso e análise. |
+| **Sinônimos** | Lista segmentada, Resultado filtrado                                                                                           |
+| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                             |
+
+---
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
 
@@ -362,14 +474,15 @@ O décimo léxico, apresentado na tabela X, utiliza o seguinte requisito não im
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
-## L10: Chat
+## LXX: Chat
 
+O léxico XX utiliza o requisito funcional não implementado IS13 (O aplicativo deve permitir que o usuário entre em contato com um assistente via chat). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 10 – Chat (L10)</p></font>
+<font size="3"><p style="text-align: center">Tabela X: Léxico XX – Chat (LXX)</p></font>
 
 <center>
 
-| L10 | Descrição | 
+| LXX | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Chat | 
 | **Tipo** | Substantivo | 
@@ -382,20 +495,105 @@ O décimo léxico, apresentado na tabela X, utiliza o seguinte requisito não im
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
-## L11: Buscar
+## LXX: Assistente Virtual
 
+O léxico XX utiliza o requisito funcional não implementado IS13 (O aplicativo deve permitir que o usuário entre em contato com um assistente via chat). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 11 – Buscar (L11)</p></font>
+<font size="3"><p style="text-align: center">Tabela X: Léxico XX – Assistente Virtual (LXX)</p></font>
 
 <center>
 
-| L11 | Descrição | 
+| LXX | Descrição | 
+| :-:       | :-:            |
+| **Termo** | Assistente Virtual | 
+| **Tipo** | Substantivo | 
+| **Impacto** | 	- Fornece respostas automáticas e orientações baseadas no contexto do usuário. <br> - Ajuda a reduzir o tempo de espera e a carga sobre o suporte humano. <br> - Pode ser integrado com outras funcionalidades para melhorar a experiência do usuário. | 
+| **Noção** | Sistema automatizado que interage com o usuário via chat para fornecer suporte, esclarecer dúvidas e orientar sobre o uso do aplicativo. | 
+| **Sinônimos** | Bot, Atendimento Automático, Agente Virtual | 
+| **Autor** | [Marcelo Makoto](https://github.com/MM4k) | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
+
+## LXX: Mensagem
+
+O léxico XX utiliza o requisito funcional não implementado IS13 (O aplicativo deve permitir que o usuário entre em contato com um assistente via chat). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela X: Léxico XX – Mensagem (LXX)</p></font>
+
+<center>
+
+| LXX | Descrição | 
+| :-:       | :-:            |
+| **Termo** | Mensagem | 
+| **Tipo** | Substantivo | 
+| **Impacto** | 	- Permite a troca de informações entre usuário e assistente virtual. <br> - É a unidade básica de comunicação no chat. <br> - Pode conter perguntas, respostas, instruções ou links para funcionalidades. | 
+| **Noção** | 	Texto enviado ou recebido na interface do chat que representa a comunicação entre o usuário e o assistente. | 
+| **Sinônimos** | Texto, Comunicação | 
+| **Autor** | [Marcelo Makoto](https://github.com/MM4k) | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
+
+## LXX: Buscar
+
+O léxico XX utiliza o requisito funcional não implementado IS14 (O aplicativo deve disponibilizar um campo de busca para facilitar a localização de funcionalidades). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela X: Léxico XX – Buscar (LXX)</p></font>
+
+<center>
+
+| LXX | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Buscar | 
 | **Tipo** | Verbo | 
 | **Impacto** | - Facilita a localização de funcionalidades e informações dentro do aplicativo. <br> - Melhora a usabilidade ao reduzir o tempo de navegação. <br> - Permite que o usuário acesse diretamente conteúdos relevantes com base em palavras-chave. | 
 | **Noção** | Ação de digitar um termo com o objetivo de encontrar funcionalidades ou conteúdos relacionados a ele no sistema. | 
 | **Sinônimos** | Pesquisar, Procurar, Localizar | 
+| **Autor** | [Marcelo Makoto](https://github.com/MM4k) | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k))</p></font>
+
+## LXX: Campo de Busca
+
+O léxico XX utiliza o requisito funcional não implementado IS14 (O aplicativo deve disponibilizar um campo de busca para facilitar a localização de funcionalidades). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela X: Léxico XX – Campo de Busca (LXX)</p></font>
+
+<center>
+
+| LXX | Descrição | 
+| :-:       | :-:            |
+| **Termo** | Campo de Busca | 
+| **Tipo** | Substantivo | 
+| **Impacto** | - Interface que permite ao usuário digitar termos para localizar informações. <br> - Deve ser intuitivo e responsivo para garantir usabilidade. <br> - Facilita a navegação e o acesso a conteúdos. | 
+| **Noção** | Área ou elemento da interface do aplicativo onde o usuário insere palavras-chave para realizar consultas no sistema. | 
+| **Sinônimos** | Barra de Pesquisa, Caixa de Pesquisa, Pesquisa de Texto | 
+| **Autor** | [Marcelo Makoto](https://github.com/MM4k) | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k))</p></font>
+
+## LXX: Termo de Pesquisa
+
+O léxico XX utiliza o requisito funcional não implementado IS14 (O aplicativo deve disponibilizar um campo de busca para facilitar a localização de funcionalidades). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela X: Léxico XX – Termo de Pesquisa (LXX)</p></font>
+
+<center>
+
+| LXX | Descrição | 
+| :-:       | :-:            |
+| **Termo** | Termo de Pesquisa | 
+| **Tipo** | Substantivo | 
+| **Impacto** | - Define o conteúdo que o usuário deseja encontrar. <br> - A precisão do termo influencia na relevância dos resultados. <br> - Pode ser ampliado com sugestões para melhorar a busca. | 
+| **Noção** | Palavra ou conjunto de palavras digitadas pelo usuário no campo de busca para localizar funcionalidades ou informações. | 
+| **Sinônimos** | Palavra-chave, Consulta, Pesquisa | 
 | **Autor** | [Marcelo Makoto](https://github.com/MM4k) | 
 
 </center>
@@ -462,5 +660,7 @@ O décimo léxico, apresentado na tabela X, utiliza o seguinte requisito não im
 | `1.1` | 17/05/2025 | Inserção dos léxicos 6 e 9 | [Danielle Soares](https://github.com/danielle-soaress)  | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.2` | 17/05/2025 | Adicionando léxicos 1 e 2 | [Enzo Emir](https://github.com/EnzoEmir)  | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.3` | 17/05/2025 | Adição dos léxicos 10 e 11 | [Marcelo Makoto](https://github.com/MM4k)  | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| `1.4` | 17/05/2025 | Adição dos léxicos 07 e 08 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
-| `1.5` | 17/05/2025 | Adição da introdução e metodologia | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
+| `1.4` | 17/05/2025 | Adição dos léxicos 07 e 08 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.5` | 17/05/2025 | Adição da introdução e metodologia | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.6` | 17/05/2025 | Adição de mais léxicos para os requisitos IS13 e IS14 | [Marcelo Makoto](https://github.com/MM4k)  | [Victor Pontual](https://github.com/VictorPontual) |
+| `1.7` | 17/05/2025 | Adição de mais léxicos para os requisitos IS06 e IS07 | [Victor Pontual](https://github.com/VictorPontual)  | - |
