@@ -39,8 +39,8 @@
     </tr>
     <tr>
       <td> Marcelo Makoto </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 17/05/2025 </td>
+      <td> 15:10 </td>
     </tr>
     <tr>
       <td> Maria Eduarda </td>
@@ -266,35 +266,43 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
-## L10: Trocar pelo termo
+## L10: Chat
 
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 10 – Trocar pelo termo (L10)</p></font>
+<font size="3"><p style="text-align: center">Tabela X: Léxico 10 – Chat (L10)</p></font>
+
+<center>
 
 | L10 | Descrição | 
 | :-:       | :-:            |
-| **Termo** |  | 
-| **Tipo** |  | 
-| **Impacto** |  | 
-| **Noção** |  | 
-| **Sinônimos** |  | 
+| **Termo** | Chat | 
+| **Tipo** | Substantivo | 
+| **Impacto** | - Permite a comunicação direta entre o usuário e um assistente virtual. <br> - Auxilia na resolução de dúvidas e problemas sem a necessidade de sair do aplicativo. <br> - Pode ser integrado a diferentes partes do sistema para oferecer suporte contextual. | 
+| **Noção** | Canal de comunicação textual, em tempo real, por onde o usuário interage com um assistente para obter suporte, tirar dúvidas ou receber orientações. | 
+| **Sinônimos** | Conversa, Atendimento Virtual, Suporte via mensagem | 
 | **Autor** | [Marcelo Makoto](https://github.com/MM4k) | 
+
+</center>
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
-## L11: Trocar pelo termo
+## L11: Buscar
 
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 11 – Trocar pelo termo (L11)</p></font>
+<font size="3"><p style="text-align: center">Tabela X: Léxico 11 – Buscar (L11)</p></font>
+
+<center>
 
 | L11 | Descrição | 
 | :-:       | :-:            |
-| **Termo** |  | 
-| **Tipo** |  | 
-| **Impacto** |  | 
-| **Noção** |  | 
-| **Sinônimos** |  | 
+| **Termo** | Buscar | 
+| **Tipo** | Verbo | 
+| **Impacto** | - Facilita a localização de funcionalidades e informações dentro do aplicativo. <br> - Melhora a usabilidade ao reduzir o tempo de navegação. <br> - Permite que o usuário acesse diretamente conteúdos relevantes com base em palavras-chave. | 
+| **Noção** | Ação de digitar um termo com o objetivo de encontrar funcionalidades ou conteúdos relacionados a ele no sistema. | 
+| **Sinônimos** | Pesquisar, Procurar, Localizar | 
 | **Autor** | [Marcelo Makoto](https://github.com/MM4k) | 
+
+</center>
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k))</p></font>
 
@@ -354,5 +362,6 @@
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 16/05/2025 | Criação do documento | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Danielle Soares](https://github.com/danielle-soaress) |
-| `1.1` | 17/05/2025 | Inserção dos léxicos 6 e 9 | [Danielle Soares](https://github.com/danielle-soaress)  | - |
-| `1.2` | 17/05/2025 | Adicionando léxicos 1 e 2 | [Enzo Emir](https://github.com/EnzoEmir)  | - |
+| `1.1` | 17/05/2025 | Inserção dos léxicos 6 e 9 | [Danielle Soares](https://github.com/danielle-soaress)  | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.2` | 17/05/2025 | Adicionando léxicos 1 e 2 | [Enzo Emir](https://github.com/EnzoEmir)  | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.3` | 17/05/2025 | Adição dos léxicos 10 e 11 | [Marcelo Makoto](https://github.com/MM4k)  | - |
