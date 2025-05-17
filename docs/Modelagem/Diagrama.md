@@ -173,36 +173,36 @@
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Danielle Soares](https://github.com/danielle-soaress)</i></b></p></font>
 
-<font size="3"><p style="text-align: center">Tabela 8: Nome do caso de uso </p></font>
+<font size="3"><p style="text-align: center">Tabela 8: Exibir informações detalhadas sobre o histórico de movimentações financeiras </p></font>
 
-| UC01 | Descrição |
+| UC07 | Descrição |
 | ----- | ---------- |
-| Data da criação |  |
-| Rastreabilidade |  |
-| Atores |  |
-| Ação |  |
-| Pré-condições |  |
-| Fluxo básico |  |
-| Fluxos alternativos |  |
-| Fluxo de exceção |  |
-| Pós-condições |  |
+| Data da criação | 17/05 |
+| Rastreabilidade | <a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF12</a> <br> <a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a> |
+| Atores | Usuários do aplicativo FGTS |
+| Ação | O usuário acessa o histórico de movimentações financeiras e seleciona uma movimentação para visualizar informações detalhadas |
+| Pré-condições | O usuário deve estar logado no aplicativo FGTS. <br> O sistema deve possuir movimentações financeiras registradas. |
+| Fluxo básico | 1. O usuário efetua o login no FGTS <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O sistema exibe a lista de movimentações registradas. <br> 4. O usuário seleciona uma movimentação específica. <br> 5. O sistema exibe as informações detalhadas da movimentação. |
+| Fluxos alternativos | 1. O usuário efetua o login no FGTS. <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O usuário usa o filtro para selecionar o mês e o ano. <br> O sistema exibe as movimentações financeiras do período selecionado. |
+| Fluxo de exceção | 1. O usuário efetua o login no FGTS. <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O sistema não encontra nenhuma movimentação financeira. <br> 4. O sistema exibe uma mensagem indicando o problema. |
+| Pós-condições | O sistema exibe corretamente as informações detalhadas da movimentação selecionada. |
 | Autor | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </i></b></p></font>
 
-<font size="3"><p style="text-align: center">Tabela 9: Nome do caso de uso </p></font>
+<font size="3"><p style="text-align: center">Tabela 9: Filtrar extrato por data </p></font>
 
-| UC01 | Descrição |
+| UC08 | Descrição |
 | ----- | ---------- |
-| Data da criação |  |
-| Rastreabilidade |  |
-| Atores |  |
-| Ação |  |
-| Pré-condições |  |
-| Fluxo básico |  |
-| Fluxos alternativos |  |
-| Fluxo de exceção |  |
-| Pós-condições |  |
+| Data da criação | 17/05 |
+| Rastreabilidade | <a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF13</a> <br> <a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS10</a> |
+| Atores | Usuários do aplicativo FGTS |
+| Ação | O usuário filtra as movimentações financeiras exibidas no histórico de movimentações financeiras com base no mês e no ano |
+| Pré-condições | O usuário deve estar logado no aplicativo FGTS. <br> O sistema deve possuir movimentações financeiras com diferentes datas registradas.  |
+| Fluxo básico | 1. O usuário efetua o login no FGTS <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O sistema exibe a lista de movimentações registradas. <br> 4. O usuário seleciona uma data (mês e ano) como filtro <br> 5. O sistema exibe apenas as movimentações correspondentes à data selecionada. |
+| Fluxos alternativos | 1. O usuário efetua o login no FGTS <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O sistema exibe uma lista com todas as movimentações registradas.  |
+| Fluxo de exceção | 1. O usuário efetua o login no FGTS <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O sistema exibe a lista de movimentações registradas. <br> 4. O usuário seleciona uma data (mês e ano) inválida ou sem movimentações <br> 5. O sistema exibe uma mensagem indicando o problema. |
+| Pós-condições | O sistema exibe o histórico de movimentações financeiras filtrado de acordo com a data selecionada. |
 | Autor | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</i></b></p></font>
