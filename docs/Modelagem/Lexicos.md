@@ -210,83 +210,140 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
 
 ---
 
-## L01: Requisito IS06
+## Requisito IS06
 
 ## [Cancelar Solicitação](#cancelar-solicitação)
 
-* **Tipo:** Verbo
-* **Descrição:** Ação do usuário de cancelar um pedido de saque que foi previamente solicitado no aplicativo.
-* **Objetos Envolvidos:** [Solicitação de Saque](#solicitação-de-saque), [Confirmação de Cancelamento](#confirmação-de-cancelamento)
-* **Estado Resultante:** [Solicitação Cancelada](#solicitação-cancelada)
+| LXX           | Descrição                                                                                                                                                                     |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Termo**     | Cancelar Solicitação                                                                                                                                                          |
+| **Tipo**      | Verbo                                                                                                                                                                         |
+| **Impacto**   | Permite que o usuário interrompa uma solicitação de saque ativa, evitando que ela seja processada ou liberada.                                                                |
+| **Noção**     | Ação executada pelo usuário para cancelar um pedido de saque em andamento. O sistema verifica a possibilidade de cancelamento e atualiza o status conforme a ação do usuário. |
+| **Sinônimos** | Anular pedido, Revogar solicitação                                                                                                                                            |
+| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                                                                            |
 
 ---
 
 ## [Solicitação de Saque](#solicitação-de-saque)
 
-* **Tipo:** Objeto
-* **Descrição:** Pedido formal realizado pelo usuário para saque de valores do FGTS.
-* **Estados Possíveis:** [Solicitação Ativa](#solicitação-ativa), [Solicitação Cancelada](#solicitação-cancelada), [Solicitação Processada](#solicitação-processada)
+| LXX           | Descrição                                                                                                      |
+| ------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Termo**     | Solicitação de Saque                                                                                           |
+| **Tipo**      | Objeto                                                                                                         |
+| **Impacto**   | Representa o pedido formal do usuário para saque de valores do FGTS.                                           |
+| **Noção**     | Documento digital que contém as informações necessárias para a liberação dos valores solicitados pelo usuário. |
+| **Sinônimos** | Pedido de saque, Requisição de saque                                                                           |
+| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                             |
 
 ---
 
 ## [Confirmação de Cancelamento](#confirmação-de-cancelamento)
 
-* **Tipo:** Objeto
-* **Descrição:** Confirmação fornecida pelo usuário para validar o cancelamento da solicitação de saque.
-* **Estados Possíveis:** Confirmado, Não Confirmado
+| LXX           | Descrição                                                                                                                         |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **Termo**     | Confirmação de Cancelamento                                                                                                       |
+| **Tipo**      | Objeto                                                                                                                            |
+| **Impacto**   | Garante que o usuário valide sua intenção de cancelar a solicitação de saque, evitando cancelamentos acidentais.                  |
+| **Noção**     | Ato do usuário de confirmar a operação de cancelamento após ser solicitado pelo sistema, assegurando que a ação seja intencional. |
+| **Sinônimos** | Validação de cancelamento, Confirmação de ação                                                                                    |
+| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                                |
+
 
 ---
 
 ## [Solicitação Ativa](#solicitação-ativa)
 
-* **Tipo:** Estado
-* **Descrição:** Estado da solicitação que está ativa e pode ser cancelada pelo usuário.
+| LXX           | Descrição                                                                                                           |
+| ------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **Termo**     | Solicitação Ativa                                                                                                   |
+| **Tipo**      | Estado                                                                                                              |
+| **Impacto**   | Indica que a solicitação de saque está vigente e pode ser modificada ou cancelada pelo usuário.                     |
+| **Noção**     | Estado em que a solicitação de saque foi feita e ainda está em processamento, aguardando conclusão ou cancelamento. |
+| **Sinônimos** | Pedido em andamento, Solicitação vigente                                                                            |
+| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                  |
 
 ---
 
 ## [Solicitação Cancelada](#solicitação-cancelada)
 
-* **Tipo:** Estado
-* **Descrição:** Estado final indicando que a solicitação de saque foi cancelada com sucesso.
+| LXX           | Descrição                                                                                              |
+| ------------- | ------------------------------------------------------------------------------------------------------ |
+| **Termo**     | Solicitação Cancelada                                                                                  |
+| **Tipo**      | Estado                                                                                                 |
+| **Impacto**   | Indica que a solicitação de saque foi anulada e não será processada pelo sistema.                      |
+| **Noção**     | Estado final em que o pedido de saque foi oficialmente cancelado pelo usuário e registrado no sistema. |
+| **Sinônimos** | Pedido cancelado, Requisição anulada                                                                   |
+| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                     |
 
 ---
 
 ## [Solicitação Processada](#solicitação-processada)
 
-* **Tipo:** Estado
-* **Descrição:** Estado indicando que a solicitação de saque foi processada e não pode mais ser cancelada.
+| LXX           | Descrição                                                                                                              |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Termo**     | Solicitação Processada                                                                                                 |
+| **Tipo**      | Estado                                                                                                                 |
+| **Impacto**   | Indica que a solicitação de saque foi analisada e concluída pelo sistema, não podendo mais ser cancelada pelo usuário. |
+| **Noção**     | Estado final onde o pedido de saque foi processado e encaminhado para liberação dos valores ou rejeição.               |
+| **Sinônimos** | Pedido concluído, Solicitação finalizada                                                                               |
+| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                     |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
 
-## L02: Requisito IS07
+## Requisito IS07
 
 ## [Filtrar Saques por Tipo](#filtrar-saques-por-tipo)
 
-* **Tipo:** Verbo
-* **Descrição:** Ação do usuário de aplicar um filtro na lista de saques para visualizar apenas os de um tipo específico, como aniversário, doença ou falecimento.
-* **Objetos Envolvidos:** [Lista de Saques](#lista-de-saques), [Filtro de Tipo](#filtro-de-tipo)
-* **Estado Resultante:** [Lista Filtrada](#lista-filtrada)
+| LXX           | Descrição                                                                                                                                 |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **Termo**     | Filtrar Saques por Tipo                                                                                                                   |
+| **Tipo**      | Verbo                                                                                                                                     |
+| **Impacto**   | Permite que o usuário restrinja a visualização dos saques exibidos no histórico com base no tipo (ex.: aniversário, doença, falecimento). |
+| **Noção**     | Ação do usuário de selecionar um critério de tipo para que o sistema exiba apenas os saques correspondentes àquela categoria.             |
+| **Sinônimos** | Aplicar filtro, Selecionar tipo, Restringir visualização                                                                                  |
+| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                                        |
+
 
 ---
 
 ## [Lista de Saques](#lista-de-saques)
 
-* **Tipo:** Objeto
-* **Descrição:** Conjunto de registros de saques realizados ou solicitados pelo usuário, categorizados por tipo.
+| LXX           | Descrição                                                                                                                              |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| **Termo**     | Lista de Saques                                                                                                                        |
+| **Tipo**      | Objeto                                                                                                                                 |
+| **Impacto**   | Representa o conjunto de registros das solicitações de saque do usuário, possibilitando a consulta e gerenciamento dessas informações. |
+| **Noção**     | Coleção organizada dos pedidos de saque efetuados pelo usuário, incluindo detalhes como tipo, valor, data e status de cada saque.      |
+| **Sinônimos** | Histórico de saques, Registro de saques                                                                                                |
+| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                                     |
+
 
 ---
 
 ## [Filtro de Tipo](#filtro-de-tipo)
 
-* **Tipo:** Objeto
-* **Descrição:** Critério de seleção aplicado para exibir saques de um determinado tipo (ex: aniversário, doença, falecimento).
+| LXX           | Descrição                                                                                                                           |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Termo**     | Filtro de Tipo                                                                                                                      |
+| **Tipo**      | Objeto                                                                                                                              |
+| **Impacto**   | Permite segmentar ou restringir a visualização da lista de saques com base no tipo selecionado pelo usuário.                        |
+| **Noção**     | Critério utilizado para classificar e apresentar apenas os saques que pertencem a uma categoria específica (ex: saque-aniversário). |
+| **Sinônimos** | Critério de seleção, Opção de filtro                                                                                                |
+| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                                  |
 
 ---
 
 ## [Lista Filtrada](#lista-filtrada)
 
-* **Tipo:** Estado
-* **Descrição:** Estado do sistema em que a lista de saques exibe apenas os registros que atendem ao filtro aplicado.
+| LXX           | Descrição                                                                                                                      |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Termo**     | Lista Filtrada                                                                                                                 |
+| **Tipo**      | Estado                                                                                                                         |
+| **Impacto**   | Representa o estado em que a lista de saques exibe somente os registros que correspondem aos critérios de filtro aplicados.    |
+| **Noção**     | Visualização da lista de saques reduzida e organizada conforme a seleção feita pelo usuário para facilitar o acesso e análise. |
+| **Sinônimos** | Lista segmentada, Resultado filtrado                                                                                           |
+| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                             |
 
 ---
 
@@ -605,4 +662,5 @@ O léxico XX utiliza o requisito funcional não implementado IS14 (O aplicativo 
 | `1.3` | 17/05/2025 | Adição dos léxicos 10 e 11 | [Marcelo Makoto](https://github.com/MM4k)  | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.4` | 17/05/2025 | Adição dos léxicos 07 e 08 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.5` | 17/05/2025 | Adição da introdução e metodologia | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
-| `1.6` | 17/05/2025 | Adição de mais léxicos para os requisitos IS13 e IS14 | [Marcelo Makoto](https://github.com/MM4k)  | - |
+| `1.6` | 17/05/2025 | Adição de mais léxicos para os requisitos IS13 e IS14 | [Marcelo Makoto](https://github.com/MM4k)  | [Victor Pontual](https://github.com/VictorPontual) |
+| `1.7` | 17/05/2025 | Adição de mais léxicos para os requisitos IS06 e IS07 | [Victor Pontual](https://github.com/VictorPontual)  | - |
