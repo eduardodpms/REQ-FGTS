@@ -362,14 +362,15 @@ O décimo léxico, apresentado na tabela X, utiliza o seguinte requisito não im
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
-## L10: Chat
+## LXX: Chat
 
+O léxico XX utiliza o requisito funcional não implementado IS13 (O aplicativo deve permitir que o usuário entre em contato com um assistente via chat). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 10 – Chat (L10)</p></font>
+<font size="3"><p style="text-align: center">Tabela X: Léxico XX – Chat (LXX)</p></font>
 
 <center>
 
-| L10 | Descrição | 
+| LXX | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Chat | 
 | **Tipo** | Substantivo | 
@@ -382,20 +383,105 @@ O décimo léxico, apresentado na tabela X, utiliza o seguinte requisito não im
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
-## L11: Buscar
+## LXX: Assistente Virtual
 
+O léxico XX utiliza o requisito funcional não implementado IS13 (O aplicativo deve permitir que o usuário entre em contato com um assistente via chat). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 11 – Buscar (L11)</p></font>
+<font size="3"><p style="text-align: center">Tabela X: Léxico XX – Assistente Virtual (LXX)</p></font>
 
 <center>
 
-| L11 | Descrição | 
+| LXX | Descrição | 
+| :-:       | :-:            |
+| **Termo** | Assistente Virtual | 
+| **Tipo** | Substantivo | 
+| **Impacto** | 	- Fornece respostas automáticas e orientações baseadas no contexto do usuário. <br> - Ajuda a reduzir o tempo de espera e a carga sobre o suporte humano. <br> - Pode ser integrado com outras funcionalidades para melhorar a experiência do usuário. | 
+| **Noção** | Sistema automatizado que interage com o usuário via chat para fornecer suporte, esclarecer dúvidas e orientar sobre o uso do aplicativo. | 
+| **Sinônimos** | Bot, Atendimento Automático, Agente Virtual | 
+| **Autor** | [Marcelo Makoto](https://github.com/MM4k) | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
+
+## LXX: Mensagem
+
+O léxico XX utiliza o requisito funcional não implementado IS13 (O aplicativo deve permitir que o usuário entre em contato com um assistente via chat). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela X: Léxico XX – Mensagem (LXX)</p></font>
+
+<center>
+
+| LXX | Descrição | 
+| :-:       | :-:            |
+| **Termo** | Mensagem | 
+| **Tipo** | Substantivo | 
+| **Impacto** | 	- Permite a troca de informações entre usuário e assistente virtual. <br> - É a unidade básica de comunicação no chat. <br> - Pode conter perguntas, respostas, instruções ou links para funcionalidades. | 
+| **Noção** | 	Texto enviado ou recebido na interface do chat que representa a comunicação entre o usuário e o assistente. | 
+| **Sinônimos** | Texto, Comunicação | 
+| **Autor** | [Marcelo Makoto](https://github.com/MM4k) | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
+
+## LXX: Buscar
+
+O léxico XX utiliza o requisito funcional não implementado IS14 (O aplicativo deve disponibilizar um campo de busca para facilitar a localização de funcionalidades). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela X: Léxico XX – Buscar (LXX)</p></font>
+
+<center>
+
+| LXX | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Buscar | 
 | **Tipo** | Verbo | 
 | **Impacto** | - Facilita a localização de funcionalidades e informações dentro do aplicativo. <br> - Melhora a usabilidade ao reduzir o tempo de navegação. <br> - Permite que o usuário acesse diretamente conteúdos relevantes com base em palavras-chave. | 
 | **Noção** | Ação de digitar um termo com o objetivo de encontrar funcionalidades ou conteúdos relacionados a ele no sistema. | 
 | **Sinônimos** | Pesquisar, Procurar, Localizar | 
+| **Autor** | [Marcelo Makoto](https://github.com/MM4k) | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k))</p></font>
+
+## LXX: Campo de Busca
+
+O léxico XX utiliza o requisito funcional não implementado IS14 (O aplicativo deve disponibilizar um campo de busca para facilitar a localização de funcionalidades). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela X: Léxico XX – Campo de Busca (LXX)</p></font>
+
+<center>
+
+| LXX | Descrição | 
+| :-:       | :-:            |
+| **Termo** | Campo de Busca | 
+| **Tipo** | Substantivo | 
+| **Impacto** | - Interface que permite ao usuário digitar termos para localizar informações. <br> - Deve ser intuitivo e responsivo para garantir usabilidade. <br> - Facilita a navegação e o acesso a conteúdos. | 
+| **Noção** | Área ou elemento da interface do aplicativo onde o usuário insere palavras-chave para realizar consultas no sistema. | 
+| **Sinônimos** | Barra de Pesquisa, Caixa de Pesquisa, Pesquisa de Texto | 
+| **Autor** | [Marcelo Makoto](https://github.com/MM4k) | 
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k))</p></font>
+
+## LXX: Termo de Pesquisa
+
+O léxico XX utiliza o requisito funcional não implementado IS14 (O aplicativo deve disponibilizar um campo de busca para facilitar a localização de funcionalidades). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela X: Léxico XX – Termo de Pesquisa (LXX)</p></font>
+
+<center>
+
+| LXX | Descrição | 
+| :-:       | :-:            |
+| **Termo** | Termo de Pesquisa | 
+| **Tipo** | Substantivo | 
+| **Impacto** | - Define o conteúdo que o usuário deseja encontrar. <br> - A precisão do termo influencia na relevância dos resultados. <br> - Pode ser ampliado com sugestões para melhorar a busca. | 
+| **Noção** | Palavra ou conjunto de palavras digitadas pelo usuário no campo de busca para localizar funcionalidades ou informações. | 
+| **Sinônimos** | Palavra-chave, Consulta, Pesquisa | 
 | **Autor** | [Marcelo Makoto](https://github.com/MM4k) | 
 
 </center>
@@ -462,5 +548,6 @@ O décimo léxico, apresentado na tabela X, utiliza o seguinte requisito não im
 | `1.1` | 17/05/2025 | Inserção dos léxicos 6 e 9 | [Danielle Soares](https://github.com/danielle-soaress)  | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.2` | 17/05/2025 | Adicionando léxicos 1 e 2 | [Enzo Emir](https://github.com/EnzoEmir)  | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.3` | 17/05/2025 | Adição dos léxicos 10 e 11 | [Marcelo Makoto](https://github.com/MM4k)  | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| `1.4` | 17/05/2025 | Adição dos léxicos 07 e 08 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
-| `1.5` | 17/05/2025 | Adição da introdução e metodologia | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
+| `1.4` | 17/05/2025 | Adição dos léxicos 07 e 08 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.5` | 17/05/2025 | Adição da introdução e metodologia | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.6` | 17/05/2025 | Adição de mais léxicos para os requisitos IS13 e IS14 | [Marcelo Makoto](https://github.com/MM4k)  | - |
