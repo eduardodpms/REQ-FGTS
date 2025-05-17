@@ -76,17 +76,18 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <center>
 
-| Cenário 1 | Título do Cenário | 
-| :-:       | :-:            |
-| **Título** |  | 
-| **Objetivo** |  | 
-| **Contexto** |  | 
-| **Atores** |  | 
-| **Recursos** |  | 
-| **Episódios** |   | 
-| **Restrições** |  | 
-| **Exceção** |  | 
-| **Autor** | [Enzo Emir](https://github.com/EnzoEmir) | 
+| Cenário 1 | Visualizar Status Comentado do Saque |  
+| :-:       | :-:            |  
+| **Título** | EN02 |  
+| **Objetivo** | Permitir que o usuário acompanhe o andamento do processo de saque com status detalhado e comentários explicativos. |  
+| **Contexto** | O usuário deseja entender em que etapa está seu pedido de saque do FGTS e o motivo da situação atual. |  
+| **Atores** | Usuário, Sistema do FGTS |  
+| **Recursos** | Aplicativo FGTS, conexão à internet, API de status e comentários do saque |  
+| **Episódios** | 1. O usuário acessa o app do FGTS.<br>2. Navega até a seção "Saque".<br>3. Seleciona o pedido ativo.<br>4. O sistema exibe o status atual com um comentário explicativo.<br>5. O sistema atualiza automaticamente status e comentário conforme o processo avança. |  
+| **Restrições** | O status e o comentário devem estar sincronizados com o sistema central em tempo real. |  
+| **Exceção** | Falha de conexão, ausência de comentário, saque inexistente ou erro na obtenção dos dados. |  
+| **Autor** | [Enzo Emir](https://github.com/EnzoEmir) |
+
 
 </center>
 
@@ -98,17 +99,18 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <center>
 
-| Cenário 2 | Título do Cenário | 
-| :-:       | :-:            |
-| **Título** |  | 
-| **Objetivo** |  | 
-| **Contexto** |  | 
-| **Atores** |  | 
-| **Recursos** |  | 
-| **Episódios** |   | 
-| **Restrições** |  | 
-| **Exceção** |  | 
-| **Autor** | [Enzo Emir](https://github.com/EnzoEmir) | 
+| Cenário 2 | Visualizar Data Prevista para Liberação de Valores |  
+| :-:       | :-:            |  
+| **Código** | EN03 |  
+| **Objetivo** | Garantir que o usuário visualize uma data realista e seja avisado em caso de alterações na previsão de liberação do valor. |  
+| **Contexto** | O usuário realizou um saque e deseja saber quando o valor será liberado para planejamento financeiro. |  
+| **Atores** | Usuário, Sistema do FGTS, Servidor de Notificações |  
+| **Recursos** | Aplicativo FGTS, banco de dados com previsão de liberação, sistema de notificações |  
+| **Episódios** | 1. O usuário acessa o app e vai para "Meus Saques".<br>2. Seleciona o saque em andamento.<br>3. O sistema mostra a data prevista de liberação.<br>4. Se a data foi alterada, o app mostra a nova previsão e o motivo.<br>5. O histórico de alterações fica disponível. |  
+| **Restrições** | Toda alteração de data deve ser notificada ao usuário com justificativa. |  
+| **Exceção** | Data expirou sem atualização, ausência de previsão, falha de sincronização. |  
+| **Autor** | [Enzo Emir](https://github.com/EnzoEmir) |
+
 
 </center>
 
@@ -387,4 +389,6 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 | `1.0` | 15/05/2025 | Criação do documento | [Danielle Soares](https://github.com/danielle-soaress) |[Enzo Emir ](https://github.com/EnzoEmir) |
 | `1.1` | 16/05/2025 | Adição do texto da Introdução,Metodologia e Bibliografia | [Enzo Emir ](https://github.com/EnzoEmir) |[Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)|
 | `1.2` | 16/05/2025 | Organização das tabelas | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |[Danielle Soares](https://github.com/danielle-soaress)|
-| `1.3` | 16/05/2025 | Adicionando cenários 6 e 9 | [Danielle Soares](https://github.com/danielle-soaress) | -- |
+| `1.3` | 16/05/2025 | Adicionando cenários 6 e 9 | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir ](https://github.com/EnzoEmir) |
+| `1.4` | 17/05/2025 | Adição cenários 1 e 2 | [Enzo Emir ](https://github.com/EnzoEmir) |-|
+
