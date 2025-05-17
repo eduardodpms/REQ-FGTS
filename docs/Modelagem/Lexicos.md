@@ -160,6 +160,7 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
 - **Tipo:** Estado  
 - **Descrição:** Estado alcançado após o usuário acessar a tela de acompanhamento do saque.
 
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
 ## L02: Requisito EN03
 
@@ -189,6 +190,8 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
 - **Tipo:** Estado  
 - **Descrição:** Estado atingido após o usuário acessar a previsão de liberação dos valores.
 
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
 ## L03: Trocar pelo termo
 
 
@@ -205,35 +208,87 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
 
-## L04: Trocar pelo termo
+---
 
+## L01: Requisito IS06
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 04 – Trocar pelo termo (L04)</p></font>
+## [Cancelar Solicitação](#cancelar-solicitação)
 
-| L04 | Descrição | 
-| :-:       | :-:            |
-| **Termo** |  | 
-| **Tipo** |  | 
-| **Impacto** |  | 
-| **Noção** |  | 
-| **Sinônimos** |  | 
-| **Autor** | [Victor Pontual](https://github.com/VictorPontual) | 
+* **Tipo:** Verbo
+* **Descrição:** Ação do usuário de cancelar um pedido de saque que foi previamente solicitado no aplicativo.
+* **Objetos Envolvidos:** [Solicitação de Saque](#solicitação-de-saque), [Confirmação de Cancelamento](#confirmação-de-cancelamento)
+* **Estado Resultante:** [Solicitação Cancelada](#solicitação-cancelada)
+
+---
+
+## [Solicitação de Saque](#solicitação-de-saque)
+
+* **Tipo:** Objeto
+* **Descrição:** Pedido formal realizado pelo usuário para saque de valores do FGTS.
+* **Estados Possíveis:** [Solicitação Ativa](#solicitação-ativa), [Solicitação Cancelada](#solicitação-cancelada), [Solicitação Processada](#solicitação-processada)
+
+---
+
+## [Confirmação de Cancelamento](#confirmação-de-cancelamento)
+
+* **Tipo:** Objeto
+* **Descrição:** Confirmação fornecida pelo usuário para validar o cancelamento da solicitação de saque.
+* **Estados Possíveis:** Confirmado, Não Confirmado
+
+---
+
+## [Solicitação Ativa](#solicitação-ativa)
+
+* **Tipo:** Estado
+* **Descrição:** Estado da solicitação que está ativa e pode ser cancelada pelo usuário.
+
+---
+
+## [Solicitação Cancelada](#solicitação-cancelada)
+
+* **Tipo:** Estado
+* **Descrição:** Estado final indicando que a solicitação de saque foi cancelada com sucesso.
+
+---
+
+## [Solicitação Processada](#solicitação-processada)
+
+* **Tipo:** Estado
+* **Descrição:** Estado indicando que a solicitação de saque foi processada e não pode mais ser cancelada.
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
 
-## L05: Trocar pelo termo
+## L02: Requisito IS07
 
+## [Filtrar Saques por Tipo](#filtrar-saques-por-tipo)
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 05 – Trocar pelo termo (L05)</p></font>
+* **Tipo:** Verbo
+* **Descrição:** Ação do usuário de aplicar um filtro na lista de saques para visualizar apenas os de um tipo específico, como aniversário, doença ou falecimento.
+* **Objetos Envolvidos:** [Lista de Saques](#lista-de-saques), [Filtro de Tipo](#filtro-de-tipo)
+* **Estado Resultante:** [Lista Filtrada](#lista-filtrada)
 
-| L05 | Descrição | 
-| :-:       | :-:            |
-| **Termo** |  | 
-| **Tipo** |  | 
-| **Impacto** |  | 
-| **Noção** |  | 
-| **Sinônimos** |  | 
-| **Autor** | [Victor Pontual](https://github.com/VictorPontual) | 
+---
+
+## [Lista de Saques](#lista-de-saques)
+
+* **Tipo:** Objeto
+* **Descrição:** Conjunto de registros de saques realizados ou solicitados pelo usuário, categorizados por tipo.
+
+---
+
+## [Filtro de Tipo](#filtro-de-tipo)
+
+* **Tipo:** Objeto
+* **Descrição:** Critério de seleção aplicado para exibir saques de um determinado tipo (ex: aniversário, doença, falecimento).
+
+---
+
+## [Lista Filtrada](#lista-filtrada)
+
+* **Tipo:** Estado
+* **Descrição:** Estado do sistema em que a lista de saques exibe apenas os registros que atendem ao filtro aplicado.
+
+---
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
 
