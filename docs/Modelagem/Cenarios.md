@@ -49,8 +49,8 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
     </tr>
     <tr>
       <td> Marcelo Makoto </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 17/05/2025 </td>
+      <td> 09:14 </td>
     </tr>
     <tr>
       <td> Maria Eduarda </td>
@@ -270,20 +270,20 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 ## Cenário 10
 
-<font size="3"><p style="text-align: center">Tabela 10: Cenário...</p></font>
+<font size="3"><p style="text-align: center">Tabela 10: Contato com Assistente via Chat</p></font>
 
 <center>
 
-| Cenário 10 | Título do Cenário | 
-| :-:       | :-:            |
-| **Título** |  | 
-| **Objetivo** |  | 
-| **Contexto** |  | 
-| **Atores** |  | 
-| **Recursos** |  | 
-| **Episódios** |   | 
-| **Restrições** |  | 
-| **Exceção** |  | 
+| Cenário 10 | Contato com Assistente via Chat |  
+| :-:       | :-:            |  
+| **Título** | IS13 |  
+| **Objetivo** | Permitir que o usuário entre em contato com um assistente via chat para tirar dúvidas ou obter suporte relacionado ao FGTS. |  
+| **Contexto** | O usuário deseja esclarecer dúvidas ou obter ajuda durante a navegação no aplicativo do FGTS. |  
+| **Atores** | Usuário, Sistema do FGTS, Assistente Virtual |  
+| **Recursos** | Aplicativo FGTS, conexão à internet e módulo de chat com assistente |  
+| **Episódios** | 1. O usuário acessa o aplicativo do FGTS.<br>2. Clica na opção de ajuda ou suporte.<br>3. O sistema exibe a interface de chat.<br>4. O usuário digita sua dúvida.<br>5. O assistente virtual responde com informações relevantes. |  
+| **Restrições** | A funcionalidade de chat exige conexão com a internet e deve estar disponível em tempo integral. |  
+| **Exceção** | Falha de conexão, erro ao carregar o chat, ausência de resposta do assistente. |  
 | **Autor** | [Marcelo Makoto](https://github.com/MM4k) | 
 
 </center>
@@ -292,20 +292,20 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 ## Cenário 11
 
-<font size="3"><p style="text-align: center">Tabela 11: Cenário...</p></font>
+<font size="3"><p style="text-align: center">Tabela 11: Busca de Funcionalidades e Informações</p></font>
 
 <center>
 
-| Cenário 11 | Título do Cenário | 
-| :-:       | :-:            |
-| **Título** |  | 
-| **Objetivo** |  | 
-| **Contexto** |  | 
-| **Atores** |  | 
-| **Recursos** |  | 
-| **Episódios** |   | 
-| **Restrições** |  | 
-| **Exceção** |  | 
+| Cenário 11 | Busca de Funcionalidades e Informações |  
+| :-:       | :-:            |  
+| **Título** | IS14 |  
+| **Objetivo** | Permitir que o usuário localize rapidamente funcionalidades ou informações no aplicativo por meio de um campo de busca. |  
+| **Contexto** | O usuário deseja encontrar uma funcionalidade específica ou obter informações sem navegar por várias seções do aplicativo. |  
+| **Atores** | Usuário, Sistema do FGTS |  
+| **Recursos** | Aplicativo FGTS, conexão à internet e mecanismo de busca interno |  
+| **Episódios** | 1. O usuário acessa o aplicativo do FGTS.<br>2. Digita um termo no campo de busca (ex: “extrato”, “saldo”, “saque”).<br>3. O sistema exibe os resultados correspondentes.<br>4. O usuário seleciona o item desejado e é redirecionado à funcionalidade. |  
+| **Restrições** | O mecanismo de busca deve abranger todas as funcionalidades e textos informativos disponíveis no aplicativo. |  
+| **Exceção** | Termo não encontrado, falha no carregamento dos resultados, ausência de retorno relevante. |  
 | **Autor** | [Marcelo Makoto](https://github.com/MM4k) | 
 
 </center>
@@ -390,5 +390,6 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 | `1.1` | 16/05/2025 | Adição do texto da Introdução,Metodologia e Bibliografia | [Enzo Emir ](https://github.com/EnzoEmir) |[Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)|
 | `1.2` | 16/05/2025 | Organização das tabelas | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |[Danielle Soares](https://github.com/danielle-soaress)|
 | `1.3` | 16/05/2025 | Adicionando cenários 6 e 9 | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir ](https://github.com/EnzoEmir) |
-| `1.4` | 17/05/2025 | Adição cenários 1 e 2 | [Enzo Emir ](https://github.com/EnzoEmir) |-|
+| `1.4` | 17/05/2025 | Adição cenários 1 e 2 | [Enzo Emir ](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.5` | 17/05/2025 | Adição dos cenários 10 e 11 | [Marcelo Makoto](https://github.com/MM4k) | - |
 
