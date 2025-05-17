@@ -40,8 +40,8 @@
     </tr>
     <tr>
       <td> Marcelo Makoto </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 17/05/2025 </td>
+      <td> 09:37 </td>
     </tr>
     <tr>
       <td> Maria Eduarda </td>
@@ -65,10 +65,10 @@
 
 ## Especialização dos Casos de Uso
 
+## Caso de Uso 1 (EN02)
+
 <font size="3"><p style="text-align: center">Tabela 2: Visualizar Status Comentado do Saque </p></font>
 
-
-## Caso de Uso 1 (EN02)
 
 | **Elemento**                     | **Descrição** |
 |----------------------------------|----------------|
@@ -86,9 +86,10 @@
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Enzo Emir](https://github.com/EnzoEmir) </i></b></p></font>
 
+## Caso de Uso 2 (EN03)
+
 <font size="3"><p style="text-align: center">Tabela 3: Visualizar Data Prevista para Liberação de Valores </p></font>
 
-## Caso de Uso 2 (EN03)
 
 | **Elemento**                     | **Descrição** |
 |----------------------------------|----------------|
@@ -223,36 +224,40 @@
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Danielle Soares](https://github.com/danielle-soaress) </i></b></p></font>
 
-<font size="3"><p style="text-align: center">Tabela 11: Nome do caso de uso </p></font>
+## Caso de Uso 10 (IS13)
 
-| UC01 | Descrição |
-| ----- | ---------- |
-| Data da criação |  |
-| Rastreabilidade |  |
-| Atores |  |
-| Ação |  |
-| Pré-condições |  |
-| Fluxo básico |  |
-| Fluxos alternativos |  |
-| Fluxo de exceção |  |
-| Pós-condições |  |
+<font size="3"><p style="text-align: center">Tabela 11: Contato com Assistente via Chat </p></font>
+
+| **Elemento**                     | **Descrição** |
+|----------------------------------|----------------|
+| **Nome do Caso de Uso**          | Contato com Assistente via Chat |
+| **Ator Principal**               | Usuário |
+| **Atores Secundários**           | Sistema do FGTS, Assistente Virtual |
+| **Objetivo**                     | Permitir que o usuário entre em contato com um assistente via chat para tirar dúvidas ou obter suporte relacionado ao FGTS. |
+| **Pré-condições**                | - O usuário deve estar autenticado no aplicativo.<br>- A funcionalidade de chat deve estar disponível e operacional. |
+| **Fluxo Principal de Eventos**   | 1. O usuário acessa o aplicativo do FGTS.<br>2. Seleciona a opção de "Ajuda" ou "Suporte".<br>3. O sistema exibe a interface do chat.<br>4. O usuário digita sua dúvida.<br>5. O assistente responde com orientações baseadas no contexto da solicitação.<br>6. O usuário continua a conversa ou encerra o atendimento. |
+| **Fluxos Alternativos**          | - O usuário acessa o chat por meio de outro ponto do aplicativo (ex: ao visualizar um status de saque).<br>- O assistente direciona o usuário para funcionalidades específicas com base na dúvida.<br> |
+| **Exceções**                    | - Falha de conexão com o servidor: o app exibe mensagem de erro e oferece opção de tentar novamente.<br>- Módulo de chat indisponível: o app exibe alternativa de contato por outros canais.<br>- Dúvida não compreendida: o assistente oferece opções adicionais ou redireciona para atendimento humano. |
+| **Pós-condições**                | - O usuário recebeu suporte via chat e teve sua dúvida resolvida ou foi orientado sobre próximos passos. |
 | Autor | [Marcelo Makoto](https://github.com/MM4k)|
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Marcelo Makoto](https://github.com/MM4k) </i></b></p></font>
 
-<font size="3"><p style="text-align: center">Tabela 12: Nome do caso de uso </p></font>
+## Caso de Uso 11 (IS14)
 
-| UC01 | Descrição |
-| ----- | ---------- |
-| Data da criação |  |
-| Rastreabilidade |  |
-| Atores |  |
-| Ação |  |
-| Pré-condições |  |
-| Fluxo básico |  |
-| Fluxos alternativos |  |
-| Fluxo de exceção |  |
-| Pós-condições |  |
+<font size="3"><p style="text-align: center">Tabela 12: Busca de Funcionalidades e Informações </p></font>
+
+| **Elemento**                     | **Descrição** |
+|----------------------------------|----------------|
+| **Nome do Caso de Uso**          | Busca de Funcionalidades e Informações |
+| **Ator Principal**               | Usuário |
+| **Atores Secundários**           | Sistema do FGTS |
+| **Objetivo**                     | Permitir que o usuário localize rapidamente funcionalidades ou informações no aplicativo por meio de um campo de busca. |
+| **Pré-condições**                | - O usuário deve estar autenticado no aplicativo.<br>- O mecanismo de busca deve estar ativo e sincronizado com o conteúdo do sistema. |
+| **Fluxo Principal de Eventos**   | 1. O usuário acessa o aplicativo do FGTS.<br>2. Digita um termo no campo de busca.<br>3. O sistema processa a consulta e exibe resultados relevantes.<br>4. O usuário seleciona uma funcionalidade ou informação listada.<br>5. O sistema redireciona o usuário para a área ou funcionalidade escolhida. |
+| **Fluxos Alternativos**          | - O usuário limpa o campo de busca para iniciar nova consulta.<br>- O sistema sugere termos relacionados para ampliar a busca.<br> |
+| **Exceções**                    | - Termo pesquisado não retorna resultados: o sistema informa que não foram encontrados itens correspondentes.<br>- Falha na comunicação com o servidor de busca: o app exibe mensagem de erro e permite nova tentativa. |
+| **Pós-condições**                | - O usuário localizou e acessou a funcionalidade ou informação desejada via busca. |
 | Autor | [Marcelo Makoto](https://github.com/MM4k)|
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Marcelo Makoto](https://github.com/MM4k) </i></b></p></font>
@@ -316,4 +321,5 @@
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 16/05/2025 | Criação do documento | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Enzo Emir](https://github.com/EnzoEmir)|
-| `1.1` | 17/05/2025 | Adição do caso de uso 1 e 2 |  [Enzo Emir](https://github.com/EnzoEmir) |-|
+| `1.1` | 17/05/2025 | Adição do caso de uso 1 e 2 |  [Enzo Emir](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.2` | 17/05/2025 | Adição dos casos de uso 10 e 11 | [Marcelo Makoto](https://github.com/MM4k) | - |
