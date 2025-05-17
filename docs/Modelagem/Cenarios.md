@@ -144,16 +144,16 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <center>
 
-| Cenário 4 | Título do Cenário | 
-| :-:       | :-:            |
-| **Título** |  | 
-| **Objetivo** |  | 
-| **Contexto** |  | 
-| **Atores** |  | 
-| **Recursos** |  | 
-| **Episódios** |   | 
-| **Restrições** |  | 
-| **Exceção** |  | 
+| Cenário 4 | Cancelar Solicitação de Saque |  
+| :-:       | :-:            |  
+| **Código** | IS06 |  
+| **Objetivo** | Permitir que o usuário cancele uma solicitação de saque feita anteriormente no aplicativo FGTS. |  
+| **Contexto** | O usuário deseja cancelar um pedido de saque ativo por motivos pessoais ou por erro na solicitação. |  
+| **Atores** | Usuário, Sistema do FGTS |  
+| **Recursos** | Aplicativo FGTS, conexão à internet, API de gerenciamento de saques |  
+| **Episódios** | 1. O usuário acessa o aplicativo do FGTS.<br>2. Navega até a seção "Saque".<br>3. Seleciona o pedido de saque ativo.<br>4. Opta pela opção “Cancelar solicitação”.<br>5. O sistema solicita confirmação da ação.<br>6. O usuário confirma o cancelamento.<br>7. O sistema processa a solicitação e atualiza o status para cancelado.<br>8. O usuário recebe notificação da confirmação do cancelamento. |  
+| **Restrições** | O cancelamento só pode ser feito enquanto o saque não estiver processado ou concluído. |  
+| **Exceção** | Falha na comunicação com o servidor, tentativa de cancelamento após processamento, erro interno. |  
 | **Autor** | [Victor Pontual](https://github.com/VictorPontual) | 
 
 </center>
@@ -166,16 +166,17 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <center>
 
-| Cenário 5 | Título do Cenário | 
-| :-:       | :-:            |
-| **Título** |  | 
-| **Objetivo** |  | 
-| **Contexto** |  | 
-| **Atores** |  | 
-| **Recursos** |  | 
-| **Episódios** |   | 
-| **Restrições** |  | 
-| **Exceção** |  | 
+
+| Cenário 5 | Filtrar Saques por Tipo |  
+| :-:       | :-:            |  
+| **Código** | IS07 |  
+| **Objetivo** | Permitir que o usuário filtre a lista de solicitações de saque pelo tipo específico, como saque-aniversário, doença ou falecimento. |  
+| **Contexto** | O usuário deseja visualizar apenas os saques de um determinado tipo para facilitar a consulta e o gerenciamento de seus pedidos. |  
+| **Atores** | Usuário, Aplicativo FGTS |  
+| **Recursos** | Aplicativo FGTS, conexão à internet, base de dados de saques com classificação por tipo |  
+| **Episódios** | 1. O usuário acessa o aplicativo do FGTS.<br>2. Navega até a seção "Histórico de Saques".<br>3. Seleciona a opção de filtro.<br>4. Escolhe o tipo de saque desejado (ex: aniversário, doença, falecimento).<br>5. O sistema exibe apenas os saques correspondentes ao filtro selecionado.<br>6. O usuário visualiza a lista filtrada e pode acessar detalhes de cada saque. |  
+| **Restrições** | O filtro deve refletir apenas os tipos válidos e previamente cadastrados no sistema. |  
+| **Exceção** | Falha na aplicação do filtro, ausência de saques para o tipo selecionado, erro na consulta ao banco de dados. |  
 | **Autor** | [Victor Pontual](https://github.com/VictorPontual) | 
 
 </center>
@@ -266,7 +267,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: <i>(https://github.com/danielle-soaress)</i> </p></font>
+<font size="2"><p style="text-align: center">Fonte: <i>[Danielle Soares](https://github.com/danielle-soaress)</i> </p></font>
 
 ## Cenário 10
 
@@ -393,4 +394,5 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 | `1.4` | 17/05/2025 | Adição cenários 1 e 2 | [Enzo Emir ](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.5` | 17/05/2025 | Adição dos cenários 10 e 11 | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.6` | 17/05/2025 | Adição dos cenários 07 e 08 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
+| `1.7` | 17/05/2025 | Adição dos cenários 04 e 05 + correção de formatação | [Victor Pontual](https://github.com/VictorPontual) | - |
 
