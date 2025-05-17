@@ -19,8 +19,8 @@
   <tbody>
     <tr>
       <td> Danielle Soares </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 17/05/2025 </td>
+      <td> 00:01 </td>
     </tr>
     <tr>
       <td> Eduardo de Pina </td>
@@ -140,19 +140,22 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
 
-## L06: Trocar pelo termo
+## L06: Cadastrar
 
+<font size="3"><p style="text-align: center">Tabela X: Léxico 06 – Cadastrar (L06)</p></font>
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 06 – Trocar pelo termo (L06)</p></font>
+<center>
 
-| L06 | Descrição | 
-| :-:       | :-:            |
-| **Termo** |  | 
-| **Tipo** |  | 
-| **Impacto** |  | 
-| **Noção** |  | 
-| **Sinônimos** |  | 
-| **Autor** | [Danielle Soares](https://github.com/danielle-soaress) | 
+| L06       | Descrição                                                 |
+| :-:       | :-:                                                       |
+| **Termo** | Cadastrar                                                 |
+| **Tipo**  | Verbo                                                     |
+| **Impacto** | <p>Permite que informações sejam registradas no sistema.</p><p>O sistema pode utilizar as informações registradas em funcionalidades futuras.</p><p>O usuário pode acessar as informações registradas posteriormente.</p> |
+| **Noção** | <p>Ação do usuário de inserir dados ou informações no sistema para identificação, armazenamento e uso posterior.</p> |
+| **Sinônimos** | <p>Registrar, Inserir, Adicionar</p>                   |
+| **Autor** | [Danielle Soares](https://github.com/danielle-soaress)  |
+
+</center>
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
@@ -188,19 +191,23 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
-## L09: Trocar pelo termo
+## L09: Bloqueado
 
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 09 – Trocar pelo termo (L09)</p></font>
+<font size="3"><p style="text-align: center">Tabela X: Léxico 09 – Bloqueado (L09)</p></font>
 
-| L09 | Descrição | 
-| :-:       | :-:            |
-| **Termo** |  | 
-| **Tipo** |  | 
-| **Impacto** |  | 
-| **Noção** |  | 
-| **Sinônimos** |  | 
-| **Autor** | [Danielle Soares](https://github.com/danielle-soaress) | 
+<center>
+
+| L09       | Descrição                                                 |
+| :-:       | :-:                                                       |
+| **Termo** | Bloqueado                                                |
+| **Tipo**  | Estado                                                   |
+| **Impacto** | <p>A ação ou operação (ex: saque) não pode ser realizada até que o bloqueio seja removido.</p><p>Pode afetar a disponibilidade de recursos ao usuário.</p> |
+| **Noção** | <p>Situação em que um recurso ou função está temporariamente indisponível para uso devido a restrições, impedimentos legais, administrativos ou técnicos.</p> |
+| **Sinônimos** | <p>Restrito, Suspenso, Inativo</p>                     |
+| **Autor** | [Danielle Soares](https://github.com/danielle-soaress)  |
+
+</center>
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
@@ -291,4 +298,5 @@
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 16/05/2025 | Criação do documento | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.0` | 16/05/2025 | Criação do documento | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.1` | 17/05/2025 | Inserção dos léxicos 6 e 9 | [Danielle Soares](https://github.com/danielle-soaress)  | - |
