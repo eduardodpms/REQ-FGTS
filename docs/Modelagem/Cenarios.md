@@ -182,20 +182,26 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 ## Cenário 6
 
-<font size="3"><p style="text-align: center">Tabela 6: Cenário...</p></font>
+<font size="3"><p style="text-align: center">Tabela 6: Fornecer informações sobre saques bloqueados</p></font>
 
 <center>
 
 | Cenário 6 | Título do Cenário | 
 | :-:       | :-:            |
-| **Título** |  | 
-| **Objetivo** |  | 
-| **Contexto** |  | 
-| **Atores** |  | 
-| **Recursos** |  | 
-| **Episódios** |   | 
-| **Restrições** |  | 
-| **Exceção** |  | 
+| **Título** | Consulta de saques bloqueados | 
+| **Objetivo** | Permitir que o usuário visualize quais saques estão bloqueados e os motivos do bloqueio. | 
+| **Contexto**    | Local: Casa do Usuário<br>Tempo: Durante o dia<br>Pré-condições: Ter uma conta FGTS, ter o aplicativo FGTS instalado, estar com os dados da conta em mãos e ter acesso à internet. |
+| **Atores** | Usuário do App FGTS | 
+| **Recursos** | Dispositivo com o aplicativo instalado. <br> Conexão com internet<br>Base de dados com status dos saques e motivos de bloqueio. | 
+| **Episódios** |  
+1. O usuário abre o aplicativo.<br>
+2. Insere seus dados de acesso e realiza o login.<br>
+3. Acessa a seção "Saques" no menu principal.<br>
+4. Seleciona a opção "Saques Bloqueados".<br>
+5. O sistema exibe a lista de saques bloqueados com os respectivos detalhes, incluindo o motivo do bloqueio. | 
+| **Restrições** | O motivo do bloqueio só será exibido se estiver registrado no sistema; caso contrário, uma mensagem genérica será apresentada. <br>
+O usuário também precisa ter saques bloqueados. | 
+| **Exceção** | Se houver falha na conexão com o servidor ou indisponibilidade dos dados, o sistema exibirá uma mensagem de erro informando a impossibilidade de recuperar as informações no momento. | 
 | **Autor** | [Danielle Soares](https://github.com/danielle-soaress) | 
 
 </center>
@@ -248,21 +254,30 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 ## Cenário 9
 
-<font size="3"><p style="text-align: center">Tabela 9: Cenário...</p></font>
+<font size="3"><p style="text-align: center">Tabela 9: Cadastro de múltiplas contas bancárias</p></font>
 
 <center>
 
 | Cenário 9 | Título do Cenário | 
 | :-:       | :-:            |
-| **Título** |  | 
-| **Objetivo** |  | 
-| **Contexto** |  | 
-| **Atores** |  | 
-| **Recursos** |  | 
-| **Episódios** |   | 
-| **Restrições** |  | 
-| **Exceção** |  | 
-| **Autor** | [Danielle Soares](https://github.com/danielle-soaress) | 
+| **Título**     | Cadastro de mais de uma conta bancária  |
+| **Objetivo**   | Permitir que o usuário cadastre uma ou mais contas bancárias de diferentes instituições financeiras. |
+| **Contexto**   | Local: Casa do Usuário<br>Tempo: Durante o dia<br>Pré-condições: Ter o aplicativo FGTS instalado, estar logado em sua conta, ter os dados da(s) conta(s) bancária(s) em mãos e acesso à internet. |
+| **Atores**     | Usuário do App FGTS |
+| **Recursos**   | Aplicativo FGTS instalado<br>Conexão com a internet<br>Dados da(s) conta(s) bancárias(s) |
+| **Episódios**  | 
+1. O usuário acessa e realiza login no aplicativo.<br>
+2. Acessa a seção "Meus Dados" no menu principal.<br>
+3. Seleciona a opção "Conta Bancária".<br>
+4. Clica em "Cadastrar nova conta bancária".<br>
+5. O sistema solicita os dados da nova conta: banco, agência, número da conta, tipo de conta e titularidade.<br>
+6. O usuário preenche os dados e confirma o cadastro.<br>
+7. O sistema valida as informações e salva a nova conta associada ao usuário.<br>
+8. O usuário repete o processo para adicionar outra conta de uma instituição diferente.<br>
+9. O sistema exibe a lista completa de contas cadastradas. |
+| **Restrições** | O sistema não deve permitir contas duplicadas (mesmo banco, agência e número). <br>Deve haver validação de CPF/titularidade. |
+| **Exceção**    | Se os dados da conta forem inválidos ou incompletos, o sistema exibirá uma mensagem de erro orientando a correção. |
+| **Autor**      | [Danielle Soares](https://github.com/danielle-soaress) |
 
 </center>
 
