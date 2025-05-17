@@ -29,8 +29,8 @@
     </tr>
     <tr>
       <td> Enzo Emir </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 17/05/2025 </td>
+      <td> 01:21 </td>
     </tr>
     <tr>
       <td> Leticia Arisa </td>
@@ -60,37 +60,92 @@
 
 <p style="text-align: center; font-size: 16px;">Fonte: <i>Leticia Arisa</i></p>
 
-## L01: Trocar pelo termo
+## L01: Requisito EN02
+
+## [Consultar Status](#consultar-status)
+- **Tipo:** Verbo  
+- **Descrição:** Ação de verificar o andamento do processo de saque no aplicativo, incluindo a leitura do status atual e de um comentário explicativo.  
+- **Objetos Envolvidos:** [Status do Saque](#status-do-saque), [Comentário Explicativo](#comentário-explicativo)  
+- **Estado Resultante:** [Status Visualizado](#status-visualizado)
+
+---
+
+## [Status do Saque](#status-do-saque)
+- **Tipo:** Objeto  
+- **Descrição:** Informação que indica a etapa atual do processo de saque (ex: Em análise, Aprovado, Efetuado).  
+- **Estados Possíveis:** [Saque em Análise](#saque-em-análise), [Saque Aprovado](#saque-aprovado), [Saque Efetuado](#saque-efetuado), [Saque Pendente](#saque-pendente), [Saque Cancelado](#saque-cancelado)
+
+---
+
+## [Comentário Explicativo](#comentário-explicativo)
+- **Tipo:** Objeto  
+- **Descrição:** Texto complementar que esclarece o [Status do Saque](#status-do-saque) para o usuário com linguagem acessível.  
+- **Estados Possíveis:** Atualizado, Desatualizado
+
+---
+
+## [Saque em Análise](#saque-em-análise)
+- **Tipo:** Estado  
+- **Descrição:** Estado do sistema após a solicitação de saque, indicando que o pedido está sendo avaliado.
+
+---
+
+## [Saque Aprovado](#saque-aprovado)
+- **Tipo:** Estado  
+- **Descrição:** Estado que indica aprovação do pedido de saque.
+
+---
+
+## [Saque Efetuado](#saque-efetuado)
+- **Tipo:** Estado  
+- **Descrição:** Estado final do processo, indicando que o valor foi liberado.
+
+---
+
+## [Saque Pendente](#saque-pendente)
+- **Tipo:** Estado  
+- **Descrição:** Estado que indica que o saque aguarda alguma ação do usuário ou do sistema.
+
+---
+
+## [Saque Cancelado](#saque-cancelado)
+- **Tipo:** Estado  
+- **Descrição:** Estado que indica que o pedido de saque foi cancelado.
+
+---
+
+## [Status Visualizado](#status-visualizado)
+- **Tipo:** Estado  
+- **Descrição:** Estado alcançado após o usuário acessar a tela de acompanhamento do saque.
 
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 01 – Trocar pelo termo (L01)</p></font>
+## L02: Requisito EN03
 
-| L01 | Descrição | 
-| :-:       | :-:            |
-| **Termo** |  | 
-| **Tipo** |  | 
-| **Impacto** |  | 
-| **Noção** |  | 
-| **Sinônimos** |  | 
-| **Autor** | [Enzo Emir](https://github.com/EnzoEmir) | 
+## [Visualizar Data Prevista](#visualizar-data-prevista)
+- **Tipo:** Verbo  
+- **Descrição:** Ação de acessar a previsão de liberação dos valores solicitados para saque.  
+- **Objetos Envolvidos:** [Data Prevista](#data-prevista), [Notificação](#notificação)  
+- **Estado Resultante:** [Data Visualizada](#data-visualizada)
 
-<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+---
 
-## L02: Trocar pelo termo
+## [Data Prevista](#data-prevista)
+- **Tipo:** Objeto  
+- **Descrição:** Informação que apresenta ao usuário a data estimada para liberação dos valores.  
+- **Estados Possíveis:** Definida, Alterada, Expirada
 
+---
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 02 – Trocar pelo termo (L02)</p></font>
+## [Notificação](#notificação)
+- **Tipo:** Objeto  
+- **Descrição:** Mensagem enviada ao usuário para informar alterações no [Status do Saque](#status-do-saque) ou na [Data Prevista](#data-prevista).  
+- **Estados Possíveis:** Enviada, Lida, Pendente
 
-| L02 | Descrição | 
-| :-:       | :-:            |
-| **Termo** |  | 
-| **Tipo** |  | 
-| **Impacto** |  | 
-| **Noção** |  | 
-| **Sinônimos** |  | 
-| **Autor** | [Enzo Emir](https://github.com/EnzoEmir) | 
+---
 
-<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+## [Data Visualizada](#data-visualizada)
+- **Tipo:** Estado  
+- **Descrição:** Estado atingido após o usuário acessar a previsão de liberação dos valores.
 
 ## L03: Trocar pelo termo
 
@@ -300,3 +355,4 @@
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 16/05/2025 | Criação do documento | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.1` | 17/05/2025 | Inserção dos léxicos 6 e 9 | [Danielle Soares](https://github.com/danielle-soaress)  | - |
+| `1.2` | 17/05/2025 | Adicionando léxicos 1 e 2 | [Enzo Emir](https://github.com/EnzoEmir)  | - |
