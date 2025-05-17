@@ -124,35 +124,36 @@
 
 <font size="3"><p style="text-align: center">Tabela 5: Nome do caso de uso </p></font>
 
-| UC01 | Descrição |
-| ----- | ---------- |
-| Data da criação |  |
-| Rastreabilidade |  |
-| Atores |  |
-| Ação |  |
-| Pré-condições |  |
-| Fluxo básico |  |
-| Fluxos alternativos |  |
-| Fluxo de exceção |  |
-| Pós-condições |  |
-| Autor | [Victor Pontual](https://github.com/VictorPontual) |
+| **Elemento**                     | **Descrição** |
+|----------------------------------|----------------|
+| **Nome do Caso de Uso**          | Cancelar Solicitação de Saque |
+| **Ator Principal**               | Usuário |
+| **Atores Secundários**           | Sistema do FGTS |
+| **Objetivo**                     | Permitir que o usuário cancele uma solicitação de saque feita anteriormente no aplicativo FGTS.|
+| **Pré-condições**                | - O usuário deve estar autenticado no aplicativo.<br>- Deve existir um pedido de saque ativo que possa ser cancelado. |
+| **Fluxo Principal de Eventos**   | 1. O usuário acessa o aplicativo do FGTS.<br>2. Navega até a seção "Meus Saques".<br>3. Seleciona o saque que deseja cancelar.<br>4. Clica na opção “Cancelar solicitação”.<br>5. O sistema solicita confirmação do cancelamento.<br>6. O usuário confirma.<br>7. O sistema processa o cancelamento e atualiza o status do saque.<br>8. O sistema notifica o usuário sobre o sucesso da operação. |
+| **Fluxos Alternativos**          | - O usuário decide não confirmar o cancelamento.<br>- O sistema exibe mensagem caso o saque não possa ser cancelado. |
+| **Exceções**                    | - Tentativa de cancelar saque já processado: sistema bloqueia a ação.<br>- Falha de conexão ou erro interno: sistema exibe mensagem de erro. |
+| **Pós-condições**                | - O pedido de saque foi cancelado ou a operação foi abortada pelo usuário. |
+| **Autor**                       | [Victor Pontual](https://github.com/VictorPontual) |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Victor Pontual](https://github.com/VictorPontual) </i></b></p></font>
 
 <font size="3"><p style="text-align: center">Tabela 6: Nome do caso de uso </p></font>
 
-| UC01 | Descrição |
-| ----- | ---------- |
-| Data da criação |  |
-| Rastreabilidade |  |
-| Atores |  |
-| Ação |  |
-| Pré-condições |  |
-| Fluxo básico |  |
-| Fluxos alternativos |  |
-| Fluxo de exceção |  |
-| Pós-condições |  |
-| Autor | [Victor Pontual](https://github.com/VictorPontual) |
+| **Elemento**                     | **Descrição** |
+|----------------------------------|----------------|
+| **Nome do Caso de Uso**          | Filtrar Saques por Tipo |
+| **Ator Principal**               | Usuário |
+| **Atores Secundários**           | Sistema do FGTS |
+| **Objetivo**                     | Permitir que o usuário filtre a lista de solicitações de saque por tipo (ex: aniversário, doença, falecimento) para facilitar a consulta. |
+| **Pré-condições**                | - O usuário deve estar autenticado no aplicativo.<br>- O sistema deve possuir registros de saques com tipos definidos. |
+| **Fluxo Principal de Eventos**   |1. O usuário acessa o aplicativo do FGTS.<br>2. Navega até a seção "Histórico de Saques".<br>3. Clica na opção de filtro.<br>4. Seleciona o tipo de saque desejado.<br>5. O sistema exibe os saques filtrados conforme a seleção.<br>6. O usuário visualiza e pode acessar detalhes dos saques filtrados. |
+| **Fluxos Alternativos**          | - O usuário remove o filtro para visualizar todos os saques.<br>- O sistema informa caso não existam saques do tipo selecionado. |
+| **Exceções**                    | - Falha de conexão: o sistema exibe mensagem de erro.<br>- Erro na aplicação do filtro: o sistema solicita nova tentativa. |
+| **Pós-condições**                | - O usuário visualizou a lista de saques filtrada por tipo. |
+| **Autor**                       | [Victor Pontual](https://github.com/VictorPontual) |
+
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Victor Pontual](https://github.com/VictorPontual) </i></b></p></font>
 
@@ -323,4 +324,5 @@
 | `1.0` | 16/05/2025 | Criação do documento | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Enzo Emir](https://github.com/EnzoEmir)|
 | `1.1` | 17/05/2025 | Adição do caso de uso 1 e 2 |  [Enzo Emir](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.2` | 17/05/2025 | Adição dos casos de uso 10 e 11 | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| `1.3` | 17/05/2025 | Adição dos casos de uso 07 e 08 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
+| `1.3` | 17/05/2025 | Adição dos casos de uso 07 e 08 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Victor Pontual](https://github.com/VictorPontual) |
+| `1.4` | 17/05/2025 | Adição dos casos de uso 05 e 06 | [Victor Pontual](https://github.com/VictorPontual) | - |
