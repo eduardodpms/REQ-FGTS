@@ -39,8 +39,8 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
     </tr>
     <tr>
       <td> Enzo Emir </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 17/05/2025 </td>
+      <td> 00:48   </td>
     </tr>
     <tr>
       <td> Leticia Arisa </td>
