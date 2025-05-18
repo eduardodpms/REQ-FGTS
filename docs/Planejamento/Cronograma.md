@@ -28,7 +28,6 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 
 ### Entregue 📬
 
-A tabela a seguir mostra o que foi *executado* no cronograma das atividades da Entrega 1.
 
 <p style="text-align: center; font-size: 16px;">Tabela 2: <i>Planejamento do Projeto</i></p>
 
@@ -72,8 +71,8 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 
 ### **Entregue 📬**
 
-<p style="text-align: center; font-size: 16px;">Tabela 4: <i>Elicitação – Técnicas e Priorização</i></p>
 
+<p style="text-align: center; font-size: 16px;">Tabela 4: <i>Elicitação – Técnicas e Priorização</i></p>
 
 | **Atividade** | **Período de Desenvolvimento** | **Responsáveis** | **Período de Revisão** | **Revisores** |
 |:-:|:-:|:-:|:-:|:-:|
@@ -118,8 +117,6 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 
 ### Entregue 📬
 
-
-A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 3.
 
 <p style="text-align: center; font-size: 16px;">Tabela 5: <i>Modelagem de Requisitos 1</i></p>
 
