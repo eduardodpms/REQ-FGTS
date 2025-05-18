@@ -105,6 +105,8 @@
 | **Autor**                       | [Enzo Emir](https://github.com/EnzoEmir) |
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Enzo Emir](https://github.com/EnzoEmir) </i></b></p></font>
 
+## Caso de Uso 3 (ENXX)
+
 <font size="3"><p style="text-align: center">Tabela 4: Nome do caso de uso </p></font>
 
 | UC01 | Descrição |
@@ -122,7 +124,9 @@
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Maria Eduarda](https://github.com/dudaa28) </i></b></p></font>
 
-<font size="3"><p style="text-align: center">Tabela 5: Nome do caso de uso </p></font>
+## Caso de Uso 4 (IS06)
+
+<font size="3"><p style="text-align: center">Tabela 5: Cancelar Solicitação de Saque </p></font>
 
 | **Elemento**                     | **Descrição** |
 |----------------------------------|----------------|
@@ -139,7 +143,9 @@
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Victor Pontual](https://github.com/VictorPontual) </i></b></p></font>
 
-<font size="3"><p style="text-align: center">Tabela 6: Nome do caso de uso </p></font>
+## Caso de Uso 5 (IS07)
+
+<font size="3"><p style="text-align: center">Tabela 6: Filtrar Saques por Tipo </p></font>
 
 | **Elemento**                     | **Descrição** |
 |----------------------------------|----------------|
@@ -156,6 +162,8 @@
 
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Victor Pontual](https://github.com/VictorPontual) </i></b></p></font>
+
+## Caso de Uso 6 (IS08)
 
 <font size="3"><p style="text-align: center">Tabela 7: Consultar Saques Bloqueados </p></font>
 
@@ -176,6 +184,8 @@
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Danielle Soares](https://github.com/danielle-soaress)</i></b></p></font>
 
+## Caso de Uso 7 (IS09)
+
 <font size="3"><p style="text-align: center">Tabela 8: Exibir informações detalhadas sobre o histórico de movimentações financeiras </p></font>
 
 | UC07 | Descrição |
@@ -193,6 +203,8 @@
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </i></b></p></font>
 
+## Caso de Uso 8 (IS10)
+
 <font size="3"><p style="text-align: center">Tabela 9: Filtrar extrato por data </p></font>
 
 | UC08 | Descrição |
@@ -209,6 +221,8 @@
 | Autor | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</i></b></p></font>
+
+## Caso de Uso 9 (IS12)
 
 <font size="3"><p style="text-align: center">Tabela 10: Cadastrar Múltiplas Contas Bancárias </p></font>
 
@@ -265,6 +279,8 @@
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Marcelo Makoto](https://github.com/MM4k) </i></b></p></font>
 
+## Caso de Uso 12 (ISXX)
+
 <font size="3"><p style="text-align: center">Tabela 13: Nome do caso de uso </p></font>
 
 | UC01 | Descrição |
@@ -282,6 +298,8 @@
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Eduardo de Pina](https://github.com/eduardodpms) </i></b></p></font>
 
+## Caso de Uso 13 (ISXX)
+
 <font size="3"><p style="text-align: center">Tabela 14: Nome do caso de uso </p></font>
 
 | UC01 | Descrição |
@@ -298,6 +316,8 @@
 | Autor | [Eduardo de Pina](https://github.com/eduardodpms)|
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Eduardo de Pina](https://github.com/eduardodpms) </i></b></p></font>
+
+## Caso de Uso 14 (ISXX)
 
 <font size="3"><p style="text-align: center">Tabela 15: Nome do caso de uso </p></font>
 
@@ -328,4 +348,5 @@
 | `1.2` | 17/05/2025 | Adição dos casos de uso 10 e 11 | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.3` | 17/05/2025 | Adição dos casos de uso 07 e 08 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Victor Pontual](https://github.com/VictorPontual) |
 | `1.4` | 17/05/2025 | Adição dos casos de uso 05 e 06 | [Victor Pontual](https://github.com/VictorPontual) | - |
-| `1.5` | 17/05/2025 | Adição dos casos de uso 09 e 12 | [Danielle](https://github.com/danielle-soaress) | - |
+| `1.5` | 17/05/2025 | Adição dos casos de uso 09 e 12 | [Danielle](https://github.com/danielle-soaress) | [Victor Pontual](https://github.com/VictorPontual) |
+| `1.6` | 18/05/2025 | Correção de erros e padronização dos tópicos | [Victor Pontual](https://github.com/VictorPontual) | - |
