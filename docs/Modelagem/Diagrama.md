@@ -366,7 +366,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 ## Caso de Uso 12 (IS16)
 
-<font size="3"><p style="text-align: center">Tabela 13: Nome do caso de uso </p></font>
+<font size="3"><p style="text-align: center">Tabela 13: Página de Ajuda </p></font>
 
 | **Elemento** | **Descrição** |
 |-|-|
@@ -387,11 +387,11 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 ## Caso de Uso 13 (ST07)
 
-<font size="3"><p style="text-align: center">Tabela 14: Nome do caso de uso </p></font>
+<font size="3"><p style="text-align: center">Tabela 14: Guia Interativo </p></font>
 
 | **Elemento** | **Descrição** |
 |-|-|
-| **Nome do Caso de Uso** | Guia interativo |
+| **Nome do Caso de Uso** | Guia Interativo |
 | **Ator Principal** | Usuário |
 | **Atores Secundários** | - |
 | **Objetivo** | Auxiliar, interativamente, o usuário durante a realização de ações básicas no app. |
