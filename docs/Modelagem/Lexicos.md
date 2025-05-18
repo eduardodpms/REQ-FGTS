@@ -409,10 +409,10 @@ O léxico L13 utiliza o requisito funcional EN03 (O sistema deve permitir que o 
 
 ## L14: Oferecer Canal de Suporte
 
-O decimp quarto léxico apresentado a seguir (Tabelas L14 e L15) foi construído a partir do requisito funcional não implementado que propõe que o aplicativo ofereça um canal de suporte ou chatbot para esclarecer dúvidas dos usuários ([EN04](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais)). Os termos selecionados refletem ações e objetos associados à comunicação entre usuário e sistema, além de aspectos da assistência virtual.
+Os léxicos apresentados a seguir (Tabelas L14 e L15) foram construidos a partir do requisito funcional não implementado que propõe que o aplicativo ofereça um canal de suporte ou chatbot para esclarecer dúvidas dos usuários ([EN04](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais)). Os termos selecionados refletem ações e objetos associados à comunicação entre usuário e sistema, além de aspectos da assistência virtual.
 
 
-<font size="3"><p style="text-align: center">Tabela 14: Léxico 14 – Canal de Suporte (L14)</p></font>
+<font size="3"><p style="text-align: center">Tabela 14: Léxico 14 – Oferecer Canal de Suporte (L14)</p></font>
 
 | L14 | Descrição | 
 | :-:       | :-:            |
@@ -424,6 +424,8 @@ O decimp quarto léxico apresentado a seguir (Tabelas L14 e L15) foi construído
 | **Autor** | [Maria Eduarda](https://github.com/dudaa28) | 
 
 ## L15: Canal de Suporte
+
+<font size="3"><p style="text-align: center">Tabela 15: Léxico 15 – Canal de Suporte (L15)</p></font>
 
 | L15 | Descrição | 
 | :-:       | :-:            |
@@ -442,6 +444,8 @@ Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional 
 
 ## L16: Ajustar Tamanho da Fonte
 
+<font size="3"><p style="text-align: center">Tabela 16: Léxico 16 – Ajustar Tamanho da Fonte (L16)</p></font>
+
 | L16 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Ajustar tamanho da fonte |
@@ -455,6 +459,8 @@ Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional 
 
 ## L17: Tamanho da Fonte
 
+<font size="3"><p style="text-align: center">Tabela 17: Léxico 17 – Tamanho da Fonte (L17)</p></font>
+
 | L17 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Tamanho da fonte |
@@ -467,6 +473,8 @@ Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional 
 
 ## L18: Acessibilidade
 
+<font size="3"><p style="text-align: center">Tabela 18: Léxico 18 – Acessibilidade (L18)</p></font>
+
 | L18 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Acessibilidade |
@@ -478,6 +486,8 @@ Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional 
 
 
 ## L19: Interface do Aplicativo
+
+<font size="3"><p style="text-align: center">Tabela 19: Léxico 19 – Interface do Aplicativo (L19)</p></font>
 
 | L19 | Descrição | 
 | :-:       | :-:            |
@@ -945,3 +955,4 @@ O léxico XX utiliza o requisito funcional não implementado IS14 (O aplicativo 
 | `1.7` | 17/05/2025 | Adição de mais léxicos para os requisitos IS06 e IS07 | [Victor Pontual](https://github.com/VictorPontual)  | - |
 | `1.8` | 18/05/2025 | Reformulando documento | [Enzo Emir](https://github.com/EnzoEmir)  | [Maria Eduarda](https://github.com/dudaa28) |
 | `1.9` | 18/05/2025 | Adição de léxicos 14 a 19 | [Maria Eduarda](https://github.com/dudaa28)  | - |
+| `2.0` | 18/05/2025 | Atualização do Documento | [Maria Eduarda](https://github.com/dudaa28)  | - |
