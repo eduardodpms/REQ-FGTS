@@ -51,7 +51,7 @@ Abaixo, segue a tabela com os membros participantes do processo de construção 
     </tr>
     <tr>
       <td> Leticia Arisa </td>
-      <td> 17/05 </td>
+      <td> 17/05/2025 </td>
       <td> 14:45 </td>
     </tr>
     <tr>
@@ -371,6 +371,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **Elemento** | **Descrição** |
 |-|-|
 | **Nome do Caso de Uso** | Página de Ajuda |
+| **Rastreabilidade** | [IS16](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) |
 | **Ator Principal** | Usuário |
 | **Atores Secundários** | - |
 | **Objetivo** | Proporcionar uma seção explicativa ao usuário, que solucione dúvidas relacionadas ao uso do aplicativo. |
@@ -392,6 +393,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **Elemento** | **Descrição** |
 |-|-|
 | **Nome do Caso de Uso** | Guia Interativo |
+| **Rastreabilidade** | [ST07](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais) |
 | **Ator Principal** | Usuário |
 | **Atores Secundários** | - |
 | **Objetivo** | Auxiliar, interativamente, o usuário durante a realização de ações básicas no app. |
@@ -447,6 +449,26 @@ No contexto do app FGTS, uma pós-condição para o caso de uso **Visualizar Dat
 
 ## Fluxos
 
+| Caso de Uso                 | Fluxo Básico                                                                                     | Fluxos Alternativos                         | Fluxos de Exceção                                                                                               |
+| --------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| [EN02](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) | Usuário acessa o app → vai à seção Saque → seleciona pedido → vê status e comentário atualizados | Seleciona outro pedido → vê status anterior | Falha conexão → mostra erro e tenta de novo<br>Sem saques → informa ausência<br>Comentário ausente → link ajuda |                                                                                            |
+| [EN03](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) | Usuário acessa app → vai a Meus Saques → seleciona saque → vê data prevista e histórico | Consulta histórico de datas → vê etapas → recebe notificações | Data expirou → aviso e orientação<br>Sem previsão → informa ausência<br>Sem conexão → erro e tentar novamente |
+| [EN04](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) | Usuário abre app → vai à seção Suporte → interage com chatbot → recebe resposta → continua ou encerra conversa | Usuário envia dúvida para atendimento humano → sistema registra e informa prazo | Chatbot indisponível → mostra erro e sugere canais alternativos<br>Falha conexão → informa erro e pede nova tentativa |
+| [IS06](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) | Usuário acessa app → vai a Meus Saques → seleciona saque → clica em cancelar → confirma → sistema cancela e notifica | Usuário não confirma cancelamento → operação abortada | Saque já processado → bloqueia ação<br>Falha conexão/erro → mostra erro |
+| [IS07](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) | Usuário acessa app → vai a Histórico de Saques → seleciona filtro → escolhe tipo → sistema exibe lista filtrada | Usuário remove filtro → vê todos os saques<br>Sistema informa ausência de saques do tipo | Falha conexão → mostra erro<br>Erro no filtro → tenta novamente |
+|    [IS08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/)     | Usuário acessa app → faz login → vai a Saques → seleciona Saques Bloqueados → vê lista com motivos | Motivo bloqueio ausente → mensagem genérica<br>Sem saques bloqueados → informa ausência<br>Usuário pede mais info → link ajuda | Falha conexão login → erro e orientação para tentar novamente |
+|    [IS09](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/)     | Usuário faz login → acessa movimentações → vê lista → seleciona movimentação → vê detalhes  | Usuário usa filtro → vê movimentações do período            | Sem movimentações → sistema avisa                            |
+| [IS10](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/)        | Usuário faz login → acessa movimentações → seleciona filtro por mês/ano → vê movimentações    | Usuário faz login → acessa movimentações → vê lista completa | Data inválida ou sem movimentações → sistema exibe mensagem de erro          |
+| [IS12](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/)        | Usuário loga no app → vai em “Meus Dados” → seleciona “Conta Bancária” → clica em “Cadastrar nova conta” → preenche dados → confirma → sistema valida → conta associada ao perfil | Usuário tenta cadastrar conta já existente → sistema mostra mensagem de conta duplicada e impede cadastro | Dados inválidos/incompletos → sistema exibe erro e destaca campos<br>Falha de conexão → mensagem e orientação para tentar novamente |
+| [IS13](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) | Usuário acessa o app FGTS → seleciona "Ajuda" ou "Suporte" → sistema exibe interface de chat → usuário digita dúvida → assistente responde → usuário continua conversa ou encerra | Usuário acessa chat por outro ponto do app (ex: status de saque) → assistente direciona para funcionalidades específicas | Falha de conexão com servidor → exibe erro e oferece tentar novamente<br>Módulo de chat indisponível → oferece contato por outros canais<br>Dúvida não compreendida → oferece opções adicionais ou redireciona para atendimento humano |
+| [IS14](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) | Usuário acessa o app FGTS → digita termo no campo de busca → sistema processa e exibe resultados → usuário seleciona funcionalidade/informação → sistema redireciona para a área escolhida | Usuário limpa campo de busca para nova consulta → sistema sugere termos relacionados | Termo pesquisado não retorna resultados → sistema informa ausência<br>Falha na comunicação com servidor → exibe erro e permite nova tentativa |
+| [IS16](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais)            | Usuário acessa app FGTS → na autenticação ou página inicial seleciona "Ajuda" → sistema direciona à página de ajuda → usuário seleciona dúvida listada ou pesquisa → sistema abre explicação detalhada | Usuário aborta operação e retorna à página inicial | Falha de conexão → app exibe aviso e mostra informações de ajuda offline                                      |
+| [ST07](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#antonio-ribeiro-persona-secundaria)       | Usuário acessa app FGTS → clica no botão "?" em qualquer ação → sistema inicia guia interativo com balão e seta → usuário segue passo a passo para usar funções do app | Usuário aborta guia clicando em "X" → usuário volta etapa anterior clicando em seta | Falha de conexão → app exibe erro e impede acesso à opção para o guia interativo                                         |
+| [ST08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais) | Usuário acessa configurações do app → seleciona "Ajuste de Fonte" → escolhe tamanho desejado (pequeno, médio, grande) → sistema aplica novo tamanho → sistema confirma atualização com feedback | Usuário testa diferentes tamanhos antes de confirmar → usuário opta por restaurar tamanho padrão | Tamanho inválido/incompatível → sistema exibe erro e mantém tamanho anterior<br>Erro ao salvar preferências → sistema alerta e solicita nova tentativa |
+
+<font size="2"><p style="text-align: center"><b>Fonte: <i> [Maria Eduarda](https://github.com/dudaa28) </i></b></p></font>
+
+
 
 
 ## Bibliografia
@@ -478,4 +500,6 @@ No contexto do app FGTS, uma pós-condição para o caso de uso **Visualizar Dat
 | `1.9` | 18/05/2025 | Inserção dos Diagramas | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |
 | `2.0` | 18/05/2025 | Atualização de detalhes na página | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |
 | `2.1` | 18/05/2025 | Atualização de detalhes na página e adição de referências | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `2.2` | 18/05/2025 | Adição de casos de uso faltantes | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `2.2` | 18/05/2025 | Adição de casos de uso faltantes | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
+| `2.3` | 18/05/2025 | Adição Fluxos | [Maria Eduarda](https://github.com/dudaa28) | - |
+| `2.4` | 18/05/2025 | Atualização Página | [Maria Eduarda](https://github.com/dudaa28) | - |
