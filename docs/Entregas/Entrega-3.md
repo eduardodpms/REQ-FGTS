@@ -35,7 +35,7 @@ A Entrega 3 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 | Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 | ***07:*** Os cenários possuem títulos, metas/objetivo, contexto, atores, recursos, exceção e episódios? <a id="REF1" href="#anchor_1">1.</a>| [Danielle](https://github.com/danielle-soaress) |  |  |
-| ***08:*** Há a identificação clara do ambiente ou contexto da situação que motiva os objetivos e ações do cenário? <a id="REF2" href="#anchor_2">2.</a> | [Danielle](https://github.com/danielle-soaress) |  |  |![][image3] |  |  |
+| ***08:*** Há a identificação clara do ambiente ou contexto da situação que motiva os objetivos e ações do cenário? <a id="REF2" href="#anchor_2">2.</a> | [Enzo](https://github.com/EnzoEmir) |  |  |![][image3] |  |  |
 | ***9:*** Os cenários descrevem claramente o comportamento e as experiências dos atores envolvidos? <a id="REF2" href="#anchor_2">2.</a> | [Leticia](https://github.com/Leticia-Arisa-K-Higa) |  |  | ![][image2]  |  |  |
 | ***10:*** Cada cenário possui um objetivo principal claramente definido? <a id="REF2" href="#anchor_2">2.</a>| [Leticia](https://github.com/Leticia-Arisa-K-Higa)  |  |  | ![][image2]  |  |  |
 | ***11:*** Os cenários incluem pelo menos um ator principal? <a id="REF2" href="#anchor_2">2.</a>| [Leticia](https://github.com/Leticia-Arisa-K-Higa)  |  |  | ![][image2]  |  |  |
@@ -46,10 +46,10 @@ A Entrega 3 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 
 | Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-| ***13:*** Os léxicos possuem ligações entre si por meio de hiperlinks? <a id="REF1" href="#anchor_1">1.</a> | [Danielle](https://github.com/danielle-soaress)  |  |  |![][image4]  |  |  |
-| ***14:*** Os léxicos estão classificados adequadamente como verbo, objeto ou estado? <a id="REF1" href="#anchor_1">1.</a> | [Eduardo](https://github.com/eduardodpms) |  |  | ![][image5] |  |  |
-| ***15:*** Os léxicos descrevem o impacto do símbolo na aplicação, ou o impacto da aplicação sobre o termo? <a id="REF3" href="#anchor_3">3.</a> | [Eduardo](https://github.com/eduardodpms) |  |  | ![][image6] |  |  |
-| ***16:*** Cada léxico apresenta claramente a noção do termo? | [Eduardo](https://github.com/eduardodpms) <a id="REF3" href="#anchor_3">3.</a> |  |  | ![][image7] |  |  |
+| ***13:*** Os léxicos possuem ligações entre si por meio de hiperlinks? <a id="REF1" href="#anchor_1">1.</a> | [Victor](https://github.com/VictorPontual)  |  |  |![][image4]  |  |  |
+| ***14:*** Os léxicos estão classificados adequadamente como verbo, objeto ou estado? <a id="REF1" href="#anchor_1">1.</a> | [Marcelo](https://github.com/MM4k) |  |  | ![][image5] |  |  |
+| ***15:*** Os léxicos descrevem o impacto do símbolo na aplicação, ou o impacto da aplicação sobre o termo? <a id="REF3" href="#anchor_3">3.</a> | [Maria](https://github.com/dudaa28) |  |  | ![][image6] |  |  |
+| ***16:*** Cada léxico apresenta claramente a noção do termo? | [Leticia](https://github.com/Leticia-Arisa-K-Higa) <a id="REF3" href="#anchor_3"></a> |  |  | ![][image7] |  |  |
 
 
 
