@@ -89,6 +89,7 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 <font size="3"><p style="text-align: center">Tabela 3: Requisitos Funcionais</p></font>
 
 <a name="OB_RF"></a>
+
 | Código | Requisito Funcional                                                                             | ID   | Implementado |
 | ------ | ----------------------------------------------------------------------------------------------- | ---- | :----------: |
 | RF05   | O aplicativo deve permitir login seguro                                                           | OB01 |      Sim     |
@@ -108,6 +109,7 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 <font size="3"><p style="text-align: center">Tabela 4: Requisitos Não Funcionais</p></font>
 
 <a name="OB_RNF"></a>
+
 | Código | Requisito Não-Funcional                                                                               | ID   | Implementado |
 | ------ | ----------------------------------------------------------------------------------------------------- | ---- | :----------: |
 | RNF06  | O sistema deve garantir segurança firme com verificação de dados pelo usuário                         | OB10 |      Sim     |
@@ -137,5 +139,6 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 
 | Versão | Data       | Descrição                                      | Autor(es) | Revisor(es)    |
 | ------ | ---------- | ---------------------------------------------- | --------- | -------------- |
-| 1.0    | 04/05/2025 | Documento de elicitação com base em observação | [Victor Pontual](https://github.com/VictorPontual) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
-| 1.1  | 17/05 | Adição de âncoras e correção dos IDs de rastreabilidade | [Danielle Soares](https://github.com/danielle-soaress) |  |
+| `1.0`   | 04/05/2025 | Documento de elicitação com base em observação | [Victor Pontual](https://github.com/VictorPontual) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
+| `1.1`  | 17/05 | Adição de âncoras e correção dos IDs de rastreabilidade | [Danielle Soares](https://github.com/danielle-soaress) |  |
+| `1.2`  | 17/05 | Corrigindo bug nas tabelas | [Danielle Soares](https://github.com/danielle-soaress) |  |

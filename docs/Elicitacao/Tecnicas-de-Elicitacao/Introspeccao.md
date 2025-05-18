@@ -120,6 +120,7 @@ A seguir, as Tabelas 3 e 4 descrevem os requisitos elicitados, incluindo tanto o
 <font size="3"><p style="text-align: center">Tabela 3: Requisitos Funcionais</p></font>
 
 <a name="IS_RF"></a>
+
 | Código | Requisito Funcional | ID | Implementado |
 | :-: | - | :-: | :-: |
 | RF01  | O aplicativo deve permitir a atualização dos dados pessoais do usuário | IS01 | Sim |
@@ -148,6 +149,7 @@ A seguir, as Tabelas 3 e 4 descrevem os requisitos elicitados, incluindo tanto o
 <font size="3"><p style="text-align: center">Tabela 4: Requisitos Não Funcionais</p></font>
 
 <a name="IS_RNF"></a>
+
 | Código  | Requisito Funcional                                                                 | ID    | Implementado |
 |:-------:|--------------------------------------------------------------------------------------|:-----:|:------------:|
 | RNF01   | O aplicativo deve fornecer as mesmas funcionalidades para diferentes plataformas e versões | IS18 | Não          |
@@ -185,8 +187,9 @@ A seguir, as Tabelas 3 e 4 descrevem os requisitos elicitados, incluindo tanto o
 
 | Versão | Data       | Descrição                                           | Autor(es)      | Revisor(es) |
 |:------:|:----------:|:----------------------------------------------------|:---------------|:-----------:|
-|  1.0   | 03/05/2025 | Requisitos Funcionais e Criação da página           | [Danielle](https://github.com/danielle-soaress)      | [Enzo Emir](https://github.com/EnzoEmir)           |
-|  1.1   | 03/05/2025 | Requisitos Não-Funcionais e Atualização da página   | [Maria](https://github.com/dudaa28)  | [Enzo Emir](https://github.com/EnzoEmir)           |
-|  1.2   | 04/05/2025 | Correção das datas   | [Danielle](https://github.com/danielle-soaress)  | [Victor Pontual](https://github.com/VictorPontual)         |
-|  1.3   | 16/05/2025 | Alterações no estilo da página   | [Danielle](https://github.com/danielle-soaress)  |         |
-| 1.4  | 17/05 | Adição de âncoras | [Danielle Soares](https://github.com/danielle-soaress) |  |
+|  `1.0`  | 03/05/2025 | Requisitos Funcionais e Criação da página           | [Danielle](https://github.com/danielle-soaress)      | [Enzo Emir](https://github.com/EnzoEmir)           |
+|  `1.1`   | 03/05/2025 | Requisitos Não-Funcionais e Atualização da página   | [Maria](https://github.com/dudaa28)  | [Enzo Emir](https://github.com/EnzoEmir)           |
+|  `1.2`   | 04/05/2025 | Correção das datas   | [Danielle](https://github.com/danielle-soaress)  | [Victor Pontual](https://github.com/VictorPontual)         |
+|  `1.3`   | 16/05/2025 | Alterações no estilo da página   | [Danielle](https://github.com/danielle-soaress)  |         |
+| `1.4`  | 17/05 | Adição de âncoras | [Danielle Soares](https://github.com/danielle-soaress) |  |
+| `1.5`  | 17/05 | Corrigindo bug nas tabelas | [Danielle Soares](https://github.com/danielle-soaress) |  |
