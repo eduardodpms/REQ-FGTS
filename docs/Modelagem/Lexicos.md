@@ -405,23 +405,89 @@ O léxico L13 utiliza o requisito funcional EN03 (O sistema deve permitir que o 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
 
-## L03: Trocar pelo termo
+## Requisito EN04
+
+## L14: Oferecer Canal de Suporte
+
+O decimp quarto léxico apresentado a seguir (Tabelas L14 e L15) foi construído a partir do requisito funcional não implementado que propõe que o aplicativo ofereça um canal de suporte ou chatbot para esclarecer dúvidas dos usuários ([EN04](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais)). Os termos selecionados refletem ações e objetos associados à comunicação entre usuário e sistema, além de aspectos da assistência virtual.
 
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 03 – Trocar pelo termo (L03)</p></font>
+<font size="3"><p style="text-align: center">Tabela 14: Léxico 14 – Canal de Suporte (L14)</p></font>
 
-| L03 | Descrição | 
+| L14 | Descrição | 
 | :-:       | :-:            |
-| **Termo** |  | 
-| **Tipo** |  | 
-| **Impacto** |  | 
-| **Noção** |  | 
-| **Sinônimos** |  | 
+| **Termo** | Oferecer canal de suporte |
+| **Tipo** | Verbo |
+| **Impacto** | A ação de oferecer o canal permite que o usuário tire dúvidas, melhorando a experiência de uso do aplicativo e promovendo maior autonomia na resolução de problemas. Pode desencadear interações com o chatbot ou direcionar ao atendimento humano. |
+| **Noção** | Ocorre quando o sistema disponibiliza um canal automatizado (chatbot) ou humano para atendimento. Esta oferta é feita na interface do app, geralmente acessível pelo menu principal ou pela área de ajuda. |
+| **Sinônimos** | Disponibilizar suporte, fornecer assistência |
 | **Autor** | [Maria Eduarda](https://github.com/dudaa28) | 
+
+## L15: Canal de Suporte
+
+| L15 | Descrição | 
+| :-:       | :-:            |
+| **Termo** | Canal de Suporte |
+| **Tipo** | Objeto |
+| **Impacto** | Pode ser acessado por diferentes usuários com dúvidas. Permite interações com o sistema por meio de perguntas e respostas automáticas via chatbot ou encaminhamento a atendentes humanos. |
+| **Noção** | Trata-se de uma funcionalidade do aplicativo FGTS destinada a esclarecer dúvidas dos usuários, podendo ser composta por um chatbot (atendimento automático) e, eventualmente, por um canal humano de atendimento. |
+| **Sinônimos** | Chatbot, atendimento, ajuda, suporte |
+| **Autor** | [Maria Eduarda](https://github.com/dudaa28) |
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
 
----
+## Requisito ST08
+
+Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional não implementado que prevê a possibilidade de ajustar o tamanho das fontes na interface do aplicativo ([ST08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais)). Os termos foram escolhidos para representar tanto ações quanto objetos e estados associados à personalização da interface e à acessibilidade, considerando a melhoria da experiência para usuários com diferentes perfis.
+
+## L16: Ajustar Tamanho da Fonte
+
+| L16 | Descrição | 
+| :-:       | :-:            |
+| **Termo** | Ajustar tamanho da fonte |
+| **Tipo** | Verbo |
+| **Impacto** | O ajuste do tamanho da fonte modifica a forma como os textos são exibidos na interface do aplicativo, tornando-os mais acessíveis para diferentes perfis de usuários. Pode afetar a disposição dos elementos visuais na tela. |
+| **Noção** | Acontece quando o usuário altera a configuração de exibição do texto no aplicativo, selecionando um tamanho de fonte maior ou menor de acordo com sua preferência ou necessidade de acessibilidade. |
+| **Sinônimos** | Modificar fonte, alterar tamanho de texto |
+| **Autor** | [Maria Eduarda](https://github.com/dudaa28) |
+
+
+
+## L17: Tamanho da Fonte
+
+| L17 | Descrição | 
+| :-:       | :-:            |
+| **Termo** | Tamanho da fonte |
+| **Tipo** | Objeto |
+| **Impacto** | Influencia diretamente na legibilidade dos textos exibidos na interface. A alteração do tamanho pode melhorar a acessibilidade e usabilidade do aplicativo para usuários com deficiência visual. |
+| **Noção** | Parâmetro configurável que define o tamanho em que os textos são exibidos no aplicativo. Está relacionado à acessibilidade e à experiência do usuário. |
+| **Sinônimos** | Tamanho do texto, escala da fonte, dimensão da letra |
+| **Autor** | [Maria Eduarda](https://github.com/dudaa28) |
+
+
+## L18: Acessibilidade
+
+| L18 | Descrição | 
+| :-:       | :-:            |
+| **Termo** | Acessibilidade |
+| **Tipo** | Estado |
+| **Impacto** | O ajuste de elementos visuais como o tamanho da fonte contribui para um estado mais acessível da interface, facilitando a navegação de pessoas com dificuldades visuais. |
+| **Noção** | Condição em que o aplicativo oferece meios para que todos os usuários, independentemente de limitações físicas, possam utilizá-lo de forma efetiva. |
+| **Sinônimos** | Inclusão digital, usabilidade ampliada |
+| **Autor** | [Maria Eduarda](https://github.com/dudaa28) |
+
+
+## L19: Interface do Aplicativo
+
+| L19 | Descrição | 
+| :-:       | :-:            |
+| **Termo** | Interface do aplicativo |
+| **Tipo** | Objeto |
+| **Impacto** | A interface sofre mudanças visuais quando o tamanho da fonte é ajustado, podendo influenciar no layout, na navegação e na interação com o sistema. |
+| **Noção** | Conjunto visual e interativo por onde o usuário acessa funcionalidades do aplicativo, incluindo botões, menus, textos e ícones. |
+| **Sinônimos** | Tela do app, aparência visual, front-end |
+| **Autor** | [Maria Eduarda](https://github.com/dudaa28) |
+
 
 ## Requisito IS06
 
