@@ -1,21 +1,12 @@
-# Entrega 3
+# Inspeção do Grupo (Entrega 3)
 
 
 ## Introdução
 
-A Entrega 3 tem como objetivo modelar os requisitos elicitados anteriormente. Para isso, foram desenvolvidos os [cenários](../../Modelagem/Cenarios), o [diagrama de casos de uso](../../Modelagem/Diagrama), os [léxicos](../../Modelagem/Lexicos) e a [especificação suplementar](../../Modelagem/EspecificacaoSuplementar).  Com isso, a equipe concluiu a entrega e avançou para a etapa de [Inspeção do Grupo +1](../../Inspecao/grupo-mais-um/Entrega-3).
+Aqui está definida a inspeção da entrega 3 do nosso grupo, cujo projeto aborda, o app *FGTS*. A análise contemplou os principais tópicos definidos para a entrega 3, como a qualidade do processo de modelagem e documentação de requisitos, criação dos cenários, léxicos, diagrama de casos de uso, especialização dos casos de uso e especificação suplementar. O modelo de lista de verificação utilizado está definido em [Entrega 3](../../../Entregas/Entrega-3), e foi construído com a participação de todos os membros do grupo 07.
 
 
-## Apresentação
-
----
-
-
-
----
-
-
-## Modelo para Lista de Verificação/Inspeção da Entrega 3
+## Lista de Inspeção do Grupo 
 
 
 ### ✅ Itens Gerais
@@ -75,24 +66,6 @@ A Entrega 3 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 | ***25:*** A especificação suplementar define requisitos de tempo de resposta na seção de desempenho? <a id="REF1" href="#anchor_1">1.</a>| [Maria](https://github.com/dudaa28) |  |  | ![][image11]  |  |  |
 | ***26:*** A especificação suplementar define os ambientes ou plataformas de execução do aplicativo? <a id="REF1" href="#anchor_1">1.</a>| [Maria](https://github.com/dudaa28) |  |  |
 | ***27:*** Na especificação suplementar todos os requisitos não funcionais são testáveis/verificáveis? <a id="REF1" href="#anchor_1">1.</a>| [Maria](https://github.com/dudaa28) |  |  |
-
-
-
-
-
-<br>
-
-## Bibliografia
-
-> <a id="REF1" href="#anchor_1">1.</a> SALES, André Barros de. Sugestão inicial de Lista de Verificação para algumas entregas do projeto. Requisitos de Software. Brasília: Universidade de Brasília, 2025. Disponível em: https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifificação%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf. Acesso em: 18 maio 2025.
-
-> <a id="REF2" href="#anchor_2">2.</a> BARBOSA, S. et al. Interação Humano-Computador e Experiência do Usuário. p. 172.
-
-> <a id="REF3" href="#anchor_3">3.</a> SERRANO, M. et al. Requisitos - Aula 10. p. 12-20.
-
-> <a id="REF4" href="#anchor_4">4.</a> Videoaula da Lucidchart - Diagrama de caso de uso UML. Disponível em: --- Acesso em: 18 maio 2025.
-
-
 
 
 <br>
