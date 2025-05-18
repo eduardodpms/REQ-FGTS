@@ -41,8 +41,8 @@ Abaixo, segue a tabela com os membros participantes do processo de construção 
     </tr>
     <tr>
       <td> Eduardo de Pina </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 18/05/2025 </td>
+      <td> 10:57 </td>
     </tr>
     <tr>
       <td> Enzo Emir </td>
@@ -364,41 +364,43 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Marcelo Makoto](https://github.com/MM4k) </i></b></p></font>
 
-## Caso de Uso 12 (ISXX)
+## Caso de Uso 12 (IS16)
 
 <font size="3"><p style="text-align: center">Tabela 13: Nome do caso de uso </p></font>
 
-| UC01 | Descrição |
-| ----- | ---------- |
-| Data da criação |  |
-| Rastreabilidade |  |
-| Atores |  |
-| Ação |  |
-| Pré-condições |  |
-| Fluxo básico |  |
-| Fluxos alternativos |  |
-| Fluxo de exceção |  |
-| Pós-condições |  |
-| Autor | [Eduardo de Pina](https://github.com/eduardodpms)|
+| **Elemento** | **Descrição** |
+|-|-|
+| **Nome do Caso de Uso** | Página de Ajuda |
+| **Ator Principal** | Usuário |
+| **Atores Secundários** | - |
+| **Objetivo** | Proporcionar uma seção explicativa ao usuário, que solucione dúvidas relacionadas ao uso do aplicativo. |
+| **Pré-condições** | - |
+| **Fluxo Principal de Eventos** | 1. O usuário acessa o aplicativo do FGTS.<br>2. Na página de autenticação e na página inicial, o usuário seleciona o botão "Ajuda".<br>3. O sistema é direcionado à página de ajuda, com uma lista de dúvidas frequentes e uma caixa de pesquisa.<br>4. O usuário seleciona uma dúvida listada ou pesquisa na caixa de busca.<br>5. O sistema abre uma nova página com uma explicação detalhada sobre aquele tópico. |
+| **Fluxos Alternativos** | - O usuário aborta a operação e retorna à página inicial. |
+| **Exceções** | - Falha de conexão com o servidor: o app exibe um aviso, mas mostra as informações de ajuda offline. |
+| **Pós-condições** | - O usuário sanou a sua dúvida sobre o aplicativo e está pronto para utilizá-lo normalmente. |
+| **Autor** | [Eduardo de Pina](https://github.com/eduardodpms) |
+
+
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Eduardo de Pina](https://github.com/eduardodpms) </i></b></p></font>
 
-## Caso de Uso 13 (ISXX)
+## Caso de Uso 13 (ST07)
 
 <font size="3"><p style="text-align: center">Tabela 14: Nome do caso de uso </p></font>
 
-| UC01 | Descrição |
-| ----- | ---------- |
-| Data da criação |  |
-| Rastreabilidade |  |
-| Atores |  |
-| Ação |  |
-| Pré-condições |  |
-| Fluxo básico |  |
-| Fluxos alternativos |  |
-| Fluxo de exceção |  |
-| Pós-condições |  |
-| Autor | [Eduardo de Pina](https://github.com/eduardodpms)|
+| **Elemento** | **Descrição** |
+|-|-|
+| **Nome do Caso de Uso** | Guia interativo |
+| **Ator Principal** | Usuário |
+| **Atores Secundários** | - |
+| **Objetivo** | Auxiliar, interativamente, o usuário durante a realização de ações básicas no app. |
+| **Pré-condições** | - |
+| **Fluxo Principal de Eventos** | 1. O usuário acessa o aplicativo do FGTS.<br>2. Em cada botão de ação do aplicativo, o usuário será capaz de clicar em um botão "?".<br>3. O sistema iniciará um guia interativo com um balão de texto e uma seta, indicando o que o usuário pode/deve fazer.<br>4. Ao seguir o passo a passo indicado, o usuário poderá ser guiado para todas as funções do aplicativo. |
+| **Fluxos Alternativos** | - O usuário aborta o guia interativo clicando em um "X".<br>- O usuário volta para a etapa anterior, clicando em uma seta. |
+| **Exceções** | - Falha de conexão com o servidor: o app exibe uma mensagem de erro, pois a falha impede que o usuário se quer acesse a opção para a qual ele pode requerer o guia interativo. |
+| **Pós-condições** | - O usuário realiza a ação que planejava inicialmente.<br>- O usuário é capaz de repetir essa ação sem a necessidade de um guia. |
+| **Autor** | [Eduardo de Pina](https://github.com/eduardodpms) |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Eduardo de Pina](https://github.com/eduardodpms) </i></b></p></font>
 
@@ -475,4 +477,5 @@ No contexto do app FGTS, uma pós-condição para o caso de uso **Visualizar Dat
 | `1.8` | 18/05/2025 | Atualização de detalhes na página | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |
 | `1.9` | 18/05/2025 | Inserção dos Diagramas | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |
 | `2.0` | 18/05/2025 | Atualização de detalhes na página | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |
-| `2.1` | 18/05/2025 | Atualização de detalhes na página e adição de referências | [Maria Eduarda](https://github.com/dudaa28) | - |
+| `2.1` | 18/05/2025 | Atualização de detalhes na página e adição de referências | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `2.2` | 18/05/2025 | Adição de casos de uso faltantes | [Eduardo de Pina](https://github.com/eduardodpms) | - |

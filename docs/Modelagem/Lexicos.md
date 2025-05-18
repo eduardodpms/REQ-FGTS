@@ -66,8 +66,8 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
     </tr>
     <tr>
       <td> Eduardo de Pina </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 18/05/2025 </td>
+      <td> 17:35 </td>
     </tr>
     <tr>
       <td> Enzo Emir </td>
@@ -905,53 +905,72 @@ O léxico XX utiliza o requisito funcional não implementado IS14 (O aplicativo 
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k))</p></font>
 
-## L12: Trocar pelo termo
+## Requisito IS16
 
+## L42: Acessar Ajuda
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 12 – Trocar pelo termo (L12)</p></font>
+<font size="3"><p style="text-align: center">Tabela X: Léxico 42 – Acessar Ajuda</p></font>
 
-| L12 | Descrição | 
-| :-:       | :-:            |
-| **Termo** |  | 
-| **Tipo** |  | 
-| **Impacto** |  | 
-| **Noção** |  | 
-| **Sinônimos** |  | 
+| L42 | Descrição | 
+| :-: | :-: |
+| **Termo** | Acessar Ajuda | 
+| **Tipo** | Verbo | 
+| **Impacto** | - Muda o sistema para uma nova página (offline) | 
+| **Noção** | Ação de entrar na página que lista as possíveis dúvidas do usuário. | 
+| **Sinônimos** | Entrar na página de ajuda | 
 | **Autor** | [Eduardo de Pina](https://github.com/eduardodpms) | 
 
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
-## L13: Trocar pelo termo
+## L43 - Procurar Dúvida
 
+<font size="3"><p style="text-align: center">Tabela X: Léxico 43 – Procurar Dúvida</p></font>
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 13 – Trocar pelo termo (L13)</p></font>
-
-| L10 | Descrição | 
-| :-:       | :-:            |
-| **Termo** |  | 
-| **Tipo** |  | 
-| **Impacto** |  | 
-| **Noção** |  | 
-| **Sinônimos** |  | 
+| L43 | Descrição | 
+| :-: | :-: |
+| **Termo** | Procurar Dúvida | 
+| **Tipo** | Verbo | 
+| **Impacto** | - Fornece ao usuário uma noção sobre onde ele pode se informar a respeito do app.<br>- Leva para a página de explicações, na qual o usuário terá acesso a todo o conhecimento que deseja. | 
+| **Noção** | Ação de procurar, na lista de dúvidas ou na caixa de busca, a dúvida que se deseja sanar. | 
+| **Sinônimos** | Localizar o questionamento, procurar a explicação. | 
 | **Autor** | [Eduardo de Pina](https://github.com/eduardodpms) | 
 
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
-## L14: Trocar pelo termo
+## Requisito ST07
+
+## L44: Requerer Guia
+
+<font size="3"><p style="text-align: center">Tabela X: Léxico 44 – Requerer Guia</p></font>
+
+| L44 | Descrição | 
+| :-: | :-: |
+| **Termo** | Requerer Guia | 
+| **Tipo** | Verbo | 
+| **Impacto** | - O sistema inicia um pipeline de orientação ao usuário<br>- A interface se torna mais explicativa e direta.<br>- O usuário compreende que ativou um modo de auxílio para ele. | 
+| **Noção** | Ação de solicitar um auxílio do próprio aplicativo na realização de uma ação. | 
+| **Sinônimos** | Solicitar ajuda, pedir orientação. | 
+| **Autor** | [Eduardo de Pina](https://github.com/eduardodpms) | 
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
+
+## L45: Seguir Guia
+
+<font size="3"><p style="text-align: center">Tabela X: Léxico 45 – Seguir Guia</p></font>
+
+| L45 | Descrição | 
+| :-: | :-: |
+| **Termo** | Seguir Guia | 
+| **Tipo** | Verbo | 
+| **Impacto** | - Permite que o usuário acesse, como acessaria sem o guia, todas as funcionalidades.<br>- O usuário aprende como realizar aquela ação sem a ajuda do guia. | 
+| **Noção** | Processo de acompanhar a guia fornecida, seguindo os passos e as explicações. | 
+| **Sinônimos** | Acompanhar a explicação, trilhar os passos. | 
+| **Autor** | [Eduardo de Pina](https://github.com/eduardodpms) | 
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 14 – Trocar pelo termo (L14)</p></font>
 
-| L14 | Descrição | 
-| :-:       | :-:            |
-| **Termo** |  | 
-| **Tipo** |  | 
-| **Impacto** |  | 
-| **Noção** |  | 
-| **Sinônimos** |  | 
-| **Autor** | [Maria Eduarda](https://github.com/dudaa28) | 
-
-<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
 
 ## Bibliografia
 
@@ -970,5 +989,6 @@ O léxico XX utiliza o requisito funcional não implementado IS14 (O aplicativo 
 | `1.6` | 17/05/2025 | Adição de mais léxicos para os requisitos IS13 e IS14 | [Marcelo Makoto](https://github.com/MM4k)  | [Victor Pontual](https://github.com/VictorPontual) |
 | `1.7` | 17/05/2025 | Adição de mais léxicos para os requisitos IS06 e IS07 | [Victor Pontual](https://github.com/VictorPontual)  | - |
 | `1.8` | 18/05/2025 | Reformulando documento | [Enzo Emir](https://github.com/EnzoEmir)  | [Maria Eduarda](https://github.com/dudaa28) |
-| `1.9` | 18/05/2025 | Adição de léxicos 14 a 19 | [Maria Eduarda](https://github.com/dudaa28)  | - |
-| `2.0` | 18/05/2025 | Atualização do Documento | [Maria Eduarda](https://github.com/dudaa28)  | - |
+| `1.9` | 18/05/2025 | Adição de léxicos 14 a 19 | [Maria Eduarda](https://github.com/dudaa28)  | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `2.0` | 18/05/2025 | Atualização do Documento | [Maria Eduarda](https://github.com/dudaa28)  | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `2.0` | 18/05/2025 | Adição de léxicos referentes aos requisitos faltantes | [Eduardo de Pina](https://github.com/eduardodpms)  | - |

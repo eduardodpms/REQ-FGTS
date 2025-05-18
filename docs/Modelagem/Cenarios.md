@@ -34,8 +34,8 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
     </tr>
     <tr>
       <td> Eduardo de Pina </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 18/05/2025 </td>
+      <td> 12:03 </td>
     </tr>
     <tr>
       <td> Enzo Emir </td>
@@ -319,22 +319,22 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Marcelo Makoto](https://github.com/MM4k)</i> </p></font>
 
-## Cenário 12: Seção de ajuda com orientações sobre o uso do aplicativo
+## Cenário 12: Seção de ajuda com explicações relacionadas ao app
 
 <font size="3"><p style="text-align: center">Tabela 12: Cenário de Seção de ajuda com orientações sobre o uso do aplicativo</p></font>
 
 <center>
 
-| Cenário 12 | Título do Cenário | 
+| Cenário 12 | Utilização da página de dúvidas | 
 | :-:       | :-:            |
-| **ID** |  | 
-| **Objetivo** |  | 
-| **Contexto** |  | 
-| **Atores** |  | 
-| **Recursos** |  | 
-| **Episódios** |   | 
-| **Restrições** |  | 
-| **Exceção** |  | 
+| **ID** | [IS16](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) | 
+| **Objetivo** | Fornecer explicações ao usuário sobre dúvidas relacionadas à utilização do app. | 
+| **Contexto** | O usuário possui alguma dúvida sobre as funcionalidades do app e deseja esclarecimentos. | 
+| **Atores** | Usuário | 
+| **Recursos** | App FGTS | 
+| **Episódios** | 1. O usuário acessa o aplicativo do FGTS.<br>2. O usuário seleciona o botão "Ajuda".<br>3. O sistema exibe uma lista de dúvidas frequentes relacionadas ao app.<br>4. O usuário encontra a sua dúvida e a seleciona.<br>5. O sistema exibe uma explicação a respeito daquela dúvida. | 
+| **Restrições** | O sistema deve possuir uma caixa de busca para uma pesquisa mais extensa no banco de dúvidas. | 
+| **Exceção** | Na ausência de conexão com o servidor, o app será capaz de mostrar somente as dúvidas mais frequentes. | 
 | **Autor** | [Eduardo de Pina](https://github.com/eduardodpms) | 
 
 </center>
@@ -347,16 +347,16 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <center>
 
-| Cenário 13 | Título do Cenário | 
+| Cenário 13 | Utilização do guia interativo | 
 | :-:       | :-:            |
-| **ID** |  | 
-| **Objetivo** |  | 
-| **Contexto** |  | 
-| **Atores** |  | 
-| **Recursos** |  | 
-| **Episódios** |   | 
-| **Restrições** |  | 
-| **Exceção** |  | 
+| **ID** | [ST07](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais) | 
+| **Objetivo** | Guiar interativamente o usuário pelos botões, até que ele conclua seu objetivo. | 
+| **Contexto** | O usuário é novato na utilização do app e deseja utilizar alguma função específica ou básica do aplicativo. | 
+| **Atores** | Usuário | 
+| **Recursos** | App FGTS | 
+| **Episódios** | 1. O usuário acessa o aplicativo do FGTS.<br>2. O usuário seleciona o botão "?", na ação que deseja ser orientado.<br>3. O aplicativo inicia um guia interativo para orientar o usuário.<br>4. O usuário é levado até a ação que desejava, inicialmente, realizar. | 
+| **Restrições** | O usuário deve ser capaz de abortar o guia interativo e de voltar etapas. | 
+| **Exceção** | Na ausência de conexão com o servidor, o usuário ficará incapacitado de acessar certas funções, portanto, também ficará incapacitado de acessar seus respectivos guias interativos. | 
 | **Autor** | [Eduardo de Pina](https://github.com/eduardodpms) | 
 
 </center>
@@ -408,5 +408,6 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 | `1.7` | 17/05/2025 | Adição dos cenários 04 e 05 + correção de formatação | [Victor Pontual](https://github.com/VictorPontual) | [Maria Eduarda](https://github.com/dudaa28) |
 | `1.8` | 17/05/2025 | Adição dos cenários 03 e 14 | [Maria Eduarda](https://github.com/dudaa28) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.9` | 17/05/2025 | Atualização do Documento | [Maria Eduarda](https://github.com/dudaa28) | [Danielle Soares](https://github.com/danielle-soaress) |
-| `2.0` | 17/05/2025 | Atualizações para melhoria do Documento | [Maria Eduarda](https://github.com/dudaa28) |  |
-| `2.1` | 17/05/2025 | Correção do atributo "título" para "id" | [Danielle Soares](https://github.com/danielle-soaress) | - |
+| `2.0` | 17/05/2025 | Atualizações para melhoria do Documento | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `2.1` | 17/05/2025 | Correção do atributo "título" para "id" | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `2.2` | 18/05/2025 | Adição de cenários para os casos de uso faltantes | [Eduardo de Pina](https://github.com/eduardodpms) | - |
