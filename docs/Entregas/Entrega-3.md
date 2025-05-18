@@ -90,7 +90,7 @@ A Entrega 3 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 
 > <a id="REF3" href="#anchor_3">3.</a> SERRANO, M. et al. Requisitos - Aula 10. p. 12-20.
 
-> <a id="REF4" href="#anchor_4">4.</a> Videoaula da Lucidchart - Diagrama de caso de uso UML. Disponível em: --- Acesso em: 18 maio 2025.
+> <a id="REF4" href="#anchor_4">4.</a> Videoaula da Lucidchart - Diagrama de caso de uso UML. Disponível em: https://youtu.be/ab6eDdwS3rA?si=kvIS2E8Gh2IKmWFB Acesso em: 18 maio 2025.
 
 
 
