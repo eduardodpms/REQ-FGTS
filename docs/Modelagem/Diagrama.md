@@ -20,8 +20,8 @@
   <tbody>
     <tr>
       <td> Danielle Soares </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 17/05/2025 </td>
+      <td> 22:50 </td>
     </tr>
     <tr>
       <td> Eduardo de Pina </td>
@@ -156,20 +156,22 @@
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Victor Pontual](https://github.com/VictorPontual) </i></b></p></font>
 
-<font size="3"><p style="text-align: center">Tabela 7: Nome do caso de uso </p></font>
+<font size="3"><p style="text-align: center">Tabela 7: Consultar Saques Bloqueados </p></font>
 
-| UC01 | Descrição |
-| ----- | ---------- |
-| Data da criação |  |
-| Rastreabilidade |  |
-| Atores |  |
-| Ação |  |
-| Pré-condições |  |
-| Fluxo básico |  |
-| Fluxos alternativos |  |
-| Fluxo de exceção |  |
-| Pós-condições |  |
-| Autor | [Danielle Soares](https://github.com/danielle-soaress) |
+
+| **RF11** | **Descrição** |
+|---------|----------------|
+| **Data da criação** | 17/05/2025 |
+| **Rastreabilidade** | IS08 |
+| **Atores** | Usuário (Ator Primário), Sistema do FGTS (Ator Secundário) |
+| **Ação** | O usuário visualiza seus saques bloqueados e os respectivos motivos. |
+| **Pré-condições** | <p>O usuário deve estar autenticado no aplicativo FGTS.</p><p>Deve existir pelo menos um saque bloqueado registrado no sistema.</p> |
+| **Fluxo básico** | 1. O usuário acessa o aplicativo FGTS.<br>2. Realiza login com seus dados.<br>3. Navega até a seção “Saques”.<br>4. Seleciona a opção “Saques Bloqueados”.<br>5. O sistema exibe a lista de saques bloqueados com os respectivos motivos. |
+| **Fluxos alternativos** | 1. O sistema apresenta mensagem genérica caso o motivo do bloqueio não esteja registrado.<br>2. Não há saques bloqueados: o sistema informa a ausência de registros.<br>3. O usuário solicita mais informações e o sistema oferece um link para ajuda externa. |
+| **Fluxo de exceção** | 1. O usuário acessa o aplicativo FGTS<br>2. Realiza login com seus dados.<br>2.1. Conexão com o servidor falhou: o sistema exibe uma mensagem de erro e orienta o usuário a tentar novamente.|
+| **Pós-condições** | O usuário visualizou a lista de saques bloqueados (ou a ausência dela) com as devidas explicações. |
+| **Autor** | [Danielle Soares](https://github.com/danielle-soaress) |
+
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Danielle Soares](https://github.com/danielle-soaress)</i></b></p></font>
 
@@ -207,20 +209,20 @@
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</i></b></p></font>
 
-<font size="3"><p style="text-align: center">Tabela 10: Nome do caso de uso </p></font>
+<font size="3"><p style="text-align: center">Tabela 10: Cadastrar Múltiplas Contas Bancárias </p></font>
 
-| UC01 | Descrição |
-| ----- | ---------- |
-| Data da criação |  |
-| Rastreabilidade |  |
-| Atores |  |
-| Ação |  |
-| Pré-condições |  |
-| Fluxo básico |  |
-| Fluxos alternativos |  |
-| Fluxo de exceção |  |
-| Pós-condições |  |
-| Autor | [Danielle Soares](https://github.com/danielle-soaress)|
+| **RF35** | **Descrição** |
+|---------|----------------|
+| **Data da criação** | 17/05/2025 |
+| **Rastreabilidade** | IS12 |
+| **Atores** | Sistema do FGTS |
+| **Ação** | <p>O usuário pode cadastrar uma ou mais contas bancárias de diferentes instituições financeiras.</p> |
+| **Pré-condições** | <p>O usuário deve estar autenticado no aplicativo FGTS.</p><p>O usuário deve possuir os dados completos da conta bancária a ser cadastrada.</p> |
+| **Fluxo básico** | <p>1. O usuário acessa e loga no aplicativo FGTS.</p><p>2. Navega até a seção “Meus Dados” e seleciona a opção “Conta Bancária”.</p><p>5. Clica em “Cadastrar nova conta bancária”.</p>6. O sistema solicita os dados bancários necessários.</p><p>7. O usuário preenche os campos obrigatórios e confirma o envio.</p><p>8. O sistema valida os dados informados.</p><p>9. A conta é associada ao perfil do usuário.</p>|
+| **Fluxos alternativos** | <p>1. O usuário acessa e realiza login no aplicativo FGTS.</p><p>2. Navega até “Meus Dados” e seleciona “Conta Bancária”.</p><p>3. Clica em “Cadastrar nova conta bancária”.</p><p>4. O usuário informa os dados da nova conta e confirma o envio.</p><p>5. O sistema identifica que a conta já está cadastrada.</p><p>6. O sistema exibe uma mensagem informando que a conta já existe e impede duplicação.</p> |
+| **Fluxo de exceção** | <p>1. O usuário acessa o aplicativo FGTS e realiza login.</p><p>2. Preenche os dados da conta bancária.</p><p>3. O sistema identifica dados inválidos ou incompletos e exibe mensagem de erro destacando os campos com problema.</p><p>4. Caso ocorra falha de conexão com o servidor, o sistema exibe mensagem informativa e orienta o usuário a tentar novamente mais tarde.</p> |
+| **Pós-condições** | <p>O usuário cadastrou com sucesso uma ou mais contas bancárias, ou recebeu uma mensagem com o motivo da falha.</p> |
+| **Autor** | [Danielle Soares](https://github.com/danielle-soaress) |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Danielle Soares](https://github.com/danielle-soaress) </i></b></p></font>
 
