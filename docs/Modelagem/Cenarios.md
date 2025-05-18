@@ -70,9 +70,9 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <p style="text-align: center; font-size: 16px;">Fonte: <i>Leticia Arisa</i></p>
 
-## Cenário 1
+## Cenário 1 : Visualizar Status Comentado do Saque
 
-<font size="3"><p style="text-align: center">Tabela 1: Cenário...</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Cenário de vizualização Status Comentado do Saque</p></font>
 
 <center>
 
@@ -93,9 +93,9 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Enzo Emir](https://github.com/EnzoEmir)</i> </p></font>
 
-## Cenário 2
+## Cenário 2: Visualizar Data Prevista para Liberação de Valores
 
-<font size="3"><p style="text-align: center">Tabela 2: Cenário...</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Cenário de vizualização Data Prevista para Liberação de Valores</p></font>
 
 <center>
 
@@ -117,7 +117,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 <font size="2"><p style="text-align: center">Fonte: <i>[Enzo Emir](https://github.com/EnzoEmir)</i> </p></font>
 
 
-## Cenário 3
+## Cenário 3: Atendimento de Dúvidas via Chatbot
 
 <font size="3"><p style="text-align: center">Tabela 3: Cenário de Atendimento de Dúvidas via Chatbot</p></font>
 
@@ -140,9 +140,9 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 <font size="2"><p style="text-align: center">Fonte: <i>[Maria Eduarda](https://github.com/dudaa28)</i> </p></font>
 
 
-## Cenário 4
+## Cenário 4: Cancelar Solicitação de Saque
 
-<font size="3"><p style="text-align: center">Tabela 4: Cenário...</p></font>
+<font size="3"><p style="text-align: center">Tabela 4: Cenário de cancelamento de solicitação de saque</p></font>
 
 <center>
 
@@ -162,9 +162,9 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Victor Pontual](https://github.com/VictorPontual)</i> </p></font>
 
-## Cenário 5
+## Cenário 5: Filtrar Saques por Tipo
 
-<font size="3"><p style="text-align: center">Tabela 5: Cenário...</p></font>
+<font size="3"><p style="text-align: center">Tabela 5: Cenário de filtragem de saques por tipo</p></font>
 
 <center>
 
@@ -185,9 +185,9 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Victor Pontual](https://github.com/VictorPontual)</i> </p></font>
 
-## Cenário 6
+## Cenário 6: Fornecer informações sobre saques bloqueados
 
-<font size="3"><p style="text-align: center">Tabela 6: Fornecer informações sobre saques bloqueados</p></font>
+<font size="3"><p style="text-align: center">Tabela 6: Cenário de fornecimento de informações sobre saques bloqueados</p></font>
 
 <center>
 
@@ -206,9 +206,9 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Danielle Soares](https://github.com/danielle-soaress)</i> </p></font>
 
-## Cenário 7
+## Cenário 7: Visualizar histórico de movimentação financeira
 
-<font size="3"><p style="text-align: center">Tabela 7: Cenário de visualizar histórico de movimentação financeira</p></font>
+<font size="3"><p style="text-align: center">Tabela 7: Cenário de visuaização histórico de movimentação financeira</p></font>
 
 <center>
 
@@ -228,9 +228,9 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</i> </p></font>
 
-## Cenário 8
+## Cenário 8: Filtrar extrato por data
 
-<font size="3"><p style="text-align: center">Tabela 8: Cenário de filtrar extrato por data</p></font>
+<font size="3"><p style="text-align: center">Tabela 8: Cenário de filtragem de extrato por data</p></font>
 
 <center>
 
@@ -250,9 +250,9 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</i> </p></font>
 
-## Cenário 9
+## Cenário 9: Cadastro de múltiplas contas bancárias
 
-<font size="3"><p style="text-align: center">Tabela 9: Cadastro de múltiplas contas bancárias</p></font>
+<font size="3"><p style="text-align: center">Tabela 9: Cenário do Cadastro de múltiplas contas bancárias</p></font>
 
 <center>
 
@@ -271,9 +271,9 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Danielle Soares](https://github.com/danielle-soaress)</i> </p></font>
 
-## Cenário 10
+## Cenário 10: Contato com Assistente via Chat
 
-<font size="3"><p style="text-align: center">Tabela 10: Contato com Assistente via Chat</p></font>
+<font size="3"><p style="text-align: center">Tabela 10: Cenário de Contato com Assistente via Chat</p></font>
 
 <center>
 
@@ -293,9 +293,9 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Marcelo Makoto](https://github.com/MM4k)</i> </p></font>
 
-## Cenário 11
+## Cenário 11: Busca de Funcionalidades e Informações
 
-<font size="3"><p style="text-align: center">Tabela 11: Busca de Funcionalidades e Informações</p></font>
+<font size="3"><p style="text-align: center">Tabela 11: Cenário de Busca de Funcionalidades e Informações</p></font>
 
 <center>
 
@@ -315,9 +315,9 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Marcelo Makoto](https://github.com/MM4k)</i> </p></font>
 
-## Cenário 12
+## Cenário 12: Seção de ajuda com orientações sobre o uso do aplicativo
 
-<font size="3"><p style="text-align: center">Tabela 12: Cenário...</p></font>
+<font size="3"><p style="text-align: center">Tabela 12: Cenário de Seção de ajuda com orientações sobre o uso do aplicativo</p></font>
 
 <center>
 
@@ -337,9 +337,9 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Eduardo de Pina](https://github.com/eduardodpms)</i> </p></font>
 
-## Cenário 13
+## Cenário 13: Guia interativo para orientação sobre o uso do aplicativo
 
-<font size="3"><p style="text-align: center">Tabela 13: Cenário...</p></font>
+<font size="3"><p style="text-align: center">Tabela 13: Cenário de Guia interativo para orientação sobre o uso do aplicativo</p></font>
 
 <center>
 
@@ -359,7 +359,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Eduardo de Pina](https://github.com/eduardodpms)</i> </p></font>
 
-## Cenário 14
+## Cenário 14: Ajuste do Tamanho das Fontes na Interface
 
 <font size="3"><p style="text-align: center">Tabela 14: Cenário Ajuste do Tamanho das Fontes na Interface</p></font>
 
@@ -403,4 +403,4 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 | `1.6` | 17/05/2025 | Adição dos cenários 07 e 08 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Victor Pontual](https://github.com/VictorPontual) |
 | `1.7` | 17/05/2025 | Adição dos cenários 04 e 05 + correção de formatação | [Victor Pontual](https://github.com/VictorPontual) | [Maria Eduarda](https://github.com/dudaa28) |
 | `1.8` | 17/05/2025 | Adição dos cenários 03 e 14 | [Maria Eduarda](https://github.com/dudaa28) | - |
-
+| `1.9` | 17/05/2025 | Atualização do Documento | [Maria Eduarda](https://github.com/dudaa28) | - |
