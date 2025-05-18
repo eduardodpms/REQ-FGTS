@@ -78,7 +78,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 | Cenário 1 | Visualizar Status Comentado do Saque |  
 | :-:       | :-:            |  
-| **Título** | [EN02](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) |  
+| **ID** | [EN02](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) |  
 | **Objetivo** | Permitir que o usuário acompanhe o andamento do processo de saque com status detalhado e comentários explicativos. |  
 | **Contexto** | O usuário deseja entender em que etapa está seu pedido de saque do FGTS e o motivo da situação atual. |  
 | **Atores** | Usuário, Sistema do FGTS |  
@@ -101,7 +101,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 | Cenário 2 | Visualizar Data Prevista para Liberação de Valores |  
 | :-:       | :-:            |  
-| **Título** | [EN03](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) |
+| **ID** | [EN03](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) |
 | **Objetivo** | Garantir que o usuário visualize uma data realista e seja avisado em caso de alterações na previsão de liberação do valor. |  
 | **Contexto** | O usuário realizou um saque e deseja saber quando o valor será liberado para planejamento financeiro. |  
 | **Atores** | Usuário, Sistema do FGTS, Servidor de Notificações |  
@@ -125,7 +125,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 | Cenário 3 | Atendimento de Dúvidas via Chatbot | 
 | :-:       | :-:            |
-| **Título** | [EN04](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) | 
+| **ID** | [EN04](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) | 
 | **Objetivo** | Permitir que o usuário esclareça dúvidas frequentes por meio de um canal automatizado de atendimento dentro do aplicativo | 
 | **Contexto** | Local: Residência do usuário<br>Tempo: Durante o uso do aplicativo<br>Pré-condições: Estar logado, possuir conexão com a internet e ter o aplicativo instalado | 
 | **Atores** | Usuário do aplicativo FGTS, sistema de chatbot | 
@@ -193,7 +193,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 | **Cenário 6** | **Consulta de saques bloqueados** | 
 | :-:           | :-:                              |
-| **Título**    | [IS08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) |
+| **ID**    | [IS08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) |
 | **Objetivo**  | Permitir que o usuário visualize quais saques estão bloqueados e os motivos do bloqueio. |
 | **Contexto**  | Local: Casa do Usuário <br> Tempo: Durante o dia <br> Pré-condições: Ter uma conta FGTS, aplicativo FGTS instalado, estar logado e com acesso à internet. |
 | **Atores**    | Usuário do App FGTS |
@@ -216,7 +216,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 | Cenário 7 | Visualizar histórico de movimentação financeira | 
 | :-:       | :-:            |
-| **Título** | [IS09](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) | 
+| **ID** | [IS09](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) | 
 | **Objetivo** | Permitir que o usuário consulte informações detalhadas de suas movimentações financeiras passadas | 
 | **Contexto** | Local: Página "Movimentações" (a ser implementada no aplicativo) <br> Tempo: A qualquer momento <br> Pré-condição: O usuário deve estar autenticado no sistema e deve possuir movimentações financeiras anteriores registradas | 
 | **Atores** | Usuário do aplicativo FGTS | 
@@ -238,7 +238,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 | Cenário 8 | Filtrar extrato por data | 
 | :-:       | :-:            |
-| **Título** | [IS10](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) | 
+| **ID** | [IS10](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) | 
 | **Objetivo** | Permitir que o usuário selecione um mês e ano específico para visualizar os extratos correspondentes. | 
 | **Contexto** | Local: Página "Movimentações" (a ser implementada no aplicativo) <br> Tempo: A qualquer momento <br> Pré-condição: O usuário deve estar autenticado no sistema e deve possuir movimentações financeiras registradas em diferentes datas | 
 | **Atores** | Usuário do aplicativo FGTS | 
@@ -260,7 +260,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 | **Cenário 9** | **Cadastro de mais de uma conta bancária** | 
 | :-:           | :-:                                        |
-| **Título**    | [IS12](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) |
+| **ID**    | [IS12](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) |
 | **Objetivo**  | Permitir que o usuário cadastre uma ou mais contas bancárias de diferentes instituições financeiras. |
 | **Contexto**  | Local: Casa do Usuário <br> Tempo: Durante o dia <br> Pré-condições: Ter o aplicativo FGTS instalado, estar logado em sua conta, ter os dados da(s) conta(s) bancária(s) em mãos e acesso à internet. |
 | **Atores**    | Usuário do App FGTS |
@@ -283,7 +283,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 | Cenário 10 | Contato com Assistente via Chat |  
 | :-:       | :-:            |  
-| **Título** | [IS13](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) |  
+| **ID** | [IS13](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) |  
 | **Objetivo** | Permitir que o usuário entre em contato com um assistente via chat para tirar dúvidas ou obter suporte relacionado ao FGTS. |  
 | **Contexto** | O usuário deseja esclarecer dúvidas ou obter ajuda durante a navegação no aplicativo do FGTS. |  
 | **Atores** | Usuário, Sistema do FGTS, Assistente Virtual |  
@@ -305,7 +305,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 | Cenário 11 | Busca de Funcionalidades e Informações |  
 | :-:       | :-:            |  
-| **Título** | [IS14](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) |  
+| **ID** | [IS14](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) |  
 | **Objetivo** | Permitir que o usuário localize rapidamente funcionalidades ou informações no aplicativo por meio de um campo de busca. |  
 | **Contexto** | O usuário deseja encontrar uma funcionalidade específica ou obter informações sem navegar por várias seções do aplicativo. |  
 | **Atores** | Usuário, Sistema do FGTS |  
@@ -327,7 +327,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 | Cenário 12 | Título do Cenário | 
 | :-:       | :-:            |
-| **Título** |  | 
+| **ID** |  | 
 | **Objetivo** |  | 
 | **Contexto** |  | 
 | **Atores** |  | 
@@ -349,7 +349,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 | Cenário 13 | Título do Cenário | 
 | :-:       | :-:            |
-| **Título** |  | 
+| **ID** |  | 
 | **Objetivo** |  | 
 | **Contexto** |  | 
 | **Atores** |  | 
@@ -371,7 +371,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 | Cenário 14 | Ajuste do Tamanho das Fontes na Interface | 
 | :-:       | :-:            |
-| **Título** | [ST08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais) | 
+| **ID**  | [ST08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais) | 
 | **Objetivo** | Permitir que o usuário ajuste o tamanho das fontes exibidas na interface do aplicativo para melhorar a acessibilidade e a usabilidade. | 
 | **Contexto** | Usuário acessa o aplicativo e deseja aumentar ou diminuir o tamanho da fonte para melhor visualização do conteúdo. | 
 | **Atores** | Usuário do aplicativo FGTS | 
@@ -406,6 +406,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 | `1.5` | 17/05/2025 | Adição dos cenários 10 e 11 | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.6` | 17/05/2025 | Adição dos cenários 07 e 08 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Victor Pontual](https://github.com/VictorPontual) |
 | `1.7` | 17/05/2025 | Adição dos cenários 04 e 05 + correção de formatação | [Victor Pontual](https://github.com/VictorPontual) | [Maria Eduarda](https://github.com/dudaa28) |
-| `1.8` | 17/05/2025 | Adição dos cenários 03 e 14 | [Maria Eduarda](https://github.com/dudaa28) | - |
-| `1.9` | 17/05/2025 | Atualização do Documento | [Maria Eduarda](https://github.com/dudaa28) | - |
-| `2.0` | 17/05/2025 | Atualizações para melhoria do Documento | [Maria Eduarda](https://github.com/dudaa28) | - |
+| `1.8` | 17/05/2025 | Adição dos cenários 03 e 14 | [Maria Eduarda](https://github.com/dudaa28) | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.9` | 17/05/2025 | Atualização do Documento | [Maria Eduarda](https://github.com/dudaa28) | [Danielle Soares](https://github.com/danielle-soaress) |
+| `2.0` | 17/05/2025 | Atualizações para melhoria do Documento | [Maria Eduarda](https://github.com/dudaa28) |  |
+| `2.1` | 17/05/2025 | Correção do atributo "título" para "id" | [Danielle Soares](https://github.com/danielle-soaress) | - |
