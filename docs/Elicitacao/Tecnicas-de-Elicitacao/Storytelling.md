@@ -109,7 +109,7 @@ Ao abrir o app, Antônio logo percebeu uma dificuldade: as letras eram pequenas.
 <div style="text-align: center">
 <p>Tabela 2: Requisitos Funcionais</p>
 </div>
-
+<a name="ST_RF"></a>
 | Código | Requisito Funcional | ID | Implementado |
 | :-: | - | :-: | :-: |
 | RF01  | O aplicativo deve ter poucos botões para facilitar o acesso. | ST01 | Sim |
@@ -136,7 +136,7 @@ Ao abrir o app, Antônio logo percebeu uma dificuldade: as letras eram pequenas.
 <div style="text-align: center">
 <p>Tabela 3: Requisitos Não-Funcionais</p>
 </div>
-
+<a name="ST_RNF"></a>
 | Código | Requisito Não-Funcional | ID | Implementado |
 | :-: | - | :-: | :-: |
 | RNF01  | O aplicativo deve garantir tempo de resposta de até 1 segundo para o cadastro da conta bancária.. | ST017 | Sim |
@@ -169,3 +169,4 @@ Ao abrir o app, Antônio logo percebeu uma dificuldade: as letras eram pequenas.
 | `1.1`  | 03/05 | Adição da seção de Introdução | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.2`  | 04/05 | Adição da gravação | [Marcelo Makoto](https://github.com/MM4k) | [Enzo Emir](https://github.com/EnzoEmir),   |
 | `1.3`  | 06/05 | Correção da formatação dos requisitos elicitados, adição da tabela dos participantes e correção das tabelas. | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | Victor Pontual|
+| `1.4`  | 17/05 | Adição de âncoras | [Danielle Soares](https://github.com/danielle-soaress) |  |

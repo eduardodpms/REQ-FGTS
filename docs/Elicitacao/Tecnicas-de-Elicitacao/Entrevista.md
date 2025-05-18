@@ -90,6 +90,7 @@ A seguir, os requisitos elicitados foram organizados em duas categorias: funcion
 
 #### Tabela 3: Requisitos Funcionais
 
+<a name="EN_RF"></a>
 | Código | Requisito Funcional                                                                 | ID    | Implementado |
 |:------:|--------------------------------------------------------------------------------------|:-----:|:------------:|
 | RF01   | O aplicativo deve permitir solicitação de saque por rescisão contratual                              | EN01  | Sim          |
@@ -107,6 +108,7 @@ A seguir, os requisitos elicitados foram organizados em duas categorias: funcion
 
 #### Tabela 4: Requisitos Não Funcionais
 
+<a name="EN_RNF"></a>
 | Código  | Requisito Não-Funcional                                                           | ID    | Implementado |
 |:-------:|------------------------------------------------------------------------------------|:-----:|:------------:|
 | RNF01   | O aplicativo deve manter uma interface simples e de fácil navegação               | EN07  | Sim          |
@@ -144,3 +146,4 @@ A seguir, os requisitos elicitados foram organizados em duas categorias: funcion
 |  1.1   | 04/05/2025 | Criação da estrutura de entrevista e tabelas   | [Enzo Emir](https://github.com/EnzoEmir),[Eduardo de Pina](https://github.com/eduardodpms)  | [Marcelo Makoto](https://github.com/MM4k)           |
 |  1.2   | 04/05/2025 | Correção dos links dos vídeos   | [Marcelo Makoto](https://github.com/MM4k)   | [Maria](https://github.com/dudaa28) |
 | 1.3  | 06/05 | Correção da formatação dos requisitos elicitados. | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Enzo Emir](https://github.com/EnzoEmir) |
+| 1.4  | 17/05 | Adição de âncoras | [Danielle Soares](https://github.com/danielle-soaress) |  |

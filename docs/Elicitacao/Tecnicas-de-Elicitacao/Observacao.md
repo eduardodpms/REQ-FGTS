@@ -88,17 +88,18 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 
 <font size="3"><p style="text-align: center">Tabela 3: Requisitos Funcionais</p></font>
 
+<a name="OB_RF"></a>
 | Código | Requisito Funcional                                                                             | ID   | Implementado |
 | ------ | ----------------------------------------------------------------------------------------------- | ---- | :----------: |
-| RF05   | O aplicativo deve permitir login seguro                                                           | EO01 |      Sim     |
-| RF06   | O aplicativo deve apresentar resumo de empregadores anteriores com botão para consultar contas vinculadas ao FGTS | EO02 |      Sim     |
-| RF07   | O aplicativo deve permitir solicitação de saque com justificativa selecionável                                    | EO03 |      Sim     |
-| RF08   | O aplicativo deve exibir extrato do FGTS por empregador individual                                                | EO04 |      Sim     |
-| RF09   | O aplicativo deve mostrar nome completo dos empregadores anteriores                                               | EO05 |      Sim     |
-| RF10   | O aplicativo deve disponibilizar histórico de saques realizados                                                   | EO06 |      Sim     |
-| RF11   | O aplicativo deve ter uma aba dedicada à solicitação e acompanhamento de saques                                   | EO07 |      Sim     |
-| RF12   | O aplicativo deve possibilitar configuração de conta bancária para depósito e visualização de termos do FGTS      | EO08 |      Sim     |
-| RF13   | O aplicativo deve incluir aba para itens diversos como PIS/PASEP, convocações, sistemática de saque, ajuda, etc.  | EO09 |      Sim     |
+| RF05   | O aplicativo deve permitir login seguro                                                           | OB01 |      Sim     |
+| RF06   | O aplicativo deve apresentar resumo de empregadores anteriores com botão para consultar contas vinculadas ao FGTS | OB02 |      Sim     |
+| RF07   | O aplicativo deve permitir solicitação de saque com justificativa selecionável                                    | OB03 |      Sim     |
+| RF08   | O aplicativo deve exibir extrato do FGTS por empregador individual                                                | OB04 |      Sim     |
+| RF09   | O aplicativo deve mostrar nome completo dos empregadores anteriores                                               | OB05 |      Sim     |
+| RF10   | O aplicativo deve disponibilizar histórico de saques realizados                                                   | OB06 |      Sim     |
+| RF11   | O aplicativo deve ter uma aba dedicada à solicitação e acompanhamento de saques                                   | OB07 |      Sim     |
+| RF12   | O aplicativo deve possibilitar configuração de conta bancária para depósito e visualização de termos do FGTS      | OB08 |      Sim     |
+| RF13   | O aplicativo deve incluir aba para itens diversos como PIS/PASEP, convocações, sistemática de saque, ajuda, etc.  | OB09 |      Sim     |
 
 ---
 
@@ -106,12 +107,13 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 
 <font size="3"><p style="text-align: center">Tabela 4: Requisitos Não Funcionais</p></font>
 
+<a name="OB_RNF"></a>
 | Código | Requisito Não-Funcional                                                                               | ID   | Implementado |
 | ------ | ----------------------------------------------------------------------------------------------------- | ---- | :----------: |
-| RNF06  | O sistema deve garantir segurança firme com verificação de dados pelo usuário                         | EO10 |      Sim     |
-| RNF07  | A interface deve ser dividida em abas específicas com funções bem segmentadas                         | EO11 |      Sim     |
-| RNF08  | A aplicação deve exibir notificações ou notícias úteis de forma acessível                             | EO12 |      Sim     |
-| RNF09  | As informações devem estar organizadas de forma clara e com terminologia compreensível para o usuário | EO13 |      Sim     |
+| RNF06  | O sistema deve garantir segurança firme com verificação de dados pelo usuário                         | OB10 |      Sim     |
+| RNF07  | A interface deve ser dividida em abas específicas com funções bem segmentadas                         | OB11 |      Sim     |
+| RNF08  | A aplicação deve exibir notificações ou notícias úteis de forma acessível                             | OB12 |      Sim     |
+| RNF09  | As informações devem estar organizadas de forma clara e com terminologia compreensível para o usuário | OB13 |      Sim     |
 
 ---
 
@@ -136,3 +138,4 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 | Versão | Data       | Descrição                                      | Autor(es) | Revisor(es)    |
 | ------ | ---------- | ---------------------------------------------- | --------- | -------------- |
 | 1.0    | 04/05/2025 | Documento de elicitação com base em observação | [Victor Pontual](https://github.com/VictorPontual) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
+| 1.1  | 17/05 | Adição de âncoras e correção dos IDs de rastreabilidade | [Danielle Soares](https://github.com/danielle-soaress) |  |
