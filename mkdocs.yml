@@ -71,13 +71,16 @@ nav:
   - Entregas:
     - Entrega 1: Entregas/Entrega-1.md
     - Entrega 2: Entregas/Entrega-2.md
+    - Entrega 3: Entregas/Entrega-3.md
   - Inspeção:
     - Grupo:
       - Entrega 1: Inspecao/grupo/Entrega-1.md
       - Entrega 2: Inspecao/grupo/Entrega-2.md
+      - Entrega 3: Inspecao/grupo/Entrega-3.md
     - Grupo +1:
       - Entrega 1: Inspecao/grupo-mais-um/Entrega-1.md
       - Entrega 2: Inspecao/grupo-mais-um/Entrega-2.md
+      - Entrega 3: Inspecao/grupo-mais-um/Entrega-3.md
   - Pré-Rastreabilidade:
     - Rich Picute: Pre-Rastreabilidade/Rich-Picture.md
   - Elicitação:
@@ -95,8 +98,8 @@ nav:
       - $100 Test: Elicitacao/Tecnicas-de-Priorizacao/100-Test.md
     - Requisitos Elicitados: Elicitacao/Requisitos-elicitados.md
   - Modelagem:
-    - Cenários: Modelagem/Cenarios.md
     - Casos de Uso: Modelagem/Diagrama.md
-    - Especificação Suplementar: Modelagem/EspecificacaoSuplementar.md
+    - Cenários: Modelagem/Cenarios.md
     - Léxicos: Modelagem/Lexicos.md
-    - Requisitos não Implementados: Modelagem/RNI.md
+    - Especificação Suplementar: Modelagem/EspecificacaoSuplementar.md
+    - Requisitos Não Implementados: Modelagem/RNI.md
