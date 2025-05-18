@@ -274,7 +274,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **IS09** | **Descrição** |
 | ----- | ---------- |
 | **Nome do Caso de Uso**          | Exibir informações detalhadas sobre o histórico de movimentações financeiras |
-| Rastreabilidade | [IS09](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
+| **Rastreabilidade** | [IS09](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
 | **Atores** | Usuários do aplicativo FGTS |
 | **Ação** | O usuário acessa o histórico de movimentações financeiras e seleciona uma movimentação para visualizar informações detalhadas |
 | **Pré-condições** | O usuário deve estar logado no aplicativo FGTS. <br> O sistema deve possuir movimentações financeiras registradas. |
@@ -451,6 +451,14 @@ No contexto do app FGTS, uma pós-condição para o caso de uso **Visualizar Dat
 
 > 1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. UnB, 2025, p. [11]. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf). Acesso em: 17 de maio de 2025.
 
+>2.</a> Lucid Software. *Diagrama de caso de uso UML: o que é, como fazer e exemplos*. Lucidchart, 2025. Disponível em: [https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml). Acesso em: 18 de maio de 2025.
+
+## Referências
+
+> 1.</a> SERRANO, Milene; SERRANO, Maurício. *Requisitos – Aula 13*. UnB, 2025. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf). Acesso em: 17 de maio de 2025.
+
+> 2.</a> COSTA, Eduarda. *Apresentação sobre Especificação Suplementar*. Canva, 2025. Disponível em: [https://www.canva.com/design/DAGnSj5NRKw/ecAEdqGBVbNgZvm2sLMvKQ/edit](https://www.canva.com/design/DAGnSj5NRKw/ecAEdqGBVbNgZvm2sLMvKQ/edit). Acesso em: 18 de maio de 2025.
+
 
 ## Histórico de Versão
 
@@ -467,3 +475,4 @@ No contexto do app FGTS, uma pós-condição para o caso de uso **Visualizar Dat
 | `1.8` | 18/05/2025 | Atualização de detalhes na página | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |
 | `1.9` | 18/05/2025 | Inserção dos Diagramas | [Danielle](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
 | `2.0` | 18/05/2025 | Atualização de detalhes na página | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |
+| `2.1` | 18/05/2025 | Atualização de detalhes na página e adição de referências | [Maria Eduarda](https://github.com/dudaa28) | - |
