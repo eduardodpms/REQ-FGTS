@@ -95,8 +95,6 @@ Abaixo, segue a tabela com os membros participantes do processo de construção 
 
 
 
-
-
 ### Descrição
 
 No contexto do aplicativo **FGTS**, o Diagrama de Casos de Uso é uma ferramenta visual que mostra como os usuários interagem com o sistema** e **quais funcionalidades o aplicativo deve oferecer.
@@ -134,9 +132,6 @@ Ator secundário que representa a equipe responsável pela manutenção técnica
 - Corrige falhas de integração ou inconsistência de dados.
 - Controla a disponibilidade e desempenho da aplicação.
 
-### Diagramas
- (colcoar aqui os diagramas realizados)
-
 ## Especificação dos Casos de Uso
 
 Esta seção apresenta a especificação dos principais casos de uso relacionados ao aplicativo **FGTS**. O objetivo é descrever, de forma detalhada, como cada funcionalidade deve se comportar, considerando as interações entre os atores (usuário, sistema da Caixa e administrador) e o sistema.
@@ -154,6 +149,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **Elemento**                     | **Descrição** |
 |----------------------------------|----------------|
 | **Nome do Caso de Uso**          | Visualizar Status Comentado do Saque |
+| **Rastreabilidade** | [EN02](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) |
 | **Ator Principal**               | Usuário |
 | **Atores Secundários**           | Sistema do FGTS, Servidor da Caixa |
 | **Objetivo**                     | Permitir que o usuário acompanhe o andamento do processo de saque com status detalhado e comentários explicativos. |
@@ -175,6 +171,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **Elemento**                     | **Descrição** |
 |----------------------------------|----------------|
 | **Nome do Caso de Uso**          | Visualizar Data Prevista para Liberação de Valores |
+| **Rastreabilidade** | [EN03](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) |
 | **Ator Principal**               | Usuário |
 | **Atores Secundários**           | Sistema do FGTS, Servidor de Notificações |
 | **Objetivo**                     | Permitir que o usuário consulte a data estimada para liberação do valor solicitado no saque do FGTS. |
@@ -193,6 +190,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **Elemento**                     | **Descrição** |
 |---------------------------------|---------------|
 | **Nome do Caso de Uso**          | Acessar Suporte via Chatbot |
+| **Rastreabilidade** | [EN04](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) |
 | **Ator Principal**               | Usuário |
 | **Atores Secundários**           | Sistema FGTS, Serviço de Chatbot |
 | **Objetivo**                    | Permitir que o usuário utilize um canal de suporte automatizado (chatbot) para esclarecer dúvidas sobre o aplicativo e serviços do FGTS. |
@@ -214,6 +212,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **Elemento**                     | **Descrição** |
 |----------------------------------|----------------|
 | **Nome do Caso de Uso**          | Cancelar Solicitação de Saque |
+| **Rastreabilidade** | [IS06](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
 | **Ator Principal**               | Usuário |
 | **Atores Secundários**           | Sistema do FGTS |
 | **Objetivo**                     | Permitir que o usuário cancele uma solicitação de saque feita anteriormente no aplicativo FGTS.|
@@ -233,6 +232,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **Elemento**                     | **Descrição** |
 |----------------------------------|----------------|
 | **Nome do Caso de Uso**          | Filtrar Saques por Tipo |
+| **Rastreabilidade** | [IS07](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
 | **Ator Principal**               | Usuário |
 | **Atores Secundários**           | Sistema do FGTS |
 | **Objetivo**                     | Permitir que o usuário filtre a lista de solicitações de saque por tipo (ex: aniversário, doença, falecimento) para facilitar a consulta. |
@@ -253,14 +253,14 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 | **RF11** | **Descrição** |
 |---------|----------------|
-| **Data da criação** | 17/05/2025 |
-| **Rastreabilidade** | IS08 |
+| **Nome do Caso de Uso**          | Consultar Saques Bloqueados |
+| **Rastreabilidade** | [IS08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
 | **Atores** | Usuário (Ator Primário), Sistema do FGTS (Ator Secundário) |
 | **Ação** | O usuário visualiza seus saques bloqueados e os respectivos motivos. |
 | **Pré-condições** | <p>O usuário deve estar autenticado no aplicativo FGTS.</p><p>Deve existir pelo menos um saque bloqueado registrado no sistema.</p> |
 | **Fluxo básico** | 1. O usuário acessa o aplicativo FGTS.<br>2. Realiza login com seus dados.<br>3. Navega até a seção “Saques”.<br>4. Seleciona a opção “Saques Bloqueados”.<br>5. O sistema exibe a lista de saques bloqueados com os respectivos motivos. |
 | **Fluxos alternativos** | 1. O sistema apresenta mensagem genérica caso o motivo do bloqueio não esteja registrado.<br>2. Não há saques bloqueados: o sistema informa a ausência de registros.<br>3. O usuário solicita mais informações e o sistema oferece um link para ajuda externa. |
-| **Fluxo de exceção** | 1. O usuário acessa o aplicativo FGTS<br>2. Realiza login com seus dados.<br>2.1. Conexão com o servidor falhou: o sistema exibe uma mensagem de erro e orienta o usuário a tentar novamente.|
+| **Exceções** | 1. O usuário acessa o aplicativo FGTS<br>2. Realiza login com seus dados.<br>2.1. Conexão com o servidor falhou: o sistema exibe uma mensagem de erro e orienta o usuário a tentar novamente.|
 | **Pós-condições** | O usuário visualizou a lista de saques bloqueados (ou a ausência dela) com as devidas explicações. |
 | **Autor** | [Danielle Soares](https://github.com/danielle-soaress) |
 
@@ -271,18 +271,18 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 <font size="3"><p style="text-align: center">Tabela 8: Exibir informações detalhadas sobre o histórico de movimentações financeiras </p></font>
 
-| UC07 | Descrição |
+| **IS09** | **Descrição** |
 | ----- | ---------- |
-| Data da criação | 17/05 |
-| Rastreabilidade | <a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF12</a> <br> <a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a> |
-| Atores | Usuários do aplicativo FGTS |
-| Ação | O usuário acessa o histórico de movimentações financeiras e seleciona uma movimentação para visualizar informações detalhadas |
-| Pré-condições | O usuário deve estar logado no aplicativo FGTS. <br> O sistema deve possuir movimentações financeiras registradas. |
-| Fluxo básico | 1. O usuário efetua o login no FGTS <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O sistema exibe a lista de movimentações registradas. <br> 4. O usuário seleciona uma movimentação específica. <br> 5. O sistema exibe as informações detalhadas da movimentação. |
-| Fluxos alternativos | 1. O usuário efetua o login no FGTS. <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O usuário usa o filtro para selecionar o mês e o ano. <br> O sistema exibe as movimentações financeiras do período selecionado. |
-| Fluxo de exceção | 1. O usuário efetua o login no FGTS. <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O sistema não encontra nenhuma movimentação financeira. <br> 4. O sistema exibe uma mensagem indicando o problema. |
-| Pós-condições | O sistema exibe corretamente as informações detalhadas da movimentação selecionada. |
-| Autor | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| **Nome do Caso de Uso**          | Exibir informações detalhadas sobre o histórico de movimentações financeiras |
+| Rastreabilidade | [IS09](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
+| **Atores** | Usuários do aplicativo FGTS |
+| **Ação** | O usuário acessa o histórico de movimentações financeiras e seleciona uma movimentação para visualizar informações detalhadas |
+| **Pré-condições** | O usuário deve estar logado no aplicativo FGTS. <br> O sistema deve possuir movimentações financeiras registradas. |
+| **Fluxo básico** | 1. O usuário efetua o login no FGTS <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O sistema exibe a lista de movimentações registradas. <br> 4. O usuário seleciona uma movimentação específica. <br> 5. O sistema exibe as informações detalhadas da movimentação. |
+| **Fluxos alternativos** | 1. O usuário efetua o login no FGTS. <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O usuário usa o filtro para selecionar o mês e o ano. <br> O sistema exibe as movimentações financeiras do período selecionado. |
+| **Exceções** | 1. O usuário efetua o login no FGTS. <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O sistema não encontra nenhuma movimentação financeira. <br> 4. O sistema exibe uma mensagem indicando o problema. |
+| **Pós-condições** | O sistema exibe corretamente as informações detalhadas da movimentação selecionada. |
+| **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </i></b></p></font>
 
@@ -290,18 +290,18 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 <font size="3"><p style="text-align: center">Tabela 9: Filtrar extrato por data </p></font>
 
-| UC08 | Descrição |
+| **IS10** | **Descrição** |
 | ----- | ---------- |
-| Data da criação | 17/05 |
-| Rastreabilidade | <a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF13</a> <br> <a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS10</a> |
-| Atores | Usuários do aplicativo FGTS |
-| Ação | O usuário filtra as movimentações financeiras exibidas no histórico de movimentações financeiras com base no mês e no ano |
-| Pré-condições | O usuário deve estar logado no aplicativo FGTS. <br> O sistema deve possuir movimentações financeiras com diferentes datas registradas.  |
-| Fluxo básico | 1. O usuário efetua o login no FGTS <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O sistema exibe a lista de movimentações registradas. <br> 4. O usuário seleciona uma data (mês e ano) como filtro <br> 5. O sistema exibe apenas as movimentações correspondentes à data selecionada. |
-| Fluxos alternativos | 1. O usuário efetua o login no FGTS <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O sistema exibe uma lista com todas as movimentações registradas.  |
-| Fluxo de exceção | 1. O usuário efetua o login no FGTS <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O sistema exibe a lista de movimentações registradas. <br> 4. O usuário seleciona uma data (mês e ano) inválida ou sem movimentações <br> 5. O sistema exibe uma mensagem indicando o problema. |
-| Pós-condições | O sistema exibe o histórico de movimentações financeiras filtrado de acordo com a data selecionada. |
-| Autor | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| **Nome do Caso de Uso**          | Filtrar extrato por data |
+| **Rastreabilidade** | [IS10](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
+| **Atores** | Usuários do aplicativo FGTS |
+| **Ação** | O usuário filtra as movimentações financeiras exibidas no histórico de movimentações financeiras com base no mês e no ano |
+| **Pré-condições** | O usuário deve estar logado no aplicativo FGTS. <br> O sistema deve possuir movimentações financeiras com diferentes datas registradas.  |
+| **Fluxo básico** | 1. O usuário efetua o login no FGTS <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O sistema exibe a lista de movimentações registradas. <br> 4. O usuário seleciona uma data (mês e ano) como filtro <br> 5. O sistema exibe apenas as movimentações correspondentes à data selecionada. |
+| **Fluxos alternativos** | 1. O usuário efetua o login no FGTS <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O sistema exibe uma lista com todas as movimentações registradas.  |
+| **Exceções** | 1. O usuário efetua o login no FGTS <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O sistema exibe a lista de movimentações registradas. <br> 4. O usuário seleciona uma data (mês e ano) inválida ou sem movimentações <br> 5. O sistema exibe uma mensagem indicando o problema. |
+| **Pós-condições** | O sistema exibe o histórico de movimentações financeiras filtrado de acordo com a data selecionada. |
+| **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</i></b></p></font>
 
@@ -311,14 +311,14 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 | **RF35** | **Descrição** |
 |---------|----------------|
-| **Data da criação** | 17/05/2025 |
-| **Rastreabilidade** | IS12 |
+| **Nome do Caso de Uso**          | Cadastrar Múltiplas Contas Bancárias |
+| **Rastreabilidade** | [IS12](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
 | **Atores** | Sistema do FGTS |
 | **Ação** | <p>O usuário pode cadastrar uma ou mais contas bancárias de diferentes instituições financeiras.</p> |
 | **Pré-condições** | <p>O usuário deve estar autenticado no aplicativo FGTS.</p><p>O usuário deve possuir os dados completos da conta bancária a ser cadastrada.</p> |
 | **Fluxo básico** | <p>1. O usuário acessa e loga no aplicativo FGTS.</p><p>2. Navega até a seção “Meus Dados” e seleciona a opção “Conta Bancária”.</p><p>5. Clica em “Cadastrar nova conta bancária”.</p>6. O sistema solicita os dados bancários necessários.</p><p>7. O usuário preenche os campos obrigatórios e confirma o envio.</p><p>8. O sistema valida os dados informados.</p><p>9. A conta é associada ao perfil do usuário.</p>|
 | **Fluxos alternativos** | <p>1. O usuário acessa e realiza login no aplicativo FGTS.</p><p>2. Navega até “Meus Dados” e seleciona “Conta Bancária”.</p><p>3. Clica em “Cadastrar nova conta bancária”.</p><p>4. O usuário informa os dados da nova conta e confirma o envio.</p><p>5. O sistema identifica que a conta já está cadastrada.</p><p>6. O sistema exibe uma mensagem informando que a conta já existe e impede duplicação.</p> |
-| **Fluxo de exceção** | <p>1. O usuário acessa o aplicativo FGTS e realiza login.</p><p>2. Preenche os dados da conta bancária.</p><p>3. O sistema identifica dados inválidos ou incompletos e exibe mensagem de erro destacando os campos com problema.</p><p>4. Caso ocorra falha de conexão com o servidor, o sistema exibe mensagem informativa e orienta o usuário a tentar novamente mais tarde.</p> |
+| **Exceções** | <p>1. O usuário acessa o aplicativo FGTS e realiza login.</p><p>2. Preenche os dados da conta bancária.</p><p>3. O sistema identifica dados inválidos ou incompletos e exibe mensagem de erro destacando os campos com problema.</p><p>4. Caso ocorra falha de conexão com o servidor, o sistema exibe mensagem informativa e orienta o usuário a tentar novamente mais tarde.</p> |
 | **Pós-condições** | <p>O usuário cadastrou com sucesso uma ou mais contas bancárias, ou recebeu uma mensagem com o motivo da falha.</p> |
 | **Autor** | [Danielle Soares](https://github.com/danielle-soaress) |
 
@@ -331,6 +331,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **Elemento**                     | **Descrição** |
 |----------------------------------|----------------|
 | **Nome do Caso de Uso**          | Contato com Assistente via Chat |
+| **Rastreabilidade** | [IS13](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
 | **Ator Principal**               | Usuário |
 | **Atores Secundários**           | Sistema do FGTS, Assistente Virtual |
 | **Objetivo**                     | Permitir que o usuário entre em contato com um assistente via chat para tirar dúvidas ou obter suporte relacionado ao FGTS. |
@@ -339,7 +340,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **Fluxos Alternativos**          | - O usuário acessa o chat por meio de outro ponto do aplicativo (ex: ao visualizar um status de saque).<br>- O assistente direciona o usuário para funcionalidades específicas com base na dúvida.<br> |
 | **Exceções**                    | - Falha de conexão com o servidor: o app exibe mensagem de erro e oferece opção de tentar novamente.<br>- Módulo de chat indisponível: o app exibe alternativa de contato por outros canais.<br>- Dúvida não compreendida: o assistente oferece opções adicionais ou redireciona para atendimento humano. |
 | **Pós-condições**                | - O usuário recebeu suporte via chat e teve sua dúvida resolvida ou foi orientado sobre próximos passos. |
-| Autor | [Marcelo Makoto](https://github.com/MM4k)|
+| **Autor** | [Marcelo Makoto](https://github.com/MM4k)|
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Marcelo Makoto](https://github.com/MM4k) </i></b></p></font>
 
@@ -350,6 +351,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **Elemento**                     | **Descrição** |
 |----------------------------------|----------------|
 | **Nome do Caso de Uso**          | Busca de Funcionalidades e Informações |
+| **Rastreabilidade** | [IS14](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
 | **Ator Principal**               | Usuário |
 | **Atores Secundários**           | Sistema do FGTS |
 | **Objetivo**                     | Permitir que o usuário localize rapidamente funcionalidades ou informações no aplicativo por meio de um campo de busca. |
@@ -358,7 +360,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **Fluxos Alternativos**          | - O usuário limpa o campo de busca para iniciar nova consulta.<br>- O sistema sugere termos relacionados para ampliar a busca.<br> |
 | **Exceções**                    | - Termo pesquisado não retorna resultados: o sistema informa que não foram encontrados itens correspondentes.<br>- Falha na comunicação com o servidor de busca: o app exibe mensagem de erro e permite nova tentativa. |
 | **Pós-condições**                | - O usuário localizou e acessou a funcionalidade ou informação desejada via busca. |
-| Autor | [Marcelo Makoto](https://github.com/MM4k)|
+| **Autor** | [Marcelo Makoto](https://github.com/MM4k)|
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Marcelo Makoto](https://github.com/MM4k) </i></b></p></font>
 
@@ -402,24 +404,52 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 ## Caso de Uso 14 (ST08)
 
-<font size="3"><p style="text-align: center">Tabela 15: Acessar Suporte via Chatbot </p></font>
+<font size="3"><p style="text-align: center">Tabela 15: Ajuste do Tamanho da Fonte </p></font>
 
 | **Elemento**                     | **Descrição** |
 |----------------------------------|----------------|
 | **Nome do Caso de Uso**          | Ajustar Tamanho da Fonte |
+| **Rastreabilidade** | [ST08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais) |
 | **Ator Principal**               | Usuário |
 | **Atores Secundários**           | Sistema FGTS |
 | **Objetivo**                     | Permitir que o usuário personalize o tamanho das fontes na interface do aplicativo para melhor acessibilidade e leitura. |
 | **Pré-condições**                | - O usuário deve estar autenticado no aplicativo.<br>- O sistema deve oferecer suporte a variações de tamanho de fonte na interface. |
 | **Fluxo Principal de Eventos**   | 1. O usuário acessa as configurações do aplicativo.<br>2. Seleciona a opção "Ajuste de Fonte".<br>3. Escolhe o tamanho de fonte desejado (pequeno, médio, grande).<br>4. O sistema aplica o novo tamanho de fonte em toda a interface do aplicativo.<br>5. O sistema confirma a atualização visual com feedback ao usuário. |
 | **Fluxos Alternativos**          | - O usuário testa visualmente diferentes tamanhos antes de confirmar.<br>- O usuário opta por restaurar o tamanho padrão. |
-| **Exceções**                     | - Tamanho de fonte inválido ou incompatível:<br>• O sistema exibe mensagem de erro e mantém o tamanho anterior.<br>- Erro de salvamento nas preferências:<br>• Sistema alerta e solicita nova tentativa. |
+| **Exceções**                     | • Tamanho de fonte inválido ou incompatível:<br>- O sistema exibe mensagem de erro e mantém o tamanho anterior.<br>• Erro de salvamento nas preferências:<br>- Sistema alerta e solicita nova tentativa. |
 | **Pós-condições**                | - O tamanho de fonte é atualizado e refletido na interface.<br>- Preferência é salva para sessões futuras. |
 | **Autor**                        | [Maria Eduarda](https://github.com/dudaa28) |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Maria Eduarda](https://github.com/dudaa28) </i></b></p></font>
 
+## Pré-condição
+
+A **pré-condição** é uma condição ou estado que deve ser verdadeiro antes do início da execução de um caso de uso para que ele possa ocorrer corretamente. Ela garante que o sistema e os atores estejam preparados para que a funcionalidade desejada seja executada sem erros. No processo de modelagem com UML, definir as pré-condições ajuda a esclarecer os requisitos necessários para que o fluxo principal do caso de uso aconteça.
+
+No app FGTS, uma pré-condição para o caso de uso **Visualizar Data Prevista para Liberação de Valores** é:
+
+• Que usuário esteja autenticado
+• Que exista um pedido de saque registrado no sistema. 
+
+Sem essas condições, o sistema não pode fornecer a informação solicitada, evitando falhas e garantindo a integridade da interação.
+
+
+## Pós-Condições
+
+A pós-condição descreve o estado esperado do sistema após a execução bem-sucedida de um caso de uso. Ela assegura que, ao final do processo, o sistema tenha alcançado um resultado consistente e esperado. Na modelagem de sistemas com UML, as pós-condições ajudam a definir claramente o que deve ter mudado ou sido garantido após o término do caso de uso.
+
+No contexto do app FGTS, uma pós-condição para o caso de uso **Visualizar Data Prevista para Liberação de Valores** é:
+
+• Que o usuário tenha obtido acesso à data estimada de liberação (ou à informação de que não há previsão cadastrada), garantindo clareza e transparência sobre o andamento do seu pedido.
+
+
+## Fluxos
+
+
+
 ## Bibliografia
+
+> 1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. UnB, 2025, p. [11]. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf). Acesso em: 17 de maio de 2025.
 
 
 ## Histórico de Versão
@@ -435,4 +465,5 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | `1.6` | 18/05/2025 | Correção de erros e padronização dos tópicos | [Victor Pontual](https://github.com/VictorPontual) | [Maria Eduarda](https://github.com/dudaa28) |
 | `1.7` | 18/05/2025 | Adição de Casos de Uso e Correções | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |
 | `1.8` | 18/05/2025 | Atualização de detalhes na página | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |
-| `1.9` | 18/05/2025 | Inserção dos Diagramas | [Danielle](https://github.com/danielle-soaress) | - |
+| `1.9` | 18/05/2025 | Inserção dos Diagramas | [Danielle](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
+| `2.0` | 18/05/2025 | Atualização de detalhes na página | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |
