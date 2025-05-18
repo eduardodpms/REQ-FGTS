@@ -414,6 +414,7 @@ Os léxicos apresentados a seguir (Tabelas L14 e L15) foram construidos a partir
 
 <font size="3"><p style="text-align: center">Tabela 14: Léxico 14 – Oferecer Canal de Suporte (L14)</p></font>
 
+
 | L14 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Oferecer canal de suporte |
@@ -422,6 +423,10 @@ Os léxicos apresentados a seguir (Tabelas L14 e L15) foram construidos a partir
 | **Noção** | Ocorre quando o sistema disponibiliza um canal automatizado (chatbot) ou humano para atendimento. Esta oferta é feita na interface do app, geralmente acessível pelo menu principal ou pela área de ajuda. |
 | **Sinônimos** | Disponibilizar suporte, fornecer assistência |
 | **Autor** | [Maria Eduarda](https://github.com/dudaa28) | 
+
+
+<font size="2"><p style="text-align: center">Fonte: <i>[Maria Eduarda](https://github.com/dudaa28)</i> </p></font>
+
 
 ## L15: Canal de Suporte
 
@@ -436,7 +441,9 @@ Os léxicos apresentados a seguir (Tabelas L14 e L15) foram construidos a partir
 | **Sinônimos** | Chatbot, atendimento, ajuda, suporte |
 | **Autor** | [Maria Eduarda](https://github.com/dudaa28) |
 
+
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
+
 
 ## Requisito ST08
 
@@ -455,7 +462,7 @@ Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional 
 | **Sinônimos** | Modificar fonte, alterar tamanho de texto |
 | **Autor** | [Maria Eduarda](https://github.com/dudaa28) |
 
-
+<font size="2"><p style="text-align: center">Fonte: <i>[Maria Eduarda](https://github.com/dudaa28)</i> </p></font>
 
 ## L17: Tamanho da Fonte
 
@@ -469,6 +476,9 @@ Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional 
 | **Noção** | Parâmetro configurável que define o tamanho em que os textos são exibidos no aplicativo. Está relacionado à acessibilidade e à experiência do usuário. |
 | **Sinônimos** | Tamanho do texto, escala da fonte, dimensão da letra |
 | **Autor** | [Maria Eduarda](https://github.com/dudaa28) |
+
+
+<font size="2"><p style="text-align: center">Fonte: <i>[Maria Eduarda](https://github.com/dudaa28)</i> </p></font>
 
 
 ## L18: Acessibilidade
@@ -485,6 +495,9 @@ Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional 
 | **Autor** | [Maria Eduarda](https://github.com/dudaa28) |
 
 
+<font size="2"><p style="text-align: center">Fonte: <i>[Maria Eduarda](https://github.com/dudaa28)</i> </p></font>
+
+
 ## L19: Interface do Aplicativo
 
 <font size="3"><p style="text-align: center">Tabela 19: Léxico 19 – Interface do Aplicativo (L19)</p></font>
@@ -497,6 +510,9 @@ Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional 
 | **Noção** | Conjunto visual e interativo por onde o usuário acessa funcionalidades do aplicativo, incluindo botões, menus, textos e ícones. |
 | **Sinônimos** | Tela do app, aparência visual, front-end |
 | **Autor** | [Maria Eduarda](https://github.com/dudaa28) |
+
+
+<font size="2"><p style="text-align: center">Fonte: <i>[Maria Eduarda](https://github.com/dudaa28)</i> </p></font>
 
 
 ## Requisito IS06
