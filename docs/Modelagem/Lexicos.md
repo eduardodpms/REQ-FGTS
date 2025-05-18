@@ -417,7 +417,7 @@ O léxico L13 utiliza o requisito funcional EN03 (O sistema deve permitir que o 
 
 ### L14: Oferecer Canal de Suporte
 
-Os léxicos apresentados a seguir (Tabelas L14 e L15) foram construidos a partir do requisito funcional não implementado que propõe que o aplicativo ofereça um canal de suporte ou chatbot para esclarecer dúvidas dos usuários ([EN04](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais)). Os termos selecionados refletem ações e objetos associados à comunicação entre usuário e sistema, além de aspectos da assistência virtual.
+Os léxicos apresentados a seguir (Tabelas 17 e 18) foram construidos a partir do requisito funcional não implementado que propõe que o aplicativo ofereça um canal de suporte ou chatbot para esclarecer dúvidas dos usuários ([EN04](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais)). Os termos selecionados refletem ações e objetos associados à comunicação entre usuário e sistema, além de aspectos da assistência virtual.
 
 
 <font size="3"><p style="text-align: center">Tabela 17: Léxico 14 – Oferecer Canal de Suporte (L14)</p></font>
@@ -459,7 +459,7 @@ Os léxicos apresentados a seguir (Tabelas L14 e L15) foram construidos a partir
 
 ---
 
-Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional não implementado que prevê a possibilidade de ajustar o tamanho das fontes na interface do aplicativo ([ST08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais)). Os termos foram escolhidos para representar tanto ações quanto objetos e estados associados à personalização da interface e à acessibilidade, considerando a melhoria da experiência para usuários com diferentes perfis.
+Os léxicos listados nas Tabelas 19 a 22 têm como base o requisito funcional não implementado que prevê a possibilidade de ajustar o tamanho das fontes na interface do aplicativo ([ST08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais)). Os termos foram escolhidos para representar tanto ações quanto objetos e estados associados à personalização da interface e à acessibilidade, considerando a melhoria da experiência para usuários com diferentes perfis.
 
 ---
 
@@ -754,7 +754,7 @@ O léxico L30 utiliza o requisito funcional IS12 (O aplicativo deve permitir o c
 
 ### L31: Exibir informações detalhadas
 
-O L31, apresentado na tabela 31, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
+O L31, apresentado na tabela 34, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
 
 <font size="3"><p style="text-align: center">Tabela 34: Léxico 31 – Exibir informações detalhadas (L31)</p></font>
 
@@ -777,7 +777,7 @@ O L31, apresentado na tabela 31, utiliza o seguinte requisito não implementado:
 
 ### L32: Informações detalhadas
 
-O L32, apresentado na tabela 32, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
+O L32, apresentado na tabela 35, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
 
 
 <font size="3"><p style="text-align: center">Tabela 35: Léxico 32 – Informações detalhadas (L32)</p></font>
@@ -801,7 +801,7 @@ O L32, apresentado na tabela 32, utiliza o seguinte requisito não implementado:
 
 ### L33: Histórico de movimentações financeiras
 
-O L33, apresentado na tabela 33, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
+O L33, apresentado na tabela 36, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
 
 <font size="3"><p style="text-align: center">Tabela 36: Léxico 33 – Histórico de movimentações financeiras (L33)</p></font>
 
@@ -830,7 +830,7 @@ O L33, apresentado na tabela 33, utiliza o seguinte requisito não implementado:
 
 <center>
 
-O L34, apresentado na tabela 34, utiliza o seguinte requisito não implementado: O aplicativo deve permitir o filtro do extrato por data (mês e ano) 
+O L34, apresentado na tabela 37, utiliza o seguinte requisito não implementado: O aplicativo deve permitir o filtro do extrato por data (mês e ano) 
 (<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS10</a>)
 
 <font size="3"><p style="text-align: center">Tabela 37: Léxico 34 – Filtrar (L34)</p></font>
