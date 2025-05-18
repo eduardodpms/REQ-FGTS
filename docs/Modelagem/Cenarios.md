@@ -68,7 +68,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 </div>
 
 
-<p style="text-align: center; font-size: 16px;">Fonte: <i>Leticia Arisa</i></p>
+<font size="2"><p style="text-align: center">Fonte: <i>[Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</i> </p></font>
 
 ## Cenário 1 : Visualizar Status Comentado do Saque
 
@@ -78,7 +78,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 | Cenário 1 | Visualizar Status Comentado do Saque |  
 | :-:       | :-:            |  
-| **Título** | EN02 |  
+| **Título** | [EN02](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) |  
 | **Objetivo** | Permitir que o usuário acompanhe o andamento do processo de saque com status detalhado e comentários explicativos. |  
 | **Contexto** | O usuário deseja entender em que etapa está seu pedido de saque do FGTS e o motivo da situação atual. |  
 | **Atores** | Usuário, Sistema do FGTS |  
@@ -101,7 +101,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 | Cenário 2 | Visualizar Data Prevista para Liberação de Valores |  
 | :-:       | :-:            |  
-| **Código** | EN03 |  
+| **Título** | [EN03](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) |
 | **Objetivo** | Garantir que o usuário visualize uma data realista e seja avisado em caso de alterações na previsão de liberação do valor. |  
 | **Contexto** | O usuário realizou um saque e deseja saber quando o valor será liberado para planejamento financeiro. |  
 | **Atores** | Usuário, Sistema do FGTS, Servidor de Notificações |  
@@ -125,7 +125,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 | Cenário 3 | Atendimento de Dúvidas via Chatbot | 
 | :-:       | :-:            |
-| **Título** | EN03 | 
+| **Título** | [EN04](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) | 
 | **Objetivo** | Permitir que o usuário esclareça dúvidas frequentes por meio de um canal automatizado de atendimento dentro do aplicativo | 
 | **Contexto** | Local: Residência do usuário<br>Tempo: Durante o uso do aplicativo<br>Pré-condições: Estar logado, possuir conexão com a internet e ter o aplicativo instalado | 
 | **Atores** | Usuário do aplicativo FGTS, sistema de chatbot | 
@@ -148,7 +148,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 | Cenário 4 | Cancelar Solicitação de Saque |  
 | :-:       | :-:            |  
-| **Código** | IS06 |  
+| **Código** | [IS06](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) |  
 | **Objetivo** | Permitir que o usuário cancele uma solicitação de saque feita anteriormente no aplicativo FGTS. |  
 | **Contexto** | O usuário deseja cancelar um pedido de saque ativo por motivos pessoais ou por erro na solicitação. |  
 | **Atores** | Usuário, Sistema do FGTS |  
@@ -171,7 +171,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 | Cenário 5 | Filtrar Saques por Tipo |  
 | :-:       | :-:            |  
-| **Código** | IS07 |  
+| **Código** | [IS07](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) |  
 | **Objetivo** | Permitir que o usuário filtre a lista de solicitações de saque pelo tipo específico, como saque-aniversário, doença ou falecimento. |  
 | **Contexto** | O usuário deseja visualizar apenas os saques de um determinado tipo para facilitar a consulta e o gerenciamento de seus pedidos. |  
 | **Atores** | Usuário, Aplicativo FGTS |  
@@ -185,26 +185,28 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Victor Pontual](https://github.com/VictorPontual)</i> </p></font>
 
-## Cenário 6: Fornecer informações sobre saques bloqueados
+## Cenário 6: Fornecimento de informações sobre saques bloqueados
 
 <font size="3"><p style="text-align: center">Tabela 6: Cenário de fornecimento de informações sobre saques bloqueados</p></font>
 
 <center>
 
-| **Cenário 6**               | **Consulta de saques bloqueados** |
-|----------------------------|------------------------------------|
-| **Objetivo**               | <p>Permitir que o usuário visualize quais saques estão bloqueados e os motivos do bloqueio.</p> |
-| **Contexto**               | <p>Local: Casa do Usuário</p> <p>Tempo: Durante o dia</p> <p>Pré-condições: Ter uma conta FGTS, aplicativo FGTS instalado, estar logado e com acesso à internet.</p> |
-| **Atores**                 | <p>Usuário do App FGTS</p> |
-| **Recursos**               | <p>Dispositivo com o aplicativo instalado</p> <p>Conexão com a internet</p> <p>Base de dados com status dos saques e motivos de bloqueio</p> |
-| **Episódios**              | <p>1. O usuário abre o aplicativo.</p> <p>2. Insere seus dados de acesso e realiza o login.</p> <p>3. Acessa a seção "Saques" no menu principal.</p> <p>4. Seleciona a opção "Saques Bloqueados".</p> <p>5. O sistema exibe a lista de saques bloqueados com os respectivos detalhes, incluindo o motivo do bloqueio.</p> |
-| **Restrições**             | <p>O motivo do bloqueio só será exibido se estiver registrado no sistema; caso contrário, uma mensagem genérica será apresentada.</p> <p>O usuário também precisa ter saques bloqueados.</p> |
-| **Exceção**                | <p>Se houver falha na conexão com o servidor ou indisponibilidade dos dados, o sistema exibirá uma mensagem de erro informando a impossibilidade de recuperar as informações no momento.</p> |
-| **Autor**                  | [Danielle Soares](https://github.com/danielle-soaress) |
+| **Cenário 6** | **Consulta de saques bloqueados** | 
+| :-:           | :-:                              |
+| **Título**    | [IS08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) |
+| **Objetivo**  | Permitir que o usuário visualize quais saques estão bloqueados e os motivos do bloqueio. |
+| **Contexto**  | Local: Casa do Usuário <br> Tempo: Durante o dia <br> Pré-condições: Ter uma conta FGTS, aplicativo FGTS instalado, estar logado e com acesso à internet. |
+| **Atores**    | Usuário do App FGTS |
+| **Recursos**  | Dispositivo com o aplicativo instalado <br> Conexão com a internet <br> Base de dados com status dos saques e motivos de bloqueio |
+| **Episódios** | 1. O usuário abre o aplicativo. <br> 2. Insere seus dados de acesso e realiza o login. <br> 3. Acessa a seção "Saques" no menu principal. <br> 4. Seleciona a opção "Saques Bloqueados". <br> 5. O sistema exibe a lista de saques bloqueados com os respectivos detalhes, incluindo o motivo do bloqueio. |
+| **Restrições** | O motivo do bloqueio só será exibido se estiver registrado no sistema; caso contrário, uma mensagem genérica será apresentada. <br> O usuário também precisa ter saques bloqueados. |
+| **Exceção**   | Se houver falha na conexão com o servidor ou indisponibilidade dos dados, o sistema exibirá uma mensagem de erro informando a impossibilidade de recuperar as informações no momento. |
+| **Autor**     | [Danielle Soares](https://github.com/danielle-soaress) |
 
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Danielle Soares](https://github.com/danielle-soaress)</i> </p></font>
+
 
 ## Cenário 7: Visualizar histórico de movimentação financeira
 
@@ -214,12 +216,12 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 | Cenário 7 | Visualizar histórico de movimentação financeira | 
 | :-:       | :-:            |
-| **Título** | Visualizar informações detalhadas do histórico de movimentação financeira | 
+| **Título** | [IS09](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) | 
 | **Objetivo** | Permitir que o usuário consulte informações detalhadas de suas movimentações financeiras passadas | 
 | **Contexto** | Local: Página "Movimentações" (a ser implementada no aplicativo) <br> Tempo: A qualquer momento <br> Pré-condição: O usuário deve estar autenticado no sistema e deve possuir movimentações financeiras anteriores registradas | 
 | **Atores** | Usuário do aplicativo FGTS | 
 | **Recursos** | Conexão com a internet <br> Smartphone com o aplicativo FGTS instalado | 
-| **Episódios** | Usuário abre o aplicativo e faz login. <br> Usuário acessa a página "Movimentações". <br> Aplicativo exibe uma lista de movimentações. <br> Usuário seleciona uma movimentação especifíca. <br> Aplicativo exibe os detalhes da movimentação. | 
+| **Episódios** | 1. Usuário abre o aplicativo e faz login. <br> 2. Usuário acessa a página "Movimentações". <br> 3. Aplicativo exibe uma lista de movimentações. <br> 4. Usuário seleciona uma movimentação especifíca. <br> 5. Aplicativo exibe os detalhes da movimentação. | 
 | **Restrições** | O usuário precisa estar conectado à internet. <br> O usuário precisa ter movimentações financeira registradas. <br> O aplicativo precisa ter acesso aos dados de movimentação do usuário. | 
 | **Exceção** | Falha na conexão com a internet. <br> Caso não haja movimentações registradas, o aplicativo deve exibir uma mensagem informando: "Nenhuma movimentação encontrada." | 
 | **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | 
@@ -236,12 +238,12 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 | Cenário 8 | Filtrar extrato por data | 
 | :-:       | :-:            |
-| **Título** | Filtrar extrato por data (mês e ano) | 
+| **Título** | [IS10](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) | 
 | **Objetivo** | Permitir que o usuário selecione um mês e ano específico para visualizar os extratos correspondentes. | 
 | **Contexto** | Local: Página "Movimentações" (a ser implementada no aplicativo) <br> Tempo: A qualquer momento <br> Pré-condição: O usuário deve estar autenticado no sistema e deve possuir movimentações financeiras registradas em diferentes datas | 
 | **Atores** | Usuário do aplicativo FGTS | 
 | **Recursos** | Conexão com a internet <br> Smartphone com o aplicativo FGTS instalado | 
-| **Episódios** |  Usuário abre o aplicativo e faz login. <br> Usuário acessa a página "Movimentações". <br> Aplicativo exibe uma lista de movimentações. <br> Usuário clica no filtro de data. <br> Usuário seleciona o mês e o ano desejado. <br> Aplicativo filtra e exibe apenas os extratos correspondentes ao período selecionado. | 
+| **Episódios** |  1. Usuário abre o aplicativo e faz login. <br> 2. Usuário acessa a página "Movimentações". <br> 3. Aplicativo exibe uma lista de movimentações. <br> 4. Usuário clica no filtro de data. <br> 5. Usuário seleciona o mês e o ano desejado. <br> 6. Aplicativo filtra e exibe apenas os extratos correspondentes ao período selecionado. | 
 | **Restrições** | O filtro deve permitir selecionar apenas períodos válidos (mês e ano) | 
 | **Exceção** | Falha na conexão com a internet. <br> Caso não haja extratos registrados no período selecionado, o aplicativo deve exibir uma mensagem informando: "Nunhum extrato encontrado para o período selecionado" | 
 | **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | 
@@ -256,18 +258,20 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <center>
 
-| **Cenário 9**               | **Cadastro de mais de uma conta bancária** |
-|----------------------------|---------------------------------------------|
-| **Objetivo**               | <p>Permitir que o usuário cadastre uma ou mais contas bancárias de diferentes instituições financeiras.</p> |
-| **Contexto**               | <p>Local: Casa do Usuário</p> <p>Tempo: Durante o dia</p> <p>Pré-condições: Ter o aplicativo FGTS instalado, estar logado em sua conta, ter os dados da(s) conta(s) bancária(s) em mãos e acesso à internet.</p> |
-| **Atores**                 | <p>Usuário do App FGTS</p> |
-| **Recursos**               | <p>Aplicativo FGTS instalado</p> <p>Conexão com a internet</p> <p>Dados da(s) conta(s) bancária(s)</p> |
-| **Episódios**              | <p>1. O usuário acessa e realiza login no aplicativo.</p> <p>2. Acessa a seção "Meus Dados" no menu principal.</p> <p>3. Seleciona a opção "Conta Bancária".</p> <p>4. Clica em "Cadastrar nova conta bancária".</p> <p>5. O sistema solicita os dados da nova conta: banco, agência, número da conta, tipo de conta e titularidade.</p> <p>6. O usuário preenche os dados e confirma o cadastro.</p> <p>7. O sistema valida as informações e salva a nova conta associada ao usuário.</p> <p>8. O usuário repete o processo para adicionar outra conta de uma instituição diferente.</p> <p>9. O sistema exibe a lista completa de contas cadastradas.</p> |
-| **Restrições**             | <p>O sistema não deve permitir contas duplicadas (mesmo banco, agência e número).</p> <p>Deve haver validação de CPF/titularidade.</p> |
-| **Exceção**                | <p>Se os dados da conta forem inválidos ou incompletos, o sistema exibirá uma mensagem de erro orientando a correção.</p> |
-| **Autor**                  | [Danielle Soares](https://github.com/danielle-soaress) |
+| **Cenário 9** | **Cadastro de mais de uma conta bancária** | 
+| :-:           | :-:                                        |
+| **Título**    | [IS12](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) |
+| **Objetivo**  | Permitir que o usuário cadastre uma ou mais contas bancárias de diferentes instituições financeiras. |
+| **Contexto**  | Local: Casa do Usuário <br> Tempo: Durante o dia <br> Pré-condições: Ter o aplicativo FGTS instalado, estar logado em sua conta, ter os dados da(s) conta(s) bancária(s) em mãos e acesso à internet. |
+| **Atores**    | Usuário do App FGTS |
+| **Recursos**  | Aplicativo FGTS instalado <br> Conexão com a internet <br> Dados da(s) conta(s) bancária(s) |
+| **Episódios** | 1. O usuário acessa e realiza login no aplicativo. <br> 2. Acessa a seção "Meus Dados" no menu principal. <br> 3. Seleciona a opção "Conta Bancária". <br> 4. Clica em "Cadastrar nova conta bancária". <br> 5. O sistema solicita os dados da nova conta: banco, agência, número da conta, tipo de conta e titularidade. <br> 6. O usuário preenche os dados e confirma o cadastro. <br> 7. O sistema valida as informações e salva a nova conta associada ao usuário. <br> 8. O usuário repete o processo para adicionar outra conta de uma instituição diferente. <br> 9. O sistema exibe a lista completa de contas cadastradas. |
+| **Restrições** | O sistema não deve permitir contas duplicadas (mesmo banco, agência e número). <br> Deve haver validação de CPF/titularidade. |
+| **Exceção**   | Se os dados da conta forem inválidos ou incompletos, o sistema exibirá uma mensagem de erro orientando a correção. |
+| **Autor**     | [Danielle Soares](https://github.com/danielle-soaress) |
 
 </center>
+
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Danielle Soares](https://github.com/danielle-soaress)</i> </p></font>
 
@@ -279,7 +283,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 | Cenário 10 | Contato com Assistente via Chat |  
 | :-:       | :-:            |  
-| **Título** | IS13 |  
+| **Título** | [IS13](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) |  
 | **Objetivo** | Permitir que o usuário entre em contato com um assistente via chat para tirar dúvidas ou obter suporte relacionado ao FGTS. |  
 | **Contexto** | O usuário deseja esclarecer dúvidas ou obter ajuda durante a navegação no aplicativo do FGTS. |  
 | **Atores** | Usuário, Sistema do FGTS, Assistente Virtual |  
@@ -301,7 +305,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 | Cenário 11 | Busca de Funcionalidades e Informações |  
 | :-:       | :-:            |  
-| **Título** | IS14 |  
+| **Título** | [IS14](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) |  
 | **Objetivo** | Permitir que o usuário localize rapidamente funcionalidades ou informações no aplicativo por meio de um campo de busca. |  
 | **Contexto** | O usuário deseja encontrar uma funcionalidade específica ou obter informações sem navegar por várias seções do aplicativo. |  
 | **Atores** | Usuário, Sistema do FGTS |  
@@ -367,7 +371,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 | Cenário 14 | Ajuste do Tamanho das Fontes na Interface | 
 | :-:       | :-:            |
-| **Título** | ST08 | 
+| **Título** | [ST08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais) | 
 | **Objetivo** | Permitir que o usuário ajuste o tamanho das fontes exibidas na interface do aplicativo para melhorar a acessibilidade e a usabilidade. | 
 | **Contexto** | Usuário acessa o aplicativo e deseja aumentar ou diminuir o tamanho da fonte para melhor visualização do conteúdo. | 
 | **Atores** | Usuário do aplicativo FGTS | 
@@ -404,3 +408,4 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 | `1.7` | 17/05/2025 | Adição dos cenários 04 e 05 + correção de formatação | [Victor Pontual](https://github.com/VictorPontual) | [Maria Eduarda](https://github.com/dudaa28) |
 | `1.8` | 17/05/2025 | Adição dos cenários 03 e 14 | [Maria Eduarda](https://github.com/dudaa28) | - |
 | `1.9` | 17/05/2025 | Atualização do Documento | [Maria Eduarda](https://github.com/dudaa28) | - |
+| `2.0` | 17/05/2025 | Atualizações para melhoria do Documento | [Maria Eduarda](https://github.com/dudaa28) | - |
