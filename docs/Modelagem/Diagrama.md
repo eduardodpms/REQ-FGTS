@@ -2,8 +2,24 @@
 
 ## Introdução
 
+O Diagrama de Casos de Uso representa, de forma clara e objetiva, as **funcionalidades essenciais** do aplicativo **FTGS**, a partir da interação entre o sistema e seus usuários.
+
+Utilizando a notação UML, este diagrama comportamental identifica os **atores** (usuários ou sistemas externos) e os **casos de uso** (ações que geram valor para o usuário), mostrando como o aplicativo deve se comportar para atender às suas necessidades.
+
+No caso do FTGS, o foco está em mapear **quem utiliza o sistema e quais ações podem realizar**, como acessar funcionalidades, enviar informações ou visualizar conteúdos.
+
+Quando necessário, cada caso de uso pode ser detalhado em uma **Especificação de Casos de Uso**, para descrever o fluxo completo da funcionalidade.
+
 
 ## Metodologia
+
+Todo o processo de elaboração do Diagrama de Casos de Uso do aplicativo **FTGS** está sendo desenvolvido pelos próprios membros da equipe, com base nos conceitos discutidos em sala de aula e nos materiais disponibilizados pelo professor.
+
+A ferramenta utilizada para construção do diagrama foi o [Canva](https://www.canva.com/design/DAGnSj5NRKw/ecAEdqGBVbNgZvm2sLMvKQ/edit), escolhida por sua facilidade de uso e clareza na apresentação visual. Além disso, o modelo segue as diretrizes da **Notação** [UML](https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf) , conforme exemplificado nos slides do professor.
+
+O diagrama passou por uma **validação inicial junto ao cliente (a definir)**, garantindo que as funcionalidades levantadas estejam alinhadas com as necessidades esperadas.
+
+Abaixo, segue a tabela com os membros participantes do processo de construção do trabalho:
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
@@ -45,8 +61,8 @@
     </tr>
     <tr>
       <td> Maria Eduarda </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 18/05/2025 </td>
+      <td> 17:00 </td>
     </tr>
     <tr>
       <td> Victor Pontual </td>
@@ -63,9 +79,56 @@
 
 ## Diagrama de Casos de Uso
 
-## Especialização dos Casos de Uso
+### Descrição
 
-## Caso de Uso 1 (EN02)
+No contexto do aplicativo **FGTS**, o **Diagrama de Casos de Uso** é uma ferramenta visual que mostra **como os usuários interagem com o sistema** e **quais funcionalidades o aplicativo deve oferecer**.
+
+Esse tipo de diagrama é importante porque permite entender, de forma clara e rápida, **o que o usuário pode fazer no aplicativo**, facilitando o planejamento, o desenvolvimento e a comunicação entre a equipe e o cliente.
+
+### Atores
+
+**Atores** são os usuários ou sistemas que interagem com o aplicativo **FGTS**. Um ator pode ser uma **pessoa**, uma **organização** ou até mesmo um **sistema externo** que se conecta ao aplicativo para realizar ou receber alguma ação.
+
+No caso do aplicativo FGTS, os atores representam os elementos externos que produzem ou consomem dados do sistema. São eles que iniciam os casos de uso, como consultar saldo, solicitar saque ou atualizar informações. Segue um exemplo:
+
+#### Usuário
+Ator principal que representa o trabalhador com conta vinculada ao FGTS. Ele:
+
+- Consulta o saldo disponível em sua conta do FGTS.
+- Visualiza o extrato detalhado das movimentações.
+- Solicita saques, quando permitido pelas regras do fundo.
+- Atualiza informações cadastrais como endereço e dados bancários.
+
+
+#### Sistema da Caixa Econômica Federal
+Ator secundário representando um sistema externo. Ele:
+
+- Valida os dados de acesso e autenticação do usuário.
+- Atualiza em tempo real as informações de saldo e extrato.
+- Autoriza ou recusa solicitações de saque, conforme regras do FGTS.
+- Envia notificações automáticas ao aplicativo com base em eventos relevantes (ex: novo depósito, liberação de saque).
+
+#### Administrador do Sistema
+Ator secundário que representa a equipe responsável pela manutenção técnica do sistema. Ele:
+
+- Gerencia atualizações do aplicativo.
+- Realiza manutenção nos serviços internos.
+- Corrige falhas de integração ou inconsistência de dados.
+- Controla a disponibilidade e desempenho da aplicação.
+
+### Diagramas
+ (colcoar aqui os diagramas realizados)
+
+## Especificação dos Casos de Uso
+
+Esta seção apresenta a **especificação dos principais casos de uso** relacionados ao aplicativo **FGTS**. O objetivo é descrever, de forma detalhada, como cada funcionalidade deve se comportar, considerando as interações entre os atores (usuário, sistema da Caixa e administrador) e o sistema.
+
+As especificações foram elaboradas com base nos **requisitos funcionais ainda não implementados**, identificados durante a análise do sistema. Cada integrante da equipe foi responsável por desenvolver as descrições de acordo com os critérios discutidos em grupo e orientados pelo material da disciplina.
+
+As informações estão organizadas em campos como **Nome**, **Descrição**, **Atores**, **Pré-Condições**, **Pós-Condições**, além dos **Fluxos Principal, Alternativo e de Exceção**, seguindo a estrutura padrão da [UML](https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf) para casos de uso.
+
+
+### Caso de Uso 1 (EN02)
 
 <font size="3"><p style="text-align: center">Tabela 2: Visualizar Status Comentado do Saque </p></font>
 
@@ -105,24 +168,26 @@
 | **Autor**                       | [Enzo Emir](https://github.com/EnzoEmir) |
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Enzo Emir](https://github.com/EnzoEmir) </i></b></p></font>
 
-## Caso de Uso 3 (ENXX)
+## Caso de Uso 3 (EN04)
 
-<font size="3"><p style="text-align: center">Tabela 4: Nome do caso de uso </p></font>
+<font size="3"><p style="text-align: center">Tabela 4: Acessar Suporte via Chatbot </p></font>
 
-| UC01 | Descrição |
-| ----- | ---------- |
-| Data da criação |  |
-| Rastreabilidade |  |
-| Atores |  |
-| Ação |  |
-| Pré-condições |  |
-| Fluxo básico |  |
-| Fluxos alternativos |  |
-| Fluxo de exceção |  |
-| Pós-condições |  |
-| Autor | [Maria Eduarda](https://github.com/dudaa28) |
+| **Elemento**                     | **Descrição** |
+|---------------------------------|---------------|
+| **Nome do Caso de Uso**          | Acessar Suporte via Chatbot |
+| **Ator Principal**               | Usuário |
+| **Atores Secundários**           | Sistema FGTS, Serviço de Chatbot |
+| **Objetivo**                    | Permitir que o usuário utilize um canal de suporte automatizado (chatbot) para esclarecer dúvidas sobre o aplicativo e serviços do FGTS. |
+| **Pré-condições**               | • Usuário deve estar autenticado no aplicativo.<br>• Serviço de chatbot disponível e operacional. |
+| **Fluxo Principal de Eventos**  | 1. Usuário acessa a seção “Suporte” no aplicativo.<br>2. O sistema exibe a interface do chatbot.<br>3. Usuário digita ou seleciona uma dúvida.<br>4. Chatbot processa e retorna resposta.<br>5. Usuário pode continuar a conversa ou encerrar. |
+| **Fluxos Alternativos**         | - Usuário opta por enviar dúvida para atendimento humano.<br>- Sistema registra solicitação e informa prazo de resposta. |
+| **Exceções**                   | • Chatbot indisponível:<br>- Sistema exibe mensagem de erro.<br>- Sugere canais alternativos (telefone, e-mail).<br>• Falha na conexão:<br>- Sistema informa erro e solicita nova tentativa. |
+| **Pós-condições**               | • Usuário recebeu resposta ou encaminhamento da dúvida.<br>• Interação registrada para análise futura. |
+| **Autor**                      | [Maria Eduarda](https://github.com/dudaa28) |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Maria Eduarda](https://github.com/dudaa28) </i></b></p></font>
+
+
 
 ## Caso de Uso 4 (IS06)
 
@@ -317,22 +382,22 @@
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Eduardo de Pina](https://github.com/eduardodpms) </i></b></p></font>
 
-## Caso de Uso 14 (ISXX)
+## Caso de Uso 14 (ST08)
 
-<font size="3"><p style="text-align: center">Tabela 15: Nome do caso de uso </p></font>
+<font size="3"><p style="text-align: center">Tabela 15: Acessar Suporte via Chatbot </p></font>
 
-| UC01 | Descrição |
-| ----- | ---------- |
-| Data da criação |  |
-| Rastreabilidade |  |
-| Atores |  |
-| Ação |  |
-| Pré-condições |  |
-| Fluxo básico |  |
-| Fluxos alternativos |  |
-| Fluxo de exceção |  |
-| Pós-condições |  |
-| Autor | [Maria Eduarda](https://github.com/dudaa28) |
+| **Elemento**                     | **Descrição** |
+|----------------------------------|----------------|
+| **Nome do Caso de Uso**          | Ajustar Tamanho da Fonte |
+| **Ator Principal**               | Usuário |
+| **Atores Secundários**           | Sistema FGTS |
+| **Objetivo**                     | Permitir que o usuário personalize o tamanho das fontes na interface do aplicativo para melhor acessibilidade e leitura. |
+| **Pré-condições**                | - O usuário deve estar autenticado no aplicativo.<br>- O sistema deve oferecer suporte a variações de tamanho de fonte na interface. |
+| **Fluxo Principal de Eventos**   | 1. O usuário acessa as configurações do aplicativo.<br>2. Seleciona a opção "Ajuste de Fonte".<br>3. Escolhe o tamanho de fonte desejado (pequeno, médio, grande).<br>4. O sistema aplica o novo tamanho de fonte em toda a interface do aplicativo.<br>5. O sistema confirma a atualização visual com feedback ao usuário. |
+| **Fluxos Alternativos**          | - O usuário testa visualmente diferentes tamanhos antes de confirmar.<br>- O usuário opta por restaurar o tamanho padrão. |
+| **Exceções**                     | - Tamanho de fonte inválido ou incompatível:<br>• O sistema exibe mensagem de erro e mantém o tamanho anterior.<br>- Erro de salvamento nas preferências:<br>• Sistema alerta e solicita nova tentativa. |
+| **Pós-condições**                | - O tamanho de fonte é atualizado e refletido na interface.<br>- Preferência é salva para sessões futuras. |
+| **Autor**                        | [Maria Eduarda](https://github.com/dudaa28) |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Maria Eduarda](https://github.com/dudaa28) </i></b></p></font>
 
@@ -349,4 +414,5 @@
 | `1.3` | 17/05/2025 | Adição dos casos de uso 07 e 08 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Victor Pontual](https://github.com/VictorPontual) |
 | `1.4` | 17/05/2025 | Adição dos casos de uso 05 e 06 | [Victor Pontual](https://github.com/VictorPontual) | - |
 | `1.5` | 17/05/2025 | Adição dos casos de uso 09 e 12 | [Danielle](https://github.com/danielle-soaress) | [Victor Pontual](https://github.com/VictorPontual) |
-| `1.6` | 18/05/2025 | Correção de erros e padronização dos tópicos | [Victor Pontual](https://github.com/VictorPontual) | - |
+| `1.6` | 18/05/2025 | Correção de erros e padronização dos tópicos | [Victor Pontual](https://github.com/VictorPontual) | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.7` | 18/05/2025 | Adição de Casos de Uso e Correções | [Maria Eduarda](https://github.com/dudaa28) | - |

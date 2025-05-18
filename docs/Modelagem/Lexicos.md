@@ -86,8 +86,8 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
     </tr>
     <tr>
       <td> Maria Eduarda </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 17/05/2025 </td>
+      <td> 22:00 </td>
     </tr>
     <tr>
       <td> Victor Pontual </td>
