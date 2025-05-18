@@ -10,7 +10,9 @@ A Entrega 3 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 
 ---
 
-
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 
 ---
 
@@ -35,21 +37,21 @@ A Entrega 3 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 | Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
 | ***07:*** Os cenários possuem títulos, metas/objetivo, contexto, atores, recursos, exceção e episódios? <a id="REF1" href="#anchor_1">1.</a>| [Danielle](https://github.com/danielle-soaress) |  |  |
-| ***08:*** Há a identificação clara do ambiente ou contexto da situação que motiva os objetivos e ações do cenário? <a id="REF2" href="#anchor_2">2.</a> | [Enzo](https://github.com/EnzoEmir) |  |  |![][image3] |  |  |
-| ***9:*** Os cenários descrevem claramente o comportamento e as experiências dos atores envolvidos? <a id="REF2" href="#anchor_2">2.</a> | [Leticia](https://github.com/Leticia-Arisa-K-Higa) |  |  | ![][image2]  |  |  |
-| ***10:*** Cada cenário possui um objetivo principal claramente definido? <a id="REF2" href="#anchor_2">2.</a>| [Leticia](https://github.com/Leticia-Arisa-K-Higa)  |  |  | ![][image2]  |  |  |
-| ***11:*** Os cenários incluem pelo menos um ator principal? <a id="REF2" href="#anchor_2">2.</a>| [Leticia](https://github.com/Leticia-Arisa-K-Higa)  |  |  | ![][image2]  |  |  |
-| ***12:*** Cada cenário possui um título que descreve brevemente a situação apresentada? <a id="REF2" href="#anchor_2">2.</a> | [Victor](https://github.com/VictorPontual) |  |  | ![][image11]  |  |  |
+| ***08:*** Há a identificação clara do ambiente ou contexto da situação que motiva os objetivos e ações do cenário? <a id="REF2" href="#anchor_2">2.</a> | [Enzo](https://github.com/EnzoEmir) |  |  |  |  |  |
+| ***9:*** Os cenários descrevem claramente o comportamento e as experiências dos atores envolvidos? <a id="REF2" href="#anchor_2">2.</a> | [Leticia](https://github.com/Leticia-Arisa-K-Higa) |  |  |  |  |  |
+| ***10:*** Cada cenário possui um objetivo principal claramente definido? <a id="REF2" href="#anchor_2">2.</a>| [Leticia](https://github.com/Leticia-Arisa-K-Higa)  |  |  |  |  |  |
+| ***11:*** Os cenários incluem pelo menos um ator principal? <a id="REF2" href="#anchor_2">2.</a>| [Leticia](https://github.com/Leticia-Arisa-K-Higa)  |  |  |  |  |  |
+| ***12:*** Cada cenário possui um título que descreve brevemente a situação apresentada? <a id="REF2" href="#anchor_2">2.</a> | [Victor](https://github.com/VictorPontual) |  |  |  |  |  |
 
 
 ### ✅ Léxicos
 
 | Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-| ***13:*** Os léxicos possuem ligações entre si por meio de hiperlinks? <a id="REF1" href="#anchor_1">1.</a> | [Victor](https://github.com/VictorPontual)  |  |  |![][image4]  |  |  |
-| ***14:*** Os léxicos estão classificados adequadamente como verbo, objeto ou estado? <a id="REF1" href="#anchor_1">1.</a> | [Marcelo](https://github.com/MM4k) |  |  | ![][image5] |  |  |
-| ***15:*** Os léxicos descrevem o impacto do símbolo na aplicação, ou o impacto da aplicação sobre o termo? <a id="REF3" href="#anchor_3">3.</a> | [Maria](https://github.com/dudaa28) |  |  | ![][image6] |  |  |
-| ***16:*** Cada léxico apresenta claramente a noção do termo? | [Leticia](https://github.com/Leticia-Arisa-K-Higa) <a id="REF3" href="#anchor_3"></a> |  |  | ![][image7] |  |  |
+| ***13:*** Os léxicos possuem ligações entre si por meio de hiperlinks? <a id="REF1" href="#anchor_1">1.</a> | [Victor](https://github.com/VictorPontual)  |  |  |  |  |  |
+| ***14:*** Os léxicos estão classificados adequadamente como verbo, objeto ou estado? <a id="REF1" href="#anchor_1">1.</a> | [Marcelo](https://github.com/MM4k) |  |  |  |  |  |
+| ***15:*** Os léxicos descrevem o impacto do símbolo na aplicação, ou o impacto da aplicação sobre o termo? <a id="REF3" href="#anchor_3">3.</a> | [Maria](https://github.com/dudaa28) |  |  |  |  |  |
+| ***16:*** Cada léxico apresenta claramente a noção do termo? | [Leticia](https://github.com/Leticia-Arisa-K-Higa) <a id="REF3" href="#anchor_3"></a> |  |  |  |  |  |
 
 
 
@@ -57,13 +59,13 @@ A Entrega 3 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 
 | Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-| ***17:*** No diagrama de caso de uso, o ator principal está posicionado do lado esquerdo do sistema? <a id="REF1" href="#anchor_1">1.</a>| [Enzo](https://github.com/EnzoEmir) |  |  | ![][image11] |  |  |
-| ***18:*** No diagrama de caso de uso, o ator secundário está posicionado do lado direito do sistema? <a id="REF4" href="#anchor_4">4.</a>| [Enzo](https://github.com/EnzoEmir) |  |  | ![][image11]  |  |  |
-| ***19:*** No diagrama de caso de uso, os atores estão posicionados fora da caixa que representa o sistema? <a id="REF1" href="#anchor_1">1.</a>| [Enzo](https://github.com/EnzoEmir) |  |  | ![][image11]  |  |  |
-| ***20:*** O diagrama de caso de uso contém pelo menos um caso de uso que utiliza pontos de extensão? <a id="REF1" href="#anchor_1">1.</a> | [Marcelo](https://github.com/MM4k) |  |  | ![][image11]  |  |  |
-| ***21:*** Houve participação do cliente na validação do diagrama de caso de uso? <a id="REF1" href="#anchor_1">1.</a> | [Marcelo](https://github.com/MM4k) |  |  | ![][image11]  |  |  |
-| ***22:*** No diagrama de casos de uso, todos os atores estão relacionados com pelo menos um caso de uso? <a id="REF4" href="#anchor_4">4.</a>| [Victor](https://github.com/VictorPontual) |  |  | ![][image11]  |  |  |
-| ***23:*** No diagrama de casos de uso, todos os casos de uso estão posicionados dentro da caixa que representa o sistema? <a id="REF4" href="#anchor_4">4.</a>| [Victor](https://github.com/VictorPontual) |  |  | ![][image11]  |  |  |
+| ***17:*** No diagrama de caso de uso, o ator principal está posicionado do lado esquerdo do sistema? <a id="REF1" href="#anchor_1">1.</a>| [Enzo](https://github.com/EnzoEmir) |  |  |  |  |  |
+| ***18:*** No diagrama de caso de uso, o ator secundário está posicionado do lado direito do sistema? <a id="REF4" href="#anchor_4">4.</a>| [Enzo](https://github.com/EnzoEmir) |  |  |  |  |  |
+| ***19:*** No diagrama de caso de uso, os atores estão posicionados fora da caixa que representa o sistema? <a id="REF1" href="#anchor_1">1.</a>| [Enzo](https://github.com/EnzoEmir) |  |  |  |  |  |
+| ***20:*** O diagrama de caso de uso contém pelo menos um caso de uso que utiliza pontos de extensão? <a id="REF1" href="#anchor_1">1.</a> | [Marcelo](https://github.com/MM4k) |  |  |  |  |  |
+| ***21:*** Houve participação do cliente na validação do diagrama de caso de uso? <a id="REF1" href="#anchor_1">1.</a> | [Marcelo](https://github.com/MM4k) |  |  |  |  |  |
+| ***22:*** No diagrama de casos de uso, todos os atores estão relacionados com pelo menos um caso de uso? <a id="REF4" href="#anchor_4">4.</a>| [Victor](https://github.com/VictorPontual) |  |  |  |  |  |
+| ***23:*** No diagrama de casos de uso, todos os casos de uso estão posicionados dentro da caixa que representa o sistema? <a id="REF4" href="#anchor_4">4.</a>| [Victor](https://github.com/VictorPontual) |  |  |  |  |  |
 
 
 
@@ -71,8 +73,8 @@ A Entrega 3 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 
 | Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-| ***24:*** A especificação suplementar segue o modelo FURPS+? <a id="REF1" href="#anchor_1">1.</a>| [Marcelo](https://github.com/MM4k) |  |  | ![][image11]  |  |  |
-| ***25:*** A especificação suplementar define requisitos de tempo de resposta na seção de desempenho? <a id="REF1" href="#anchor_1">1.</a>| [Maria](https://github.com/dudaa28) |  |  | ![][image11]  |  |  |
+| ***24:*** A especificação suplementar segue o modelo FURPS+? <a id="REF1" href="#anchor_1">1.</a>| [Marcelo](https://github.com/MM4k) |  |  |  |  |  |
+| ***25:*** A especificação suplementar define requisitos de tempo de resposta na seção de desempenho? <a id="REF1" href="#anchor_1">1.</a>| [Maria](https://github.com/dudaa28) |  |  |  |  |  |
 | ***26:*** A especificação suplementar define os ambientes ou plataformas de execução do aplicativo? <a id="REF1" href="#anchor_1">1.</a>| [Maria](https://github.com/dudaa28) |  |  |
 | ***27:*** Na especificação suplementar todos os requisitos não funcionais são testáveis/verificáveis? <a id="REF1" href="#anchor_1">1.</a>| [Maria](https://github.com/dudaa28) |  |  |
 
