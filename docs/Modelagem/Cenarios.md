@@ -59,8 +59,8 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
     </tr>
     <tr>
       <td> Victor Pontual </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 17/05/2025 </td>
+      <td> 17:00 </td>
     </tr>
   </tbody>
 </table>
