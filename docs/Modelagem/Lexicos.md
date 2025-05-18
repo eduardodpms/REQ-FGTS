@@ -102,13 +102,17 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
 
 <p style="text-align: center; font-size: 16px;">Fonte: <i>Leticia Arisa</i></p>
 
+---
+
 ## Requisito EN02
 
-## L01: Consultar Status
+---
+
+### L01: Consultar Status
 
 O léxico L01 utiliza o requisito funcional EN02 (O sistema deve permitir que o usuário visualize o status do saque com comentários explicativos). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela 1: Léxico L01 – Consultar Status</p></font>
+<font size="3"><p style="text-align: center">Tabela 4: Léxico L01 – Consultar Status</p></font>
 
 <center>
 
@@ -127,11 +131,11 @@ O léxico L01 utiliza o requisito funcional EN02 (O sistema deve permitir que o 
 
 ---
 
-## L02: Status do Saque
+### L02: Status do Saque
 
 O léxico L02 utiliza o requisito funcional EN02 (O sistema deve permitir que o usuário visualize o status do saque com comentários explicativos). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela 2: Léxico L02 – Status do Saque</p></font>
+<font size="3"><p style="text-align: center">Tabela 5: Léxico L02 – Status do Saque</p></font>
 
 <center>
 
@@ -150,11 +154,11 @@ O léxico L02 utiliza o requisito funcional EN02 (O sistema deve permitir que o 
 
 ---
 
-## L03: Comentário Explicativo
+### L03: Comentário Explicativo
 
 O léxico L03 utiliza o requisito funcional EN02 (O sistema deve permitir que o usuário visualize o status do saque com comentários explicativos). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela 3: Léxico L03 – Comentário Explicativo</p></font>
+<font size="3"><p style="text-align: center">Tabela 6: Léxico L03 – Comentário Explicativo</p></font>
 
 <center>
 
@@ -173,11 +177,11 @@ O léxico L03 utiliza o requisito funcional EN02 (O sistema deve permitir que o 
 
 ---
 
-## L04: Saque em Análise
+### L04: Saque em Análise
 
 O léxico L04 utiliza o requisito funcional EN02 (O sistema deve permitir que o usuário visualize o status do saque com comentários explicativos). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela 4: Léxico L04 – Saque em Análise</p></font>
+<font size="3"><p style="text-align: center">Tabela 7: Léxico L04 – Saque em Análise</p></font>
 
 <center>
 
@@ -196,11 +200,11 @@ O léxico L04 utiliza o requisito funcional EN02 (O sistema deve permitir que o 
 
 ---
 
-## L05: Saque Aprovado
+### L05: Saque Aprovado
 
 O léxico L05 utiliza o requisito funcional EN02 (O sistema deve permitir que o usuário visualize o status do saque com comentários explicativos). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela 5: Léxico L05 – Saque Aprovado</p></font>
+<font size="3"><p style="text-align: center">Tabela 8: Léxico L05 – Saque Aprovado</p></font>
 
 <center>
 
@@ -219,11 +223,11 @@ O léxico L05 utiliza o requisito funcional EN02 (O sistema deve permitir que o 
 
 ---
 
-## L06: Saque Efetuado
+### L06: Saque Efetuado
 
 O léxico L06 utiliza o requisito funcional EN02 (O sistema deve permitir que o usuário visualize o status do saque com comentários explicativos). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela 6: Léxico L06 – Saque Efetuado</p></font>
+<font size="3"><p style="text-align: center">Tabela 9: Léxico L06 – Saque Efetuado</p></font>
 
 <center>
 
@@ -242,11 +246,11 @@ O léxico L06 utiliza o requisito funcional EN02 (O sistema deve permitir que o 
 
 ---
 
-## L07: Saque Pendente
+### L07: Saque Pendente
 
 O léxico L07 utiliza o requisito funcional EN02 (O sistema deve permitir que o usuário visualize o status do saque com comentários explicativos). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela 7: Léxico L07 – Saque Pendente</p></font>
+<font size="3"><p style="text-align: center">Tabela 10: Léxico L07 – Saque Pendente</p></font>
 
 <center>
 
@@ -265,11 +269,11 @@ O léxico L07 utiliza o requisito funcional EN02 (O sistema deve permitir que o 
 
 ---
 
-## L08: Saque Cancelado
+### L08: Saque Cancelado
 
 O léxico L08 utiliza o requisito funcional EN02 (O sistema deve permitir que o usuário visualize o status do saque com comentários explicativos). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela 8: Léxico L08 – Saque Cancelado</p></font>
+<font size="3"><p style="text-align: center">Tabela 11: Léxico L08 – Saque Cancelado</p></font>
 
 <center>
 
@@ -288,11 +292,11 @@ O léxico L08 utiliza o requisito funcional EN02 (O sistema deve permitir que o 
 
 ---
 
-## L09: Status Visualizado
+### L09: Status Visualizado
 
 O léxico L09 utiliza o requisito funcional EN02 (O sistema deve permitir que o usuário visualize o status do saque com comentários explicativos). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela 9: Léxico L09 – Status Visualizado</p></font>
+<font size="3"><p style="text-align: center">Tabela 12: Léxico L09 – Status Visualizado</p></font>
 
 <center>
 
@@ -309,16 +313,17 @@ O léxico L09 utiliza o requisito funcional EN02 (O sistema deve permitir que o 
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
+---
 
 ## Requisito EN03
 
 ---
 
-## L10: Visualizar Data Prevista
+### L10: Visualizar Data Prevista
 
 O léxico L10 utiliza o requisito funcional EN03 (O sistema deve permitir que o usuário visualize a data prevista de liberação dos valores). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela 10: Léxico L10 – Visualizar Data Prevista</p></font>
+<font size="3"><p style="text-align: center">Tabela 13: Léxico L10 – Visualizar Data Prevista</p></font>
 
 <center>
 
@@ -337,11 +342,11 @@ O léxico L10 utiliza o requisito funcional EN03 (O sistema deve permitir que o 
 
 ---
 
-## L11: Data Prevista
+### L11: Data Prevista
 
 O léxico L11 utiliza o requisito funcional EN03 (O sistema deve permitir que o usuário visualize a data prevista de liberação dos valores). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela 11: Léxico L11 – Data Prevista</p></font>
+<font size="3"><p style="text-align: center">Tabela 14: Léxico L11 – Data Prevista</p></font>
 
 <center>
 
@@ -360,11 +365,11 @@ O léxico L11 utiliza o requisito funcional EN03 (O sistema deve permitir que o 
 
 ---
 
-## L12: Notificação
+### L12: Notificação
 
 O léxico L12 utiliza o requisito funcional EN03 (O sistema deve permitir que o usuário visualize a data prevista de liberação dos valores). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela 12: Léxico L12 – Notificação</p></font>
+<font size="3"><p style="text-align: center">Tabela 15: Léxico L12 – Notificação</p></font>
 
 <center>
 
@@ -383,11 +388,11 @@ O léxico L12 utiliza o requisito funcional EN03 (O sistema deve permitir que o 
 
 ---
 
-## L13: Data Visualizada
+### L13: Data Visualizada
 
 O léxico L13 utiliza o requisito funcional EN03 (O sistema deve permitir que o usuário visualize a data prevista de liberação dos valores). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela 13: Léxico L13 – Data Visualizada</p></font>
+<font size="3"><p style="text-align: center">Tabela 16: Léxico L13 – Data Visualizada</p></font>
 
 <center>
 
@@ -404,15 +409,18 @@ O léxico L13 utiliza o requisito funcional EN03 (O sistema deve permitir que o 
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
+---
 
 ## Requisito EN04
 
-## L14: Oferecer Canal de Suporte
+---
 
-Os léxicos apresentados a seguir (Tabelas L14 e L15) foram construidos a partir do requisito funcional não implementado que propõe que o aplicativo ofereça um canal de suporte ou chatbot para esclarecer dúvidas dos usuários ([EN04](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais)). Os termos selecionados refletem ações e objetos associados à comunicação entre usuário e sistema, além de aspectos da assistência virtual.
+### L14: Oferecer Canal de Suporte
+
+Os léxicos apresentados a seguir (Tabelas 17 e 18) foram construidos a partir do requisito funcional não implementado que propõe que o aplicativo ofereça um canal de suporte ou chatbot para esclarecer dúvidas dos usuários ([EN04](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais)). Os termos selecionados refletem ações e objetos associados à comunicação entre usuário e sistema, além de aspectos da assistência virtual.
 
 
-<font size="3"><p style="text-align: center">Tabela 14: Léxico 14 – Oferecer Canal de Suporte (L14)</p></font>
+<font size="3"><p style="text-align: center">Tabela 17: Léxico 14 – Oferecer Canal de Suporte (L14)</p></font>
 
 
 | L14 | Descrição | 
@@ -427,10 +435,11 @@ Os léxicos apresentados a seguir (Tabelas L14 e L15) foram construidos a partir
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Maria Eduarda](https://github.com/dudaa28)</i> </p></font>
 
+---
 
-## L15: Canal de Suporte
+### L15: Canal de Suporte
 
-<font size="3"><p style="text-align: center">Tabela 15: Léxico 15 – Canal de Suporte (L15)</p></font>
+<font size="3"><p style="text-align: center">Tabela 18: Léxico 15 – Canal de Suporte (L15)</p></font>
 
 | L15 | Descrição | 
 | :-:       | :-:            |
@@ -444,14 +453,19 @@ Os léxicos apresentados a seguir (Tabelas L14 e L15) foram construidos a partir
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
 
+---
 
 ## Requisito ST08
 
-Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional não implementado que prevê a possibilidade de ajustar o tamanho das fontes na interface do aplicativo ([ST08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais)). Os termos foram escolhidos para representar tanto ações quanto objetos e estados associados à personalização da interface e à acessibilidade, considerando a melhoria da experiência para usuários com diferentes perfis.
+---
 
-## L16: Ajustar Tamanho da Fonte
+Os léxicos listados nas Tabelas 19 a 22 têm como base o requisito funcional não implementado que prevê a possibilidade de ajustar o tamanho das fontes na interface do aplicativo ([ST08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais)). Os termos foram escolhidos para representar tanto ações quanto objetos e estados associados à personalização da interface e à acessibilidade, considerando a melhoria da experiência para usuários com diferentes perfis.
 
-<font size="3"><p style="text-align: center">Tabela 16: Léxico 16 – Ajustar Tamanho da Fonte (L16)</p></font>
+---
+
+### L16: Ajustar Tamanho da Fonte
+
+<font size="3"><p style="text-align: center">Tabela 19: Léxico 16 – Ajustar Tamanho da Fonte (L16)</p></font>
 
 | L16 | Descrição | 
 | :-:       | :-:            |
@@ -464,9 +478,11 @@ Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional 
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Maria Eduarda](https://github.com/dudaa28)</i> </p></font>
 
-## L17: Tamanho da Fonte
+---
 
-<font size="3"><p style="text-align: center">Tabela 17: Léxico 17 – Tamanho da Fonte (L17)</p></font>
+### L17: Tamanho da Fonte
+
+<font size="3"><p style="text-align: center">Tabela 20: Léxico 17 – Tamanho da Fonte (L17)</p></font>
 
 | L17 | Descrição | 
 | :-:       | :-:            |
@@ -480,10 +496,11 @@ Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional 
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Maria Eduarda](https://github.com/dudaa28)</i> </p></font>
 
+---
 
-## L18: Acessibilidade
+### L18: Acessibilidade
 
-<font size="3"><p style="text-align: center">Tabela 18: Léxico 18 – Acessibilidade (L18)</p></font>
+<font size="3"><p style="text-align: center">Tabela 21: Léxico 18 – Acessibilidade (L18)</p></font>
 
 | L18 | Descrição | 
 | :-:       | :-:            |
@@ -497,10 +514,11 @@ Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional 
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Maria Eduarda](https://github.com/dudaa28)</i> </p></font>
 
+---
 
-## L19: Interface do Aplicativo
+### L19: Interface do Aplicativo
 
-<font size="3"><p style="text-align: center">Tabela 19: Léxico 19 – Interface do Aplicativo (L19)</p></font>
+<font size="3"><p style="text-align: center">Tabela 22: Léxico 19 – Interface do Aplicativo (L19)</p></font>
 
 | L19 | Descrição | 
 | :-:       | :-:            |
@@ -514,12 +532,19 @@ Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional 
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Maria Eduarda](https://github.com/dudaa28)</i> </p></font>
 
+---
 
 ## Requisito IS06
 
-## [Cancelar Solicitação](#cancelar-solicitação)
+---
 
-| LXX           | Descrição                                                                                                                                                                     |
+### L20: Cancelar Solicitação
+
+O léxico L20 utiliza o requisito funcional IS06 (O sistema deve permitir que o usuário cancele um saque solicitado). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 23: Léxico 20 – Cancelar Solicitação (L20)</p></font>
+
+| L20           | Descrição                                                                                                                                                                     |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Termo**     | Cancelar Solicitação                                                                                                                                                          |
 | **Tipo**      | Verbo                                                                                                                                                                         |
@@ -530,9 +555,13 @@ Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional 
 
 ---
 
-## [Solicitação de Saque](#solicitação-de-saque)
+### L21: Solicitação de Saque
 
-| LXX           | Descrição                                                                                                      |
+O léxico L21 utiliza o requisito funcional IS06 (O sistema deve permitir que o usuário cancele um saque solicitado). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 24: Léxico 21 – Solicitação de Saque (L21)</p></font>
+
+| L21           | Descrição                                                                                                      |
 | ------------- | -------------------------------------------------------------------------------------------------------------- |
 | **Termo**     | Solicitação de Saque                                                                                           |
 | **Tipo**      | Objeto                                                                                                         |
@@ -543,9 +572,13 @@ Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional 
 
 ---
 
-## [Confirmação de Cancelamento](#confirmação-de-cancelamento)
+### L22: Confirmação de Cancelamento
 
-| LXX           | Descrição                                                                                                                         |
+O léxico L22 utiliza o requisito funcional IS06 (O sistema deve permitir que o usuário cancele um saque solicitado). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 25: Léxico 22 – Confirmação de Cancelamento (L22)</p></font>
+
+| L22           | Descrição                                                                                                                         |
 | ------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | **Termo**     | Confirmação de Cancelamento                                                                                                       |
 | **Tipo**      | Objeto                                                                                                                            |
@@ -557,9 +590,13 @@ Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional 
 
 ---
 
-## [Solicitação Ativa](#solicitação-ativa)
+### L23: Solicitação Ativa
 
-| LXX           | Descrição                                                                                                           |
+O léxico L23 utiliza o requisito funcional IS06 (O sistema deve permitir que o usuário cancele um saque solicitado). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 26: Léxico 23 – Solicitação Ativa (L23)</p></font>
+
+| L23           | Descrição                                                                                                           |
 | ------------- | ------------------------------------------------------------------------------------------------------------------- |
 | **Termo**     | Solicitação Ativa                                                                                                   |
 | **Tipo**      | Estado                                                                                                              |
@@ -570,9 +607,13 @@ Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional 
 
 ---
 
-## [Solicitação Cancelada](#solicitação-cancelada)
+### L24: Solicitação Cancelada
 
-| LXX           | Descrição                                                                                              |
+O léxico L24 utiliza o requisito funcional IS06 (O sistema deve permitir que o usuário cancele um saque solicitado). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 27: Léxico 24 – Solicitação Cancelada (L24)</p></font>
+
+| L24           | Descrição                                                                                              |
 | ------------- | ------------------------------------------------------------------------------------------------------ |
 | **Termo**     | Solicitação Cancelada                                                                                  |
 | **Tipo**      | Estado                                                                                                 |
@@ -583,9 +624,13 @@ Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional 
 
 ---
 
-## [Solicitação Processada](#solicitação-processada)
+### L25: Solicitação Processada
 
-| LXX           | Descrição                                                                                                              |
+O léxico L25 utiliza o requisito funcional IS06 (O sistema deve permitir que o usuário cancele um saque solicitado). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 28: Léxico 25 – Solicitação Processada (L25)</p></font>
+
+| L25           | Descrição                                                                                                              |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | **Termo**     | Solicitação Processada                                                                                                 |
 | **Tipo**      | Estado                                                                                                                 |
@@ -596,11 +641,19 @@ Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional 
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
 
+---
+
 ## Requisito IS07
 
-## [Filtrar Saques por Tipo](#filtrar-saques-por-tipo)
+---
 
-| LXX           | Descrição                                                                                                                                 |
+### L26: Filtrar Saques por Tipo
+
+O léxico L26 utiliza o requisito funcional IS06 (O aplicativo deve permitir o filtro dos saques por tipo (ex: aniversário, doença, falecimento)). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 29: Léxico 26 – Filtrar Saques por Tipo (L26)</p></font>
+
+| L26           | Descrição                                                                                                                                 |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | **Termo**     | Filtrar Saques por Tipo                                                                                                                   |
 | **Tipo**      | Verbo                                                                                                                                     |
@@ -612,9 +665,13 @@ Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional 
 
 ---
 
-## [Lista de Saques](#lista-de-saques)
+### L27: Lista de Saques
 
-| LXX           | Descrição                                                                                                                              |
+O léxico L27 utiliza o requisito funcional IS06 (O aplicativo deve permitir o filtro dos saques por tipo (ex: aniversário, doença, falecimento)). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 30: Léxico 27 – Lista de Saques (L27)</p></font>
+
+| L27           | Descrição                                                                                                                              |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | **Termo**     | Lista de Saques                                                                                                                        |
 | **Tipo**      | Objeto                                                                                                                                 |
@@ -626,9 +683,13 @@ Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional 
 
 ---
 
-## [Filtro de Tipo](#filtro-de-tipo)
+### L28: Filtro de Tipo
 
-| LXX           | Descrição                                                                                                                           |
+O léxico L28 utiliza o requisito funcional IS06 (O aplicativo deve permitir o filtro dos saques por tipo (ex: aniversário, doença, falecimento)). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 31: Léxico 28 – Filtro de Tipo (L28)</p></font>
+
+| L28           | Descrição                                                                                                                           |
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | **Termo**     | Filtro de Tipo                                                                                                                      |
 | **Tipo**      | Objeto                                                                                                                              |
@@ -639,9 +700,13 @@ Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional 
 
 ---
 
-## [Lista Filtrada](#lista-filtrada)
+### L29: Lista Filtrada
 
-| LXX           | Descrição                                                                                                                      |
+O léxico L29 utiliza o requisito funcional IS06 (O aplicativo deve permitir o filtro dos saques por tipo (ex: aniversário, doença, falecimento)). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 32: Léxico 29 – Lista Filtrada (L29)</p></font>
+
+| L29           | Descrição                                                                                                                      |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | **Termo**     | Lista Filtrada                                                                                                                 |
 | **Tipo**      | Estado                                                                                                                         |
@@ -654,13 +719,21 @@ Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional 
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
 
-## L06: Cadastrar
+---
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 06 – Cadastrar (L06)</p></font>
+## Requisito IS12
+
+---
+
+### L30: Cadastrar
+
+O léxico L30 utiliza o requisito funcional IS12 (O aplicativo deve permitir o cadastro de mais de uma conta bancária de diferentes instituições financeiras). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 33: Léxico 30 – Cadastrar (L30)</p></font>
 
 <center>
 
-| L06       | Descrição                                                 |
+| L30       | Descrição                                                 |
 | :-:       | :-:                                                       |
 | **Termo** | Cadastrar                                                 |
 | **Tipo**  | Verbo                                                     |
@@ -673,15 +746,21 @@ Os léxicos listados nas Tabelas L16 a L19 têm como base o requisito funcional 
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
-## L07: Exibir informações detalhadas
+---
 
-O sétimo léxico, apresentado na tabela X, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF12</a>)
+## Requisito IS09
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 07 – Exibir informações detalhadas (L07)</p></font>
+---
+
+### L31: Exibir informações detalhadas
+
+O L31, apresentado na tabela 34, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
+
+<font size="3"><p style="text-align: center">Tabela 34: Léxico 31 – Exibir informações detalhadas (L31)</p></font>
 
 <center>
 
-| L07 | Descrição | 
+| L31 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Exibir informações detalhadas | 
 | **Tipo** | Verbo | 
@@ -694,16 +773,18 @@ O sétimo léxico, apresentado na tabela X, utiliza o seguinte requisito não im
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
-## L08: Informações detalhadas
+---
 
-O oitavo léxico, apresentado na tabela X, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF12</a>)
+### L32: Informações detalhadas
+
+O L32, apresentado na tabela 35, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
 
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 08 – Informações detalhadas (L08)</p></font>
+<font size="3"><p style="text-align: center">Tabela 35: Léxico 32 – Informações detalhadas (L32)</p></font>
 
 <center>
 
-| L08 | Descrição | 
+| L32 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Informações detalhadas | 
 | **Tipo** | Objeto | 
@@ -716,15 +797,17 @@ O oitavo léxico, apresentado na tabela X, utiliza o seguinte requisito não imp
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
-## L09: Histórico de movimentações financeiras
+---
 
-O nono léxico, apresentado na tabela X, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF12</a>)
+### L33: Histórico de movimentações financeiras
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 09 – Histórico de movimentações financeiras (L09)</p></font>
+O L33, apresentado na tabela 36, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
+
+<font size="3"><p style="text-align: center">Tabela 36: Léxico 33 – Histórico de movimentações financeiras (L33)</p></font>
 
 <center>
 
-| L09 | Descrição | 
+| L33 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Histórico de movimentações financeiras | 
 | **Tipo** | Objeto | 
@@ -737,16 +820,22 @@ O nono léxico, apresentado na tabela X, utiliza o seguinte requisito não imple
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
-## L010: Histórico de movimentações financeiras
+---
+
+## Requisito IS10
+
+---
+
+### L34: Filtrar
 
 <center>
 
-O décimo léxico, apresentado na tabela X, utiliza o seguinte requisito não implementado: O aplicativo deve permitir o filtro do extrato por data (mês e ano) 
-(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF13</a>)
+O L34, apresentado na tabela 37, utiliza o seguinte requisito não implementado: O aplicativo deve permitir o filtro do extrato por data (mês e ano) 
+(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS10</a>)
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 010 – Filtrar (L010)</p></font>
+<font size="3"><p style="text-align: center">Tabela 37: Léxico 34 – Filtrar (L34)</p></font>
 
-| L10 | Descrição | 
+| L34 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Filtrar | 
 | **Tipo** | Verbo | 
@@ -759,14 +848,21 @@ O décimo léxico, apresentado na tabela X, utiliza o seguinte requisito não im
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
-## L09: Bloqueado
+---
 
+## Requisito IS08
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 09 – Bloqueado (L09)</p></font>
+---
+
+### L35: Bloqueado
+
+O léxico L35 utiliza o requisito funcional IS08 (O aplicativo deve fornecer informações sobre saques bloqueados e os motivos do bloqueio). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 38: Léxico 35 – Bloqueado (L35)</p></font>
 
 <center>
 
-| L09       | Descrição                                                 |
+| L35       | Descrição                                                 |
 | :-:       | :-:                                                       |
 | **Termo** | Bloqueado                                                |
 | **Tipo**  | Estado                                                   |
@@ -779,18 +875,24 @@ O décimo léxico, apresentado na tabela X, utiliza o seguinte requisito não im
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
-## LXX: Chat
+---
 
-O léxico XX utiliza o requisito funcional não implementado IS13 (O aplicativo deve permitir que o usuário entre em contato com um assistente via chat). Esse léxico é detalhado na tabela abaixo:
+## Requisito IS13
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico XX – Chat (LXX)</p></font>
+---
+
+### L36: Chat
+
+O léxico L36 utiliza o requisito funcional não implementado IS13 (O aplicativo deve permitir que o usuário entre em contato com um assistente via chat). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 39: Léxico 36 – Chat (L36)</p></font>
 
 <center>
 
-| LXX | Descrição | 
+| L36 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Chat | 
-| **Tipo** | Substantivo | 
+| **Tipo** | Objeto | 
 | **Impacto** | - Permite a comunicação direta entre o usuário e um assistente virtual. <br> - Auxilia na resolução de dúvidas e problemas sem a necessidade de sair do aplicativo. <br> - Pode ser integrado a diferentes partes do sistema para oferecer suporte contextual. | 
 | **Noção** | Canal de comunicação textual, em tempo real, por onde o usuário interage com um assistente para obter suporte, tirar dúvidas ou receber orientações. | 
 | **Sinônimos** | Conversa, Atendimento Virtual, Suporte via mensagem | 
@@ -800,18 +902,20 @@ O léxico XX utiliza o requisito funcional não implementado IS13 (O aplicativo 
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
-## LXX: Assistente Virtual
+---
 
-O léxico XX utiliza o requisito funcional não implementado IS13 (O aplicativo deve permitir que o usuário entre em contato com um assistente via chat). Esse léxico é detalhado na tabela abaixo:
+### L37: Assistente Virtual
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico XX – Assistente Virtual (LXX)</p></font>
+O léxico L37 utiliza o requisito funcional não implementado IS13 (O aplicativo deve permitir que o usuário entre em contato com um assistente via chat). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 40: Léxico 37 – Assistente Virtual (L37)</p></font>
 
 <center>
 
-| LXX | Descrição | 
+| L37 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Assistente Virtual | 
-| **Tipo** | Substantivo | 
+| **Tipo** | Objeto | 
 | **Impacto** | 	- Fornece respostas automáticas e orientações baseadas no contexto do usuário. <br> - Ajuda a reduzir o tempo de espera e a carga sobre o suporte humano. <br> - Pode ser integrado com outras funcionalidades para melhorar a experiência do usuário. | 
 | **Noção** | Sistema automatizado que interage com o usuário via chat para fornecer suporte, esclarecer dúvidas e orientar sobre o uso do aplicativo. | 
 | **Sinônimos** | Bot, Atendimento Automático, Agente Virtual | 
@@ -821,18 +925,20 @@ O léxico XX utiliza o requisito funcional não implementado IS13 (O aplicativo 
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
-## LXX: Mensagem
+---
 
-O léxico XX utiliza o requisito funcional não implementado IS13 (O aplicativo deve permitir que o usuário entre em contato com um assistente via chat). Esse léxico é detalhado na tabela abaixo:
+### L38: Mensagem
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico XX – Mensagem (LXX)</p></font>
+O léxico L38 utiliza o requisito funcional não implementado IS13 (O aplicativo deve permitir que o usuário entre em contato com um assistente via chat). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 41: Léxico 38 – Mensagem (L38)</p></font>
 
 <center>
 
-| LXX | Descrição | 
+| L38 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Mensagem | 
-| **Tipo** | Substantivo | 
+| **Tipo** | Objeto | 
 | **Impacto** | 	- Permite a troca de informações entre usuário e assistente virtual. <br> - É a unidade básica de comunicação no chat. <br> - Pode conter perguntas, respostas, instruções ou links para funcionalidades. | 
 | **Noção** | 	Texto enviado ou recebido na interface do chat que representa a comunicação entre o usuário e o assistente. | 
 | **Sinônimos** | Texto, Comunicação | 
@@ -842,15 +948,21 @@ O léxico XX utiliza o requisito funcional não implementado IS13 (O aplicativo 
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
-## LXX: Buscar
+---
 
-O léxico XX utiliza o requisito funcional não implementado IS14 (O aplicativo deve disponibilizar um campo de busca para facilitar a localização de funcionalidades). Esse léxico é detalhado na tabela abaixo:
+## Requisito IS14
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico XX – Buscar (LXX)</p></font>
+---
+
+### L39: Buscar
+
+O léxico L39 utiliza o requisito funcional não implementado IS14 (O aplicativo deve disponibilizar um campo de busca para facilitar a localização de funcionalidades). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 42: Léxico 39 – Buscar (L39)</p></font>
 
 <center>
 
-| LXX | Descrição | 
+| L39 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Buscar | 
 | **Tipo** | Verbo | 
@@ -863,18 +975,20 @@ O léxico XX utiliza o requisito funcional não implementado IS14 (O aplicativo 
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k))</p></font>
 
-## LXX: Campo de Busca
+---
 
-O léxico XX utiliza o requisito funcional não implementado IS14 (O aplicativo deve disponibilizar um campo de busca para facilitar a localização de funcionalidades). Esse léxico é detalhado na tabela abaixo:
+### L40: Campo de Busca
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico XX – Campo de Busca (LXX)</p></font>
+O léxico L40 utiliza o requisito funcional não implementado IS14 (O aplicativo deve disponibilizar um campo de busca para facilitar a localização de funcionalidades). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 43: Léxico 40 – Campo de Busca (L40)</p></font>
 
 <center>
 
-| LXX | Descrição | 
+| L40 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Campo de Busca | 
-| **Tipo** | Substantivo | 
+| **Tipo** | Objeto | 
 | **Impacto** | - Interface que permite ao usuário digitar termos para localizar informações. <br> - Deve ser intuitivo e responsivo para garantir usabilidade. <br> - Facilita a navegação e o acesso a conteúdos. | 
 | **Noção** | Área ou elemento da interface do aplicativo onde o usuário insere palavras-chave para realizar consultas no sistema. | 
 | **Sinônimos** | Barra de Pesquisa, Caixa de Pesquisa, Pesquisa de Texto | 
@@ -884,18 +998,20 @@ O léxico XX utiliza o requisito funcional não implementado IS14 (O aplicativo 
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k))</p></font>
 
-## LXX: Termo de Pesquisa
+---
 
-O léxico XX utiliza o requisito funcional não implementado IS14 (O aplicativo deve disponibilizar um campo de busca para facilitar a localização de funcionalidades). Esse léxico é detalhado na tabela abaixo:
+### L41: Termo de Pesquisa
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico XX – Termo de Pesquisa (LXX)</p></font>
+O léxico L41 utiliza o requisito funcional não implementado IS14 (O aplicativo deve disponibilizar um campo de busca para facilitar a localização de funcionalidades). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 44: Léxico 41 – Termo de Pesquisa (L41)</p></font>
 
 <center>
 
-| LXX | Descrição | 
+| L41 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Termo de Pesquisa | 
-| **Tipo** | Substantivo | 
+| **Tipo** | Objeto | 
 | **Impacto** | - Define o conteúdo que o usuário deseja encontrar. <br> - A precisão do termo influencia na relevância dos resultados. <br> - Pode ser ampliado com sugestões para melhorar a busca. | 
 | **Noção** | Palavra ou conjunto de palavras digitadas pelo usuário no campo de busca para localizar funcionalidades ou informações. | 
 | **Sinônimos** | Palavra-chave, Consulta, Pesquisa | 
@@ -905,11 +1021,17 @@ O léxico XX utiliza o requisito funcional não implementado IS14 (O aplicativo 
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k))</p></font>
 
+---
+
 ## Requisito IS16
 
-## L42: Acessar Ajuda
+---
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 42 – Acessar Ajuda</p></font>
+### L42: Acessar Ajuda
+
+O léxico L42 utiliza o requisito funcional não implementado IS14 (O aplicativo deve conter uma seção de ajuda com orientações sobre o uso do aplicativo). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 45: Léxico 42 – Acessar Ajuda</p></font>
 
 | L42 | Descrição | 
 | :-: | :-: |
@@ -922,9 +1044,13 @@ O léxico XX utiliza o requisito funcional não implementado IS14 (O aplicativo 
 
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
-## L43 - Procurar Dúvida
+---
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 43 – Procurar Dúvida</p></font>
+### L43 - Procurar Dúvida
+
+O léxico L43 utiliza o requisito funcional não implementado IS14 (O aplicativo deve conter uma seção de ajuda com orientações sobre o uso do aplicativo). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 46: Léxico 43 – Procurar Dúvida</p></font>
 
 | L43 | Descrição | 
 | :-: | :-: |
@@ -937,11 +1063,17 @@ O léxico XX utiliza o requisito funcional não implementado IS14 (O aplicativo 
 
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
+---
+
 ## Requisito ST07
 
-## L44: Requerer Guia
+---
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 44 – Requerer Guia</p></font>
+### L44: Requerer Guia
+
+O léxico L44 utiliza o requisito funcional não implementado IS14 (O aplicativo deve disponibilizar um guia interativo para orientar o usuário durante o processo). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 47: Léxico 44 – Requerer Guia</p></font>
 
 | L44 | Descrição | 
 | :-: | :-: |
@@ -954,9 +1086,11 @@ O léxico XX utiliza o requisito funcional não implementado IS14 (O aplicativo 
 
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
-## L45: Seguir Guia
+### L45: Seguir Guia
 
-<font size="3"><p style="text-align: center">Tabela X: Léxico 45 – Seguir Guia</p></font>
+O léxico L45 utiliza o requisito funcional não implementado IS14 (O aplicativo deve disponibilizar um guia interativo para orientar o usuário durante o processo). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 48: Léxico 45 – Seguir Guia</p></font>
 
 | L45 | Descrição | 
 | :-: | :-: |
@@ -987,8 +1121,9 @@ O léxico XX utiliza o requisito funcional não implementado IS14 (O aplicativo 
 | `1.4` | 17/05/2025 | Adição dos léxicos 07 e 08 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.5` | 17/05/2025 | Adição da introdução e metodologia | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.6` | 17/05/2025 | Adição de mais léxicos para os requisitos IS13 e IS14 | [Marcelo Makoto](https://github.com/MM4k)  | [Victor Pontual](https://github.com/VictorPontual) |
-| `1.7` | 17/05/2025 | Adição de mais léxicos para os requisitos IS06 e IS07 | [Victor Pontual](https://github.com/VictorPontual)  | - |
-| `1.8` | 18/05/2025 | Reformulando documento | [Enzo Emir](https://github.com/EnzoEmir)  | [Maria Eduarda](https://github.com/dudaa28) |
-| `1.9` | 18/05/2025 | Adição de léxicos 14 a 19 | [Maria Eduarda](https://github.com/dudaa28)  | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `2.0` | 18/05/2025 | Atualização do Documento | [Maria Eduarda](https://github.com/dudaa28)  | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `2.0` | 18/05/2025 | Adição de léxicos referentes aos requisitos faltantes | [Eduardo de Pina](https://github.com/eduardodpms)  | - |
+| `1.7` | 17/05/2025 | Adição de mais léxicos para os requisitos IS06 e IS07 | [Victor Pontual](https://github.com/VictorPontual)  | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.8` | 18/05/2025 | Reformulando documento | [Enzo Emir](https://github.com/EnzoEmir) | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.9` | 18/05/2025 | Adição de léxicos 14 a 19 | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `2.0` | 18/05/2025 | Atualização do Documento | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `2.1` | 18/05/2025 | Adição de léxicos referentes aos requisitos faltantes | [Eduardo de Pina](https://github.com/eduardodpms) | [Marcelo Makoto](https://github.com/MM4k) |
+| `2.2` | 18/05/2025 | Mudança de estilo da página | [Marcelo Makoto](https://github.com/MM4k) | [Eduardo de Pina](https://github.com/eduardodpms) |
