@@ -35,8 +35,8 @@
     </tr>
     <tr>
       <td> Leticia Arisa </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 17/05 </td>
+      <td> 14:45 </td>
     </tr>
     <tr>
       <td> Marcelo Makoto </td>
@@ -124,35 +124,36 @@
 
 <font size="3"><p style="text-align: center">Tabela 5: Nome do caso de uso </p></font>
 
-| UC01 | Descrição |
-| ----- | ---------- |
-| Data da criação |  |
-| Rastreabilidade |  |
-| Atores |  |
-| Ação |  |
-| Pré-condições |  |
-| Fluxo básico |  |
-| Fluxos alternativos |  |
-| Fluxo de exceção |  |
-| Pós-condições |  |
-| Autor | [Victor Pontual](https://github.com/VictorPontual) |
+| **Elemento**                     | **Descrição** |
+|----------------------------------|----------------|
+| **Nome do Caso de Uso**          | Cancelar Solicitação de Saque |
+| **Ator Principal**               | Usuário |
+| **Atores Secundários**           | Sistema do FGTS |
+| **Objetivo**                     | Permitir que o usuário cancele uma solicitação de saque feita anteriormente no aplicativo FGTS.|
+| **Pré-condições**                | - O usuário deve estar autenticado no aplicativo.<br>- Deve existir um pedido de saque ativo que possa ser cancelado. |
+| **Fluxo Principal de Eventos**   | 1. O usuário acessa o aplicativo do FGTS.<br>2. Navega até a seção "Meus Saques".<br>3. Seleciona o saque que deseja cancelar.<br>4. Clica na opção “Cancelar solicitação”.<br>5. O sistema solicita confirmação do cancelamento.<br>6. O usuário confirma.<br>7. O sistema processa o cancelamento e atualiza o status do saque.<br>8. O sistema notifica o usuário sobre o sucesso da operação. |
+| **Fluxos Alternativos**          | - O usuário decide não confirmar o cancelamento.<br>- O sistema exibe mensagem caso o saque não possa ser cancelado. |
+| **Exceções**                    | - Tentativa de cancelar saque já processado: sistema bloqueia a ação.<br>- Falha de conexão ou erro interno: sistema exibe mensagem de erro. |
+| **Pós-condições**                | - O pedido de saque foi cancelado ou a operação foi abortada pelo usuário. |
+| **Autor**                       | [Victor Pontual](https://github.com/VictorPontual) |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Victor Pontual](https://github.com/VictorPontual) </i></b></p></font>
 
 <font size="3"><p style="text-align: center">Tabela 6: Nome do caso de uso </p></font>
 
-| UC01 | Descrição |
-| ----- | ---------- |
-| Data da criação |  |
-| Rastreabilidade |  |
-| Atores |  |
-| Ação |  |
-| Pré-condições |  |
-| Fluxo básico |  |
-| Fluxos alternativos |  |
-| Fluxo de exceção |  |
-| Pós-condições |  |
-| Autor | [Victor Pontual](https://github.com/VictorPontual) |
+| **Elemento**                     | **Descrição** |
+|----------------------------------|----------------|
+| **Nome do Caso de Uso**          | Filtrar Saques por Tipo |
+| **Ator Principal**               | Usuário |
+| **Atores Secundários**           | Sistema do FGTS |
+| **Objetivo**                     | Permitir que o usuário filtre a lista de solicitações de saque por tipo (ex: aniversário, doença, falecimento) para facilitar a consulta. |
+| **Pré-condições**                | - O usuário deve estar autenticado no aplicativo.<br>- O sistema deve possuir registros de saques com tipos definidos. |
+| **Fluxo Principal de Eventos**   |1. O usuário acessa o aplicativo do FGTS.<br>2. Navega até a seção "Histórico de Saques".<br>3. Clica na opção de filtro.<br>4. Seleciona o tipo de saque desejado.<br>5. O sistema exibe os saques filtrados conforme a seleção.<br>6. O usuário visualiza e pode acessar detalhes dos saques filtrados. |
+| **Fluxos Alternativos**          | - O usuário remove o filtro para visualizar todos os saques.<br>- O sistema informa caso não existam saques do tipo selecionado. |
+| **Exceções**                    | - Falha de conexão: o sistema exibe mensagem de erro.<br>- Erro na aplicação do filtro: o sistema solicita nova tentativa. |
+| **Pós-condições**                | - O usuário visualizou a lista de saques filtrada por tipo. |
+| **Autor**                       | [Victor Pontual](https://github.com/VictorPontual) |
+
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Victor Pontual](https://github.com/VictorPontual) </i></b></p></font>
 
@@ -175,36 +176,36 @@
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Danielle Soares](https://github.com/danielle-soaress)</i></b></p></font>
 
-<font size="3"><p style="text-align: center">Tabela 8: Nome do caso de uso </p></font>
+<font size="3"><p style="text-align: center">Tabela 8: Exibir informações detalhadas sobre o histórico de movimentações financeiras </p></font>
 
-| UC01 | Descrição |
+| UC07 | Descrição |
 | ----- | ---------- |
-| Data da criação |  |
-| Rastreabilidade |  |
-| Atores |  |
-| Ação |  |
-| Pré-condições |  |
-| Fluxo básico |  |
-| Fluxos alternativos |  |
-| Fluxo de exceção |  |
-| Pós-condições |  |
+| Data da criação | 17/05 |
+| Rastreabilidade | <a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF12</a> <br> <a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a> |
+| Atores | Usuários do aplicativo FGTS |
+| Ação | O usuário acessa o histórico de movimentações financeiras e seleciona uma movimentação para visualizar informações detalhadas |
+| Pré-condições | O usuário deve estar logado no aplicativo FGTS. <br> O sistema deve possuir movimentações financeiras registradas. |
+| Fluxo básico | 1. O usuário efetua o login no FGTS <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O sistema exibe a lista de movimentações registradas. <br> 4. O usuário seleciona uma movimentação específica. <br> 5. O sistema exibe as informações detalhadas da movimentação. |
+| Fluxos alternativos | 1. O usuário efetua o login no FGTS. <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O usuário usa o filtro para selecionar o mês e o ano. <br> O sistema exibe as movimentações financeiras do período selecionado. |
+| Fluxo de exceção | 1. O usuário efetua o login no FGTS. <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O sistema não encontra nenhuma movimentação financeira. <br> 4. O sistema exibe uma mensagem indicando o problema. |
+| Pós-condições | O sistema exibe corretamente as informações detalhadas da movimentação selecionada. |
 | Autor | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </i></b></p></font>
 
-<font size="3"><p style="text-align: center">Tabela 9: Nome do caso de uso </p></font>
+<font size="3"><p style="text-align: center">Tabela 9: Filtrar extrato por data </p></font>
 
-| UC01 | Descrição |
+| UC08 | Descrição |
 | ----- | ---------- |
-| Data da criação |  |
-| Rastreabilidade |  |
-| Atores |  |
-| Ação |  |
-| Pré-condições |  |
-| Fluxo básico |  |
-| Fluxos alternativos |  |
-| Fluxo de exceção |  |
-| Pós-condições |  |
+| Data da criação | 17/05 |
+| Rastreabilidade | <a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF13</a> <br> <a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS10</a> |
+| Atores | Usuários do aplicativo FGTS |
+| Ação | O usuário filtra as movimentações financeiras exibidas no histórico de movimentações financeiras com base no mês e no ano |
+| Pré-condições | O usuário deve estar logado no aplicativo FGTS. <br> O sistema deve possuir movimentações financeiras com diferentes datas registradas.  |
+| Fluxo básico | 1. O usuário efetua o login no FGTS <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O sistema exibe a lista de movimentações registradas. <br> 4. O usuário seleciona uma data (mês e ano) como filtro <br> 5. O sistema exibe apenas as movimentações correspondentes à data selecionada. |
+| Fluxos alternativos | 1. O usuário efetua o login no FGTS <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O sistema exibe uma lista com todas as movimentações registradas.  |
+| Fluxo de exceção | 1. O usuário efetua o login no FGTS <br> 2. O usuário acessa a página de movimentações financeiras. <br> 3. O sistema exibe a lista de movimentações registradas. <br> 4. O usuário seleciona uma data (mês e ano) inválida ou sem movimentações <br> 5. O sistema exibe uma mensagem indicando o problema. |
+| Pós-condições | O sistema exibe o histórico de movimentações financeiras filtrado de acordo com a data selecionada. |
 | Autor | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</i></b></p></font>
@@ -324,4 +325,6 @@
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 16/05/2025 | Criação do documento | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Enzo Emir](https://github.com/EnzoEmir)|
 | `1.1` | 17/05/2025 | Adição do caso de uso 1 e 2 |  [Enzo Emir](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
-| `1.2` | 17/05/2025 | Adição dos casos de uso 10 e 11 | [Marcelo Makoto](https://github.com/MM4k) | - |
+| `1.2` | 17/05/2025 | Adição dos casos de uso 10 e 11 | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.3` | 17/05/2025 | Adição dos casos de uso 07 e 08 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Victor Pontual](https://github.com/VictorPontual) |
+| `1.4` | 17/05/2025 | Adição dos casos de uso 05 e 06 | [Victor Pontual](https://github.com/VictorPontual) | - |

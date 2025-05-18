@@ -192,7 +192,7 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 
 <br>
 
-## Referências
+## Bibliografia
 
 > <a id="CRONO1" href="#TEC3">3.</a> REQUISITOS DE SOFTWARE. *Cronograma – Bilheteria Digital (2023.1)*. Disponível em: <<https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/>>. Acesso em: 12/04/2025.
 

@@ -129,7 +129,7 @@ A técnica foi aplicada de forma individual, sendo que cada participante aplicou
 </p>
 
 
-## Referências
+## Bibliografia
 
 > <a id="REF1" href="#anchor_1">1.</a> WIEGERS, Karl E.; BEATTY, Joy. Software Requirements. 3. ed. Redmond: Microsoft Press, 2013.
 

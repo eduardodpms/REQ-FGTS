@@ -99,7 +99,7 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
 
 
 
-## Referências
+## Bibliografia
 
 > 1.</a> WIEGERS, Karl; BEATTY, Joy. *Software Requirements*. 3. ed. Redmond: Microsoft Press, 2013. Cap. 16, p. 319.
 

@@ -44,8 +44,8 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
     </tr>
     <tr>
       <td> Leticia Arisa </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 16/05 </td>
+      <td> 23:50 </td>
     </tr>
     <tr>
       <td> Marcelo Makoto </td>
@@ -54,8 +54,8 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
     </tr>
     <tr>
       <td> Maria Eduarda </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 17/05/2025 </td>
+      <td> 19:17 </td>
     </tr>
     <tr>
       <td> Victor Pontual </td>
@@ -70,9 +70,9 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <p style="text-align: center; font-size: 16px;">Fonte: <i>Leticia Arisa</i></p>
 
-## Cenário 1
+## Cenário 1 : Visualizar Status Comentado do Saque
 
-<font size="3"><p style="text-align: center">Tabela 1: Cenário...</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Cenário de vizualização Status Comentado do Saque</p></font>
 
 <center>
 
@@ -93,9 +93,9 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Enzo Emir](https://github.com/EnzoEmir)</i> </p></font>
 
-## Cenário 2
+## Cenário 2: Visualizar Data Prevista para Liberação de Valores
 
-<font size="3"><p style="text-align: center">Tabela 2: Cenário...</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Cenário de vizualização Data Prevista para Liberação de Valores</p></font>
 
 <center>
 
@@ -116,75 +116,78 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Enzo Emir](https://github.com/EnzoEmir)</i> </p></font>
 
-## Cenário 3
 
-<font size="3"><p style="text-align: center">Tabela 3: Cenário...</p></font>
+## Cenário 3: Atendimento de Dúvidas via Chatbot
+
+<font size="3"><p style="text-align: center">Tabela 3: Cenário de Atendimento de Dúvidas via Chatbot</p></font>
 
 <center>
 
-| Cenário 3 | Título do Cenário | 
+| Cenário 3 | Atendimento de Dúvidas via Chatbot | 
 | :-:       | :-:            |
-| **Título** |  | 
-| **Objetivo** |  | 
-| **Contexto** |  | 
-| **Atores** |  | 
-| **Recursos** |  | 
-| **Episódios** |   | 
-| **Restrições** |  | 
-| **Exceção** |  | 
+| **Título** | EN03 | 
+| **Objetivo** | Permitir que o usuário esclareça dúvidas frequentes por meio de um canal automatizado de atendimento dentro do aplicativo | 
+| **Contexto** | Local: Residência do usuário<br>Tempo: Durante o uso do aplicativo<br>Pré-condições: Estar logado, possuir conexão com a internet e ter o aplicativo instalado | 
+| **Atores** | Usuário do aplicativo FGTS, sistema de chatbot | 
+| **Recursos** | Dispositivo com o aplicativo FGTS instalado<br>Conexão com a internet<br>Banco de dados com perguntas e respostas<br>Módulo de chatbot funcional | 
+| **Episódios** | 1. Usuário acessa o aplicativo FGTS e faz login<br>2. Acessa o menu de "Ajuda" ou "Suporte"<br>3. Chatbot é carregado<br>4. Usuário digita a dúvida<br>5. Chatbot responde automaticamente<br>6. Caso necessário, oferece atendimento humano | 
+| **Restrições** | O chatbot precisa estar online e conectado ao banco de dados<br>Atendimento humano limitado ao horário comercial<br>Necessário internet estável | 
+| **Exceção** | Se o chatbot não responder ou falhar, o sistema exibe: "Desculpe, não entendi sua pergunta. Você pode reformular ou entrar em contato com o suporte humano." | 
 | **Autor** | [Maria Eduarda](https://github.com/dudaa28) | 
 
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Maria Eduarda](https://github.com/dudaa28)</i> </p></font>
 
-## Cenário 4
 
-<font size="3"><p style="text-align: center">Tabela 4: Cenário...</p></font>
+## Cenário 4: Cancelar Solicitação de Saque
+
+<font size="3"><p style="text-align: center">Tabela 4: Cenário de cancelamento de solicitação de saque</p></font>
 
 <center>
 
-| Cenário 4 | Título do Cenário | 
-| :-:       | :-:            |
-| **Título** |  | 
-| **Objetivo** |  | 
-| **Contexto** |  | 
-| **Atores** |  | 
-| **Recursos** |  | 
-| **Episódios** |   | 
-| **Restrições** |  | 
-| **Exceção** |  | 
+| Cenário 4 | Cancelar Solicitação de Saque |  
+| :-:       | :-:            |  
+| **Código** | IS06 |  
+| **Objetivo** | Permitir que o usuário cancele uma solicitação de saque feita anteriormente no aplicativo FGTS. |  
+| **Contexto** | O usuário deseja cancelar um pedido de saque ativo por motivos pessoais ou por erro na solicitação. |  
+| **Atores** | Usuário, Sistema do FGTS |  
+| **Recursos** | Aplicativo FGTS, conexão à internet, API de gerenciamento de saques |  
+| **Episódios** | 1. O usuário acessa o aplicativo do FGTS.<br>2. Navega até a seção "Saque".<br>3. Seleciona o pedido de saque ativo.<br>4. Opta pela opção “Cancelar solicitação”.<br>5. O sistema solicita confirmação da ação.<br>6. O usuário confirma o cancelamento.<br>7. O sistema processa a solicitação e atualiza o status para cancelado.<br>8. O usuário recebe notificação da confirmação do cancelamento. |  
+| **Restrições** | O cancelamento só pode ser feito enquanto o saque não estiver processado ou concluído. |  
+| **Exceção** | Falha na comunicação com o servidor, tentativa de cancelamento após processamento, erro interno. |  
 | **Autor** | [Victor Pontual](https://github.com/VictorPontual) | 
 
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Victor Pontual](https://github.com/VictorPontual)</i> </p></font>
 
-## Cenário 5
+## Cenário 5: Filtrar Saques por Tipo
 
-<font size="3"><p style="text-align: center">Tabela 5: Cenário...</p></font>
+<font size="3"><p style="text-align: center">Tabela 5: Cenário de filtragem de saques por tipo</p></font>
 
 <center>
 
-| Cenário 5 | Título do Cenário | 
-| :-:       | :-:            |
-| **Título** |  | 
-| **Objetivo** |  | 
-| **Contexto** |  | 
-| **Atores** |  | 
-| **Recursos** |  | 
-| **Episódios** |   | 
-| **Restrições** |  | 
-| **Exceção** |  | 
+
+| Cenário 5 | Filtrar Saques por Tipo |  
+| :-:       | :-:            |  
+| **Código** | IS07 |  
+| **Objetivo** | Permitir que o usuário filtre a lista de solicitações de saque pelo tipo específico, como saque-aniversário, doença ou falecimento. |  
+| **Contexto** | O usuário deseja visualizar apenas os saques de um determinado tipo para facilitar a consulta e o gerenciamento de seus pedidos. |  
+| **Atores** | Usuário, Aplicativo FGTS |  
+| **Recursos** | Aplicativo FGTS, conexão à internet, base de dados de saques com classificação por tipo |  
+| **Episódios** | 1. O usuário acessa o aplicativo do FGTS.<br>2. Navega até a seção "Histórico de Saques".<br>3. Seleciona a opção de filtro.<br>4. Escolhe o tipo de saque desejado (ex: aniversário, doença, falecimento).<br>5. O sistema exibe apenas os saques correspondentes ao filtro selecionado.<br>6. O usuário visualiza a lista filtrada e pode acessar detalhes de cada saque. |  
+| **Restrições** | O filtro deve refletir apenas os tipos válidos e previamente cadastrados no sistema. |  
+| **Exceção** | Falha na aplicação do filtro, ausência de saques para o tipo selecionado, erro na consulta ao banco de dados. |  
 | **Autor** | [Victor Pontual](https://github.com/VictorPontual) | 
 
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Victor Pontual](https://github.com/VictorPontual)</i> </p></font>
 
-## Cenário 6
+## Cenário 6: Fornecer informações sobre saques bloqueados
 
-<font size="3"><p style="text-align: center">Tabela 6: Fornecer informações sobre saques bloqueados</p></font>
+<font size="3"><p style="text-align: center">Tabela 6: Cenário de fornecimento de informações sobre saques bloqueados</p></font>
 
 <center>
 
@@ -203,53 +206,53 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Danielle Soares](https://github.com/danielle-soaress)</i> </p></font>
 
-## Cenário 7
+## Cenário 7: Visualizar histórico de movimentação financeira
 
-<font size="3"><p style="text-align: center">Tabela 7: Cenário...</p></font>
+<font size="3"><p style="text-align: center">Tabela 7: Cenário de visuaização histórico de movimentação financeira</p></font>
 
 <center>
 
-| Cenário 7 | Título do Cenário | 
+| Cenário 7 | Visualizar histórico de movimentação financeira | 
 | :-:       | :-:            |
-| **Título** |  | 
-| **Objetivo** |  | 
-| **Contexto** |  | 
-| **Atores** |  | 
-| **Recursos** |  | 
-| **Episódios** |   | 
-| **Restrições** |  | 
-| **Exceção** |  | 
+| **Título** | Visualizar informações detalhadas do histórico de movimentação financeira | 
+| **Objetivo** | Permitir que o usuário consulte informações detalhadas de suas movimentações financeiras passadas | 
+| **Contexto** | Local: Página "Movimentações" (a ser implementada no aplicativo) <br> Tempo: A qualquer momento <br> Pré-condição: O usuário deve estar autenticado no sistema e deve possuir movimentações financeiras anteriores registradas | 
+| **Atores** | Usuário do aplicativo FGTS | 
+| **Recursos** | Conexão com a internet <br> Smartphone com o aplicativo FGTS instalado | 
+| **Episódios** | Usuário abre o aplicativo e faz login. <br> Usuário acessa a página "Movimentações". <br> Aplicativo exibe uma lista de movimentações. <br> Usuário seleciona uma movimentação especifíca. <br> Aplicativo exibe os detalhes da movimentação. | 
+| **Restrições** | O usuário precisa estar conectado à internet. <br> O usuário precisa ter movimentações financeira registradas. <br> O aplicativo precisa ter acesso aos dados de movimentação do usuário. | 
+| **Exceção** | Falha na conexão com a internet. <br> Caso não haja movimentações registradas, o aplicativo deve exibir uma mensagem informando: "Nenhuma movimentação encontrada." | 
 | **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | 
 
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</i> </p></font>
 
-## Cenário 8
+## Cenário 8: Filtrar extrato por data
 
-<font size="3"><p style="text-align: center">Tabela 8: Cenário...</p></font>
+<font size="3"><p style="text-align: center">Tabela 8: Cenário de filtragem de extrato por data</p></font>
 
 <center>
 
-| Cenário 8 | Título do Cenário | 
+| Cenário 8 | Filtrar extrato por data | 
 | :-:       | :-:            |
-| **Título** |  | 
-| **Objetivo** |  | 
-| **Contexto** |  | 
-| **Atores** |  | 
-| **Recursos** |  | 
-| **Episódios** |   | 
-| **Restrições** |  | 
-| **Exceção** |  | 
+| **Título** | Filtrar extrato por data (mês e ano) | 
+| **Objetivo** | Permitir que o usuário selecione um mês e ano específico para visualizar os extratos correspondentes. | 
+| **Contexto** | Local: Página "Movimentações" (a ser implementada no aplicativo) <br> Tempo: A qualquer momento <br> Pré-condição: O usuário deve estar autenticado no sistema e deve possuir movimentações financeiras registradas em diferentes datas | 
+| **Atores** | Usuário do aplicativo FGTS | 
+| **Recursos** | Conexão com a internet <br> Smartphone com o aplicativo FGTS instalado | 
+| **Episódios** |  Usuário abre o aplicativo e faz login. <br> Usuário acessa a página "Movimentações". <br> Aplicativo exibe uma lista de movimentações. <br> Usuário clica no filtro de data. <br> Usuário seleciona o mês e o ano desejado. <br> Aplicativo filtra e exibe apenas os extratos correspondentes ao período selecionado. | 
+| **Restrições** | O filtro deve permitir selecionar apenas períodos válidos (mês e ano) | 
+| **Exceção** | Falha na conexão com a internet. <br> Caso não haja extratos registrados no período selecionado, o aplicativo deve exibir uma mensagem informando: "Nunhum extrato encontrado para o período selecionado" | 
 | **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | 
 
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</i> </p></font>
 
-## Cenário 9
+## Cenário 9: Cadastro de múltiplas contas bancárias
 
-<font size="3"><p style="text-align: center">Tabela 9: Cadastro de múltiplas contas bancárias</p></font>
+<font size="3"><p style="text-align: center">Tabela 9: Cenário do Cadastro de múltiplas contas bancárias</p></font>
 
 <center>
 
@@ -266,11 +269,11 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: <i>(https://github.com/danielle-soaress)</i> </p></font>
+<font size="2"><p style="text-align: center">Fonte: <i>[Danielle Soares](https://github.com/danielle-soaress)</i> </p></font>
 
-## Cenário 10
+## Cenário 10: Contato com Assistente via Chat
 
-<font size="3"><p style="text-align: center">Tabela 10: Contato com Assistente via Chat</p></font>
+<font size="3"><p style="text-align: center">Tabela 10: Cenário de Contato com Assistente via Chat</p></font>
 
 <center>
 
@@ -290,9 +293,9 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Marcelo Makoto](https://github.com/MM4k)</i> </p></font>
 
-## Cenário 11
+## Cenário 11: Busca de Funcionalidades e Informações
 
-<font size="3"><p style="text-align: center">Tabela 11: Busca de Funcionalidades e Informações</p></font>
+<font size="3"><p style="text-align: center">Tabela 11: Cenário de Busca de Funcionalidades e Informações</p></font>
 
 <center>
 
@@ -312,9 +315,9 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Marcelo Makoto](https://github.com/MM4k)</i> </p></font>
 
-## Cenário 12
+## Cenário 12: Seção de ajuda com orientações sobre o uso do aplicativo
 
-<font size="3"><p style="text-align: center">Tabela 12: Cenário...</p></font>
+<font size="3"><p style="text-align: center">Tabela 12: Cenário de Seção de ajuda com orientações sobre o uso do aplicativo</p></font>
 
 <center>
 
@@ -334,9 +337,9 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Eduardo de Pina](https://github.com/eduardodpms)</i> </p></font>
 
-## Cenário 13
+## Cenário 13: Guia interativo para orientação sobre o uso do aplicativo
 
-<font size="3"><p style="text-align: center">Tabela 13: Cenário...</p></font>
+<font size="3"><p style="text-align: center">Tabela 13: Cenário de Guia interativo para orientação sobre o uso do aplicativo</p></font>
 
 <center>
 
@@ -356,22 +359,22 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Eduardo de Pina](https://github.com/eduardodpms)</i> </p></font>
 
-## Cenário 14
+## Cenário 14: Ajuste do Tamanho das Fontes na Interface
 
-<font size="3"><p style="text-align: center">Tabela 14: Cenário...</p></font>
+<font size="3"><p style="text-align: center">Tabela 14: Cenário Ajuste do Tamanho das Fontes na Interface</p></font>
 
 <center>
 
-| Cenário 14 | Título do Cenário | 
+| Cenário 14 | Ajuste do Tamanho das Fontes na Interface | 
 | :-:       | :-:            |
-| **Título** |  | 
-| **Objetivo** |  | 
-| **Contexto** |  | 
-| **Atores** |  | 
-| **Recursos** |  | 
-| **Episódios** |   | 
-| **Restrições** |  | 
-| **Exceção** |  | 
+| **Título** | ST08 | 
+| **Objetivo** | Permitir que o usuário ajuste o tamanho das fontes exibidas na interface do aplicativo para melhorar a acessibilidade e a usabilidade. | 
+| **Contexto** | Usuário acessa o aplicativo e deseja aumentar ou diminuir o tamanho da fonte para melhor visualização do conteúdo. | 
+| **Atores** | Usuário do aplicativo FGTS | 
+| **Recursos** | Interface do aplicativo, configurações de exibição, controle de tamanho de fonte | 
+| **Episódios** | 1. Usuário abre as configurações da interface. <br> 2. Usuário seleciona a opção de ajuste de tamanho da fonte. <br> 3. Usuário escolhe o tamanho desejado (ex: pequeno, médio, grande). <br> 4. A interface atualiza o tamanho das fontes exibidas. | 
+| **Restrições** | O ajuste de tamanho deve ser aplicado a todos os elementos textuais da interface. <br> Deve ser possível retornar ao tamanho padrão. | 
+| **Exceção** | Caso o ajuste não seja aplicado corretamente, o aplicativo deve exibir uma mensagem de erro e manter o tamanho anterior. | 
 | **Autor** | [Maria Eduarda](https://github.com/dudaa28) | 
 
 </center>
@@ -379,8 +382,13 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 <font size="2"><p style="text-align: center">Fonte: <i>[Maria Eduarda](https://github.com/dudaa28)</i> </p></font>
 
 
+
 ## Bibliografia
 > 1.</a> BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuario. Auto publicação, 2021. 
+
+> 2.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 10. UnB, 2025, p. 8. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf). Acesso em: 17 de maio de 2025.
+
+
 
 ## Histórico de Versão
 
@@ -391,5 +399,8 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 | `1.2` | 16/05/2025 | Organização das tabelas | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |[Danielle Soares](https://github.com/danielle-soaress)|
 | `1.3` | 16/05/2025 | Adicionando cenários 6 e 9 | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir ](https://github.com/EnzoEmir) |
 | `1.4` | 17/05/2025 | Adição cenários 1 e 2 | [Enzo Emir ](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
-| `1.5` | 17/05/2025 | Adição dos cenários 10 e 11 | [Marcelo Makoto](https://github.com/MM4k) | - |
-
+| `1.5` | 17/05/2025 | Adição dos cenários 10 e 11 | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.6` | 17/05/2025 | Adição dos cenários 07 e 08 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Victor Pontual](https://github.com/VictorPontual) |
+| `1.7` | 17/05/2025 | Adição dos cenários 04 e 05 + correção de formatação | [Victor Pontual](https://github.com/VictorPontual) | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.8` | 17/05/2025 | Adição dos cenários 03 e 14 | [Maria Eduarda](https://github.com/dudaa28) | - |
+| `1.9` | 17/05/2025 | Atualização do Documento | [Maria Eduarda](https://github.com/dudaa28) | - |
