@@ -15,7 +15,7 @@ Quando necessário, cada caso de uso pode ser detalhado em uma **Especificação
 
 Todo o processo de elaboração do Diagrama de Casos de Uso do aplicativo **FTGS** está sendo desenvolvido pelos próprios membros da equipe, com base nos conceitos discutidos em sala de aula e nos materiais disponibilizados pelo professor.
 
-A ferramenta utilizada para construção do diagrama foi o [Canva](https://www.canva.com/design/DAGnSj5NRKw/ecAEdqGBVbNgZvm2sLMvKQ/edit), escolhida por sua facilidade de uso e clareza na apresentação visual. Além disso, o modelo segue as diretrizes da **Notação** [UML](https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf) , conforme exemplificado nos slides do professor.
+A ferramenta utilizada para construção do diagrama foi o [diagrams.net](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj84t78ka6NAxVgrJUCHeWABk4QFnoECAwQAQ&url=https%3A%2F%2Fapp.diagrams.net%2F&usg=AOvVaw28S23h4_WI8toant9FYDpi&opi=89978449) <a id="anchor_1" href="#REF2">(2)</a>, escolhida por sua facilidade de uso e clareza na apresentação visual. Além disso, o modelo segue as diretrizes da **Notação UML** <a id="anchor_1" href="#REF1">(1)</a> , conforme exemplificado nos slides do professor.
 
 O diagrama passou por uma validação inicial junto ao cliente (a definir), garantindo que as funcionalidades levantadas estejam alinhadas com as necessidades esperadas.
 
@@ -77,7 +77,7 @@ Abaixo, segue a tabela com os membros participantes do processo de construção 
 
 <p style="text-align: center; font-size: 16px;">Fonte: <i>Leticia Arisa</i></p>
 
-## Diagrama de Casos de Uso
+## Diagramas de Casos de Uso
 
 <font size="3"><p style="text-align: center">Figura 1: Diagrama de Casos de uso do App FGTS - Requisitos Implementados</p></font>
 
@@ -97,7 +97,7 @@ Abaixo, segue a tabela com os membros participantes do processo de construção 
 
 ### Descrição
 
-No contexto do aplicativo **FGTS**, o Diagrama de Casos de Uso é uma ferramenta visual que mostra como os usuários interagem com o sistema** e **quais funcionalidades o aplicativo deve oferecer.
+No contexto do aplicativo **FGTS**, o Diagrama de Casos de Uso é uma ferramenta visual que mostra como os usuários interagem com o sistema e quais funcionalidades o aplicativo deve oferecer.
 
 Esse tipo de diagrama é importante porque permite entender, de forma clara e rápida, o que o usuário pode fazer no aplicativo, facilitando o planejamento, o desenvolvimento e a comunicação entre a equipe e o cliente.
 
@@ -122,15 +122,8 @@ Ator secundário representando um sistema externo. Ele:
 - Valida os dados de acesso e autenticação do usuário.
 - Atualiza em tempo real as informações de saldo e extrato.
 - Autoriza ou recusa solicitações de saque, conforme regras do FGTS.
-- Envia notificações automáticas ao aplicativo com base em eventos relevantes (ex: novo depósito, liberação de saque).
+- Envia informações ao aplicativo com base em eventos relevantes (ex: novo depósito, liberação de saque).
 
-#### Administrador do Sistema
-Ator secundário que representa a equipe responsável pela manutenção técnica do sistema. Ele:
-
-- Gerencia atualizações do aplicativo.
-- Realiza manutenção nos serviços internos.
-- Corrige falhas de integração ou inconsistência de dados.
-- Controla a disponibilidade e desempenho da aplicação.
 
 ## Especificação dos Casos de Uso
 
@@ -138,7 +131,7 @@ Esta seção apresenta a especificação dos principais casos de uso relacionado
 
 As especificações foram elaboradas com base nos requisitos funcionais ainda não implementados, identificados durante a análise do sistema. Cada integrante da equipe foi responsável por desenvolver as descrições de acordo com os critérios discutidos em grupo e orientados pelo material da disciplina.
 
-As informações estão organizadas em campos como **Nome**, **Descrição**, **Atores**, **Pré-Condições**, **Pós-Condições**, além dos **Fluxos Principal, Alternativo e de Exceção**, seguindo a estrutura padrão da [UML](https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf) para casos de uso.
+As informações estão organizadas em campos como **Nome**, **Descrição**, **Atores**, **Pré-Condições**, **Pós-Condições**, além dos **Fluxos Principal, Alternativo e de Exceção**, seguindo a estrutura padrão da UML <a id="anchor_1" href="#REF1">(1)</a> para casos de uso.
 
 
 ## Caso de Uso 1 (EN02)
@@ -473,15 +466,17 @@ No contexto do app FGTS, uma pós-condição para o caso de uso **Visualizar Dat
 
 ## Bibliografia
 
-> 1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. UnB, 2025, p. [11]. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf). Acesso em: 17 de maio de 2025.
+> <a id="BIB1" href="#anchor_1">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. UnB, 2025, p. [11]. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf). Acesso em: 17 de maio de 2025.
 
->2.</a> Lucid Software. *Diagrama de caso de uso UML: o que é, como fazer e exemplos*. Lucidchart, 2025. Disponível em: [https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml). Acesso em: 18 de maio de 2025.
+><a id="BIB2" href="#anchor_2">2.</a> Lucid Software. *Diagrama de caso de uso UML: o que é, como fazer e exemplos*. Lucidchart, 2025. Disponível em: [https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml). Acesso em: 18 de maio de 2025.
 
 ## Referências
 
-> 1.</a> SERRANO, Milene; SERRANO, Maurício. *Requisitos – Aula 13*. UnB, 2025. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf). Acesso em: 17 de maio de 2025.
+> <a id="REF1" href="#anchor_3">1.</a> SERRANO, Milene; SERRANO, Maurício. *Requisitos – Aula 13*. UnB, 2025. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf). Acesso em: 17 de maio de 2025.
 
-> 2.</a> COSTA, Eduarda. *Apresentação sobre Especificação Suplementar*. Canva, 2025. Disponível em: [https://www.canva.com/design/DAGnSj5NRKw/ecAEdqGBVbNgZvm2sLMvKQ/edit](https://www.canva.com/design/DAGnSj5NRKw/ecAEdqGBVbNgZvm2sLMvKQ/edit). Acesso em: 18 de maio de 2025.
+
+> <a id="REF2" href="#anchor_4">2.</a> DIAGRAMS.NET. App Diagrams.net. Disponível em: https://app.diagrams.net/. Acesso em: 18 maio 2025.
+
 
 
 ## Histórico de Versão
@@ -501,5 +496,5 @@ No contexto do app FGTS, uma pós-condição para o caso de uso **Visualizar Dat
 | `2.0` | 18/05/2025 | Atualização de detalhes na página | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |
 | `2.1` | 18/05/2025 | Atualização de detalhes na página e adição de referências | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `2.2` | 18/05/2025 | Adição de casos de uso faltantes | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
-| `2.3` | 18/05/2025 | Adição Fluxos | [Maria Eduarda](https://github.com/dudaa28) | - |
-| `2.4` | 18/05/2025 | Atualização Página | [Maria Eduarda](https://github.com/dudaa28) | - |
+| `2.3` | 18/05/2025 | Adição Fluxos | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |
+| `2.4` | 18/05/2025 | Atualização Página | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |
