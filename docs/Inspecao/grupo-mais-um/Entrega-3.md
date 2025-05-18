@@ -1,13 +1,26 @@
-# Inspeção do Grupo (Entrega 3)
-
-
 ## Introdução
 
-Aqui está definida a inspeção da entrega 3 do nosso grupo, cujo projeto aborda o app *FGTS*. A análise contemplou os principais tópicos definidos para a entrega 3, como a qualidade do processo de modelagem e documentação de requisitos, criação dos cenários, léxicos, diagrama de casos de uso, especialização dos casos de uso e especificação suplementar. O modelo de lista de verificação utilizado está definido em [Entrega 3](../../../Entregas/Entrega-3), e foi construído com a participação de todos os membros do grupo 07.
+Esta análise refere-se à **Entrega 3** do Grupo 08, cujo projeto é centrado no desenvolvimento do aplicativo *e-GDF*. A inspeção foi realizada levando em consideração os processos de modelagem e documentação de requisitos, como os cenários, os léxicos, o diagrama de casos de uso, as especializações dos casos de uso e a especificação suplementar.
+
+O modelo de lista de verificação utilizado está definido em [Entrega 3](../../../Entregas/Entrega-3), e foi construído com a participação de todos os membros do grupo 07. Os registros da avaliação foram feitos de forma criteriosa, incluindo prints, datas e horários das avaliações.
 
 
-## Lista de Inspeção do Grupo 
+## Links
 
+- *GitHub* do grupo inspecionado: [[LINK]](https://github.com/Requisitos-de-Software/2025.1-e-GDF)
+- *GitHub Pages* do grupo inspecionado: [[LINK]](https://requisitos-de-software.github.io/2025.1-e-GDF/)
+
+
+## Gravação
+
+---
+
+
+
+---
+
+
+## Lista de Inspeção do Grupo 08
 
 ### ✅ Itens Gerais
 
@@ -74,4 +87,4 @@ Aqui está definida a inspeção da entrega 3 do nosso grupo, cujo projeto abord
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0`  | 18/05/2025 | Criação do documento | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.0`  | 18/05/2025 | Criação do documento | [Marcelo Makoto](https://github.com/MM4k) | - |

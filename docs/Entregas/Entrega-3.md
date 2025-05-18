@@ -101,4 +101,4 @@ A Entrega 3 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0`  | 18/05/2025 | Criação do documento | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | - |
+| `1.0`  | 18/05/2025 | Criação do documento | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
