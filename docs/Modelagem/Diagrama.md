@@ -2,11 +2,11 @@
 
 ## Introdução
 
-O Diagrama de Casos de Uso representa, de forma clara e objetiva, as **funcionalidades essenciais** do aplicativo **FTGS**, a partir da interação entre o sistema e seus usuários.
+O Diagrama de Casos de Uso representa, de forma clara e objetiva, as funcionalidades essenciais do aplicativo **FTGS**, a partir da interação entre o sistema e seus usuários.
 
-Utilizando a notação UML, este diagrama comportamental identifica os **atores** (usuários ou sistemas externos) e os **casos de uso** (ações que geram valor para o usuário), mostrando como o aplicativo deve se comportar para atender às suas necessidades.
+Utilizando a notação UML, este diagrama comportamental identifica os **Atores** (usuários ou sistemas externos) e os **Casos de Uso** (ações que geram valor para o usuário), mostrando como o aplicativo deve se comportar para atender às suas necessidades.
 
-No caso do FTGS, o foco está em mapear **quem utiliza o sistema e quais ações podem realizar**, como acessar funcionalidades, enviar informações ou visualizar conteúdos.
+No caso do FTGS, o foco está em mapear quem utiliza o sistema e quais ações podem realizar, como acessar funcionalidades, enviar informações ou visualizar conteúdos.
 
 Quando necessário, cada caso de uso pode ser detalhado em uma **Especificação de Casos de Uso**, para descrever o fluxo completo da funcionalidade.
 
@@ -17,7 +17,7 @@ Todo o processo de elaboração do Diagrama de Casos de Uso do aplicativo **FTGS
 
 A ferramenta utilizada para construção do diagrama foi o [Canva](https://www.canva.com/design/DAGnSj5NRKw/ecAEdqGBVbNgZvm2sLMvKQ/edit), escolhida por sua facilidade de uso e clareza na apresentação visual. Além disso, o modelo segue as diretrizes da **Notação** [UML](https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf) , conforme exemplificado nos slides do professor.
 
-O diagrama passou por uma **validação inicial junto ao cliente (a definir)**, garantindo que as funcionalidades levantadas estejam alinhadas com as necessidades esperadas.
+O diagrama passou por uma validação inicial junto ao cliente (a definir), garantindo que as funcionalidades levantadas estejam alinhadas com as necessidades esperadas.
 
 Abaixo, segue a tabela com os membros participantes do processo de construção do trabalho:
 
@@ -81,13 +81,13 @@ Abaixo, segue a tabela com os membros participantes do processo de construção 
 
 ### Descrição
 
-No contexto do aplicativo **FGTS**, o **Diagrama de Casos de Uso** é uma ferramenta visual que mostra **como os usuários interagem com o sistema** e **quais funcionalidades o aplicativo deve oferecer**.
+No contexto do aplicativo **FGTS**, o Diagrama de Casos de Uso é uma ferramenta visual que mostra como os usuários interagem com o sistema** e **quais funcionalidades o aplicativo deve oferecer.
 
-Esse tipo de diagrama é importante porque permite entender, de forma clara e rápida, **o que o usuário pode fazer no aplicativo**, facilitando o planejamento, o desenvolvimento e a comunicação entre a equipe e o cliente.
+Esse tipo de diagrama é importante porque permite entender, de forma clara e rápida, o que o usuário pode fazer no aplicativo, facilitando o planejamento, o desenvolvimento e a comunicação entre a equipe e o cliente.
 
 ### Atores
 
-**Atores** são os usuários ou sistemas que interagem com o aplicativo **FGTS**. Um ator pode ser uma **pessoa**, uma **organização** ou até mesmo um **sistema externo** que se conecta ao aplicativo para realizar ou receber alguma ação.
+Atores são os usuários ou sistemas que interagem com o aplicativo **FGTS**. Um ator pode ser uma pessoa, uma organização ou até mesmo um sistema externo que se conecta ao aplicativo para realizar ou receber alguma ação.
 
 No caso do aplicativo FGTS, os atores representam os elementos externos que produzem ou consomem dados do sistema. São eles que iniciam os casos de uso, como consultar saldo, solicitar saque ou atualizar informações. Segue um exemplo:
 
@@ -121,14 +121,14 @@ Ator secundário que representa a equipe responsável pela manutenção técnica
 
 ## Especificação dos Casos de Uso
 
-Esta seção apresenta a **especificação dos principais casos de uso** relacionados ao aplicativo **FGTS**. O objetivo é descrever, de forma detalhada, como cada funcionalidade deve se comportar, considerando as interações entre os atores (usuário, sistema da Caixa e administrador) e o sistema.
+Esta seção apresenta a especificação dos principais casos de uso relacionados ao aplicativo **FGTS**. O objetivo é descrever, de forma detalhada, como cada funcionalidade deve se comportar, considerando as interações entre os atores (usuário, sistema da Caixa e administrador) e o sistema.
 
-As especificações foram elaboradas com base nos **requisitos funcionais ainda não implementados**, identificados durante a análise do sistema. Cada integrante da equipe foi responsável por desenvolver as descrições de acordo com os critérios discutidos em grupo e orientados pelo material da disciplina.
+As especificações foram elaboradas com base nos requisitos funcionais ainda não implementados, identificados durante a análise do sistema. Cada integrante da equipe foi responsável por desenvolver as descrições de acordo com os critérios discutidos em grupo e orientados pelo material da disciplina.
 
 As informações estão organizadas em campos como **Nome**, **Descrição**, **Atores**, **Pré-Condições**, **Pós-Condições**, além dos **Fluxos Principal, Alternativo e de Exceção**, seguindo a estrutura padrão da [UML](https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf) para casos de uso.
 
 
-### Caso de Uso 1 (EN02)
+## Caso de Uso 1 (EN02)
 
 <font size="3"><p style="text-align: center">Tabela 2: Visualizar Status Comentado do Saque </p></font>
 
@@ -416,3 +416,4 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | `1.5` | 17/05/2025 | Adição dos casos de uso 09 e 12 | [Danielle](https://github.com/danielle-soaress) | [Victor Pontual](https://github.com/VictorPontual) |
 | `1.6` | 18/05/2025 | Correção de erros e padronização dos tópicos | [Victor Pontual](https://github.com/VictorPontual) | [Maria Eduarda](https://github.com/dudaa28) |
 | `1.7` | 18/05/2025 | Adição de Casos de Uso e Correções | [Maria Eduarda](https://github.com/dudaa28) | - |
+| `1.8` | 18/05/2025 | Atualização de detalhes na página | [Maria Eduarda](https://github.com/dudaa28) | - |
