@@ -79,6 +79,24 @@ Abaixo, segue a tabela com os membros participantes do processo de construção 
 
 ## Diagrama de Casos de Uso
 
+<font size="3"><p style="text-align: center">Figura 1: Diagrama de Casos de uso do App FGTS - Requisitos Implementados</p></font>
+
+![Diagrama](./../assets/diagramas/implementados.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) e [Enzo Emir](https://github.com/EnzoEmir), 2025.</p></font>
+
+<br>
+
+<font size="3"><p style="text-align: center">Figura 1: Diagrama de Casos de uso do App FGTS - Requisitos Não Implementados</p></font>
+
+![Diagrama](./../assets/diagramas/nao_implementados.png)
+
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) e [Enzo Emir](https://github.com/EnzoEmir), 2025.</p></font>
+
+
+
+
+
 ### Descrição
 
 No contexto do aplicativo **FGTS**, o Diagrama de Casos de Uso é uma ferramenta visual que mostra como os usuários interagem com o sistema** e **quais funcionalidades o aplicativo deve oferecer.
@@ -412,8 +430,9 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | `1.1` | 17/05/2025 | Adição do caso de uso 1 e 2 |  [Enzo Emir](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.2` | 17/05/2025 | Adição dos casos de uso 10 e 11 | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.3` | 17/05/2025 | Adição dos casos de uso 07 e 08 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Victor Pontual](https://github.com/VictorPontual) |
-| `1.4` | 17/05/2025 | Adição dos casos de uso 05 e 06 | [Victor Pontual](https://github.com/VictorPontual) | - |
+| `1.4` | 17/05/2025 | Adição dos casos de uso 05 e 06 | [Victor Pontual](https://github.com/VictorPontual) | [Danielle](https://github.com/danielle-soaress) |
 | `1.5` | 17/05/2025 | Adição dos casos de uso 09 e 12 | [Danielle](https://github.com/danielle-soaress) | [Victor Pontual](https://github.com/VictorPontual) |
 | `1.6` | 18/05/2025 | Correção de erros e padronização dos tópicos | [Victor Pontual](https://github.com/VictorPontual) | [Maria Eduarda](https://github.com/dudaa28) |
-| `1.7` | 18/05/2025 | Adição de Casos de Uso e Correções | [Maria Eduarda](https://github.com/dudaa28) | - |
-| `1.8` | 18/05/2025 | Atualização de detalhes na página | [Maria Eduarda](https://github.com/dudaa28) | - |
+| `1.7` | 18/05/2025 | Adição de Casos de Uso e Correções | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |
+| `1.8` | 18/05/2025 | Atualização de detalhes na página | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |
+| `1.9` | 18/05/2025 | Inserção dos Diagramas | [Danielle](https://github.com/danielle-soaress) | - |
