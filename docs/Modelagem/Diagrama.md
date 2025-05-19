@@ -81,7 +81,7 @@ Abaixo, segue a tabela com os membros participantes do processo de construção 
 
 <font size="3"><p style="text-align: center">Figura 1: Diagrama de Casos de uso do App FGTS - Requisitos Implementados</p></font>
 
-![Diagrama](./../assets/diagramas/implementados.png)
+![Diagrama](./../assets/diagramas/implementado.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) e [Enzo Emir](https://github.com/EnzoEmir), 2025.</p></font>
 
@@ -89,7 +89,7 @@ Abaixo, segue a tabela com os membros participantes do processo de construção 
 
 <font size="3"><p style="text-align: center">Figura 1: Diagrama de Casos de uso do App FGTS - Requisitos Não Implementados</p></font>
 
-![Diagrama](./../assets/diagramas/nao_implementados.png)
+![Diagrama](./../assets/diagramas/nao_implementado.png)
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) e [Enzo Emir](https://github.com/EnzoEmir), 2025.</p></font>
 
