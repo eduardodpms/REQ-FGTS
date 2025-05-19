@@ -105,77 +105,77 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
 ## Índice por Léxico
 
 ### EN02
-- [L01 – Consultar Status](#l01--consultar-status)
-- [L02 – Status do Saque](#l02--status-do-saque)
-- [L03 – Comentário Explicativo](#l03--comentário-explicativo)
-- [L04 – Saque em Análise](#l04--saque-em-análise)
-- [L05 – Saque Aprovado](#l05--saque-aprovado)
-- [L06 – Saque Efetuado](#l06--saque-efetuado)
-- [L07 – Saque Pendente](#l07--saque-pendente)
-- [L08 – Saque Cancelado](#l08--saque-cancelado)
-- [L09 – Status Visualizado](#l09--status-visualizado)
+- [L01 – Consultar Status](#l01-consultar-status)
+- [L02 – Status do Saque](#l02-status-do-saque)
+- [L03 – Comentário Explicativo](#l03-comentário-explicativo)
+- [L04 – Saque em Análise](#l04-saque-em-análise)
+- [L05 – Saque Aprovado](#l05-saque-aprovado)
+- [L06 – Saque Efetuado](#l06-saque-efetuado)
+- [L07 – Saque Pendente](#l07-saque-pendente)
+- [L08 – Saque Cancelado](#l08-saque-cancelado)
+- [L09 – Status Visualizado](#l09-status-visualizado)
 
 ### EN03
-- [L10 – Visualizar Data Prevista](#l10--visualizar-data-prevista)
-- [L11 – Data Prevista](#l11--data-prevista)
-- [L12 – Notificação](#l12--notificação)
-- [L13 – Data Visualizada](#l13--data-visualizada)
+- [L10 – Visualizar Data Prevista](#l10-visualizar-data-prevista)
+- [L11 – Data Prevista](#l11-data-prevista)
+- [L12 – Notificação](#l12-notificação)
+- [L13 – Data Visualizada](#l13-data-visualizada)
 
 ### EN04
-- [L14 – Oferecer Canal de Suporte](#l14--oferecer-canal-de-suporte)
-- [L15 – Canal de Suporte](#l15--canal-de-suporte)
+- [L14 – Oferecer Canal de Suporte](#l14-oferecer-canal-de-suporte)
+- [L15 – Canal de Suporte](#l15-canal-de-suporte)
 
 ### ST08
-- [L16 – Ajustar Tamanho da Fonte](#l16--ajustar-tamanho-da-fonte)
-- [L17 – Tamanho da Fonte](#l17--tamanho-da-fonte)
-- [L18 – Acessibilidade](#l18--acessibilidade)
-- [L19 – Interface do Aplicativo](#l19--interface-do-aplicativo)
+- [L16 – Ajustar Tamanho da Fonte](#l16-ajustar-tamanho-da-fonte)
+- [L17 – Tamanho da Fonte](#l17-tamanho-da-fonte)
+- [L18 – Acessibilidade](#l18-acessibilidade)
+- [L19 – Interface do Aplicativo](#l19-interface-do-aplicativo)
 
 ### IS06
-- [L20 – Cancelar Solicitação](#l20--cancelar-solicitação)
-- [L21 – Solicitação de Saque](#l21--solicitação-de-saque)
-- [L22 – Confirmação de Cancelamento](#l22--confirmação-de-cancelamento)
-- [L23 – Solicitação Ativa](#l23--solicitação-ativa)
-- [L24 – Solicitação Cancelada](#l24--solicitação-cancelada)
-- [L25 – Solicitação Processada](#l25--solicitação-processada)
+- [L20 – Cancelar Solicitação](#l20-cancelar-solicitação)
+- [L21 – Solicitação de Saque](#l21-solicitação-de-saque)
+- [L22 – Confirmação de Cancelamento](#l22-confirmação-de-cancelamento)
+- [L23 – Solicitação Ativa](#l23-solicitação-ativa)
+- [L24 – Solicitação Cancelada](#l24-solicitação-cancelada)
+- [L25 – Solicitação Processada](#l25-solicitação-processada)
 
 ### IS07
-- [L26 – Filtrar Saques por Tipo](#l26--filtrar-saques-por-tipo)
-- [L27 – Lista de Saques](#l27--lista-de-saques)
-- [L28 – Filtro de Tipo](#l28--filtro-de-tipo)
-- [L29 – Lista Filtrada](#l29--lista-filtrada)
+- [L26 – Filtrar Saques por Tipo](#l26-filtrar-saques-por-tipo)
+- [L27 – Lista de Saques](#l27-lista-de-saques)
+- [L28 – Filtro de Tipo](#l28-filtro-de-tipo)
+- [L29 – Lista Filtrada](#l29-lista-filtrada)
 
 ### IS12
-- [L30 – Cadastrar](#l30--cadastrar)
+- [L30 – Cadastrar](#l30-cadastrar)
 
 ### IS09
-- [L31 – Exibir Informações Detalhadas](#l31--exibir-informações-detalhadas)
-- [L32 – Informações Detalhadas](#l32--informações-detalhadas)
+- [L31 – Exibir Informações Detalhadas](#l31-exibir-informações-detalhadas)
+- [L32 – Informações Detalhadas](#l32-informações-detalhadas)
 - [L33 – Histórico de Movimentações Financeiras](#l33--histórico-de-movimentações-financeiras)
 
 ### IS10
-- [L34 – Filtrar](#l34--filtrar)
+- [L34 – Filtrar](#l34-filtrar)
 
 ### IS08
-- [L35 – Bloqueado](#l35--bloqueado)
+- [L35 – Bloqueado](#l35-bloqueado)
 
 ### IS13
-- [L36 – Chat](#l36--chat)
-- [L37 – Assistente Virtual](#l37--assistente-virtual)
-- [L38 – Mensagem](#l38--mensagem)
+- [L36 – Chat](#l36-chat)
+- [L37 – Assistente Virtual](#l37-assistente-virtual)
+- [L38 – Mensagem](#l38-mensagem)
 
 ### IS14
-- [L39 – Buscar](#l39--buscar)
-- [L40 – Campo de Busca](#l40--campo-de-busca)
-- [L41 – Termo de Pesquisa](#l41--termo-de-pesquisa)
+- [L39 – Buscar](#l39-buscar)
+- [L40 – Campo de Busca](#l40-campo-de-busca)
+- [L41 – Termo de Pesquisa](#l41-termo-de-pesquisa)
 
 ### IS16
-- [L42 – Acessar Ajuda](#l42--acessar-ajuda)
-- [L43 – Procurar Dúvida](#l43--procurar-dúvida)
+- [L42 – Acessar Ajuda](#l42-acessar-ajuda)
+- [L43 – Procurar Dúvida](#l43-procurar-dúvida)
 
 ### ST07
-- [L44 – Requerer Guia](#l44--requerer-guia)
-- [L45 – Seguir Guia](#l45--seguir-guia)
+- [L44 – Requerer Guia](#l44-requerer-guia)
+- [L45 – Seguir Guia](#l45-seguir-guia)
 
 ---
 
