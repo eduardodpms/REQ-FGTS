@@ -497,4 +497,4 @@ No contexto do app FGTS, uma pós-condição para o caso de uso **Visualizar Dat
 | `2.1` | 18/05/2025 | Atualização de detalhes na página e adição de referências | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `2.2` | 18/05/2025 | Adição de casos de uso faltantes | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
 | `2.3` | 18/05/2025 | Adição Fluxos | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |
-| `2.4` | 18/05/2025 | Atualização Página | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |
+| `2.4` | 18/05/2025 | Atualização Página | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |Corrigindo Diagrama | [Danielle](https://github.com/danielle-soaress) |[Maria Eduarda](https://github.com/dudaa28) |
