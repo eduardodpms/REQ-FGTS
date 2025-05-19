@@ -108,8 +108,8 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
 
 - [L01 – Consultar Status](#l01-consultar-status)
 - [L02 – Status do Saque](#l02-status-do-saque)
-- [L03 – Comentário Explicativo](#l03-comentário-explicativo)
-- [L04 – Saque em Análise](#l04-saque-em-análise)
+- [L03 – Comentário Explicativo](#l03-comentario-explicativo)
+- [L04 – Saque em Análise](#l04-saque-em-analise)
 - [L05 – Saque Aprovado](#l05-saque-aprovado)
 - [L06 – Saque Efetuado](#l06-saque-efetuado)
 - [L07 – Saque Pendente](#l07-saque-pendente)
@@ -120,7 +120,7 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
 
 - [L10 – Visualizar Data Prevista](#l10-visualizar-data-prevista)
 - [L11 – Data Prevista](#l11-data-prevista)
-- [L12 – Notificação](#l12-notificação)
+- [L12 – Notificação](#l12-notificacao)
 - [L13 – Data Visualizada](#l13-data-visualizada)
 
 **Requisito EN04:**
@@ -137,12 +137,12 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
 
 **Requisito IS06:**
 
-- [L20 – Cancelar Solicitação](#l20-cancelar-solicitação)
-- [L21 – Solicitação de Saque](#l21-solicitação-de-saque)
-- [L22 – Confirmação de Cancelamento](#l22-confirmação-de-cancelamento)
-- [L23 – Solicitação Ativa](#l23-solicitação-ativa)
-- [L24 – Solicitação Cancelada](#l24-solicitação-cancelada)
-- [L25 – Solicitação Processada](#l25-solicitação-processada)
+- [L20 – Cancelar Solicitação](#l20-cancelar-solicitacao)
+- [L21 – Solicitação de Saque](#l21-solicitacao-de-saque)
+- [L22 – Confirmação de Cancelamento](#l22-confirmacao-de-cancelamento)
+- [L23 – Solicitação Ativa](#l23-solicitacao-ativa)
+- [L24 – Solicitação Cancelada](#l24-solicitacao-cancelada)
+- [L25 – Solicitação Processada](#l25-solicitacao-processada)
 
 **Requisito IS07:**
 
@@ -157,9 +157,9 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
 
 **Requisito IS09:**
 
-- [L31 – Exibir Informações Detalhadas](#l31-exibir-informações-detalhadas)
-- [L32 – Informações Detalhadas](#l32-informações-detalhadas)
-- [L33 – Histórico de Movimentações Financeiras](#l33--histórico-de-movimentações-financeiras)
+- [L31 – Exibir Informações Detalhadas](#l31-exibir-informacoes-detalhadas)
+- [L32 – Informações Detalhadas](#l32-informacoes-detalhadas)
+- [L33 – Histórico de Movimentações Financeiras](#l33-historico-de-movimentacoes-financeiras)
 
 **Requisito IS10:**
 
@@ -184,7 +184,7 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
 **Requisito IS16:**
 
 - [L42 – Acessar Ajuda](#l42-acessar-ajuda)
-- [L43 – Procurar Dúvida](#l43-procurar-dúvida)
+- [L43 – Procurar Dúvida](#l43-procurar-duvida)
 
 **Requisito ST07:**
 
