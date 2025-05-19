@@ -117,6 +117,6 @@ Este documento segue o modelo **FURPS+**, organizando os requisitos de software 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 16/05/2025 | Criação do documento | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Enzo Emir](https://github.com/EnzoEmir)|
-| `1.1` | 18/05/2025 | Adição da introdução,metodologia e modelo. |[Enzo Emir](https://github.com/EnzoEmir) |-|
+| `1.1` | 18/05/2025 | Adição da introdução,metodologia e modelo. |[Enzo Emir](https://github.com/EnzoEmir) |[Maria](https://github.com/dudaa28)|
 | `1.2` | 18/05/2025 | Adição da tabela. |[Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |[Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual)|
 | `1.3` | 18/05/2025 | Adição da bibliografia. |[Enzo Emir](https://github.com/EnzoEmir) |-|
