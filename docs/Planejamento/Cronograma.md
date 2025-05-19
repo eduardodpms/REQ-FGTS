@@ -230,4 +230,4 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 | `1.7` | 02/05/2025 | Melhorando o cronograma da entrega 2 | [Enzo Emir](https://github.com/EnzoEmir) | [Maria Eduarda](https://github.com/dudaa28) |
 | `1.8` | 04/05/2025 | Cronograma da entrega 2 - Entregue | [Maria Eduarda](https://github.com/dudaa28) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.9` | 12/05/2025 | Melhorando o cronograma da entrega 3 | [Enzo Emir](https://github.com/EnzoEmir) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `2.0` | 18/05/2025 | Adicionando cronograma entregue na etapa de modelagem 1 | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `2.0` | 18/05/2025 | Adicionando cronograma entregue na etapa de modelagem 1 | [Eduardo de Pina](https://github.com/eduardodpms) | [Marcelo Makoto](https://github.com/MM4k) |
