@@ -104,7 +104,7 @@ O modelo de lista de verificação utilizado está definido em [Entrega 2](../..
 | Versão | Data | Item | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 05/05/2025 | Adição Entrega 2 +1 | [Enzo Emir](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
-| `1.1`  | 07/05/2025 | Convertendo tabela para markdown e corrigindo detalhes | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.1`  | 07/05/2025 | Convertendo tabela para markdown e corrigindo detalhes | [Eduardo de Pina](https://github.com/eduardodpms) | [Leticia](https://github.com/Leticia-Arisa-K-Higa) |
 
 
 

@@ -85,8 +85,8 @@ O modelo de lista de verificação utilizado está definido em [Entrega 1](../..
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 21/04/2025 | Criação do documento | [Eduardo de Pina](https://github.com/eduardodpms) |[Danielle Soares](https://github.com/danielle-soaress) |
 | `1.1` | 02/05/2025 | Atualização do texto e da aparência | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `1.2` | 02/05/2025 | Atualização do texto e da aparência | [Eduardo de Pina](https://github.com/eduardodpms) | - |
-| `1.3` | 07/05/2025 | Ajuste de textos, links, paths e elementos na lista | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.2` | 02/05/2025 | Atualização do texto e da aparência | [Eduardo de Pina](https://github.com/eduardodpms) | [Leticia](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.3` | 07/05/2025 | Ajuste de textos, links, paths e elementos na lista | [Eduardo de Pina](https://github.com/eduardodpms) | [Leticia](https://github.com/Leticia-Arisa-K-Higa) |
 
 
 
