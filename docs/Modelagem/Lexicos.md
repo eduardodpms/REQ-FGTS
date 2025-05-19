@@ -649,7 +649,7 @@ O léxico L25 utiliza o requisito funcional IS06 (O sistema deve permitir que o 
 
 ### L26: Filtrar Saques por Tipo
 
-O léxico L26 utiliza o requisito funcional IS06 (O aplicativo deve permitir o filtro dos saques por tipo (ex: aniversário, doença, falecimento)). Esse léxico é detalhado na tabela abaixo:
+O léxico L26 utiliza o requisito funcional IS07 (O aplicativo deve permitir o filtro dos saques por tipo (ex: aniversário, doença, falecimento)). Esse léxico é detalhado na tabela abaixo:
 
 <font size="3"><p style="text-align: center">Tabela 29: Léxico 26 – Filtrar Saques por Tipo (L26)</p></font>
 
@@ -667,7 +667,7 @@ O léxico L26 utiliza o requisito funcional IS06 (O aplicativo deve permitir o f
 
 ### L27: Lista de Saques
 
-O léxico L27 utiliza o requisito funcional IS06 (O aplicativo deve permitir o filtro dos saques por tipo (ex: aniversário, doença, falecimento)). Esse léxico é detalhado na tabela abaixo:
+O léxico L27 utiliza o requisito funcional IS07 (O aplicativo deve permitir o filtro dos saques por tipo (ex: aniversário, doença, falecimento)). Esse léxico é detalhado na tabela abaixo:
 
 <font size="3"><p style="text-align: center">Tabela 30: Léxico 27 – Lista de Saques (L27)</p></font>
 
@@ -685,7 +685,7 @@ O léxico L27 utiliza o requisito funcional IS06 (O aplicativo deve permitir o f
 
 ### L28: Filtro de Tipo
 
-O léxico L28 utiliza o requisito funcional IS06 (O aplicativo deve permitir o filtro dos saques por tipo (ex: aniversário, doença, falecimento)). Esse léxico é detalhado na tabela abaixo:
+O léxico L28 utiliza o requisito funcional IS07 (O aplicativo deve permitir o filtro dos saques por tipo (ex: aniversário, doença, falecimento)). Esse léxico é detalhado na tabela abaixo:
 
 <font size="3"><p style="text-align: center">Tabela 31: Léxico 28 – Filtro de Tipo (L28)</p></font>
 
@@ -702,7 +702,7 @@ O léxico L28 utiliza o requisito funcional IS06 (O aplicativo deve permitir o f
 
 ### L29: Lista Filtrada
 
-O léxico L29 utiliza o requisito funcional IS06 (O aplicativo deve permitir o filtro dos saques por tipo (ex: aniversário, doença, falecimento)). Esse léxico é detalhado na tabela abaixo:
+O léxico L29 utiliza o requisito funcional IS07 (O aplicativo deve permitir o filtro dos saques por tipo (ex: aniversário, doença, falecimento)). Esse léxico é detalhado na tabela abaixo:
 
 <font size="3"><p style="text-align: center">Tabela 32: Léxico 29 – Lista Filtrada (L29)</p></font>
 
@@ -1029,7 +1029,7 @@ O léxico L41 utiliza o requisito funcional não implementado IS14 (O aplicativo
 
 ### L42: Acessar Ajuda
 
-O léxico L42 utiliza o requisito funcional não implementado IS14 (O aplicativo deve conter uma seção de ajuda com orientações sobre o uso do aplicativo). Esse léxico é detalhado na tabela abaixo:
+O léxico L42 utiliza o requisito funcional não implementado IS16 (O aplicativo deve conter uma seção de ajuda com orientações sobre o uso do aplicativo). Esse léxico é detalhado na tabela abaixo:
 
 <font size="3"><p style="text-align: center">Tabela 45: Léxico 42 – Acessar Ajuda</p></font>
 
@@ -1048,7 +1048,7 @@ O léxico L42 utiliza o requisito funcional não implementado IS14 (O aplicativo
 
 ### L43 - Procurar Dúvida
 
-O léxico L43 utiliza o requisito funcional não implementado IS14 (O aplicativo deve conter uma seção de ajuda com orientações sobre o uso do aplicativo). Esse léxico é detalhado na tabela abaixo:
+O léxico L43 utiliza o requisito funcional não implementado IS16 (O aplicativo deve conter uma seção de ajuda com orientações sobre o uso do aplicativo). Esse léxico é detalhado na tabela abaixo:
 
 <font size="3"><p style="text-align: center">Tabela 46: Léxico 43 – Procurar Dúvida</p></font>
 
@@ -1071,7 +1071,7 @@ O léxico L43 utiliza o requisito funcional não implementado IS14 (O aplicativo
 
 ### L44: Requerer Guia
 
-O léxico L44 utiliza o requisito funcional não implementado IS14 (O aplicativo deve disponibilizar um guia interativo para orientar o usuário durante o processo). Esse léxico é detalhado na tabela abaixo:
+O léxico L44 utiliza o requisito funcional não implementado ST07 (O aplicativo deve disponibilizar um guia interativo para orientar o usuário durante o processo). Esse léxico é detalhado na tabela abaixo:
 
 <font size="3"><p style="text-align: center">Tabela 47: Léxico 44 – Requerer Guia</p></font>
 
@@ -1088,7 +1088,7 @@ O léxico L44 utiliza o requisito funcional não implementado IS14 (O aplicativo
 
 ### L45: Seguir Guia
 
-O léxico L45 utiliza o requisito funcional não implementado IS14 (O aplicativo deve disponibilizar um guia interativo para orientar o usuário durante o processo). Esse léxico é detalhado na tabela abaixo:
+O léxico L45 utiliza o requisito funcional não implementado ST07 (O aplicativo deve disponibilizar um guia interativo para orientar o usuário durante o processo). Esse léxico é detalhado na tabela abaixo:
 
 <font size="3"><p style="text-align: center">Tabela 48: Léxico 45 – Seguir Guia</p></font>
 
