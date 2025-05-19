@@ -502,4 +502,4 @@ No contexto do app FGTS, uma pós-condição para o caso de uso **Visualizar Dat
 | `2.2` | 18/05/2025 | Adição de casos de uso faltantes | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
 | `2.3` | 18/05/2025 | Adição Fluxos | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |
 | `2.4` | 18/05/2025 | Atualização Página | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |Corrigindo Diagrama | [Danielle](https://github.com/danielle-soaress) |[Maria Eduarda](https://github.com/dudaa28) |
-| `2.5` | 18/05/2025 | Adição Fluxos | [Maria Eduarda](https://github.com/dudaa28) | [Marcelo Makoto](https://github.com/MM4k) |
+| `2.5` | 18/05/2025 | Adição da gravação | [Maria Eduarda](https://github.com/dudaa28) | [Marcelo Makoto](https://github.com/MM4k) |
