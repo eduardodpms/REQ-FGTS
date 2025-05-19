@@ -23,4 +23,4 @@ Ficou decidido que o número de reuniões semanais seria um número variável, c
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 11/04/2025 | Criação do plano de reuniões | [Eduardo de Pina](https://github.com/eduardodpms) | [Marcelo Makoto](https://github.com/MM4k) |
-| `1.1` | 18/05/2025 | Detalhamento das reuniões secundárias | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.1` | 18/05/2025 | Detalhamento das reuniões secundárias | [Eduardo de Pina](https://github.com/eduardodpms) | [Marcelo Makoto](https://github.com/MM4k) |
