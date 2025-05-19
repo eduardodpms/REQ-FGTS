@@ -65,7 +65,7 @@ A Entrega 3 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 | ***20:*** O diagrama de caso de uso contém pelo menos um caso de uso que utiliza pontos de extensão? <a id="REF1" href="#anchor_1">1.</a> | [Marcelo](https://github.com/MM4k) | ✅ |  |   |  |  |
 | ***21:*** Houve participação do cliente na validação do diagrama de caso de uso? <a id="REF1" href="#anchor_1">1.</a> | [Marcelo](https://github.com/MM4k) | ✅ |  |  |  |  |
 | ***22:*** No diagrama de casos de uso, todos os atores estão relacionados com pelo menos um caso de uso? <a id="REF4" href="#anchor_4">4.</a>| [Victor](https://github.com/VictorPontual) | ✅ |  |  |  |  |
-| ***23:*** No diagrama de casos de uso, todos os casos de uso estão posicionados dentro da caixa que representa o sistema? <a id="REF4" href="#anchor_4">4.</a>|  | ✅ |  | ![][image23] |  |  |
+| ***23:*** No diagrama de casos de uso, todos os casos de uso estão posicionados dentro da caixa que representa o sistema? <a id="REF4" href="#anchor_4">4.</a>| [Victor](https://github.com/VictorPontual) | ✅ |  | ![][image23] |  |  |
 
 
 
