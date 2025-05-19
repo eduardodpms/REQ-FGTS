@@ -66,7 +66,7 @@ Aqui está definida a inspeção da entrega 1 do nosso grupo, no que tange ao ap
 
 | Versão | Data | Descrição | Autor(es) |  Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 07/05/2025 | Criação do documento | [Eduardo de Pina](https://github.com/eduardodpms) | [Leticia](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.0` | 07/05/2025 | Criação do documento | [Eduardo de Pina](https://github.com/eduardodpms) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 
 
 

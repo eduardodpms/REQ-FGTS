@@ -169,9 +169,9 @@ Ao abrir o app, Antônio logo percebeu uma dificuldade: as letras eram pequenas.
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0`  | 03/05 | Criação da aba de storytelling | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Marcelo Makoto](https://github.com/MM4k) | [Maria](https://github.com/dudaa28) |
-| `1.1`  | 03/05 | Adição da seção de Introdução | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
-| `1.2`  | 04/05 | Adição da gravação | [Marcelo Makoto](https://github.com/MM4k) | [Enzo Emir](https://github.com/EnzoEmir),   |
-| `1.3`  | 06/05 | Correção da formatação dos requisitos elicitados, adição da tabela dos participantes e correção das tabelas. | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | Victor Pontual|
-| `1.4`  | 17/05 | Adição de âncoras | [Danielle Soares](https://github.com/danielle-soaress) |  |
-| `1.5` | 17/05 | Corrigindo bug nas tabelas | [Danielle Soares](https://github.com/danielle-soaress) |  |
+| `1.0`  | 03/05/2025 | Criação da aba de storytelling | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Marcelo Makoto](https://github.com/MM4k) | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.1`  | 03/05/2025 | Adição da seção de Introdução | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.2`  | 04/05/2025 | Adição da gravação | [Marcelo Makoto](https://github.com/MM4k) | [Enzo Emir](https://github.com/EnzoEmir),   |
+| `1.3`  | 06/05/2025 | Correção da formatação dos requisitos elicitados, adição da tabela dos participantes e correção das tabelas. | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Victor Pontual](https://github.com/VictorPontual) |
+| `1.4`  | 17/05/2025 | Adição de âncoras | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `1.5` | 17/05/2025 | Corrigindo bug nas tabelas | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |

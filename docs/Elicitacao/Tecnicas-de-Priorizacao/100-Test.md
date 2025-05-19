@@ -137,6 +137,6 @@ A técnica foi aplicada de forma individual, sendo que cada participante aplicou
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0`  | 04/05/2025 | Criação do documento | [Danielle Soares](https://github.com/danielle-soaress), [Enzo Emir](https://github.com/EnzoEmir) | [Victor Pontual](https://github.com/VictorPontual) |
-| `1.1`  | 04/05/2025 | Atualização do Documento | [Maria](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `1.2`  | 04/05/2025 | Correção de link | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.0` | 04/05/2025 | Criação do documento | [Danielle Soares](https://github.com/danielle-soaress), [Enzo Emir](https://github.com/EnzoEmir) | [Victor Pontual](https://github.com/VictorPontual) |
+| `1.1` | 04/05/2025 | Atualização do Documento | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `1.2` | 04/05/2025 | Correção de link | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |

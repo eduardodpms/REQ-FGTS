@@ -89,4 +89,4 @@ O modelo de lista de verificação utilizado está definido em [Entrega 3](../..
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0`  | 18/05/2025 | Criação do documento | [Marcelo Makoto](https://github.com/MM4k) | - |
+| `1.0`  | 18/05/2025 | Criação do documento | [Marcelo Makoto](https://github.com/MM4k) | [Eduardo de Pina](https://github.com/eduardodpms) |

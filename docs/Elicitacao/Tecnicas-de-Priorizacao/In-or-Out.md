@@ -105,6 +105,6 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
 
 ## Histórico de Versões 🗓️
 
-| Versão | Data       | Descrição                        | Autor(es)                      | Revisor(es) |
-| ------ | ---------- | -------------------------------- | ------------------------------ | ----------- |
-| 1.0    | 04/05/2025 | Criação da priorização In or Out | [Victor Pontual](https://github.com/VictorPontual), [Enzo Emir](https://github.com/EnzoEmir) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)         |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+|:-:|:-:|:-:|:-:|:-:|
+| `1.0` | 04/05/2025 | Criação da priorização In or Out | [Enzo Emir](https://github.com/EnzoEmir), [Victor Pontual](https://github.com/VictorPontual) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |

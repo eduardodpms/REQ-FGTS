@@ -96,7 +96,7 @@ Essa página tem como objetivo compilar todos os requisitos elicitados com a uti
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0`  | 04/05 | Criação da página de requisitos elicitados | [Marcelo Makoto](https://github.com/MM4k) | [Maria Eduarda](https://github.com/dudaa28) |
-| `1.1`  | 04/05 | Adição das tabelas de requisitos elicitados | [Victor Pontual](https://github.com/VictorPontual) | [Maria Eduarda](https://github.com/dudaa28) |
-| `1.2`  | 17/05 | Adição do requisito RF35 | [Danielle Soares](https://github.com/danielle-soaress) |  |
-| `1.3`  | 17/05 | Adição de links de rastreabilidade aos requisitos | [Danielle Soares](https://github.com/danielle-soaress) |  |
+| `1.0`  | 04/05/2025 | Criação da página de requisitos elicitados | [Marcelo Makoto](https://github.com/MM4k) | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.1`  | 04/05/2025 | Adição das tabelas de requisitos elicitados | [Victor Pontual](https://github.com/VictorPontual) | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.2`  | 17/05/2025 | Adição do requisito RF35 | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `1.3`  | 17/05/2025 | Adição de links de rastreabilidade aos requisitos | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |

@@ -137,8 +137,8 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 
 ## Histórico de Versões 📅
 
-| Versão | Data       | Descrição                                      | Autor(es) | Revisor(es)    |
-| ------ | ---------- | ---------------------------------------------- | --------- | -------------- |
-| `1.0`   | 04/05/2025 | Documento de elicitação com base em observação | [Victor Pontual](https://github.com/VictorPontual) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
-| `1.1`  | 17/05 | Adição de âncoras e correção dos IDs de rastreabilidade | [Danielle Soares](https://github.com/danielle-soaress) |  |
-| `1.2`  | 17/05 | Corrigindo bug nas tabelas | [Danielle Soares](https://github.com/danielle-soaress) |  |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+|:-:|:-:|:-:|:-:|:-:|
+| `1.0` | 04/05/2025 | Documento de elicitação com base em observação | [Victor Pontual](https://github.com/VictorPontual) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
+| `1.1` | 17/05/2025 | Adição de âncoras e correção dos IDs de rastreabilidade | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `1.2` | 17/05/2025 | Corrigindo bug nas tabelas | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |

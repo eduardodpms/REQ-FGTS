@@ -86,7 +86,7 @@ Aqui está definida a inspeção da entrega 2 do nosso grupo, cujo projeto abord
 | Versão | Data | Descrição | Autor(es) |  Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 05/05/2025 | Criação do documento | [Danielle Soares](https://github.com/danielle-soaress) | [Victor Pontual](https://github.com/VictorPontual) |
-| `1.1` | 07/05/2025 | Ajuste textual e da lista de inspeção | [Eduardo de Pina](https://github.com/eduardodpms) | [Leticia](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.1` | 07/05/2025 | Ajuste textual e da lista de inspeção | [Eduardo de Pina](https://github.com/eduardodpms) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 
 
 
