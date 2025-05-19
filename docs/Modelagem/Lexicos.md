@@ -102,9 +102,10 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
 
 <p style="text-align: center; font-size: 16px;">Fonte: <i>Leticia Arisa</i></p>
 
-## Índice por Léxico
+## Sumário
 
-### EN02
+**Requisito N02:**
+
 - [L01 – Consultar Status](#l01-consultar-status)
 - [L02 – Status do Saque](#l02-status-do-saque)
 - [L03 – Comentário Explicativo](#l03-comentário-explicativo)
@@ -115,23 +116,27 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
 - [L08 – Saque Cancelado](#l08-saque-cancelado)
 - [L09 – Status Visualizado](#l09-status-visualizado)
 
-### EN03
+**Requisito EN03:**
+
 - [L10 – Visualizar Data Prevista](#l10-visualizar-data-prevista)
 - [L11 – Data Prevista](#l11-data-prevista)
 - [L12 – Notificação](#l12-notificação)
 - [L13 – Data Visualizada](#l13-data-visualizada)
 
-### EN04
+**Requisito EN04:**
+
 - [L14 – Oferecer Canal de Suporte](#l14-oferecer-canal-de-suporte)
 - [L15 – Canal de Suporte](#l15-canal-de-suporte)
 
-### ST08
+**Requisito ST08:**
+
 - [L16 – Ajustar Tamanho da Fonte](#l16-ajustar-tamanho-da-fonte)
 - [L17 – Tamanho da Fonte](#l17-tamanho-da-fonte)
 - [L18 – Acessibilidade](#l18-acessibilidade)
 - [L19 – Interface do Aplicativo](#l19-interface-do-aplicativo)
 
-### IS06
+**Requisito IS06:**
+
 - [L20 – Cancelar Solicitação](#l20-cancelar-solicitação)
 - [L21 – Solicitação de Saque](#l21-solicitação-de-saque)
 - [L22 – Confirmação de Cancelamento](#l22-confirmação-de-cancelamento)
@@ -139,41 +144,50 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
 - [L24 – Solicitação Cancelada](#l24-solicitação-cancelada)
 - [L25 – Solicitação Processada](#l25-solicitação-processada)
 
-### IS07
+**Requisito IS07:**
+
 - [L26 – Filtrar Saques por Tipo](#l26-filtrar-saques-por-tipo)
 - [L27 – Lista de Saques](#l27-lista-de-saques)
 - [L28 – Filtro de Tipo](#l28-filtro-de-tipo)
 - [L29 – Lista Filtrada](#l29-lista-filtrada)
 
-### IS12
+**Requisito IS12:**
+
 - [L30 – Cadastrar](#l30-cadastrar)
 
-### IS09
+**Requisito IS09:**
+
 - [L31 – Exibir Informações Detalhadas](#l31-exibir-informações-detalhadas)
 - [L32 – Informações Detalhadas](#l32-informações-detalhadas)
 - [L33 – Histórico de Movimentações Financeiras](#l33--histórico-de-movimentações-financeiras)
 
-### IS10
+**Requisito IS10:**
+
 - [L34 – Filtrar](#l34-filtrar)
 
-### IS08
+**Requisito IS08:**
+
 - [L35 – Bloqueado](#l35-bloqueado)
 
-### IS13
+**Requisito IS13:**
+
 - [L36 – Chat](#l36-chat)
 - [L37 – Assistente Virtual](#l37-assistente-virtual)
 - [L38 – Mensagem](#l38-mensagem)
 
-### IS14
+**Requisito IS14:**
+
 - [L39 – Buscar](#l39-buscar)
 - [L40 – Campo de Busca](#l40-campo-de-busca)
 - [L41 – Termo de Pesquisa](#l41-termo-de-pesquisa)
 
-### IS16
+**Requisito IS16:**
+
 - [L42 – Acessar Ajuda](#l42-acessar-ajuda)
 - [L43 – Procurar Dúvida](#l43-procurar-dúvida)
 
-### ST07
+**Requisito ST07:**
+
 - [L44 – Requerer Guia](#l44-requerer-guia)
 - [L45 – Seguir Guia](#l45-seguir-guia)
 
