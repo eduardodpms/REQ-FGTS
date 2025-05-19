@@ -65,7 +65,7 @@ A Entrega 3 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 | ***20:*** O diagrama de caso de uso contém pelo menos um caso de uso que utiliza pontos de extensão? <a id="REF1" href="#anchor_1">1.</a> | [Marcelo](https://github.com/MM4k) | ✅ |  |   |  |  |
 | ***21:*** Houve participação do cliente na validação do diagrama de caso de uso? <a id="REF1" href="#anchor_1">1.</a> | [Marcelo](https://github.com/MM4k) | ✅ |  |  |  |  |
 | ***22:*** No diagrama de casos de uso, todos os atores estão relacionados com pelo menos um caso de uso? <a id="REF4" href="#anchor_4">4.</a>| [Victor](https://github.com/VictorPontual) | ✅ |  |  |  |  |
-| ***23:*** No diagrama de casos de uso, todos os casos de uso estão posicionados dentro da caixa que representa o sistema? <a id="REF4" href="#anchor_4">4.</a>| [Victor](https://github.com/VictorPontual) | ✅ |  | ![][image23] |  |  |
+| ***23:*** No diagrama de casos de uso, todos os casos de uso estão posicionados dentro da caixa que representa o sistema? <a id="REF4" href="#anchor_4">4.</a>| [Victor](https://github.com/VictorPontual) | ✅ |  |  |  |  |
 
 
 
@@ -73,7 +73,7 @@ A Entrega 3 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 
 | Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |------|:---------:|:---------:|:----------:|:-----:|:-------------:|:-----------:|
-| ***24:*** A especificação suplementar segue o modelo FURPS+? <a id="REF1" href="#anchor_1">1.</a> | [Marcelo](https://github.com/MM4k) | ✅ |  | ![][image1] |  |  |
+| ***24:*** A especificação suplementar segue o modelo FURPS+? <a id="REF1" href="#anchor_1">1.</a> | [Marcelo](https://github.com/MM4k) | ✅ |  | |  |  |
 | ***25:*** A especificação suplementar define requisitos de tempo de resposta na seção de desempenho? <a id="REF1" href="#anchor_1">1.</a> | [Maria](https://github.com/dudaa28) | ✅ |  |  |  |  |
 | ***26:*** A especificação suplementar define os ambientes ou plataformas de execução do aplicativo? <a id="REF1" href="#anchor_1">1.</a> | [Maria](https://github.com/dudaa28) | ✅ |  |  |  |  |
 | ***27:*** Na especificação suplementar todos os requisitos não funcionais são testáveis/verificáveis? <a id="REF1" href="#anchor_1">1.</a> | [Maria](https://github.com/dudaa28) |  ✅|  |  |  |  |
