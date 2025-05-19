@@ -49,7 +49,7 @@ A elaboração da especificação suplementar seguiu os seguintes passos:
     </tr>
     <tr>
       <td> Leticia Arisa </td>
-      <td> 18/05 </td>
+      <td> 18/05/2025 </td>
       <td> 23:13 </td>
     </tr>
     <tr>
