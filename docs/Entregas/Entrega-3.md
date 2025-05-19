@@ -24,34 +24,34 @@ A Entrega 3 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 
 | Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? | [Danielle](https://github.com/danielle-soaress) | ✅ |  | ![][image1] |  |  |
-| ***02:*** O artefato apresenta um histórico de versões com id, Item das versões, autores e revisores? | [Danielle](https://github.com/danielle-soaress) | ✅ |  |  ![][image2]|  |  |
-| ***03:*** As tabelas e imagens apresentam legenda e fonte? | [Danielle](https://github.com/danielle-soaress) | ✅ |  | ![][image3] |  |  |
-| ***04:*** O artefato apresenta uma introdução? | [Eduardo](https://github.com/eduardodpms) | ✅ |  | ![][image4] |  |  |
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | [Eduardo](https://github.com/eduardodpms) | ✅ |  |  ![][image5]|  |  |
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | [Eduardo](https://github.com/eduardodpms) | ✅ |  |  ![][image6]|  |  |
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? | [Danielle](https://github.com/danielle-soaress) | ✅ |  |  |  |  |
+| ***02:*** O artefato apresenta um histórico de versões com id, Item das versões, autores e revisores? | [Danielle](https://github.com/danielle-soaress) | ✅ |  |    |  |
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? | [Danielle](https://github.com/danielle-soaress) | ✅ |  |  |  |  |
+| ***04:*** O artefato apresenta uma introdução? | [Eduardo](https://github.com/eduardodpms) | ✅ |  |  |  |  |
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | [Eduardo](https://github.com/eduardodpms) | ✅ |  |  |  |  |
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | [Eduardo](https://github.com/eduardodpms) | ✅ |  |  |  |  |
 
 
 ### ✅ Cenários
 
 | Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |------|:---------:|:---------:|:----------:|:-----:|:-------------:|:-----------:|
-| ***07:*** Os cenários possuem títulos, metas/objetivo, contexto, atores, recursos, exceção e episódios? <a id="REF1" href="#anchor_1">1.</a> | [Danielle](https://github.com/danielle-soaress) | ✅ |  | ![][image7] |  |  |
-| ***08:*** Há a identificação clara do ambiente ou contexto da situação que motiva os objetivos e ações do cenário? <a id="REF2" href="#anchor_2">2.</a> | [Enzo](https://github.com/EnzoEmir) | ✅ |  | ![][image8] |  |  |
-| ***09:*** Os cenários descrevem claramente o comportamento e as experiências dos atores envolvidos? <a id="REF2" href="#anchor_2">2.</a> | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | ✅ |  | ![][image9] |  |  |
-| ***10:*** Cada cenário possui um objetivo principal claramente definido? <a id="REF2" href="#anchor_2">2.</a> | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | ✅ |  | ![][image10] |  |  |
-| ***11:*** Os cenários incluem pelo menos um ator principal? <a id="REF2" href="#anchor_2">2.</a> | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | ✅ |  | ![][image11] |  |  |
-| ***12:*** Cada cenário possui um título que descreve brevemente a situação apresentada? <a id="REF2" href="#anchor_2">2.</a> | [Victor](https://github.com/VictorPontual) | ✅ |  | ![][image12] |  |  |
+| ***07:*** Os cenários possuem títulos, metas/objetivo, contexto, atores, recursos, exceção e episódios? <a id="REF1" href="#anchor_1">1.</a> | [Danielle](https://github.com/danielle-soaress) | ✅ |  |  |  |  |
+| ***08:*** Há a identificação clara do ambiente ou contexto da situação que motiva os objetivos e ações do cenário? <a id="REF2" href="#anchor_2">2.</a> | [Enzo](https://github.com/EnzoEmir) | ✅ |  |  |  |  |
+| ***09:*** Os cenários descrevem claramente o comportamento e as experiências dos atores envolvidos? <a id="REF2" href="#anchor_2">2.</a> | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | ✅ |  |  |  |  |
+| ***10:*** Cada cenário possui um objetivo principal claramente definido? <a id="REF2" href="#anchor_2">2.</a> | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | ✅ |  |  |  |  |
+| ***11:*** Os cenários incluem pelo menos um ator principal? <a id="REF2" href="#anchor_2">2.</a> | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | ✅ |  |  |  |  |
+| ***12:*** Cada cenário possui um título que descreve brevemente a situação apresentada? <a id="REF2" href="#anchor_2">2.</a> | [Victor](https://github.com/VictorPontual) | ✅ |  |  |  |  |
 
 
 ### ✅ Léxicos
 
 | Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-| ***13:*** Os léxicos possuem ligações entre si por meio de hiperlinks? <a id="REF1" href="#anchor_1">1.</a> | [Victor](https://github.com/VictorPontual)  | ✅ |  | ![][image13] |  |  |
-| ***14:*** Os léxicos estão classificados adequadamente como verbo, objeto ou estado? <a id="REF1" href="#anchor_1">1.</a> | [Marcelo](https://github.com/MM4k) | ✅ |  | ![][image14] |  |  |
-| ***15:*** Os léxicos descrevem o impacto do símbolo na aplicação, ou o impacto da aplicação sobre o termo? <a id="REF3" href="#anchor_3">3.</a> | [Maria](https://github.com/dudaa28) | ✅ |  | ![][image15] |  |  |
-| ***16:*** Cada léxico apresenta claramente a noção do termo? | [Leticia](https://github.com/Leticia-Arisa-K-Higa) <a id="REF3" href="#anchor_3"></a> | ✅ |  | ![][image16] |  |  |
+| ***13:*** Os léxicos possuem ligações entre si por meio de hiperlinks? <a id="REF1" href="#anchor_1">1.</a> | [Victor](https://github.com/VictorPontual)  | ✅ |  |  |  |  |
+| ***14:*** Os léxicos estão classificados adequadamente como verbo, objeto ou estado? <a id="REF1" href="#anchor_1">1.</a> | [Marcelo](https://github.com/MM4k) | ✅ |  |  |  |  |
+| ***15:*** Os léxicos descrevem o impacto do símbolo na aplicação, ou o impacto da aplicação sobre o termo? <a id="REF3" href="#anchor_3">3.</a> | [Maria](https://github.com/dudaa28) | ✅ |  |  |  |  |
+| ***16:*** Cada léxico apresenta claramente a noção do termo? | [Leticia](https://github.com/Leticia-Arisa-K-Higa) <a id="REF3" href="#anchor_3"></a> | ✅ |  |  |  |  |
 
 
 
@@ -59,13 +59,13 @@ A Entrega 3 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 
 | Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|:-:|
-| ***17:*** No diagrama de caso de uso, o ator principal está posicionado do lado esquerdo do sistema? <a id="REF1" href="#anchor_1">1.</a>| [Enzo](https://github.com/EnzoEmir) | ✅ |  | ![][image17] |  |  |
-| ***18:*** No diagrama de caso de uso, o ator secundário está posicionado do lado direito do sistema? <a id="REF4" href="#anchor_4">4.</a>| [Enzo](https://github.com/EnzoEmir) | ✅ |  | ![][image18] |  |  |
-| ***19:*** No diagrama de caso de uso, os atores estão posicionados fora da caixa que representa o sistema? <a id="REF1" href="#anchor_1">1.</a>| [Enzo](https://github.com/EnzoEmir) | ✅ |  |![][image19]  |  |  |
-| ***20:*** O diagrama de caso de uso contém pelo menos um caso de uso que utiliza pontos de extensão? <a id="REF1" href="#anchor_1">1.</a> | [Marcelo](https://github.com/MM4k) | ✅ |  | ![][image20]  |  |  |
-| ***21:*** Houve participação do cliente na validação do diagrama de caso de uso? <a id="REF1" href="#anchor_1">1.</a> | [Marcelo](https://github.com/MM4k) | ✅ |  | ![][image21] |  |  |
-| ***22:*** No diagrama de casos de uso, todos os atores estão relacionados com pelo menos um caso de uso? <a id="REF4" href="#anchor_4">4.</a>| [Victor](https://github.com/VictorPontual) | ✅ |  | ![][image22] |  |  |
-| ***23:*** No diagrama de casos de uso, todos os casos de uso estão posicionados dentro da caixa que representa o sistema? <a id="REF4" href="#anchor_4">4.</a>| [Victor](https://github.com/VictorPontual) | ✅ |  | ![][image23] |  |  |
+| ***17:*** No diagrama de caso de uso, o ator principal está posicionado do lado esquerdo do sistema? <a id="REF1" href="#anchor_1">1.</a>| [Enzo](https://github.com/EnzoEmir) | ✅ |  |  |  |  |
+| ***18:*** No diagrama de caso de uso, o ator secundário está posicionado do lado direito do sistema? <a id="REF4" href="#anchor_4">4.</a>| [Enzo](https://github.com/EnzoEmir) | ✅ |  |  |  |  |
+| ***19:*** No diagrama de caso de uso, os atores estão posicionados fora da caixa que representa o sistema? <a id="REF1" href="#anchor_1">1.</a>| [Enzo](https://github.com/EnzoEmir) | ✅ |    |  |  |
+| ***20:*** O diagrama de caso de uso contém pelo menos um caso de uso que utiliza pontos de extensão? <a id="REF1" href="#anchor_1">1.</a> | [Marcelo](https://github.com/MM4k) | ✅ |  |   |  |  |
+| ***21:*** Houve participação do cliente na validação do diagrama de caso de uso? <a id="REF1" href="#anchor_1">1.</a> | [Marcelo](https://github.com/MM4k) | ✅ |  |  |  |  |
+| ***22:*** No diagrama de casos de uso, todos os atores estão relacionados com pelo menos um caso de uso? <a id="REF4" href="#anchor_4">4.</a>| [Victor](https://github.com/VictorPontual) | ✅ |  |  |  |  |
+| ***23:*** No diagrama de casos de uso, todos os casos de uso estão posicionados dentro da caixa que representa o sistema? <a id="REF4" href="#anchor_4">4.</a>|  | ✅ |  | ![][image23] |  |  |
 
 
 
@@ -74,9 +74,9 @@ A Entrega 3 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 | Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
 |------|:---------:|:---------:|:----------:|:-----:|:-------------:|:-----------:|
 | ***24:*** A especificação suplementar segue o modelo FURPS+? <a id="REF1" href="#anchor_1">1.</a> | [Marcelo](https://github.com/MM4k) | ✅ |  | ![][image1] |  |  |
-| ***25:*** A especificação suplementar define requisitos de tempo de resposta na seção de desempenho? <a id="REF1" href="#anchor_1">1.</a> | [Maria](https://github.com/dudaa28) | ✅ |  | ![][image24] |  |  |
-| ***26:*** A especificação suplementar define os ambientes ou plataformas de execução do aplicativo? <a id="REF1" href="#anchor_1">1.</a> | [Maria](https://github.com/dudaa28) | ✅ |  | ![][image25] |  |  |
-| ***27:*** Na especificação suplementar todos os requisitos não funcionais são testáveis/verificáveis? <a id="REF1" href="#anchor_1">1.</a> | [Maria](https://github.com/dudaa28) |  ✅|  | ![][image26] |  |  |
+| ***25:*** A especificação suplementar define requisitos de tempo de resposta na seção de desempenho? <a id="REF1" href="#anchor_1">1.</a> | [Maria](https://github.com/dudaa28) | ✅ |  |  |  |  |
+| ***26:*** A especificação suplementar define os ambientes ou plataformas de execução do aplicativo? <a id="REF1" href="#anchor_1">1.</a> | [Maria](https://github.com/dudaa28) | ✅ |  |  |  |  |
+| ***27:*** Na especificação suplementar todos os requisitos não funcionais são testáveis/verificáveis? <a id="REF1" href="#anchor_1">1.</a> | [Maria](https://github.com/dudaa28) |  ✅|  |  |  |  |
 
 
 
@@ -105,32 +105,4 @@ A Entrega 3 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0`  | 18/05/2025 | Criação do documento | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.1`  | 18/05/2025 | Adição de imagens das referências | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `1.2`  | 18/05/2025 | Adição de imagens das referências | [Victor Pontual](https://github.com/VictorPontual) | [Eduardo de Pina](https://github.com/eduardodpms) |
-
-[image1]:
-[image2]:
-[image3]:
-[image4]:
-[image5]:
-[image6]:
-[image7]:
-[image8]: 
-[image9]: 
-[image10]: 
-[image11]: 
-[image12]: 
-[image13]: 
-[image14]: 
-[image15]: 
-[image16]:
-[image17]:
-[image18]:
-[image19]:
-[image20]:
-[image21]:
-[image22]:
-[image23]:
-[image24]:
-[image25]:
-[image26]:
-[image27]:
+| `1.2`  | 18/05/2025 | Adição da Avaliação | [Victor Pontual](https://github.com/VictorPontual) | [Eduardo de Pina](https://github.com/eduardodpms) |
