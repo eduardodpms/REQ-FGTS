@@ -106,9 +106,9 @@ Este documento segue o modelo **FURPS+**, organizando os requisitos de software 
 
 ---
 
-## Bibliografía
+## Bibliografia
 
-
+> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. UnB, 2025. Disponível em: <[https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf)>. Acesso em: 18 de maio 2025. p. 27–30.
 
 
 
@@ -118,8 +118,5 @@ Este documento segue o modelo **FURPS+**, organizando os requisitos de software 
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 16/05/2025 | Criação do documento | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Enzo Emir](https://github.com/EnzoEmir)|
 <<<<<<< Updated upstream
-| `1.1` | 18/05/2025 | Adição da introdução,metodologia e modelo. |[Enzo Emir](https://github.com/EnzoEmir) |-|
+| `1.1` | 18/05/2025 | Adição da introdução,metodologia e modelo. |[Enzo Emir](https://github.com/EnzoEmir) |[Maria](https://github.com/dudaa28)|
 | `1.2` | 18/05/2025 | Adição da tabela. |[Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |[Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual)|
-=======
-| `1.1` | 18/05/2025 | Adição da introdução,metodologia e modelo. |[Enzo Emir](https://github.com/EnzoEmir) | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |
->>>>>>> Stashed changes
