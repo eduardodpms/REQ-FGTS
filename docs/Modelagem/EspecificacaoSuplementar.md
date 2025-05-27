@@ -33,39 +33,39 @@ A elaboração da especificação suplementar seguiu os seguintes passos:
   </thead>
   <tbody>
     <tr>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
+      <td> Danielle Soares </td>
+      <td> 18/05/2025 </td>
+      <td> 23:13 </td>
     </tr>
     <tr>
-      <td>  - </td>
-      <td> - </td>
-      <td> - </td>
+      <td> Eduardo de Pina </td>
+      <td> 18/05/2025 </td>
+      <td> 23:13 </td>
     </tr>
     <tr>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
+      <td> Enzo Emir </td>
+      <td> 18/05/2025 </td>
+      <td> 23:13 </td>
     </tr>
     <tr>
-      <td> -  </td>
-      <td> - </td>
-      <td> - </td>
+      <td> Leticia Arisa </td>
+      <td> 18/05/2025 </td>
+      <td> 23:13 </td>
     </tr>
     <tr>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
+      <td> Marcelo Makoto </td>
+      <td> 18/05/2025 </td>
+      <td> 23:13 </td>
     </tr>
     <tr>
-      <td> - </td>
-      <td> - </td>
-      <td> - </td>
+      <td> Maria Eduarda </td>
+      <td> 18/05/2025 </td>
+      <td> 23:13 </td>
     </tr>
     <tr>
-      <td>  - </td>
-      <td> - </td>
-      <td> - </td>
+      <td> Victor Pontual </td>
+      <td> 18/05/2025 </td>
+      <td> 123:13 </td>
     </tr>
   </tbody>
 </table>
