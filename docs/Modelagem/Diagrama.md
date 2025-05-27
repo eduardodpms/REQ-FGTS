@@ -481,7 +481,11 @@ No contexto do app FGTS, uma pós-condição para o caso de uso **Visualizar Dat
 
 > <a id="REF2" href="#anchor_4">2.</a> DIAGRAMS.NET. App Diagrams.net. Disponível em: https://app.diagrams.net/. Acesso em: 18 maio 2025.
 
+## Gravação da Validação com Usuário Real
 
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yis0EY-u93U?si=KpEIQLVhRw7PdV5F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 
 ## Histórico de Versão
 
@@ -501,5 +505,10 @@ No contexto do app FGTS, uma pós-condição para o caso de uso **Visualizar Dat
 | `2.1` | 18/05/2025 | Atualização de detalhes na página e adição de referências | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `2.2` | 18/05/2025 | Adição de casos de uso faltantes | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
 | `2.3` | 18/05/2025 | Adição Fluxos | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |
+<<<<<<< HEAD
 | `2.4` | 18/05/2025 | Atualização Página | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |
 | `2.5` | 18/05/2025 | Gravação da Verificação | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
+=======
+| `2.4` | 18/05/2025 | Atualização Página | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |Corrigindo Diagrama | [Danielle](https://github.com/danielle-soaress) |[Maria Eduarda](https://github.com/dudaa28) |
+| `2.5` | 18/05/2025 | Adição da gravação | [Maria Eduarda](https://github.com/dudaa28) | [Marcelo Makoto](https://github.com/MM4k) |
+>>>>>>> 4371d6cb6903fdab20acc65ac43d1a17d0f839e5
