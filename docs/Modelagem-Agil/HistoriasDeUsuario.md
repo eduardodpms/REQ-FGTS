@@ -122,9 +122,113 @@ Esta metodologia garantiu que as histórias de usuário fossem elaboradas de for
 
 ---
 
-##  Histórias de Usuário
+## Sumário
+
+
+**Requisito RF08 (IS05, EN02):**
+- [H01 – Acompanhar Situação do Saque](#história-01--acompanhar-situação-do-saque)
+- [H02 – Exibir Status Atualizado do Saque](#história-02--exibir-status-atualizado-do-saque)
+- [H03 – Notificações Sobre Andamento](#história-03--notificações-sobre-andamento)
+
+**Requisito RF01 (EN03):**
+- [H04 – Informar Datas de Liberação](#história-04--informar-datas-de-liberação)
+
+**Requisito RF17 (IS15):**
+- [H05 – Acesso à Seção de Ajuda](#história-05--acesso-à-seção-de-ajuda)
+
+**Requisito RF19 (IS17):**
+- [H06 – Solicitação de Ressarcimento do PIS/PASEP](#história-06--solicitação-de-ressarcimento-do-pispasep)
+
+**Requisito RF20 (OB01):**
+- [H07 – Login Seguro](#história-07--login-seguro)
 
 ---
+
+##  Histórias de Usuário
+
+
+###  História 01 — Acompanhar Situação do Saque
+
+| Campo                   | Descrição                                                                 |
+|-------------------------|---------------------------------------------------------------------------|
+| **Requisito**           | RF08 (IS05, EN02)                                                         |
+| **Persona**             | Patrícia Nogueira (Técnica de Enfermagem, busca praticidade)              |
+| **Desejo / Ação**       | Acompanhar a situação do meu saque do FGTS                                |
+| **Objetivo / Benefício**| Saber se está aprovado, em análise ou concluído, sem ir à agência         |
+| **Critérios de Aceitação** | - Status exibido claramente (Ex.: “Aguardando análise”, “Aprovado”)  <br> - Mostra possíveis pendências ou exigências  <br> - Atualização automática do status |
+
+---
+
+###  História 02 — Exibir Status Atualizado do Saque
+
+| Campo                   | Descrição                                                                 |
+|-------------------------|---------------------------------------------------------------------------|
+| **Requisito**           | RF08 (IS05, EN02)                                                         |
+| **Persona**             | Lucas Almeida (Jovem tecnólogo, usuário avançado de apps)                 |
+| **Desejo / Ação**       | Visualizar o status atualizado do meu saque do FGTS                       |
+| **Objetivo / Benefício**| Ter informações precisas e em tempo real sobre o andamento do processo    |
+| **Critérios de Aceitação** | - Status sempre atualizado  <br> - Indicação de bloqueios ou pendências  <br> - Feedback visual com ícones ou cores |
+
+---
+
+###  História 03 — Notificações Sobre Andamento
+
+| Campo                   | Descrição                                                                 |
+|-------------------------|---------------------------------------------------------------------------|
+| **Requisito**           | RF08 (IS05, EN02)                                                         |
+| **Persona**             | Beatriz Fernandes (Comerciante, rotina corrida)                           |
+| **Desejo / Ação**       | Receber notificações sobre o andamento do meu saque do FGTS               |
+| **Objetivo / Benefício**| Ser informada de atualizações sem precisar abrir o app constantemente     |
+| **Critérios de Aceitação** | - Notificações push quando houver mudança no status  <br> - Mensagens objetivas (Ex.: “Seu saque foi liberado”)  <br> - Opção de ativar/desativar notificações |
+
+---
+
+###  História 04 — Informar Datas de Liberação
+
+| Campo                   | Descrição                                                                 |
+|-------------------------|---------------------------------------------------------------------------|
+| **Requisito**           | RF01 (EN03)                                                               |
+| **Persona**             | Antônio Ribeiro (Aposentado, baixa autonomia digital)                     |
+| **Desejo / Ação**       | Ver as datas previstas para liberação dos valores do FGTS                 |
+| **Objetivo / Benefício**| Se organizar financeiramente e pedir ajuda aos filhos, se necessário      |
+| **Critérios de Aceitação** | - Exibição da data estimada de liberação  <br> - Alerta caso a data seja alterada  <br> - Informação clara caso a data não esteja definida |
+
+---
+
+###  História 05 — Acesso à Seção de Ajuda
+
+| Campo                   | Descrição                                                                 |
+|-------------------------|---------------------------------------------------------------------------|
+| **Requisito**           | RF17 (IS15)                                                               |
+| **Persona**             | Patrícia Nogueira                                                         |
+| **Desejo / Ação**       | Acessar uma seção de ajuda com orientações sobre FGTS e PIS/PASEP         |
+| **Objetivo / Benefício**| Esclarecer dúvidas rapidamente, sem precisar de atendimento presencial    |
+| **Critérios de Aceitação** | - FAQ com respostas claras  <br> - Explicações sobre regras de saque, prazos e documentação  <br> - Opção de contato com suporte |
+
+---
+
+###  História 06 — Solicitação de Ressarcimento do PIS/PASEP
+
+| Campo                   | Descrição                                                                 |
+|-------------------------|---------------------------------------------------------------------------|
+| **Requisito**           | RF19 (IS17)                                                               |
+| **Persona**             | Lucas Almeida                                                             |
+| **Desejo / Ação**       | Solicitar o ressarcimento de valores do PIS/PASEP pelo app                |
+| **Objetivo / Benefício**| Evitar filas, economizar tempo e resolver tudo digitalmente              |
+| **Critérios de Aceitação** | - Formulário simples, com upload de documentos  <br> - Confirmação do envio  <br> - Acompanhamento do andamento no app |
+
+---
+
+###  História 07 — Login Seguro
+
+| Campo                   | Descrição                                                                 |
+|-------------------------|---------------------------------------------------------------------------|
+| **Requisito**           | RF20 (OB01)                                                               |
+| **Persona**             | Beatriz Fernandes e Antônio Ribeiro                                       |
+| **Desejo / Ação**       | Fazer login de forma segura no app                                        |
+| **Objetivo / Benefício**| Proteger dados, sem complicações ou esquecimento de senha                 |
+| **Critérios de Aceitação** | - Login com biometria, senha ou autenticação de dois fatores (2FA)  <br> - Mensagens claras em caso de erro  <br> - Opção de lembrar acesso ou recuperar senha |
+
 
 ##  Bibliografia
 
@@ -135,3 +239,4 @@ Esta metodologia garantiu que as histórias de usuário fossem elaboradas de for
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 27/05/2025 | Adicionando Introdução, Metodologia e Tabela de Participantes | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `1.0` | 28/05/2025 | Adicionando Histórias 1 a 7 | [Enzo Emir](https://github.com/EnzoEmir) | - |
