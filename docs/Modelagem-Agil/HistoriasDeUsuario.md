@@ -67,87 +67,48 @@ Esta metodologia garantiu que as histórias de usuário fossem elaboradas de for
 
 ---
 
-<font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
+### Tabela 1: Participantes
 
-<div align="center">
+| Nome             | Data | Hora |
+|------------------|------|------|
+| Danielle Soares  | -    | -    |
+| Eduardo de Pina  | -    | -    |
+| Enzo Emir        | -    | -    |
+| Leticia Arisa    | -    | -    |
+| Marcelo Makoto   | -    | -    |
+| Maria Eduarda    | -    | -    |
+| Victor Pontual   | -    | -    |
 
-<table>
-  <thead>
-    <tr>
-      <th>Nome</th>
-      <th>Data</th>
-      <th>Hora</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Danielle Soares</td>
-      <td>-</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>Eduardo de Pina</td>
-      <td>-</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>Enzo Emir</td>
-      <td>-</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>Leticia Arisa</td>
-      <td>-</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>Marcelo Makoto</td>
-      <td>-</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>Maria Eduarda</td>
-      <td>-</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>Victor Pontual</td>
-      <td>-</td>
-      <td>-</td>
-    </tr>
-  </tbody>
-</table>
-
-<p style="text-align: center; font-size: 16px;">Fonte: <i>Enzo Emir</i></p>
+<p align="center">Fonte: <i>Enzo Emir</i></p>
 
 ---
 
-## Sumário
-
+##  Sumário
 
 **Requisito RF08 (IS05, EN02):**
-- [H01 – Acompanhar Situação do Saque](#história-01--acompanhar-situação-do-saque)
-- [H02 – Exibir Status Atualizado do Saque](#história-02--exibir-status-atualizado-do-saque)
-- [H03 – Notificações Sobre Andamento](#história-03--notificações-sobre-andamento)
+- [H01 – Acompanhar Situação do Saque](#h01)
+- [H02 – Exibir Status Atualizado do Saque](#h02)
+- [H03 – Notificações Sobre Andamento](#h03)
 
 **Requisito RF01 (EN03):**
-- [H04 – Informar Datas de Liberação](#história-04--informar-datas-de-liberação)
+- [H04 – Informar Datas de Liberação](#h04)
 
 **Requisito RF17 (IS15):**
-- [H05 – Acesso à Seção de Ajuda](#história-05--acesso-à-seção-de-ajuda)
+- [H05 – Acesso à Seção de Ajuda](#h05)
 
 **Requisito RF19 (IS17):**
-- [H06 – Solicitação de Ressarcimento do PIS/PASEP](#história-06--solicitação-de-ressarcimento-do-pispasep)
+- [H06 – Solicitação de Ressarcimento do PIS/PASEP](#h06)
 
 **Requisito RF20 (OB01):**
-- [H07 – Login Seguro](#história-07--login-seguro)
+- [H07 – Login Seguro](#h07)
 
 ---
 
 ##  Histórias de Usuário
 
+---
 
-###  História 01 — Acompanhar Situação do Saque
+### <a name="h01"></a> História 01 — Acompanhar Situação do Saque
 
 | Campo                   | Descrição                                                                 |
 |-------------------------|---------------------------------------------------------------------------|
@@ -159,7 +120,7 @@ Esta metodologia garantiu que as histórias de usuário fossem elaboradas de for
 
 ---
 
-###  História 02 — Exibir Status Atualizado do Saque
+### <a name="h02"></a> História 02 — Exibir Status Atualizado do Saque
 
 | Campo                   | Descrição                                                                 |
 |-------------------------|---------------------------------------------------------------------------|
@@ -171,7 +132,7 @@ Esta metodologia garantiu que as histórias de usuário fossem elaboradas de for
 
 ---
 
-###  História 03 — Notificações Sobre Andamento
+### <a name="h03"></a> História 03 — Notificações Sobre Andamento
 
 | Campo                   | Descrição                                                                 |
 |-------------------------|---------------------------------------------------------------------------|
@@ -183,7 +144,7 @@ Esta metodologia garantiu que as histórias de usuário fossem elaboradas de for
 
 ---
 
-###  História 04 — Informar Datas de Liberação
+### <a name="h04"></a> História 04 — Informar Datas de Liberação
 
 | Campo                   | Descrição                                                                 |
 |-------------------------|---------------------------------------------------------------------------|
@@ -195,7 +156,7 @@ Esta metodologia garantiu que as histórias de usuário fossem elaboradas de for
 
 ---
 
-###  História 05 — Acesso à Seção de Ajuda
+### <a name="h05"></a> História 05 — Acesso à Seção de Ajuda
 
 | Campo                   | Descrição                                                                 |
 |-------------------------|---------------------------------------------------------------------------|
@@ -207,7 +168,7 @@ Esta metodologia garantiu que as histórias de usuário fossem elaboradas de for
 
 ---
 
-###  História 06 — Solicitação de Ressarcimento do PIS/PASEP
+### <a name="h06"></a> História 06 — Solicitação de Ressarcimento do PIS/PASEP
 
 | Campo                   | Descrição                                                                 |
 |-------------------------|---------------------------------------------------------------------------|
@@ -219,7 +180,7 @@ Esta metodologia garantiu que as histórias de usuário fossem elaboradas de for
 
 ---
 
-###  História 07 — Login Seguro
+### <a name="h07"></a> História 07 — Login Seguro
 
 | Campo                   | Descrição                                                                 |
 |-------------------------|---------------------------------------------------------------------------|
@@ -229,6 +190,7 @@ Esta metodologia garantiu que as histórias de usuário fossem elaboradas de for
 | **Objetivo / Benefício**| Proteger dados, sem complicações ou esquecimento de senha                 |
 | **Critérios de Aceitação** | - Login com biometria, senha ou autenticação de dois fatores (2FA)  <br> - Mensagens claras em caso de erro  <br> - Opção de lembrar acesso ou recuperar senha |
 
+---
 
 ##  Bibliografia
 
@@ -236,7 +198,7 @@ Esta metodologia garantiu que as histórias de usuário fossem elaboradas de for
 
 ##  Histórico de Versão
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 27/05/2025 | Adicionando Introdução, Metodologia e Tabela de Participantes | [Enzo Emir](https://github.com/EnzoEmir) | - |
-| `1.0` | 28/05/2025 | Adicionando Histórias 1 a 7 | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| Versão | Data       | Descrição                                 | Autor(es)                                     | Revisor(es) |
+|--------|------------|--------------------------------------------|-----------------------------------------------|-------------|
+| 1.0    | 27/05/2025 | Adicionando Introdução, Metodologia e Participantes | [Enzo Emir](https://github.com/EnzoEmir)     | -           |
+| 1.1    | 28/05/2025 | Adicionando Histórias 1 a 7               | [Enzo Emir](https://github.com/EnzoEmir)     | -           |
