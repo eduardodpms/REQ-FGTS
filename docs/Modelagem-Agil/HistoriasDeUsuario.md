@@ -75,7 +75,7 @@ Esta metodologia garantiu que as histórias de usuário fossem elaboradas de for
 | Eduardo de Pina  | -    | -    |
 | Enzo Emir        | -    | -    |
 | Leticia Arisa    | -    | -    |
-| Marcelo Makoto   | -    | -    |
+| Marcelo Makoto   | 28/05/2025 | 21:50 |
 | Maria Eduarda    | -    | -    |
 | Victor Pontual   | -    | -    |
 
@@ -101,6 +101,21 @@ Esta metodologia garantiu que as histórias de usuário fossem elaboradas de for
 
 **Requisito RF20 (OB01):**
 - [H07 – Login Seguro](#h07)
+
+**Requisito RF15 (IS13):**
+- [H08 – Assistente via chat](#h08)
+
+**Requisito RF16 (IS14):**
+- [H09 – Campo de busca](#h09)
+
+**Requisito RF24 (OB07):**
+- [H10 – Aba de saque](#h10)
+
+**Requisito RF25 (OB09):**
+- [H11 – Aba de itens diversos](#h11)
+
+**Requisito RF26 (ST02):**
+- [H12 – Resumo dos tipos de saque](#h12)
 
 ---
 
@@ -192,6 +207,76 @@ Esta metodologia garantiu que as histórias de usuário fossem elaboradas de for
 
 ---
 
+### <a name="h08"></a> História 08 — Assistente via chat
+
+| Campo                   | Descrição                                                                                   |
+|-------------------------|---------------------------------------------------------------------------------------------|
+| **Requisito**           | RF15 (IS13)                                                                                 |
+| **Persona**             | Antônio Ribeiro (Aposentado, baixa autonomia digital)                                       |
+| **Desejo / Ação**       | Permitir que minha filha tire dúvidas no aplicativo usando um chat                          |
+| **Objetivo / Benefício**| Conseguir ajuda com os procedimentos sem precisar ir até a Caixa                            |
+| **Critérios de Aceitação** | - Acesso fácil ao botão de chat  <br> - Atendimento humanizado ou por IA com linguagem simples <br> - Histórico de conversas acessível e contínuo |
+
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
+
+---
+
+### <a name="h09"></a> História 09 — Campo de busca
+
+| Campo                   | Descrição                                                                                   |
+|-------------------------|---------------------------------------------------------------------------------------------|
+| **Requisito**           | RF16 (IS14)                                                                                 |
+| **Persona**             | Lucas Almeida (Técnico em redes, domínio de apps e finanças)                                |
+| **Desejo / Ação**       | Buscar rapidamente funções como extrato ou sistemática de saque                             |
+| **Objetivo / Benefício**| Acessar diretamente o que preciso sem navegar por várias telas                              |
+| **Critérios de Aceitação** | - Campo de busca disponível no topo da tela  <br> - Sugestões automáticas conforme digitação <br> - Resultados exibidos de forma clara e navegável |
+
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
+
+---
+
+### <a name="h10"></a> História 10 — Aba de saque
+
+| Campo                   | Descrição                                                                                   |
+|-------------------------|---------------------------------------------------------------------------------------------|
+| **Requisito**           | RF24 (OB07)                                                                                 |
+| **Persona**             | Patrícia Nogueira (Técnica de Enfermagem, busca praticidade)                                |
+| **Desejo / Ação**       | Ter uma aba só para ver e pedir saques do FGTS                                              |
+| **Objetivo / Benefício**| Conseguir fazer tudo relacionado ao saque de forma simples e rápida                         |
+| **Critérios de Aceitação** | - Aba destacada com ícone intuitivo  <br> - Permite solicitar saque e ver andamento <br> - Informações de saque organizadas em uma só tela |
+
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
+
+---
+
+### <a name="h11"></a> História 11 — Aba de itens diversos
+
+| Campo                   | Descrição                                                                                   |
+|-------------------------|---------------------------------------------------------------------------------------------|
+| **Requisito**           | RF25 (OB09)                                                                                 |
+| **Persona**             | Beatriz Fernandes (Comerciante, uso moderado de apps)                                       |
+| **Desejo / Ação**       | Acessar informações como PIS, regras do FGTS e ajuda sem complicação                        |
+| **Objetivo / Benefício**| Entender outras funcionalidades do app sem perder tempo procurando                         |
+| **Critérios de Aceitação** | - Aba com título e ícone claros (Ex.: “Mais opções”)  <br> - Tópicos organizados por categorias <br> - Explicações curtas e visuais |
+
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
+
+---
+
+### <a name="h12"></a> História 12 — Resumo dos tipos de saque
+
+| Campo                   | Descrição                                                                                   |
+|-------------------------|---------------------------------------------------------------------------------------------|
+| **Requisito**           | RF26 (ST02)                                                                                 |
+| **Persona**             | Lucas Almeida (Técnico em redes, domínio de apps e finanças)                                |
+| **Desejo / Ação**       | Ver um resumo dos tipos de saque disponíveis no app                                         |
+| **Objetivo / Benefício**| Escolher com clareza entre saque-aniversário ou por rescisão                                |
+| **Critérios de Aceitação** | - Tabela ou cards explicando os tipos de saque  <br> - Comparação entre regras e prazos <br> - Link direto para alterar a sistemática escolhida |
+
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
+
+---
+
 ##  Bibliografia
 
 ---
@@ -200,5 +285,6 @@ Esta metodologia garantiu que as histórias de usuário fossem elaboradas de for
 
 | Versão | Data       | Descrição                                 | Autor(es)                                     | Revisor(es) |
 |--------|------------|--------------------------------------------|-----------------------------------------------|-------------|
-| 1.0    | 27/05/2025 | Adicionando Introdução, Metodologia e Participantes | [Enzo Emir](https://github.com/EnzoEmir)     | -           |
-| 1.1    | 28/05/2025 | Adicionando Histórias 1 a 7               | [Enzo Emir](https://github.com/EnzoEmir)     | -           |
+| 1.0    | 27/05/2025 | Adicionando Introdução, Metodologia e Participantes | [Enzo Emir](https://github.com/EnzoEmir)     | [Marcelo Makoto](https://github.com/MM4k) |
+| 1.1    | 28/05/2025 | Adicionando Histórias 1 a 7               | [Enzo Emir](https://github.com/EnzoEmir)     | [Marcelo Makoto](https://github.com/MM4k) |
+| 1.2    | 28/05/2025 | Adição das Histórias de Usuário 8 a 12               | [Marcelo Makoto](https://github.com/MM4k) | - |
