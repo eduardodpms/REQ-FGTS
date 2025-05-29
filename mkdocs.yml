@@ -105,7 +105,7 @@ nav:
     - Especificação Suplementar: Modelagem/EspecificacaoSuplementar.md
     - Requisitos Não Implementados: Modelagem/RNI.md
   - Modelagem Ágil:
-    - NFR Framework: Modelagem-Agil/Backlog.md
+    - NFR Framework: Modelagem-Agil/NFRFramework.md
     - Histórias de Usuário: Modelagem-Agil/HistoriasDeUsuario.md
-    - Backlog: Modelagem-Agil/NFRFramework.md
+    - Backlog: Modelagem-Agil/Backlog.md
 
