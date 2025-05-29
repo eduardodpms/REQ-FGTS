@@ -7,11 +7,10 @@ O presente documento tem como objetivo apresentar as histórias de usuário elab
 As histórias de usuário são uma técnica fundamental no contexto da Engenharia de Requisitos Ágil, cuja finalidade é capturar as necessidades do usuário de maneira simples, objetiva e centrada no valor entregue. Por meio delas, é possível estabelecer uma comunicação clara entre os stakeholders, promovendo entendimento mútuo e alinhamento sobre as funcionalidades que o sistema deverá oferecer.
 
 Cada história de usuário é construída de forma a responder três perguntas essenciais:  
-*  **Quem?** — Quem é o usuário ou persona envolvida na interação.  
-* **O que?** — Qual é a ação, necessidade ou funcionalidade desejada.  
-* **Por que?** — Qual é o valor, objetivo ou benefício buscado por meio daquela ação.
+- **Quem?** — Quem é o usuário ou persona envolvida na interação.  
+- **O que?** — Qual é a ação, necessidade ou funcionalidade desejada.  
+- **Por que?** — Qual é o valor, objetivo ou benefício buscado por meio daquela ação.
 
----
 
 ##  Metodologia
 
@@ -27,11 +26,15 @@ Foram criadas quatro personas representativas dos usuários do aplicativo FGTS �
 
 **2. Elicitação dos Requisitos** 
 
-Para garantir um entendimento abrangente e realista das necessidades dos usuários, foram aplicadas múltiplas técnicas de elicitação de requisitos:  
-  * **Entrevista:** Conversas diretas com usuários para compreender suas necessidades, expectativas e dificuldades no acesso aos serviços do FGTS.  
-  * **Introspecção:** Reflexão baseada na própria experiência dos desenvolvedores e idealizadores do projeto, identificando possíveis problemas e melhorias.  
-  * **Observação:** Análise de como diferentes perfis de usuários interagem com aplicativos semelhantes e como realizam tarefas relacionadas ao FGTS no dia a dia.  
-  * **Storytelling:** Construção de narrativas que simulam cenários reais de uso do aplicativo, explorando jornadas, dificuldades e expectativas dos usuários.
+Para garantir um entendimento abrangente e realista das necessidades dos usuários, foram aplicadas múltiplas técnicas de elicitação de requisitos:
+
+- **Entrevista:** Conversas diretas com usuários para compreender suas necessidades, expectativas e dificuldades no acesso aos serviços do FGTS.
+
+- **Introspecção:** Reflexão baseada na própria experiência dos desenvolvedores e idealizadores do projeto, identificando possíveis problemas e melhorias.
+
+- **Observação:** Análise de como diferentes perfis de usuários interagem com aplicativos semelhantes e como realizam tarefas relacionadas ao FGTS no dia a dia.
+
+- **Storytelling:** Construção de narrativas que simulam cenários reais de uso do aplicativo, explorando jornadas, dificuldades e expectativas dos usuários.
 
 <br>
 
@@ -45,18 +48,27 @@ Essa estrutura garante que cada história reflita uma necessidade real do usuár
 
 Todas as histórias de usuário foram estruturadas e avaliadas com base em dois modelos consagrados no desenvolvimento ágil: **INVEST** e **3C’s**.
 
-**INVEST (Wake, 2003):** Esse modelo estabelece seis critérios fundamentais que garantem a qualidade e a eficácia de uma história de usuário:  
-  - **I — Independente:** A história não deve depender de outras para ser desenvolvida, implementada ou testada.  
-  - **N — Negociável:** As histórias são flexíveis e abertas a discussões, podendo ser refinadas durante as interações entre a equipe e os stakeholders.  
-  - **V — Valiosa:** A história deve gerar valor perceptível e concreto para o usuário final ou para o negócio.  
-  - **E — Estimável:** A história deve ser suficientemente clara e bem definida para permitir a estimativa do esforço necessário para sua implementação.  
-  - **S — Sucinta (Small):** A história deve ter um tamanho adequado, podendo ser desenvolvida dentro de um ciclo ágil (sprint), evitando ser muito grande ou complexa.  
-  - **T — Testável:** Deve possuir critérios de aceitação claros e objetivos, que permitam verificar se a funcionalidade atende às necessidades da persona e aos requisitos definidos.  
+**INVEST (Wake, 2003):** Esse modelo estabelece seis critérios fundamentais que garantem a qualidade e a eficácia de uma história de usuário:
 
-**3C’s (Jeffries, 2001):** Esse modelo complementa o INVEST ao enfatizar três elementos essenciais na construção de uma boa história de usuário:  
-  - **Card (Cartão):** Representa a história em si, seja em um post-it físico ou em um quadro digital, funcionando como um lembrete do que precisa ser desenvolvido.  
-  - **Conversation (Conversa):** Refere-se às discussões colaborativas entre equipe de desenvolvimento, Product Owner e stakeholders, nas quais são esclarecidos os detalhes, as dúvidas e as regras de negócio associadas à história.  
-  - **Confirmation (Confirmação):** Corresponde aos critérios de aceitação formalmente definidos, que validam que a história foi corretamente implementada, atendendo às expectativas e às necessidades do usuário.
+- **I — Independente:** A história não deve depender de outras para ser desenvolvida, implementada ou testada.
+
+- **N — Negociável:** As histórias são flexíveis e abertas a discussões, podendo ser refinadas durante as interações entre a equipe e os stakeholders.
+
+- **V — Valiosa:** A história deve gerar valor perceptível e concreto para o usuário final ou para o negócio.
+
+- **E — Estimável:** A história deve ser suficientemente clara e bem definida para permitir a estimativa do esforço necessário para sua implementação.
+
+- **S — Sucinta (Small):** A história deve ter um tamanho adequado, podendo ser desenvolvida dentro de um ciclo ágil (sprint), evitando ser muito grande ou complexa.
+
+- **T — Testável:** Deve possuir critérios de aceitação claros e objetivos, que permitam verificar se a funcionalidade atende às necessidades da persona e aos requisitos definidos.  
+
+**3C’s (Jeffries, 2001):** Esse modelo complementa o INVEST ao enfatizar três elementos essenciais na construção de uma boa história de usuário:
+
+- **Card (Cartão):** Representa a história em si, seja em um post-it físico ou em um quadro digital, funcionando como um lembrete do que precisa ser desenvolvido.
+
+- **Conversation (Conversa):** Refere-se às discussões colaborativas entre equipe de desenvolvimento, Product Owner e stakeholders, nas quais são esclarecidos os detalhes, as dúvidas e as regras de negócio associadas à história.
+
+- **Confirmation (Confirmação):** Corresponde aos critérios de aceitação formalmente definidos, que validam que a história foi corretamente implementada, atendendo às expectativas e às necessidades do usuário.
 
 <br>
 
@@ -68,23 +80,34 @@ Para cada história, foram definidos critérios claros e objetivos que garantem 
 
 - **Rafael Moreira**, agricultor informal, não utiliza serviços digitais. Portanto, o aplicativo não é projetado para atender este perfil, que prefere atendimento presencial e suporte humano direto.
 
----
+### Participantes
 
-### Tabela 1: Participantes
 
-| Nome             | Data | Hora |
-|------------------|------|------|
-| Danielle Soares  | -    | -    |
-| Eduardo de Pina  | -    | -    |
-| Enzo Emir        | -    | -    |
-| Leticia Arisa    | -    | -    |
-| Marcelo Makoto   | 28/05/2025 | 21:50 |
-| Maria Eduarda    | -    | -    |
-| Victor Pontual   | -    | -    |
+<font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">Nome</th>
+      <th align="center">Data</th>
+      <th align="center">Hora</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td align="center">Danielle Soares</td><td align="center">--/05/2025</td><td align="center">00:00</td></tr>
+    <tr><td align="center">Eduardo de Pina</td><td align="center">--/05/2025</td><td align="center">00:00</td></tr>
+    <tr><td align="center">Enzo Emir</td><td align="center">--/05/2025</td><td align="center">00:00</td></tr>
+    <tr><td align="center">Leticia Arisa</td><td align="center">--/05/2025</td><td align="center">00:00</td></tr>
+    <tr><td align="center">Marcelo Makoto</td><td align="center">28/05/2025</td><td align="center">21:50</td></tr>
+    <tr><td align="center">Maria Eduarda</td><td align="center">--/05/2025</td><td align="center">00:00</td></tr>
+    <tr><td align="center">Victor Pontual</td><td align="center">--/05/2025</td><td align="center">00:00</td></tr>
+  </tbody>
+</table>
+</div>
 
 <p align="center">Fonte: <i>Enzo Emir</i></p>
-
----
 
 ##  Sumário
 
@@ -292,3 +315,5 @@ Para cada história, foram definidos critérios claros e objetivos que garantem 
 | 1.1    | 27/05/2025 | Adicionando Introdução, Metodologia e Participantes | [Enzo Emir](https://github.com/EnzoEmir)     | [Marcelo Makoto](https://github.com/MM4k) |
 | 1.2    | 28/05/2025 | Adicionando Histórias 1 a 7               | [Enzo Emir](https://github.com/EnzoEmir)     | [Marcelo Makoto](https://github.com/MM4k) |
 | 1.3    | 28/05/2025 | Adição das Histórias de Usuário 8 a 12               | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress)  |
+| 1.4    | 29/05/2025 | Ajustes no texto | [Danielle Soares](https://github.com/danielle-soaress) | -  |
+
