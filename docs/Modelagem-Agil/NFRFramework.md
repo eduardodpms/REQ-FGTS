@@ -12,7 +12,7 @@ Esta seção descreve a metodologia adotada para a modelagem dos Requisitos Não
 
 A metodologia foi dividida em três fases principais: **Levantamento Inicial**, **Modelagem com o NFR Framework**, e **Validação**.
 
-1.**Levantamento Inicial**
+**1. Levantamento Inicial**
 
 Inicialmente, foi realizado um levantamento dos RNFs desejados pelos usuários do aplicativo FGTS, com base em:
 
@@ -24,7 +24,7 @@ Inicialmente, foi realizado um levantamento dos RNFs desejados pelos usuários d
 
 Essa fase teve como objetivo reunir um conjunto preliminar de softgoals a serem modelados, refletindo preocupações como: "navegação simples", "login seguro", "resposta rápida", "acesso off-line", entre outros.
 
-2.**Modelagem com o NFR Framework**
+**2. Modelagem com o NFR Framework**
 
 A segunda fase consistiu na aplicação do NFR Framework como mecanismo de modelagem e representação dos RNFs. Essa fase seguiu os seguintes passos:
 
@@ -38,7 +38,7 @@ A segunda fase consistiu na aplicação do NFR Framework como mecanismo de model
 
 - **Construção do SIG (Softgoal Interdependency Graph)**: foi elaborado um grafo com as interdependências entre os softgoals e suas contribuições, permitindo identificar conflitos, sinergias e decisões de projeto justificáveis.
 
-3.**Validação**
+**3. Validação**
 
 Por fim, a validação da modelagem seguiu duas frentes:
 
