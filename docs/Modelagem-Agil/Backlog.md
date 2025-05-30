@@ -124,6 +124,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
 ## Backlog
 
 <font size="3"><p style="text-align: center">Tabela 2: Backlog</p></font>
+<center>
 
 <table border="1" cellspacing="0" cellpadding="4">
   <thead>
@@ -168,7 +169,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS02</a></td>
     </tr>
     <tr>
-      <td rowspan="3"><a href="#tema1">E03</a> - Histórico de movimentações financeiras</td>
+      <td rowspan="2"><a href="#tema1">E03</a> - Histórico de movimentações financeiras</td>
       <td></td>
       <td>RF12</td>
       <td></td>
@@ -180,101 +181,184 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td></td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS10</a></td>
     </tr>
-    
     <tr>
-  <td rowspan="14">Saques e Solicitações</td>
-  <td rowspan="4">E06 - Informação sobre bloqueios e motivos</td>
-  <td>Como usuário, desejo ser informado sobre bloqueios para entender os impedimentos nos saques.</td>
-  <td>RF11</td>
-  <td></td>
-  <td>IS08</td>
-</tr>
-<tr>
-  <td>Como usuário, desejo saber o motivo do bloqueio para tomar as providências necessárias.</td>
-  <td>RF01</td>
-  <td></td>
-  <td>EN03</td>
-</tr>
-<tr>
-  <td>Como usuário, desejo entender os motivos dos bloqueios para evitar problemas futuros.</td>
-  <td>RF21</td>
-  <td></td>
-  <td>OB02</td>
-</tr>
-<tr>
-  <td>Como usuário, desejo receber explicações claras sobre bloqueios para esclarecer dúvidas.</td>
-  <td>RF22</td>
-  <td></td>
-  <td>OB05</td>
-</tr>
-
-<tr>
-  <td rowspan="4">Saques e Solicitações</td>
-  <td rowspan="4">E04 - Solicitação e acompanhamento de saques</td>
-  <td>Como usuário, desejo solicitar saques e acompanhar o status para controlar meus recursos.</td>
-  <td>RF04</td>
-  <td></td>
-  <td>EN06, ST013, ST014</td>
-</tr>
-<tr>
-  <td>Como usuário, desejo acompanhar os saques para saber o andamento do processo.</td>
-  <td>RF08</td>
-  <td></td>
-  <td>IS05, EN02</td>
-</tr>
-<tr>
-  <td>Como usuário, desejo solicitar saques múltiplos e acompanhar cada um para organização financeira.</td>
-  <td>RF28</td>
-  <td></td>
-  <td>EN01, IS03, ST06, OB03</td>
-</tr>
-<tr>
-  <td>Como usuário, desejo filtrar e visualizar meus saques para facilitar o acompanhamento.</td>
-  <td>RF07</td>
-  <td></td>
-  <td>IS04, OB04</td>
-</tr>
-
-<tr>
-  <td rowspan="2">Saques e Solicitações</td>
-  <td rowspan="2">E05 - Cancelamento e filtro de saques</td>
-  <td>Como usuário, desejo cancelar um saque para corrigir erros ou mudar planos.</td>
-  <td>RF09</td>
-  <td></td>
-  <td>IS06</td>
-</tr>
-<tr>
-  <td>Como usuário, desejo filtrar saques por tipo e data para facilitar a visualização.</td>
-  <td>RF10</td>
-  <td></td>
-  <td>IS07</td>
-</tr>
-
-<tr>
-  <td rowspan="3">Saques e Solicitações</td>
-  <td rowspan="3">E07 - Guias e ajuda para o processo de saque</td>
-  <td>Como usuário, desejo acessar guias para facilitar a solicitação de saque e entender os passos.</td>
-  <td>RF17</td>
-  <td></td>
-  <td>IS15</td>
-</tr>
-<tr>
-  <td>Como usuário, desejo ter acesso a ajuda online para esclarecer dúvidas no processo de saque.</td>
-  <td>RF18</td>
-  <td></td>
-  <td>IS16</td>
-</tr>
-<tr>
-  <td>Como usuário, desejo acessar tutoriais para entender regras e documentos necessários.</td>
-  <td>RF29</td>
-  <td></td>
-  <td>ST07</td>
-</tr>
-
+      <td rowspan="13">Saques e Solicitações</td>
+      <td rowspan="4"><a href="#tema2">E06</a> - Informação sobre bloqueios e motivos</td>
+      <td></td>
+      <td>RF11</td>
+      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS08</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>RF01</td>
+      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN03</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>RF21</td>
+      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/">OB02</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>RF22</td>
+      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/">OB05</a></td>
+    </tr>
+    <tr>
+      <td rowspan="4"><a href="#tema2">E04</a> - Solicitação e acompanhamento de saques</td>
+      <td></td>
+      <td>RF04</td>
+      <td></td>
+      <td>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN06</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST013</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST014</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>RF08</td>
+      <td></td>
+      <td>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS05</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN02</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>RF28</td>
+      <td></td>
+      <td>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN01</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS03</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST06</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/">OB03</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>RF07</td>
+      <td></td>
+      <td>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS04</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/">OB04</a>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2"><a href="#tema2">E05</a> - Cancelamento e filtro de saques</td>
+      <td></td>
+      <td>RF09</td>
+      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS06</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>RF10</td>
+      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS07</a></td>
+    </tr>
+    <tr>
+      <td rowspan="3"><a href="#tema2">E07</a> - Guias e ajuda para o processo de saque</td>
+      <td></td>
+      <td>RF17</td>
+      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS15</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>RF18</td>
+      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS16</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>RF29</td>
+      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST07</a></td>
+    </tr>
+    <tr>
+      <td rowspan="3">Contas Bancárias</td>
+      <td rowspan="3"><a href="#tema3">E08</a> - Cadastro e gerenciamento de contas bancárias</td>
+      <td></td>
+      <td>RF14</td>
+      <td></td>
+      <td>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS11</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST05</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/">OB08</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>RF31</td>
+      <td></td>
+      <td>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST010</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>RF35</td>
+      <td></td>
+      <td>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS12</a>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="3">Comunicação e Suporte</td>
+      <td rowspan="2"><a href="#tema4">E09</a> - Suporte via chat e canal de atendimento</td>
+      <td></td>
+      <td>RF02</td>
+      <td></td>
+      <td>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN04</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>RF15</td>
+      <td></td>
+      <td>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS13</a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="#tema4">E10</a> - Notificações e avisos</td>
+      <td></td>
+      <td>RF27</td>
+      <td></td>
+      <td>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST03</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST09</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST015</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Usabilidade e Acessibilidade</td>
+      <td><a href="#tema5">E11</a> - Personalização da interface</td>
+      <td></td>
+      <td>RF30</td>
+      <td></td>
+      <td>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST08</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Usabilidade e Acessibilidade</td>
+      <td><a href="#tema5">E12</a> - Busca e navegação</td>
+      <td></td>
+      <td>RF16</td>
+      <td></td>
+      <td>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS14</a>
+      </td>
+    </tr>
   </tbody>
 </table>
-
-
+</center>
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
