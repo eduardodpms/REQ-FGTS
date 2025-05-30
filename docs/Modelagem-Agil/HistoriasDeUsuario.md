@@ -347,6 +347,8 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 ### <a name="h08"></a> História 08 — Assistente via chat
 
+<font size="3"><p style="text-align: center">Tabela 10: História de assistente via chat</p></font>
+
 <div align="center">
 <table>
   <thead>
@@ -393,6 +395,8 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 
 ### <a name="h09"></a> História 09 — Campo de busca
+
+<font size="3"><p style="text-align: center">Tabela 11: História de campo de busca</p></font>
 
 <div align="center">
 <table>
@@ -441,6 +445,8 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 ### <a name="h10"></a> História 10 — Aba de solicitação e acompanhamento de saques
 
+<font size="3"><p style="text-align: center">Tabela 12: História de aba de solicitação e acompanhamento de saques</p></font>
+
 <div align="center">
 <table>
   <thead>
@@ -488,6 +494,8 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 ### <a name="h11"></a> História 11 — Aba de informações adicionais
 
+<font size="3"><p style="text-align: center">Tabela 13: História de aba de informações adicionais</p></font>
+
 <div align="center">
 <table>
   <thead>
@@ -534,6 +542,8 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 
 ### <a name="h12"></a> História 12 — Resumo dos tipos de saque
+
+<font size="3"><p style="text-align: center">Tabela 14: História de resumo dos tipos de saque</p></font>
 
 <div align="center">
 <table>
