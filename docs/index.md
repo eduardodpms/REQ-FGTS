@@ -1,4 +1,4 @@
-# ◾*** FGTS - Fundo de Garantia do Tempo de Serviço***
+# ***FGTS - Fundo de Garantia do Tempo de Serviço***
 
 <figure style="text-align: center;">
   <img src="assets/logo_fgts.png" style="max-width: 80%;">
@@ -9,9 +9,22 @@
 
 ## • Apresentação 💡
 
-Neste site está hospedada toda a documentação referente às atividades desenvolvidas pelo Grupo 07 na disciplina de "Requisitos de Software", da [Universidade de Brasília (FCTE)](https://fcte.unb.br). Dessa forma,  verifica-se todo o processo de desenvolvimento da atividade, incluindo entrevistas, reuniões, atas, gerência (pré-rastreabilidade e pós-rastreabilidade), elicitação, modelagem e análise de requisitos. A escolha do app *FGTS* está detalhada na página [Aplicativo](Planejamento/Aplicativo.md).
+Neste site está hospedada toda a documentação referente às atividades desenvolvidas pelo [***Grupo 07***](#membros-da-equipe) na disciplina de "*Requisitos de Software*", da [*Universidade de Brasília* (*FCTE*)](https://fcte.unb.br) no 1° período de 2025. Nesse contexto,  verifica-se o processo de desenvolvimento das atividades pelo time, incluindo artefatos como gerência (pré-rastreabilidade e pós-rastreabilidade), elicitação e modelagem de requisitos. A escolha do app [*FGTS*](https://www.caixa.gov.br/atendimento/aplicativos/fgts/Paginas/default.aspx) está detalhada na página [*Aplicativo*](Planejamento/Aplicativo.md).
 
-<br>
+---
+
+## • Artefatos 📰
+
+Os artefatos desenvolvidos estão listados a seguir, com seus respectivos links nesta página:
+
+1. [Pré-Rastreabilidade 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Pre-Rastreabilidade/Rich-Picture/)
+2. [Elicitação de Requisitos 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Perfil-de-Usuario/)
+3. [Modelagem de Requisitos I 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem/Diagrama/)
+4. [Modelagem de Requisitos II 🔗]()
+5. [Pós-Rastreabilidade 🔗]()
+6. [Análise de Requisitos 🔗]()
+
+---
 
 ## • Membros da Equipe 👥
 
@@ -27,7 +40,7 @@ Neste site está hospedada toda a documentação referente às atividades desenv
   </tr>
 </table>
 
-<br>
+---
 
 ## • Histórico de Versões 📅
 
@@ -38,3 +51,4 @@ Neste site está hospedada toda a documentação referente às atividades desenv
 | `1.2` | 11/04/2025 | Atualização do texto e da aparência | [Eduardo de Pina](https://github.com/eduardodpms) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.3` | 01/05/2025 | Modificação do texto | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.4` | 02/05/2025 | Atualização da aparência das tabelas | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `1.5` | 30/05/2025 | Ajuste nos textos e adição de tópico de artefatos | [Eduardo de Pina](https://github.com/eduardodpms) | - |
