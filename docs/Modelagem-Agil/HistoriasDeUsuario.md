@@ -248,7 +248,7 @@ Para cada história, foram definidos critérios claros e objetivos que garantem 
 **Requisito RF18 (IS16)**
 
 - [H38 – Seção de ajuda com orientações](#h38)
-- 
+
 **Requisito RF29 (ST07)**
 
 - [H39 – Guia interativo para orientação](#h39)
@@ -1978,4 +1978,4 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | 1.9    | 30/05/2025 | Adicionando Histórias 23, 24, 25, 26 e 27 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | 2.0    | 30/05/2025 | Atualizando sumário | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  | [Victor Pontual](https://github.com/VictorPontual) |
 | 2.1    | 30/05/2025 | Adicionando Histórias 29 à 33 | [Victor Pontual](https://github.com/VictorPontual)  | - |
-| 2.2    | 30/05/2025 | Adicionando Histórias 34 à 39 | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| 2.2    | 30/05/2025 | Adicionando histórias 34 à 39 | [Eduardo de Pina](https://github.com/eduardodpms) | - |
