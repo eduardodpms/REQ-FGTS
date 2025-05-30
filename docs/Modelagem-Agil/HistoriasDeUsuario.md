@@ -634,6 +634,57 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
+
+
+### <a name="hXX"></a> História XX — Disponibilidade de Saque-Rescisão
+
+<font size="3"><p style="text-align: center">Tabela XX: História de disponibilidade de saque-rescisão</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF04</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST014</a></td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Disponibilidade de Saque-rescisão</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuária que busca agilidade em momentos de desligamento, desejo poder solicitar o saque do FGTS na modalidade Saque-rescisão, para ter acesso rápido ao valor após a demissão.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- A opção de Saque-rescisão deve estar disponível na aba de saques. <br> - O sistema deve verificar automaticamente se o usuário tem direito ao saque. <br> - O app deve exibir prazos, valores e instruções de forma clara.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A validar pelo usuário</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
+
+
+
 ### <a name="h12"></a> História 12 — Ver Informações Sobre Saques Bloqueados
 
 <font size="3"><p style="text-align: center">Tabela 15: História de bloqueio de saque</p></font>
