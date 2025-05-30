@@ -2,13 +2,13 @@
 
 ## Introdução
 
-O *Product Backlog* representa o registro contínuo e priorizado de todos os requisitos e funcionalidades do projeto que prometem agregar valor comercial para o cliente <a id="anchor_1" href="#REF1">1</a>. Assim, este artefato é dinâmico, permitindo que novos itens sejam incluídos a qualquer momento, o que facilita a incorporação de mudanças e novas ideias. Além disso, a gestão e a redefinição das prioridades no backlog são responsabilidade do gerente de produto _(Product Owner)_, que o avalia regularmente para otimizar o fluxo de trabalho. <a id="anchor_2" href="#REF2">2</a>
+O ***Product Backlog*** representa o registro contínuo e priorizado de todos os requisitos e funcionalidades do projeto que prometem agregar valor comercial para o cliente <a href="#REF1">1</a>. Assim, este artefato é dinâmico, permitindo que novos itens sejam incluídos a qualquer momento, o que facilita a incorporação de mudanças e novas ideias. Além disso, a gestão e a redefinição das prioridades no backlog são responsabilidade do gerente de produto _(Product Owner)_, que o avalia regularmente para otimizar o fluxo de trabalho. <a href="#REF2">2</a>
 
 ## Metodologia
 
-A construção do nosso *Product Backlog* teve início com as reuniões realizadas juntamente ao *Product Owner* (PO). Durante esses encontros, o PO apresentava as funcionalidades esperadas para o sistema, enquanto os membros da equipe registravam as informações e levantavam dúvidas com o objetivo de refinar o entendimento. A partir dessas interações, as funcionalidades foram modeladas em Histórias de Usuário, utilizando a estrutura "Como um [tipo de usuário], eu desejo [ação] para [benefício]". Para cada história elaborada, foram definidos critérios de aceitação bem delineados, os quais orientaram o desenvolvimento e a validação das entregas.
+A construção do nosso *Product Backlog* teve início com as reuniões realizadas juntamente à <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Perfil-de-Usuario/">Usuários do aplicativo FGTS</a> com o objetivo registrar as funcionalidades esperadas para o sistema e validar os artefatos já produzidos. A partir dessas interações, as funcionalidades foram modeladas em Histórias de Usuário, utilizando a estrutura "Como um [tipo de usuário], eu desejo [ação] para [benefício]". Para cada história elaborada, foram definidos critérios de aceitação bem delineados, os quais orientaram o desenvolvimento e a validação das entregas.
 
-Com as histórias devidamente documentadas, o PO procedeu à sua priorização segundo a abordagem Three Level Scale, categorizando-as conforme o impacto no produto: Alta, Média ou Baixa prioridade. Em seguida, as histórias foram organizadas de forma hierárquica em temas e épicos, adotando uma estrutura amplamente utilizada em abordagens ágeis como o Scrum e o SAFe (Scaled Agile Framework). Neste documento, foi utilizado o padrão Tema → Épico → Histórias de Usuário, conforme descrito pelos autores Milene Serrano e Maurício Serrano <a id="anchor_2" href="#REF2">2</a>. Essa estruturação permite uma visão macro do escopo do projeto, facilita o alinhamento de expectativas entre os envolvidos e orienta o planejamento das etapas subsequentes. Por fim, o detalhamento individual de cada história de usuário pode ser consultado diretamente no respectivo artefato vinculado.
+Com as histórias devidamente documentadas, o PO procedeu à sua priorização segundo a abordagem ***Three Level Scale***, categorizando-as conforme o impacto no produto: Alta, Média ou Baixa prioridade. Em seguida, as histórias foram organizadas de forma hierárquica em temas e épicos, adotando uma estrutura amplamente utilizada em abordagens ágeis como o Scrum e o SAFe (Scaled Agile Framework). Neste documento, foi utilizado o padrão Tema → Épico → Histórias de Usuário, conforme descrito pelos autores Milene Serrano e Maurício Serrano <a id="anchor_2" href="#REF2">2</a>. Por fim, o detalhamento individual de cada história de usuário pode ser consultado diretamente no respectivo artefato vinculado.
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
@@ -371,11 +371,11 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
 
 ---
 
-##  Bibliografia
+##  Referências
 
 > <a id="REF1" href="#anchor_1">1.</a>  PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
 
-> <a id="REF1" href="#anchor_2">2.</a>  SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 15. UnB, 2025. Disponível em: https://aprender3.unb.br/pluginfile.php/3096144/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em: 30 de maio 2025.
+> <a id="REF2" href="#anchor_2">2.</a>  SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 15. UnB, 2025. Disponível em: https://aprender3.unb.br/pluginfile.php/3096144/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em: 30 de maio 2025.
 
 
 ---
@@ -385,3 +385,4 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
 | Versão | Data       | Descrição                                 | Autor(es)                                     | Revisor(es) |
 |--------|------------|--------------------------------------------|-----------------------------------------------|-------------|
 | 1.0    | 30/05/2025 | Introdução, Metodologia e Backlog | [Danielle Soares](https://github.com/danielle-soaress) | - |
+| 1.1    | 30/05/2025 | Atualizações no texto da página | [Danielle Soares](https://github.com/danielle-soaress) | - |
