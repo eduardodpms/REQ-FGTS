@@ -347,13 +347,46 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 ### <a name="h08"></a> História 08 — Assistente via chat
 
-| Campo                   | Descrição                                                                                   |
-|-------------------------|---------------------------------------------------------------------------------------------|
-| **Requisito**           | RF15 (IS13)                                                                                 |
-| **Persona**             | Antônio Ribeiro (Aposentado, baixa autonomia digital)                                       |
-| **Desejo / Ação**       | Permitir que minha filha tire dúvidas no aplicativo usando um chat                          |
-| **Objetivo / Benefício**| Conseguir ajuda com os procedimentos sem precisar ir até a Caixa                            |
-| **Critérios de Aceitação** | - Acesso fácil ao botão de chat  <br> - Atendimento humanizado ou por IA com linguagem simples <br> - Histórico de conversas acessível e contínuo |
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF15</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS13</a></td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Atendimento via chat</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como aposentado com baixa autonomia digital, desejo que minha filha possa usar um chat no app para tirar dúvidas e resolver problemas, para que não precisemos ir até a agência.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O botão de acesso ao chat deve estar visível e acessível na tela principal. <br> - O chat deve aceitar linguagem natural e ter respostas claras, com possibilidade de atendimento humano. <br> - O histórico das conversas deve ficar salvo para consultas futuras.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A validar pelo usuário</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
@@ -361,41 +394,140 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 ### <a name="h09"></a> História 09 — Campo de busca
 
-| Campo                   | Descrição                                                                                   |
-|-------------------------|---------------------------------------------------------------------------------------------|
-| **Requisito**           | RF16 (IS14)                                                                                 |
-| **Persona**             | Lucas Almeida (Técnico em redes, domínio de apps e finanças)                                |
-| **Desejo / Ação**       | Buscar rapidamente funções como extrato ou sistemática de saque                             |
-| **Objetivo / Benefício**| Acessar diretamente o que preciso sem navegar por várias telas                              |
-| **Critérios de Aceitação** | - Campo de busca disponível no topo da tela  <br> - Sugestões automáticas conforme digitação <br> - Resultados exibidos de forma clara e navegável |
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF16</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS14</a></td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Campo de busca</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuário avançado que domina tecnologia, desejo buscar rapidamente funcionalidades como extrato ou saque, para navegar de forma mais eficiente no aplicativo.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- Campo de busca disponível no topo da tela ou menu. <br> - Resultados sugeridos enquanto o usuário digita. <br> - Funcionalidade acessível com poucas interações.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A validar pelo usuário</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
 
 
-### <a name="h10"></a> História 10 — Aba de saque
+### <a name="h10"></a> História 10 — Aba de solicitação e acompanhamento de saques
 
-| Campo                   | Descrição                                                                                   |
-|-------------------------|---------------------------------------------------------------------------------------------|
-| **Requisito**           | RF24 (OB07)                                                                                 |
-| **Persona**             | Patrícia Nogueira (Técnica de Enfermagem, busca praticidade)                                |
-| **Desejo / Ação**       | Ter uma aba só para ver e pedir saques do FGTS                                              |
-| **Objetivo / Benefício**| Conseguir fazer tudo relacionado ao saque de forma simples e rápida                         |
-| **Critérios de Aceitação** | - Aba destacada com ícone intuitivo  <br> - Permite solicitar saque e ver andamento <br> - Informações de saque organizadas em uma só tela |
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF24</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-funcionais">OB07</a></td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Aba de solicitação e acompanhamento de saques</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como técnica de enfermagem que busca praticidade, desejo acessar uma aba exclusiva para solicitação e acompanhamento de saques, para saber se o dinheiro foi liberado sem complicação.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- Aba visível com ícone descritivo (ex.: “Saques”). <br> - Exibe etapas do processo: solicitado, em análise, aprovado, concluído. <br> - Possibilidade de iniciar um novo pedido de saque.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A validar pelo usuário</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
 
 
-### <a name="h11"></a> História 11 — Aba de itens diversos
+### <a name="h11"></a> História 11 — Aba de informações adicionais
 
-| Campo                   | Descrição                                                                                   |
-|-------------------------|---------------------------------------------------------------------------------------------|
-| **Requisito**           | RF25 (OB09)                                                                                 |
-| **Persona**             | Beatriz Fernandes (Comerciante, uso moderado de apps)                                       |
-| **Desejo / Ação**       | Acessar informações como PIS, regras do FGTS e ajuda sem complicação                        |
-| **Objetivo / Benefício**| Entender outras funcionalidades do app sem perder tempo procurando                         |
-| **Critérios de Aceitação** | - Aba com título e ícone claros (Ex.: “Mais opções”)  <br> - Tópicos organizados por categorias <br> - Explicações curtas e visuais |
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF25</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-funcionais">OB09</a></td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Aba de informações adicionais</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como comerciante que evita processos longos, desejo acessar uma aba com informações como PIS/PASEP, sistemática de saque e ajuda, para entender melhor meus direitos sem perder tempo.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- Aba identificada com título e ícone compreensíveis (ex.: “Mais opções”). <br> - Itens organizados por categorias. <br> - Explicações em formato visual e direto.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A validar pelo usuário</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
@@ -403,13 +535,46 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 ### <a name="h12"></a> História 12 — Resumo dos tipos de saque
 
-| Campo                   | Descrição                                                                                   |
-|-------------------------|---------------------------------------------------------------------------------------------|
-| **Requisito**           | RF26 (ST02)                                                                                 |
-| **Persona**             | Lucas Almeida (Técnico em redes, domínio de apps e finanças)                                |
-| **Desejo / Ação**       | Ver um resumo dos tipos de saque disponíveis no app                                         |
-| **Objetivo / Benefício**| Escolher com clareza entre saque-aniversário ou por rescisão                                |
-| **Critérios de Aceitação** | - Tabela ou cards explicando os tipos de saque  <br> - Comparação entre regras e prazos <br> - Link direto para alterar a sistemática escolhida |
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF26</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST02</a></td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Resumo dos tipos de saque</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuário que controla ativamente suas finanças, desejo visualizar um resumo dos tipos de saque disponíveis, para escolher a melhor opção para meu perfil.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- Cards ou tabelas explicando os tipos (aniversário, rescisão, calamidade etc.). <br> - Destaque para prazos, regras e vantagens de cada tipo. <br> - Link direto para alterar a sistemática de saque.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A validar pelo usuário</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
