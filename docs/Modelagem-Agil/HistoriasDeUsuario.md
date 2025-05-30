@@ -2012,6 +2012,8 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
+##  Referências
+
 > <a id="REF1" href="#anchor_1">1.</a>  PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
 
 > <a id="REF2" href="#anchor_2">2.</a>  SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 15. UnB, 2025. Disponível em: https://aprender3.unb.br/pluginfile.php/3096144/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em: 30 de maio 2025.
@@ -2019,9 +2021,6 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 > <a id="REF3" href="#anchor_3">3.</a> WAKE, Bill. INVEST in Good Stories, and SMART Tasks. Disponível em: https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/. Acesso em: 30 maio 2025.
 
 > <a id="REF4" href="#anchor_4">4.</a> JEFFRIES, Ron. The Three ‘C’s Revisited. Disponível em: https://ronjeffries.com/articles/019-01ff/3cs-revisited/. Acesso em: 30 maio 2025.
-
-##  Bibliografia
-
 
 ##  Histórico de Versão
 
@@ -2044,4 +2043,5 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | 2.2    | 30/05/2025 | Adicionando história 35 | [Victor Pontual](https://github.com/VictorPontual) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | 2.2    | 30/05/2025 | Adicionando história 41 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Maria Eduarda](https://github.com/dudaa28) |
 | 2.2    | 30/05/2025 | Adicionando história 42 | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| 2.3    | 30/05/2025 | Corrigindo numerações | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| 2.3    | 30/05/2025 | Corrigindo numerações | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
+| 2.4    | 30/05/2025 | Referências Bibliográficas | [Danielle Soares](https://github.com/danielle-soaress) | - |
