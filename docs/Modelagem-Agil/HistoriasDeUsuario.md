@@ -99,7 +99,7 @@ Para cada história, foram definidos critérios claros e objetivos que garantem 
     <tr><td align="center">Danielle Soares</td><td align="center">30/05/2025</td><td align="center">00:05</td></tr>
     <tr><td align="center">Eduardo de Pina</td><td align="center">--/05/2025</td><td align="center">00:00</td></tr>
     <tr><td align="center">Enzo Emir</td><td align="center">--/05/2025</td><td align="center">00:00</td></tr>
-    <tr><td align="center">Leticia Arisa</td><td align="center">--/05/2025</td><td align="center">00:00</td></tr>
+    <tr><td align="center">Leticia Arisa</td><td align="center">30/05/2025</td><td align="center">07:22</td></tr>
     <tr><td align="center">Marcelo Makoto</td><td align="center">28/05/2025</td><td align="center">21:50</td></tr>
     <tr><td align="center">Maria Eduarda</td><td align="center">30/05/2025</td><td align="center">00:30</td></tr>
     <tr><td align="center">Victor Pontual</td><td align="center">--/05/2025</td><td align="center">00:00</td></tr>
@@ -921,9 +921,244 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
 
-### <a name="h24"></a> História 24 —  
+### <a name="h24"></a> História 24 — Visualização do histórico de movimentações financeiras
 
-<font size="3"><p style="text-align: center">Tabela 26: História de</p></font>
+<font size="3"><p style="text-align: center">Tabela 26: História de visualização do histórico de movimentação financeira</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF12</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS09</a></td>
+    <tr>
+      <td>Tema</td>
+      <td>Visualização do histórico de movimentação financeira</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuário do sistema FGTS, desejo visualizar o histórico das movimentações financeiras para que eu possa acompanhar e controlar melhor minhas transações.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve apresentar uma lista cronológica das movimentações financeiras. <br> - O histórico deve estar acessível na página "Movimentações".</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A validar pelo usuário</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
+
+### <a name="h25"></a> História 25 — Filtrar extrato por data
+
+<font size="3"><p style="text-align: center">Tabela 27: História de filtrar o extrato por data</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF12</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS10</a></td>
+    <tr>
+      <td>Tema</td>
+      <td>Filtrar extrato por data</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuário do sistema FGTS, desejo filtrar o extrato por data para encontrar movimentações em períodos específicos.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve permitir ao usuário selecionar um intervalo de datas para filtragem. <br> - Apenas movimentações dentro do período selecionado devem ser exibidas <br> - A filtragem deve estar disponível na página "Movimentações".</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Baixa</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A validar pelo usuário</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
+
+### <a name="h26"></a> História 26 — Visualizar empregadores anteriores com botão para consultar contas vinculadas
+
+<font size="3"><p style="text-align: center">Tabela 28: História de visualizar  empregadores anteriores com botão para consultar contas vinculadas</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF21</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao">OB02</a></td>
+    <tr>
+      <td>Tema</td>
+      <td>Visualizar empregadores anteriores com botão para consultar contas vinculadas</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuário do sistema FGTS, desejo visualizar um resumo dos meus empregadores anteriores com o botão de consultar contas vinculadas.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve exibir uma lista com os empregadores anteriores do usuário. <br> - A interface deve ser clara e acessível tanto em dispositivos móveis quanto em desktops.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A validar pelo usuário</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
+
+### <a name="h27"></a> História 27 — Visualizar nome completo dos empregadores anteriores
+
+<font size="3"><p style="text-align: center">Tabela 29: História de visualizar  nome completo dos empregadores anteriores</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF22</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao">OB05</a></td>
+    <tr>
+      <td>Tema</td>
+      <td>Visualizar nome completo dos empregadores anteriores</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuário do sistema FGTS, desejo visualizar o nome completo dos meus empregadores anteriores para facilitar a identificação correta de cada vínculo empregatício.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve exibir o nome completo (razão social) de cada empregador anterior. <br> - Os nomes devem estar completos, sem abreviações.<br> - A informação deve ser exibida de forma legível e organizada na interface.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A validar pelo usuário</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
+
+### <a name="h28"></a> História 28 — Visualizar histórico de saques realizados
+
+<font size="3"><p style="text-align: center">Tabela 30: História de visualizar histórico de saques realizados</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF23</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao">OB06</a></td>
+    <tr>
+      <td>Tema</td>
+      <td>Visualizar histórico de saques realizados</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuário do sistema FGTS, desejo visualizar o histórico de saques realizados para acompanhar e controlar os valores retirados da minha conta.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve exibir uma lista com todos os saques realizados pelo usuário. <br> - Cada saque deve apresentar data, valor e motivo (quando disponível).<br> - As informações devem estar organizadas de forma cronológica.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A validar pelo usuário</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
+
+### <a name="h29"></a> História 29 —  
+
+<font size="3"><p style="text-align: center">Tabela 31: História de</p></font>
 
 <div align="center">
 <table>
@@ -983,6 +1218,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | 1.3    | 28/05/2025 | Adição das Histórias de Usuário 8 a 12               | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress)  |
 | 1.4    | 29/05/2025 | Adição do modelo de tabela | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
 | 1.5    | 30/05/2025 | Adicionando Histórias 13 a 18 | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28)  |
-| 1.6    | 30/05/2025 | Adicionando Histórias 19 a 24 | [Maria Eduarda](https://github.com/dudaa28) | -  |
-| 1.7    | 30/05/2025 | Adicionando fonte tabelas | [Maria Eduarda](https://github.com/dudaa28) | -  |
-| 1.8    | 30/05/2025 | Atualizando sumário | [Maria Eduarda](https://github.com/dudaa28) | -  |
+| 1.6    | 30/05/2025 | Adicionando Histórias 19 a 24 | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
+| 1.7    | 30/05/2025 | Adicionando fonte tabelas | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
+| 1.8    | 30/05/2025 | Atualizando sumário | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
+| 1.9    | 30/05/2025 | Adicionando Histórias 24, 25, 26, 27 e 28 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | -  |
