@@ -109,106 +109,108 @@ Para cada história, foram definidos critérios claros e objetivos que garantem 
 
 <p align="center">Fonte: <i>Enzo Emir</i></p>
 
-##  Sumário
+## Sumário
 
 **Requisito RF08 (IS05, EN02)**
 
 - [H01 – Acompanhar Situação do Saque](#h01)
-
-- [H02 – Exibir Status Atualizado do Saque](#h02)
-
-- [H03 – Notificações Sobre Andamento](#h03)
+- [H02 – Notificações Sobre Andamento](#h02)
 
 **Requisito RF01 (EN03)**
 
-- [H04 – Informar Datas de Liberação](#h04)
+- [H03 – Informar Datas de Liberação](#h03)
 
 **Requisito RF02 (EN04)**
 
-- [H19 – Canal de Suporte/Chatbot](#h19)
+- [H04 – Canal de Suporte/Chatbot](#h04)
 
 **Requisito RF03 (EN05)**
 
-- [H15 – Consulta ao Saldo do FGTS](#h13)
+- [H05 – Consulta ao Saldo do FGTS](#h05)
 
 **Requisito RF04 (EN06, ST13, ST14)**
 
-- [H17 – Disponibilizar Saque-Aniversário](#h17)
+- [H06 – Disponibilizar Saque-Aniversário](#h06)
 
 **Requisito RF05 (IS01)**
 
-- [H16 – Atualização de Dados Pessoais](#h16)
+- [H07 – Atualização de Dados Pessoais](#h07)
 
 **Requisito RF11 (IS08)**
 
-- [H13 – Ver Informações Sobre Saques Bloqueados](#h13)
+- [H08 – Ver Informações Sobre Saques Bloqueados](#h08)
 
 **Requisito RF17 (IS15)**
 
-- [H05 – Acesso à Seção de Ajuda](#h05)
+- [H09 – Acesso à Seção de Ajuda](#h09)
 
 **Requisito RF19 (IS17)**
 
-- [H06 – Solicitação de Ressarcimento do PIS/PASEP](#h06)
+- [H10 – Solicitação de Ressarcimento do PIS/PASEP](#h10)
 
 **Requisito RF20 (OB01)**
 
-- [H07 – Login Seguro](#h07)
+- [H11 – Login Seguro](#h11)
 
 **Requisito RF15 (IS13)**
 
-- [H08 – Assistente via chat](#h08)
+- [H12 – Assistente via chat](#h12)
 
 **Requisito RF16 (IS14)**
 
-- [H09 – Campo de busca](#h09)
+- [H13 – Campo de busca](#h13)
 
 **Requisito RF24 (OB07)**
 
-- [H10 – Aba de saque](#h10)
+- [H14 – Aba de saque](#h14)
 
 **Requisito RF25 (OB09)**
 
-- [H11 – Aba de itens diversos](#h11)
+- [H15 – Aba de itens diversos](#h15)
 
 **Requisito RF26 (ST02)**
 
-- [H12 – Resumo dos tipos de saque](#h12)
+- [H16 – Resumo dos tipos de saque](#h16)
 
 **Requisito RF27 (ST02)**
 
-- [H21 – Notificações de Status e SaqueS](#h21)
+- [H17 – Notificações de Status e Saques](#h17)
 
 **Requisito RF28 (IS05, EN02)**
 
-- [H22 – Solicitação de Saques](#h22)
+- [H18 – Solicitação de Saques](#h18)
 
 **Requisito RF30 (OB07)**
 
-- [H20 – Ajuste de Tamanho de Fonte](#h20)
+- [H19 – Ajuste de Tamanho de Fonte](#h19)
 
 **Requisito RF31 (IS08)**
 
-- [H23 – Visualização de Dados Bancários](#h23)
+- [H20 – Visualização de Dados Bancários](#h20)
 
 **Requisito RF35 (IS12)**
 
-- [H14 – Cadastro de Múltiplas Contas Bancárias](#h14)
+- [H21 – Cadastro de Múltiplas Contas Bancárias](#h21)
 
 **Requisito RF12 (IS09)**
--[H24 – Visualizar histórico de movimentações financeiras](#h24)
+
+- [H22 – Visualizar histórico de movimentações financeiras](#h22)
 
 **Requisito RF13 (IS10)**
--[H25 – Filtrar extrato por data](#h25)
+
+- [H23 – Filtrar extrato por data](#h23)
 
 **Requisito RF21 (OB02)**
--[H26 – Visualizar empregadores anteriores com botão para consultar contas vinculadas](#h26)
+
+- [H24 – Visualizar empregadores anteriores com botão para consultar contas vinculadas](#h24)
 
 **Requisito RF22 (OB05)**
--[H27 – Visualizar nome completo dos empregadores anteriores](#h27)
+
+- [H25 – Visualizar nome completo dos empregadores anteriores](#h25)
 
 **Requisito RF23 (OB06)**
--[H28 –  Visualizar histórico de saques realizados](#h28)
+
+- [H26 – Visualizar histórico de saques realizados](#h26)
 
 ---
 
@@ -262,90 +264,93 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 
 
-###  História 01 — Acompanhar Situação do Saque
+### <a name="h01"></a> História 01 — Acompanhar Situação do Saque
 
-| Campo                   | Descrição                                                                 |
-|-------------------------|---------------------------------------------------------------------------|
-| **Requisito**           | RF08 (IS05, EN02)                                                         |
-| **Persona**             | Patrícia Nogueira (Técnica de Enfermagem, busca praticidade)              |
-| **Desejo / Ação**       | Acompanhar a situação do meu saque do FGTS                                |
-| **Objetivo / Benefício**| Saber se está aprovado, em análise ou concluído, sem ir à agência         |
+| **Item**                 | **Descrição**                                                                 |
+|--------------------------|------------------------------------------------------------------------------|
+| **ID**                   | US01                                                                         |
+| **Rastreabilidade**      | RF08 (IS05, EN02)                                                             |
+| **Tema**                 | Acompanhar Situação do Saque                                                 |
+| **Descrição**            | Eu, como técnica de enfermagem, desejo acompanhar a situação do meu saque do FGTS para saber se está aprovado, em análise ou concluído, sem ir à agência. |
 | **Critérios de Aceitação** | - Status exibido claramente (Ex.: “Aguardando análise”, “Aprovado”)  <br> - Mostra possíveis pendências ou exigências  <br> - Atualização automática do status |
+| **Prioridade Usuário**   | Alta                                                                          |
+| **Status**               | Não Validada                                                                  |
 
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
-### <a name="h02"></a> História 02 — Exibir Status Atualizado do Saque
+### <a name="h02"></a> História 02 — Notificações Sobre Andamento
 
-| Campo                   | Descrição                                                                 |
-|-------------------------|---------------------------------------------------------------------------|
-| **Requisito**           | RF08 (IS05, EN02)                                                         |
-| **Persona**             | Lucas Almeida (Jovem tecnólogo, usuário avançado de apps)                 |
-| **Desejo / Ação**       | Visualizar o status atualizado do meu saque do FGTS                       |
-| **Objetivo / Benefício**| Ter informações precisas e em tempo real sobre o andamento do processo    |
-| **Critérios de Aceitação** | - Status sempre atualizado  <br> - Indicação de bloqueios ou pendências  <br> - Feedback visual com ícones ou cores |
-
-
-
-### <a name="h03"></a> História 03 — Notificações Sobre Andamento
-
-| Campo                   | Descrição                                                                 |
-|-------------------------|---------------------------------------------------------------------------|
-| **Requisito**           | RF08 (IS05, EN02)                                                         |
-| **Persona**             | Beatriz Fernandes (Comerciante, rotina corrida)                           |
-| **Desejo / Ação**       | Receber notificações sobre o andamento do meu saque do FGTS               |
-| **Objetivo / Benefício**| Ser informada de atualizações sem precisar abrir o app constantemente     |
+| **Item**                 | **Descrição**                                                                 |
+|--------------------------|------------------------------------------------------------------------------|
+| **ID**                   | US03                                                                         |
+| **Rastreabilidade**      | RF08 (IS05, EN02)                                                             |
+| **Tema**                 | Notificações Sobre Andamento                                                 |
+| **Descrição**            | Eu, como comerciante, desejo receber notificações sobre o andamento do meu saque do FGTS para ser informada de atualizações sem precisar abrir o app constantemente. |
 | **Critérios de Aceitação** | - Notificações push quando houver mudança no status  <br> - Mensagens objetivas (Ex.: “Seu saque foi liberado”)  <br> - Opção de ativar/desativar notificações |
+| **Prioridade Usuário**   | Alta                                                                          |
+| **Status**               | Não Validada                                                                  |
 
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
+### <a name="h03"></a> História 03 — Informar Datas de Liberação
 
-### <a name="h04"></a> História 04 — Informar Datas de Liberação
-
-| Campo                   | Descrição                                                                 |
-|-------------------------|---------------------------------------------------------------------------|
-| **Requisito**           | RF01 (EN03)                                                               |
-| **Persona**             | Antônio Ribeiro (Aposentado, baixa autonomia digital)                     |
-| **Desejo / Ação**       | Ver as datas previstas para liberação dos valores do FGTS                 |
-| **Objetivo / Benefício**| Se organizar financeiramente e pedir ajuda aos filhos, se necessário      |
+| **Item**                 | **Descrição**                                                                 |
+|--------------------------|------------------------------------------------------------------------------|
+| **ID**                   | US04                                                                         |
+| **Rastreabilidade**      | RF01 (EN03)                                                                   |
+| **Tema**                 | Informar Datas de Liberação                                                  |
+| **Descrição**            | Eu, como aposentado, desejo ver as datas previstas para liberação dos valores do FGTS para me organizar financeiramente e pedir ajuda aos filhos, se necessário. |
 | **Critérios de Aceitação** | - Exibição da data estimada de liberação  <br> - Alerta caso a data seja alterada  <br> - Informação clara caso a data não esteja definida |
+| **Prioridade Usuário**   | Alta                                                                          |
+| **Status**               | Não Validada                                                                  |
 
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
+### <a name="h04"></a> História 04 — Acesso à Seção de Ajuda
 
-### <a name="h05"></a> História 05 — Acesso à Seção de Ajuda
-
-| Campo                   | Descrição                                                                 |
-|-------------------------|---------------------------------------------------------------------------|
-| **Requisito**           | RF17 (IS15)                                                               |
-| **Persona**             | Patrícia Nogueira                                                         |
-| **Desejo / Ação**       | Acessar uma seção de ajuda com orientações sobre FGTS e PIS/PASEP         |
-| **Objetivo / Benefício**| Esclarecer dúvidas rapidamente, sem precisar de atendimento presencial    |
+| **Item**                 | **Descrição**                                                                 |
+|--------------------------|------------------------------------------------------------------------------|
+| **ID**                   | US05                                                                         |
+| **Rastreabilidade**      | RF17 (IS15)                                                                   |
+| **Tema**                 | Acesso à Seção de Ajuda                                                       |
+| **Descrição**            | Eu, como técnica de enfermagem, desejo acessar uma seção de ajuda com orientações sobre FGTS e PIS/PASEP para esclarecer dúvidas rapidamente, sem precisar de atendimento presencial. |
 | **Critérios de Aceitação** | - FAQ com respostas claras  <br> - Explicações sobre regras de saque, prazos e documentação  <br> - Opção de contato com suporte |
+| **Prioridade Usuário**   | Média                                                                         |
+| **Status**               | Não Validada                                                                  |
 
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
+### <a name="h05"></a> História 05 — Solicitação de Ressarcimento do PIS/PASEP
 
-### <a name="h06"></a> História 06 — Solicitação de Ressarcimento do PIS/PASEP
-
-| Campo                   | Descrição                                                                 |
-|-------------------------|---------------------------------------------------------------------------|
-| **Requisito**           | RF19 (IS17)                                                               |
-| **Persona**             | Lucas Almeida                                                             |
-| **Desejo / Ação**       | Solicitar o ressarcimento de valores do PIS/PASEP pelo app                |
-| **Objetivo / Benefício**| Evitar filas, economizar tempo e resolver tudo digitalmente              |
+| **Item**                 | **Descrição**                                                                 |
+|--------------------------|------------------------------------------------------------------------------|
+| **ID**                   | US06                                                                         |
+| **Rastreabilidade**      | RF19 (IS17)                                                                   |
+| **Tema**                 | Solicitação de Ressarcimento do PIS/PASEP                                    |
+| **Descrição**            | Eu, como jovem tecnólogo, desejo solicitar o ressarcimento de valores do PIS/PASEP pelo app para evitar filas, economizar tempo e resolver tudo digitalmente. |
 | **Critérios de Aceitação** | - Formulário simples, com upload de documentos  <br> - Confirmação do envio  <br> - Acompanhamento do andamento no app |
+| **Prioridade Usuário**   | Alta                                                                          |
+| **Status**               | Não Validada                                                                  |
 
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
+### <a name="h06"></a> História 06 — Login Seguro
 
-### <a name="h07"></a> História 07 — Login Seguro
-
-| Campo                   | Descrição                                                                 |
-|-------------------------|---------------------------------------------------------------------------|
-| **Requisito**           | RF20 (OB01)                                                               |
-| **Persona**             | Beatriz Fernandes e Antônio Ribeiro                                       |
-| **Desejo / Ação**       | Fazer login de forma segura no app                                        |
-| **Objetivo / Benefício**| Proteger dados, sem complicações ou esquecimento de senha                 |
+| **Item**                 | **Descrição**                                                                 |
+|--------------------------|------------------------------------------------------------------------------|
+| **ID**                   | US07                                                                         |
+| **Rastreabilidade**      | RF20 (OB01)                                                                   |
+| **Tema**                 | Login Seguro                                                                 |
+| **Descrição**            | Eu, como usuária com pouca autonomia digital (ou comerciante ocupada), desejo fazer login de forma segura no app para proteger meus dados, sem complicações ou esquecimento de senha. |
 | **Critérios de Aceitação** | - Login com biometria, senha ou autenticação de dois fatores (2FA)  <br> - Mensagens claras em caso de erro  <br> - Opção de lembrar acesso ou recuperar senha |
+| **Prioridade Usuário**   | Alta                                                                          |
+| **Status**               | Não Validada                                                                  |
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
 
 
-### <a name="h08"></a> História 08 — Assistente via chat
+### <a name="h07"></a> História 07 — Assistente via chat
 
 <font size="3"><p style="text-align: center">Tabela 10: História de assistente via chat</p></font>
 
@@ -394,7 +399,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 
 
-### <a name="h09"></a> História 09 — Campo de busca
+### <a name="h08"></a> História 08 — Campo de busca
 
 <font size="3"><p style="text-align: center">Tabela 11: História de campo de busca</p></font>
 
@@ -443,7 +448,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 
 
-### <a name="h10"></a> História 10 — Aba de solicitação e acompanhamento de saques
+### <a name="h09"></a> História 09 — Aba de solicitação e acompanhamento de saques
 
 <font size="3"><p style="text-align: center">Tabela 12: História de aba de solicitação e acompanhamento de saques</p></font>
 
@@ -492,7 +497,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 
 
-### <a name="h11"></a> História 11 — Aba de informações adicionais
+### <a name="h10"></a> História 10 — Aba de informações adicionais
 
 <font size="3"><p style="text-align: center">Tabela 13: História de aba de informações adicionais</p></font>
 
@@ -541,7 +546,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 
 
-### <a name="h12"></a> História 12 — Resumo dos tipos de saque
+### <a name="h11"></a> História 11 — Resumo dos tipos de saque
 
 <font size="3"><p style="text-align: center">Tabela 14: História de resumo dos tipos de saque</p></font>
 
@@ -588,7 +593,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
-### <a name="h13"></a> História 13 — Ver Informações Sobre Saques Bloqueados
+### <a name="h12"></a> História 12 — Ver Informações Sobre Saques Bloqueados
 
 <font size="3"><p style="text-align: center">Tabela 15: História de bloqueio de saque</p></font>
 
@@ -635,7 +640,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
-### <a name="h14"></a> História 14 — Cadastro de Múltiplas Contas Bancárias
+### <a name="h13"></a> História 13 — Cadastro de Múltiplas Contas Bancárias
 
 <font size="3"><p style="text-align: center">Tabela 16: História de cadastro de contas bancárias</p></font>
 
@@ -682,7 +687,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
-### <a name="h15"></a> História 15 —  Consulta ao Saldo do FGTS
+### <a name="h14"></a> História 14 —  Consulta ao Saldo do FGTS
 
 <font size="3"><p style="text-align: center">Tabela 17: História de consulta ao saldo do FGTS</p></font>
 
@@ -729,7 +734,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
-### <a name="h16"></a> História 16 — Atualização de Dados Pessoais
+### <a name="h15"></a> História 15 — Atualização de Dados Pessoais
 
 <font size="3"><p style="text-align: center">Tabela 18: História de atualização de dados pessoais</p></font>
 
@@ -776,7 +781,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
-### <a name="h17"></a> História 17 — Disponibilizar Saque-Aniversário
+### <a name="h16"></a> História 16 — Disponibilizar Saque-Aniversário
 
 <font size="3"><p style="text-align: center">Tabela 19: História de disponibilização de saque-aniversário</p></font>
 
@@ -823,7 +828,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
-### <a name="h24"></a> História 18 —  
+### <a name="h17"></a> História 17 —  
 
 <font size="3"><p style="text-align: center">Tabela 20: História de</p></font>
 
@@ -871,7 +876,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 <font size="2"><p style="text-align: center">Fonte: </p></font>
 
 
-### <a name="h19"></a> História 19 — Canal de Suporte/Chatbot 
+### <a name="h18"></a> História 18 — Canal de Suporte/Chatbot 
 
 <font size="3"><p style="text-align: center">Tabela 21: História de Canal de Suporte/Chatbot</p></font>
 
@@ -918,7 +923,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
 
-### <a name="h20"></a> História 20 — Ajuste de Tamanho de Fonte 
+### <a name="h19"></a> História 19 — Ajuste de Tamanho de Fonte 
 
 <font size="3"><p style="text-align: center">Tabela 22: História de ajuste de tamanho de fonte</p></font>
 
@@ -965,7 +970,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
 
-### <a name="h21"></a> História 21 — Notificações de Status e SaqueS 
+### <a name="h20"></a> História 20 — Notificações de Status e SaqueS 
 
 <font size="3"><p style="text-align: center">Tabela 23: História de notificações de status e saque</p></font>
 
@@ -1014,7 +1019,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
 
-### <a name="h22"></a> História 22 — Solicitação de Saques
+### <a name="h21"></a> História 21 — Solicitação de Saques
 
 <font size="3"><p style="text-align: center">Tabela 24: História de solicitação de saques</p></font>
 
@@ -1064,7 +1069,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
 
-### <a name="h23"></a> História 23 — Visualização de Dados Bancários 
+### <a name="h22"></a> História 22 — Visualização de Dados Bancários 
 
 <font size="3"><p style="text-align: center">Tabela 25: História de visualização de dados bancários</p></font>
 
@@ -1111,7 +1116,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
 
-### <a name="h24"></a> História 24 — Visualização do histórico de movimentações financeiras
+### <a name="h23"></a> História 23 — Visualização do histórico de movimentações financeiras
 
 <font size="3"><p style="text-align: center">Tabela 26: História de visualização do histórico de movimentação financeira</p></font>
 
@@ -1158,7 +1163,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
-### <a name="h25"></a> História 25 — Filtrar extrato por data
+### <a name="h24"></a> História 24 — Filtrar extrato por data
 
 <font size="3"><p style="text-align: center">Tabela 27: História de filtrar o extrato por data</p></font>
 
@@ -1205,7 +1210,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
-### <a name="h26"></a> História 26 — Visualizar empregadores anteriores com botão para consultar contas vinculadas
+### <a name="h25"></a> História 25 — Visualizar empregadores anteriores com botão para consultar contas vinculadas
 
 <font size="3"><p style="text-align: center">Tabela 28: História de visualizar  empregadores anteriores com botão para consultar contas vinculadas</p></font>
 
@@ -1252,7 +1257,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
-### <a name="h27"></a> História 27 — Visualizar nome completo dos empregadores anteriores
+### <a name="h26"></a> História 26 — Visualizar nome completo dos empregadores anteriores
 
 <font size="3"><p style="text-align: center">Tabela 29: História de visualizar  nome completo dos empregadores anteriores</p></font>
 
@@ -1299,7 +1304,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
-### <a name="h28"></a> História 28 — Visualizar histórico de saques realizados
+### <a name="h27"></a> História 27 — Visualizar histórico de saques realizados
 
 <font size="3"><p style="text-align: center">Tabela 30: História de visualizar histórico de saques realizados</p></font>
 
@@ -1346,7 +1351,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
-### <a name="h29"></a> História 29 —  
+### <a name="h28"></a> História 28 —  
 
 <font size="3"><p style="text-align: center">Tabela 31: História de</p></font>
 
@@ -1404,12 +1409,12 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 |--------|------------|--------------------------------------------|-----------------------------------------------|-------------|
 | 1.0    | 27/05/2025 | Criação da página | [Enzo Emir](https://github.com/EnzoEmir)     | [Danielle Soares](https://github.com/danielle-soaress)  |
 | 1.1    | 27/05/2025 | Adicionando Introdução, Metodologia e Participantes | [Enzo Emir](https://github.com/EnzoEmir)     | [Marcelo Makoto](https://github.com/MM4k) |
-| 1.2    | 28/05/2025 | Adicionando Histórias 1 a 7               | [Enzo Emir](https://github.com/EnzoEmir)     | [Marcelo Makoto](https://github.com/MM4k) |
-| 1.3    | 28/05/2025 | Adição das Histórias de Usuário 8 a 12               | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress)  |
+| 1.2    | 28/05/2025 | Adicionando Histórias 1 a 6               | [Enzo Emir](https://github.com/EnzoEmir)     | [Marcelo Makoto](https://github.com/MM4k) |
+| 1.3    | 28/05/2025 | Adição das Histórias de Usuário 7 a 11               | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress)  |
 | 1.4    | 29/05/2025 | Adição do modelo de tabela | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
-| 1.5    | 30/05/2025 | Adicionando Histórias 13 a 18 | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28)  |
-| 1.6    | 30/05/2025 | Adicionando Histórias 19 a 24 | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
+| 1.5    | 30/05/2025 | Adicionando Histórias 12 a 17 | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28)  |
+| 1.6    | 30/05/2025 | Adicionando Histórias 18 a 22 | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
 | 1.7    | 30/05/2025 | Adicionando fonte tabelas | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
 | 1.8    | 30/05/2025 | Atualizando sumário | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
-| 1.9    | 30/05/2025 | Adicionando Histórias 24, 25, 26, 27 e 28 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | -  |
+| 1.9    | 30/05/2025 | Adicionando Histórias 23, 24, 25, 26 e 27 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | -  |
 | 2.0    | 30/05/2025 | Atualizando sumário | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  | - |
