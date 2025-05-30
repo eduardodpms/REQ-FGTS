@@ -104,8 +104,8 @@ nav:
     - Léxicos: Modelagem/Lexicos.md
     - Especificação Suplementar: Modelagem/EspecificacaoSuplementar.md
     - Requisitos Não Implementados: Modelagem/RNI.md
-  - Modelagem Ágil:
-    - NFR Framework: Modelagem-Agil/NFRFramework.md
-    - Histórias de Usuário: Modelagem-Agil/HistoriasDeUsuario.md
-    - Backlog: Modelagem-Agil/Backlog.md
+    - Ágil:
+      - NFR Framework: Modelagem-Agil/NFRFramework.md
+      - Histórias de Usuário: Modelagem-Agil/HistoriasDeUsuario.md
+      - Backlog: Modelagem-Agil/Backlog.md
 
