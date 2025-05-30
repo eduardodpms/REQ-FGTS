@@ -227,7 +227,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 
 
-### <a name="h01"></a> História 01 — Acompanhar Situação do Saque
+###  História 01 — Acompanhar Situação do Saque
 
 | Campo                   | Descrição                                                                 |
 |-------------------------|---------------------------------------------------------------------------|
@@ -236,30 +236,6 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | **Desejo / Ação**       | Acompanhar a situação do meu saque do FGTS                                |
 | **Objetivo / Benefício**| Saber se está aprovado, em análise ou concluído, sem ir à agência         |
 | **Critérios de Aceitação** | - Status exibido claramente (Ex.: “Aguardando análise”, “Aprovado”)  <br> - Mostra possíveis pendências ou exigências  <br> - Atualização automática do status |
-
-
-### <a name="h01"></a> História 01 — Acompanhar Situação do Saque
-
-| Campo                   | Descrição                                                                 |
-|-------------------------|---------------------------------------------------------------------------|
-| **Requisito**           | RF08 (IS05, EN02)                                                         |
-| **Persona**             | Patrícia Nogueira (Técnica de Enfermagem, busca praticidade)              |
-| **Desejo / Ação**       | Acompanhar a situação do meu saque do FGTS                                |
-| **Objetivo / Benefício**| Saber se está aprovado, em análise ou concluído, sem ir à agência         |
-| **Critérios de Aceitação** | - Status exibido claramente (Ex.: “Aguardando análise”, “Aprovado”)  <br> - Mostra possíveis pendências ou exigências  <br> - Atualização automática do status |
-
-
-
-### <a name="h01"></a> História 01 — Acompanhar Situação do Saque
-
-| Campo                   | Descrição                                                                 |
-|-------------------------|---------------------------------------------------------------------------|
-| **Requisito**           | RF08 (IS05, EN02)                                                         |
-| **Persona**             | Patrícia Nogueira (Técnica de Enfermagem, busca praticidade)              |
-| **Desejo / Ação**       | Acompanhar a situação do meu saque do FGTS                                |
-| **Objetivo / Benefício**| Saber se está aprovado, em análise ou concluído, sem ir à agência         |
-| **Critérios de Aceitação** | - Status exibido claramente (Ex.: “Aguardando análise”, “Aprovado”)  <br> - Mostra possíveis pendências ou exigências  <br> - Atualização automática do status |
-
 
 
 ### <a name="h02"></a> História 02 — Exibir Status Atualizado do Saque
@@ -404,6 +380,8 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 ### <a name="h13"></a> História 13 — Ver Informações Sobre Saques Bloqueados
 
+<font size="3"><p style="text-align: center">Tabela 15: História de bloqueio de saque</p></font>
+
 <div align="center">
 <table>
   <thead>
@@ -448,6 +426,8 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
 ### <a name="h14"></a> História 14 — Cadastro de Múltiplas Contas Bancárias
+
+<font size="3"><p style="text-align: center">Tabela 16: História de cadastro de contas bancárias</p></font>
 
 <div align="center">
 <table>
@@ -494,6 +474,8 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 ### <a name="h15"></a> História 15 —  Consulta ao Saldo do FGTS
 
+<font size="3"><p style="text-align: center">Tabela 17: História de consulta ao saldo do FGTS</p></font>
+
 <div align="center">
 <table>
   <thead>
@@ -538,6 +520,8 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
 ### <a name="h16"></a> História 16 — Atualização de Dados Pessoais
+
+<font size="3"><p style="text-align: center">Tabela 18: História de atualização de dados pessoais</p></font>
 
 <div align="center">
 <table>
@@ -584,6 +568,8 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 ### <a name="h17"></a> História 17 — Disponibilizar Saque-Aniversário
 
+<font size="3"><p style="text-align: center">Tabela 19: História de disponibilização de saque-aniversário</p></font>
+
 <div align="center">
 <table>
   <thead>
@@ -628,6 +614,8 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
 ### <a name="h13"></a> História 19 - Canal de Suporte/Chatbot 
+
+<font size="3"><p style="text-align: center">Tabela 21: História de Canal de Suporte/Chatbot</p></font>
 
 <div align="center">
 <table>
@@ -674,6 +662,8 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 ### <a name="h13"></a> História 20 - Ajuste de Tamanho de Fonte 
 
+<font size="3"><p style="text-align: center">Tabela 22: História de ajuste de tamanho de fonte</p></font>
+
 <div align="center">
 <table>
   <thead>
@@ -718,6 +708,8 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
 
 ### <a name="h13"></a> História 21 - Notificações de Status e SaqueS 
+
+<font size="3"><p style="text-align: center">Tabela 23: História de notificações de status e saque</p></font>
 
 <div align="center">
 <table>
@@ -764,7 +756,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
 
-### <a name="h13"></a> História 22 - Solicitação de Saques 
+### <a name="h13"></a> História 22 - Solicitação de Saques
+
+<font size="3"><p style="text-align: center">Tabela 24: História de solicitação de saques</p></font>
 
 <div align="center">
 <table>
@@ -814,6 +808,8 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 ### <a name="h13"></a> História 23 - Visualização de Dados Bancários 
 
+<font size="3"><p style="text-align: center">Tabela 25: História de visualização de dados bancários</p></font>
+
 <div align="center">
 <table>
   <thead>
@@ -858,6 +854,8 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
 
 ### <a name="h13"></a> História 24 -  
+
+<font size="3"><p style="text-align: center">Tabela 26: História de</p></font>
 
 <div align="center">
 <table>
