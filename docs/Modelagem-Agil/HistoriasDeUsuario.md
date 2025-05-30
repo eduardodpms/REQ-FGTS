@@ -96,7 +96,7 @@ Para cada história, foram definidos critérios claros e objetivos que garantem 
     </tr>
   </thead>
   <tbody>
-    <tr><td align="center">Danielle Soares</td><td align="center">--/05/2025</td><td align="center">00:00</td></tr>
+    <tr><td align="center">Danielle Soares</td><td align="center">30/05/2025</td><td align="center">00:05</td></tr>
     <tr><td align="center">Eduardo de Pina</td><td align="center">--/05/2025</td><td align="center">00:00</td></tr>
     <tr><td align="center">Enzo Emir</td><td align="center">--/05/2025</td><td align="center">00:00</td></tr>
     <tr><td align="center">Leticia Arisa</td><td align="center">--/05/2025</td><td align="center">00:00</td></tr>
@@ -117,6 +117,18 @@ Para cada história, foram definidos critérios claros e objetivos que garantem 
 - [H03 – Notificações Sobre Andamento](#h03)
 
 **Requisito RF01 (EN03):**
+- [H04 – Informar Datas de Liberação](#h04)
+
+**Requisito RF03 (EN05):**
+- [H04 – Informar Datas de Liberação](#h04)
+
+**Requisito RF04 (EN06, ST13, ST14):**
+- [H04 – Informar Datas de Liberação](#h04)
+
+**Requisito RF05 (IS01):**
+- [H04 – Informar Datas de Liberação](#h04)
+
+**Requisito RF11 (IS08):**
 - [H04 – Informar Datas de Liberação](#h04)
 
 **Requisito RF17 (IS15):**
@@ -143,6 +155,9 @@ Para cada história, foram definidos critérios claros e objetivos que garantem 
 **Requisito RF26 (ST02):**
 - [H12 – Resumo dos tipos de saque](#h12)
 
+**Requisito RF35 (IS12):**
+- [H04 – Informar Datas de Liberação](#h04)
+
 ---
 
 ##  Histórias de Usuário
@@ -161,7 +176,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   </thead>
   <tbody>
     <tr>
-      <td>USx (número de identificação)</td>
+      <td>ID</td>
       <td>USx</td>
     </tr>
     <tr>
@@ -374,7 +389,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
-### <a name="h13"></a> História 13 
+### <a name="h13"></a> História 13 — Ver Informações Sobre Saques Bloqueados
 
 <div align="center">
 <table>
@@ -386,7 +401,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   </thead>
   <tbody>
     <tr>
-      <td>USx (número de identificação)</td>
+      <td>ID</td>
       <td>RF11</td>
     </tr>
     <tr>
@@ -394,23 +409,23 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
       <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS08</a></td>
     <tr>
       <td>Tema</td>
-      <td>Título</td>
+      <td>Ver Informações Sobre Saques Bloqueados</td>
     </tr>
     <tr>
       <td>Descrição</td>
-      <td>Eu, como <em>[tipo de usuário]</em>, desejo <em>[ação desejada]</em> para <em>[objetivo]</em></td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>visualizar informações sobre meus saques bloqueados e os respectivos motivos do bloqueio</em> para <em> entender minha situação e buscar a regularização, se possível.</em></td>
     </tr>
     <tr>
       <td>Critérios de Aceitação</td>
-      <td>- [Critério 1] <br> - [Critério 2]</td>
+      <td>- O sistema deve exibir uma lista clara dos saques que estão bloqueados. <br> - Para cada saque bloqueado, o sistema deve apresentar o motivo específico do bloqueio.<br> - O usuário deve conseguir acessar essa informação de forma intuitiva dentro do aplicativo. </td>
     </tr>
     <tr>
       <td>Prioridade Usuário</td>
-      <td>Alta, Média, Baixa</td>
+      <td>Alta</td>
     </tr>
     <tr>
       <td>Status</td>
-      <td>Se a história foi validada ou não pelo usuário</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
     </tr>
   </tbody>
@@ -419,6 +434,185 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
+### <a name="h14"></a> História 14 — Cadastro de Múltiplas Contas Bancárias
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>RF35</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS12</a></td>
+    <tr>
+      <td>Tema</td>
+      <td>Cadastro de Múltiplas Contas Bancárias</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>cadastrar mais de uma conta bancária de diferentes instituições financeiras</em> para <em>ter flexibilidade na hora de receber meus saques e benefícios.</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve permitir a adição de novas contas bancárias. <br> - O usuário deve conseguir cadastrar contas de diferentes instituições financeiras. <br> - O sistema deve validar os dados da conta bancária no momento do cadastro. <br> - O usuário deve poder visualizar e gerenciar todas as contas cadastradas.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A ser validado pelo usuário</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
+
+### <a name="h15"></a> História 15 —  Consulta ao Saldo do FGTS
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>RF03</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN05</a></td>
+    <tr>
+      <td>Tema</td>
+      <td>Consulta ao Saldo do FGTS</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>consultar o saldo da minha conta vinculada do FGTS</em> para <em>acompanhar minhas economias e planejar meus próximos passos.</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve exibir o saldo atualizado da conta vinculada do FGTS. <br> - O saldo deve ser apresentado de forma clara e visível na tela principal ou em seção dedicada. <br> - O usuário deve conseguir acessar essa informação de forma rápida e segura.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A ser validado pelo usuário</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
+
+### <a name="h16"></a> História 16 — Atualização de Dados Pessoais
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>RF05</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS01</a></td>
+    <tr>
+      <td>Tema</td>
+      <td>Atualização de Dados Pessoais</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>usuário do aplicativo FGTS</em>, desejo <em>atualizar meus dados pessoais</em> para <em>manter minhas informações corretas e atualizadas no sistema.</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve permitir a edição de dados como endereço, telefone e e-mail. <br> - As alterações devem ser salvas e refletidas imediatamente após a confirmação do usuário. <br> - O sistema deve garantir a segurança dos dados pessoais durante o processo de atualização. <br> - O usuário deve ser notificado sobre a conclusão da atualização.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A ser validado pelo usuário</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
+
+### <a name="h17"></a> História 17 — Disponibilizar Saque-Aniversário
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>RF04</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN06</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST013</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST014</a></td>
+    <tr>
+      <td>Tema</td>
+      <td>Disponibilizar Saque-Aniversário</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>utilizar a funcionalidade de saque-aniversário de forma acessível</em>, para <em>poder sacar o valor disponível sem barreiras de uso.</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve apresentar a opção de saque-aniversário de forma clara e visível. <br> - A funcionalidade deve ser navegável e operável por meio de teclado e leitores de tela. <br> - O aplicativo deve fornecer feedback visual e auditivo adequado durante o processo de saque. <br> - As informações sobre o valor disponível para saque e as datas devem ser de fácil compreensão.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A ser validado pelo usuário</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
 ---
 
@@ -435,4 +629,5 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | 1.2    | 28/05/2025 | Adicionando Histórias 1 a 7               | [Enzo Emir](https://github.com/EnzoEmir)     | [Marcelo Makoto](https://github.com/MM4k) |
 | 1.3    | 28/05/2025 | Adição das Histórias de Usuário 8 a 12               | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress)  |
 | 1.4    | 29/05/2025 | Adição do modelo de tabela | [Danielle Soares](https://github.com/danielle-soaress) | -  |
+| 1.5    | 30/05/2025 | Adicionando Histórias 13 a 18 | [Danielle Soares](https://github.com/danielle-soaress) | -  |
 
