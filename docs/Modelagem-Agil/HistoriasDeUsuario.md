@@ -1170,6 +1170,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
 
+
 ### <a name="h22"></a> História 22 — Visualização de Dados Bancários 
 
 <font size="3"><p style="text-align: center">Tabela 25: História de visualização de dados bancários</p></font>
@@ -1216,6 +1217,61 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 </div>
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
+
+### <a name="h40"></a> História X — Agendamento de Saque Futuro
+
+<font size="3"><p style="text-align: center">Tabela X: História de agendamento de saque futuro</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF42</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">ENX</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Agendamento de Saque</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como trabalhador com direito ao FGTS, desejo agendar um saque para uma data futura para poder me planejar financeiramente com antecedência.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>
+        - O sistema deve permitir a seleção de uma data futura para o saque. <br>
+        - O sistema deve exibir um resumo do agendamento antes da confirmação. <br>
+        - O usuário deve receber uma notificação de confirmação do agendamento.
+      </td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A validar pelo usuário</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
+
+
 
 ### <a name="h23"></a> História 23 — Visualização do histórico de movimentações financeiras
 
@@ -1452,52 +1508,61 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
-### <a name="h28"></a> História 28 —  
+### <a name="h28"></a> História X — Enviar Documentos Digitalizados para Comprovação de Saque
 
-<font size="3"><p style="text-align: center">Tabela 31: História de</p></font>
+<font size="3"><p style="text-align: center">Tabela X: História de envio de documentos para comprovação de saque</p></font>
 
 <div align="center">
-<table>
-  <thead>
-    <tr>
-      <th><strong>Item</strong></th>
-      <th><strong>Descrição</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>USx (número de identificação)</td>
-      <td>RF11</td>
-    </tr>
-    <tr>
-      <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS08</a></td>
-    <tr>
-      <td>Tema</td>
-      <td>Título</td>
-    </tr>
-    <tr>
-      <td>Descrição</td>
-      <td>Eu, como <em>[tipo de usuário]</em>, desejo <em>[ação desejada]</em> para <em>[objetivo]</em></td>
-    </tr>
-    <tr>
-      <td>Critérios de Aceitação</td>
-      <td>- [Critério 1] <br> - [Critério 2]</td>
-    </tr>
-    <tr>
-      <td>Prioridade Usuário</td>
-      <td>Alta, Média, Baixa</td>
-    </tr>
-    <tr>
-      <td>Status</td>
-      <td>Se a história foi validada ou não pelo usuário</td>
-    </tr>
-    </tr>
-  </tbody>
-</table>
+  <table>
+    <thead>
+      <tr>
+        <th><strong>Item</strong></th>
+        <th><strong>Descrição</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>ID</strong></td>
+        <td>
+          <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF41</a>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Rastreabilidade</strong></td>
+        <td>
+          <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">ENX</a>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Tema</strong></td>
+        <td>Envio de documentos para comprovação de saque</td>
+      </tr>
+      <tr>
+        <td><strong>Descrição</strong></td>
+        <td>Eu, como usuário do sistema FGTS, desejo enviar documentos digitalizados (PDF ou imagem) para comprovar minha elegibilidade em situações específicas de saque, como doença grave ou aposentadoria.</td>
+      </tr>
+      <tr>
+        <td><strong>Critérios de Aceitação</strong></td>
+        <td>
+          - O sistema deve permitir o upload de arquivos em PDF, JPG ou PNG. <br>
+          - O upload deve estar disponível apenas quando o motivo do saque exigir comprovação documental. <br>
+          - O sistema deve confirmar o recebimento do documento enviado. <br>
+          - O tamanho do arquivo não deve ultrapassar o limite estabelecido (ex: 10MB).
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Prioridade do Usuário</strong></td>
+        <td>Média</td>
+      </tr>
+      <tr>
+        <td><strong>Status</strong></td>
+        <td>A validar pelo usuário</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
-<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
 ### <a name="h29"></a> História 29 — Cancelamento de Saque 
 
@@ -2086,3 +2151,5 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | 2.2    | 30/05/2025 | Adicionando histórias 34 à 39 | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
 | 2.2    | 30/05/2025 | Adicionando história 17 | [Danielle Soares](https://github.com/danielle-soaress) | - |
 | 2.2    | 30/05/2025 | Adicionando história 35 | [Victor Pontual](https://github.com/VictorPontual) | - |
+| 2.2    | 30/05/2025 | Adicionando história 41 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Maria Eduarda](https://github.com/dudaa28) |
+| 2.2    | 30/05/2025 | Adicionando história 42 | [Maria Eduarda](https://github.com/dudaa28) | - |
