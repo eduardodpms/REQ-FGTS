@@ -236,6 +236,10 @@ Para cada história, foram definidos critérios claros e objetivos que garantem 
 
 - [H34 – Consulta de dados pessoais](#h34)
 
+**Requisito RF06 (IS02)**
+
+- [H35 — Notificação de Recebimento do Saque](#h35)
+
 **Requisito RF07 (IS04, OB04)**
 
 - [H35 – Consultar saldo](#h35)
@@ -1777,11 +1781,56 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 </table>
 </div>
 
-<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
+### <a name="h35"></a> História 35 — Notificação de Recebimento do Saque
 
-### <a name="h35"></a> História 35 — Consultar saldo
+<font size="3"><p style="text-align: center">Tabela 38: História de Notificação de Recebimento do Saque</p></font>
 
-<font size="3"><p style="text-align: center">Tabela 38: História de consulta de Saldo</p></font>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>USx (número de identificação)</td>
+      <td>RF40</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST015</a></td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Notificação</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>usuário que aguarda o recebimento do saque</em>, desejo <em>ser notificado assim que o valor for depositado</em> para <em>acompanhar e confirmar a liberação do meu dinheiro</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve enviar uma notificação push no momento da confirmação do saque <br> - A mensagem deve conter data e valor do saque recebido</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A ser validado pelo usuário</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
+
+### <a name="h36"></a> História 36 — Consultar saldo
+
+<font size="3"><p style="text-align: center">Tabela 39: História de consulta de Saldo</p></font>
 
 <div align="center">
 <table>
@@ -1826,9 +1875,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
-### <a name="h36"></a> História 36 — Exibir extrato para o empregador
+### <a name="h37"></a> História 37 — Exibir extrato para o empregador
 
-<font size="3"><p style="text-align: center">Tabela 39: História de exibição de extrato pro empregador</p></font>
+<font size="3"><p style="text-align: center">Tabela 40: História de exibição de extrato pro empregador</p></font>
 
 <div align="center">
 <table>
@@ -1873,9 +1922,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
-### <a name="h37"></a> História 37 — Permitir o cadastro de conta bancária
+### <a name="h38"></a> História 38 — Permitir o cadastro de conta bancária
 
-<font size="3"><p style="text-align: center">Tabela 40: História de cadastro de conta bancária</p></font>
+<font size="3"><p style="text-align: center">Tabela 41: História de cadastro de conta bancária</p></font>
 
 <div align="center">
 <table>
@@ -1920,9 +1969,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
-### <a name="h38"></a> História 38 — Seção de ajuda com orientações
+### <a name="h39"></a> História 39 — Seção de ajuda com orientações
 
-<font size="3"><p style="text-align: center">Tabela 41: História de seção de ajuda com orientações</p></font>
+<font size="3"><p style="text-align: center">Tabela 42: História de seção de ajuda com orientações</p></font>
 
 <div align="center">
 <table>
@@ -1967,9 +2016,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
-### <a name="h39"></a> História 39 — Guia interativo para orientação
+### <a name="h40"></a> História 40 — Guia interativo para orientação
 
-<font size="3"><p style="text-align: center">Tabela 42: História de guia interativo</p></font>
+<font size="3"><p style="text-align: center">Tabela 43: História de guia interativo</p></font>
 
 <div align="center">
 <table>
@@ -2036,3 +2085,4 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | 2.1    | 30/05/2025 | Adicionando Histórias 29 à 33 | [Victor Pontual](https://github.com/VictorPontual)  | [Danielle Soares](https://github.com/danielle-soaress) |
 | 2.2    | 30/05/2025 | Adicionando histórias 34 à 39 | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
 | 2.2    | 30/05/2025 | Adicionando história 17 | [Danielle Soares](https://github.com/danielle-soaress) | - |
+| 2.2    | 30/05/2025 | Adicionando história 35 | [Victor Pontual](https://github.com/VictorPontual) | - |
