@@ -30,7 +30,7 @@ Essa estrutura ajuda a garantir que cada história represente uma necessidade re
 
 Todas as histórias de usuário foram estruturadas e avaliadas com base em dois modelos amplamente reconhecidos no contexto do desenvolvimento ágil:  **INVEST** e **3C’s**.
 
-**INVEST (Wake, 2003) <a href="#anchor_3">3</a>:** Esse modelo estabelece seis critérios fundamentais que garantem a qualidade e a eficácia de uma história de usuário:
+**INVEST <a href="#anchor_3">3</a>:** Esse modelo estabelece seis critérios fundamentais que garantem a qualidade e a eficácia de uma história de usuário:
 
 - **I — Independente:** A história não deve depender de outras para ser desenvolvida, implementada ou testada.
 
@@ -44,7 +44,7 @@ Todas as histórias de usuário foram estruturadas e avaliadas com base em dois 
 
 - **T — Testável:** Deve possuir critérios de aceitação claros e objetivos, que permitam verificar se a funcionalidade atende às necessidades da persona e aos requisitos definidos.  
 
-**3C’s (Jeffries, 2001) <a href="#anchor_4">4</a>:** Complementando o modelo INVEST, os 3C’s enfatizam três elementos centrais para a formulação e validação de uma história de usuário eficaz:
+**3C’s <a href="#anchor_4">4</a>:** Complementando o modelo INVEST, os 3C’s enfatizam três elementos centrais para a formulação e validação de uma história de usuário eficaz:
 
 - **Card (Cartão):** Representa a história em si, seja em um post-it físico ou em um quadro digital, funcionando como um lembrete do que precisa ser desenvolvido.
 
@@ -52,7 +52,7 @@ Todas as histórias de usuário foram estruturadas e avaliadas com base em dois 
 
 - **Confirmation (Confirmação):** Corresponde aos critérios de aceitação formalmente definidos, que validam que a história foi corretamente implementada, atendendo às expectativas e às necessidades do usuário.
 
-### Definição dos Critérios de Aceitação:
+### Definição dos Critérios de Aceitação
 
 Para cada história de usuário, foram estabelecidos critérios de aceitação claros, objetivos e verificáveis. Esses critérios funcionam como referência para confirmar se a funcionalidade entregue atende aos requisitos previamente acordados e, sobretudo, às expectativas do usuário.
 
