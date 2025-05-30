@@ -171,11 +171,14 @@ Para cada história, foram definidos critérios claros e objetivos que garantem 
 
 - [H12 – Resumo dos tipos de saque](#h12)
 
+<<<<<<< Updated upstream
 **Requisito RF35 (IS12)**
 
 - [H14 – Cadastro de Múltiplas Contas Bancárias](#h14)
 
 ---
+=======
+>>>>>>> Stashed changes
 
 ##  Histórias de Usuário
 
@@ -225,7 +228,6 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 </div>
 <p align="center">Fonte: <i>Danielle Soares</i></p>
 
----
 
 
 ### <a name="h01"></a> História 01 — Acompanhar Situação do Saque
@@ -239,7 +241,17 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | **Critérios de Aceitação** | - Status exibido claramente (Ex.: “Aguardando análise”, “Aprovado”)  <br> - Mostra possíveis pendências ou exigências  <br> - Atualização automática do status |
 
 
----
+### <a name="h01"></a> História 01 — Acompanhar Situação do Saque
+
+| Campo                   | Descrição                                                                 |
+|-------------------------|---------------------------------------------------------------------------|
+| **Requisito**           | RF08 (IS05, EN02)                                                         |
+| **Persona**             | Patrícia Nogueira (Técnica de Enfermagem, busca praticidade)              |
+| **Desejo / Ação**       | Acompanhar a situação do meu saque do FGTS                                |
+| **Objetivo / Benefício**| Saber se está aprovado, em análise ou concluído, sem ir à agência         |
+| **Critérios de Aceitação** | - Status exibido claramente (Ex.: “Aguardando análise”, “Aprovado”)  <br> - Mostra possíveis pendências ou exigências  <br> - Atualização automática do status |
+
+
 
 ### <a name="h01"></a> História 01 — Acompanhar Situação do Saque
 
@@ -252,19 +264,6 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | **Critérios de Aceitação** | - Status exibido claramente (Ex.: “Aguardando análise”, “Aprovado”)  <br> - Mostra possíveis pendências ou exigências  <br> - Atualização automática do status |
 
 
----
-
-### <a name="h01"></a> História 01 — Acompanhar Situação do Saque
-
-| Campo                   | Descrição                                                                 |
-|-------------------------|---------------------------------------------------------------------------|
-| **Requisito**           | RF08 (IS05, EN02)                                                         |
-| **Persona**             | Patrícia Nogueira (Técnica de Enfermagem, busca praticidade)              |
-| **Desejo / Ação**       | Acompanhar a situação do meu saque do FGTS                                |
-| **Objetivo / Benefício**| Saber se está aprovado, em análise ou concluído, sem ir à agência         |
-| **Critérios de Aceitação** | - Status exibido claramente (Ex.: “Aguardando análise”, “Aprovado”)  <br> - Mostra possíveis pendências ou exigências  <br> - Atualização automática do status |
-
----
 
 ### <a name="h02"></a> História 02 — Exibir Status Atualizado do Saque
 
@@ -276,7 +275,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | **Objetivo / Benefício**| Ter informações precisas e em tempo real sobre o andamento do processo    |
 | **Critérios de Aceitação** | - Status sempre atualizado  <br> - Indicação de bloqueios ou pendências  <br> - Feedback visual com ícones ou cores |
 
----
+
 
 ### <a name="h03"></a> História 03 — Notificações Sobre Andamento
 
@@ -288,7 +287,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | **Objetivo / Benefício**| Ser informada de atualizações sem precisar abrir o app constantemente     |
 | **Critérios de Aceitação** | - Notificações push quando houver mudança no status  <br> - Mensagens objetivas (Ex.: “Seu saque foi liberado”)  <br> - Opção de ativar/desativar notificações |
 
----
+
 
 ### <a name="h04"></a> História 04 — Informar Datas de Liberação
 
@@ -300,7 +299,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | **Objetivo / Benefício**| Se organizar financeiramente e pedir ajuda aos filhos, se necessário      |
 | **Critérios de Aceitação** | - Exibição da data estimada de liberação  <br> - Alerta caso a data seja alterada  <br> - Informação clara caso a data não esteja definida |
 
----
+
 
 ### <a name="h05"></a> História 05 — Acesso à Seção de Ajuda
 
@@ -312,7 +311,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | **Objetivo / Benefício**| Esclarecer dúvidas rapidamente, sem precisar de atendimento presencial    |
 | **Critérios de Aceitação** | - FAQ com respostas claras  <br> - Explicações sobre regras de saque, prazos e documentação  <br> - Opção de contato com suporte |
 
----
+
 
 ### <a name="h06"></a> História 06 — Solicitação de Ressarcimento do PIS/PASEP
 
@@ -324,7 +323,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | **Objetivo / Benefício**| Evitar filas, economizar tempo e resolver tudo digitalmente              |
 | **Critérios de Aceitação** | - Formulário simples, com upload de documentos  <br> - Confirmação do envio  <br> - Acompanhamento do andamento no app |
 
----
+
 
 ### <a name="h07"></a> História 07 — Login Seguro
 
@@ -336,7 +335,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | **Objetivo / Benefício**| Proteger dados, sem complicações ou esquecimento de senha                 |
 | **Critérios de Aceitação** | - Login com biometria, senha ou autenticação de dois fatores (2FA)  <br> - Mensagens claras em caso de erro  <br> - Opção de lembrar acesso ou recuperar senha |
 
----
+
 
 ### <a name="h08"></a> História 08 — Assistente via chat
 
@@ -350,7 +349,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
----
+
 
 ### <a name="h09"></a> História 09 — Campo de busca
 
@@ -364,7 +363,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
----
+
 
 ### <a name="h10"></a> História 10 — Aba de saque
 
@@ -378,7 +377,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
----
+
 
 ### <a name="h11"></a> História 11 — Aba de itens diversos
 
@@ -392,7 +391,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
----
+
 
 ### <a name="h12"></a> História 12 — Resumo dos tipos de saque
 
@@ -631,11 +630,285 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
----
+### <a name="h13"></a> História 19 - Canal de Suporte/Chatbot 
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF02</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais">EN04</a></td>
+    <tr>
+      <td>Tema</td>
+      <td>Suporte ao Usuário</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuário do aplicativo, desejo ter acesso a um canal de suporte ou chatbot para esclarecer minhas dúvidas de forma rápida e eficiente.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O usuário deve conseguir iniciar uma conversa com o chatbot a qualquer momento. <br> - O chatbot deve ser capaz de responder a perguntas frequentes sobre o uso do aplicativo. <br> - O usuário deve ter a opção de ser direcionado a um atendente humano caso o chatbot não consiga resolver sua dúvida. <br> - O canal de suporte deve estar disponível em horários comerciais para atendimento humano.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A validar pelo usuário</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
+
+### <a name="h13"></a> História 20 - Ajuste de Tamanho de Fonte 
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF30</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST08</a></td>
+    <tr>
+      <td>Tema</td>
+      <td>Acessibilidade</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuário, desejo poder ajustar o tamanho das fontes na interface para melhorar a legibilidade e personalizar minha experiência de uso.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O usuário deve conseguir encontrar a opção de ajuste de tamanho de fonte nas configurações. <br>  - O aplicativo deve oferecer pelo menos três opções de tamanho de fonte (Pequena, Média, Grande). <br>  - O tamanho da fonte deve ser aplicado de forma consistente em toda a interface do aplicativo. <br> - O ajuste deve ser salvo e persistir entre as sessões de uso. </td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A validar pelo usuário</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
+
+### <a name="h13"></a> História 21 - Notificações de Status e SaqueS 
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF27</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST03</a>
+      <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST09</a>
+      <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST015</a></td>
+    <tr>
+      <td>Tema</td>
+      <td>Notificações do sistema</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuário do sistema FGTS, desejo receber notificações sobre o status da solicitação e confirmação de saque para acompanhar o andamento e ter confirmação das ações realizadas.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve notificar automaticamente o usuário quando o status da solicitação mudar.  <br> - O sistema deve notificar o usuário quando o saque for efetivado. <br> - As notificações devem ser enviadas via aplicativo e/ou e-mail cadastrado. </td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A validar pelo usuário</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
+
+### <a name="h13"></a> História 22 - Solicitação de Saques 
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF28</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN01</a>
+      <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS03</a>
+      <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST06</a>
+      <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB03</a></td>
+    <tr>
+      <td>Tema</td>
+      <td>Solicitação de Saque</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como trabalhador com direito ao FGTS, desejo solicitar saques através do sistema para acessar meus recursos de forma prática e segura.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve permitir que o usuário visualize as opções disponíveis de saque.  <br> - O sistema deve permitir a solicitação diretamente pela plataforma.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A validar pelo usuário</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
+
+### <a name="h13"></a> História 23 - Visualização de Dados Bancários 
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF31</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST010</a></td>
+    <tr>
+      <td>Tema</td>
+      <td>Visualização de dados bancários</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuário do sistema FGTS, desejo visualizar os dados da conta bancária cadastrada para verificar se as informações estão corretas.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve exibir os dados da conta bancária cadastrada no perfil do usuário.  <br>- Os dados devem estar atualizados e legíveis ao usuário.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A validar pelo usuário</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
+
+### <a name="h13"></a> História 24 -  
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>USx (número de identificação)</td>
+      <td>RF11</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS08</a></td>
+    <tr>
+      <td>Tema</td>
+      <td>Título</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>[tipo de usuário]</em>, desejo <em>[ação desejada]</em> para <em>[objetivo]</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- [Critério 1] <br> - [Critério 2]</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta, Média, Baixa</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Se a história foi validada ou não pelo usuário</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
+
+
 
 ##  Bibliografia
 
----
 
 ##  Histórico de Versão
 
@@ -645,6 +918,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | 1.1    | 27/05/2025 | Adicionando Introdução, Metodologia e Participantes | [Enzo Emir](https://github.com/EnzoEmir)     | [Marcelo Makoto](https://github.com/MM4k) |
 | 1.2    | 28/05/2025 | Adicionando Histórias 1 a 7               | [Enzo Emir](https://github.com/EnzoEmir)     | [Marcelo Makoto](https://github.com/MM4k) |
 | 1.3    | 28/05/2025 | Adição das Histórias de Usuário 8 a 12               | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress)  |
+<<<<<<< Updated upstream
 | 1.4    | 29/05/2025 | Adição do modelo de tabela | [Danielle Soares](https://github.com/danielle-soaress) | -  |
 | 1.5    | 30/05/2025 | Adicionando Histórias 13 a 18 | [Danielle Soares](https://github.com/danielle-soaress) | -  |
 
+=======
+| 1.4    | 29/05/2025 | Adição do modelo de tabela | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
+| 1.6    | 29/05/2025 | Adição das H.U 19 a 24 | [Maria Eduarda](https://github.com/dudaa28) | - |
+>>>>>>> Stashed changes
