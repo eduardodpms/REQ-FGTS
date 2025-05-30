@@ -7,10 +7,12 @@ O presente documento tem como objetivo apresentar as histórias de usuário elab
 As histórias de usuário são uma técnica fundamental no contexto da Engenharia de Requisitos Ágil, cuja finalidade é capturar as necessidades do usuário de maneira simples, objetiva e centrada no valor entregue. Por meio delas, é possível estabelecer uma comunicação clara entre os stakeholders, promovendo entendimento mútuo e alinhamento sobre as funcionalidades que o sistema deverá oferecer.
 
 Cada história de usuário é construída de forma a responder três perguntas essenciais:  
-- **Quem?** — Quem é o usuário ou persona envolvida na interação.  
-- **O que?** — Qual é a ação, necessidade ou funcionalidade desejada.  
-- **Por que?** — Qual é o valor, objetivo ou benefício buscado por meio daquela ação.
 
+- **Quem?** — Quem é o usuário ou persona envolvida na interação.  
+
+- **O que?** — Qual é a ação, necessidade ou funcionalidade desejada.  
+
+- **Por que?** — Qual é o valor, objetivo ou benefício buscado por meio daquela ação.
 
 ##  Metodologia
 
@@ -36,13 +38,13 @@ Para garantir um entendimento abrangente e realista das necessidades dos usuári
 
 - **Storytelling:** Construção de narrativas que simulam cenários reais de uso do aplicativo, explorando jornadas, dificuldades e expectativas dos usuários.
 
-<br>
-
 **3. Construção das Histórias de Usuário**  
 
-As histórias de usuário foram elaboradas utilizando o modelo clássico:  
-**“Como [persona], quero [ação] para [benefício].”**  
-Essa estrutura garante que cada história reflita uma necessidade real do usuário, com clareza no objetivo e no valor entregue.
+As histórias de usuário foram escritas seguindo o modelo clássico:
+
+> **Como [usuário], quero [ação], para [atingir um objetivo].**
+
+Essa estrutura ajuda a garantir que cada história represente uma necessidade real do usuário, deixando claro o objetivo e o valor gerado pela funcionalidade.
 
 **4. Aplicação dos Modelos Ágeis**  
 
@@ -69,8 +71,6 @@ Todas as histórias de usuário foram estruturadas e avaliadas com base em dois 
 - **Conversation (Conversa):** Refere-se às discussões colaborativas entre equipe de desenvolvimento, Product Owner e stakeholders, nas quais são esclarecidos os detalhes, as dúvidas e as regras de negócio associadas à história.
 
 - **Confirmation (Confirmação):** Corresponde aos critérios de aceitação formalmente definidos, que validam que a história foi corretamente implementada, atendendo às expectativas e às necessidades do usuário.
-
-<br>
 
 **5. Definição dos Critérios de Aceitação:**  
 Para cada história, foram definidos critérios claros e objetivos que garantem que a funcionalidade atende às expectativas da persona. Isso permite também verificar se a história foi corretamente implementada.
@@ -146,6 +146,79 @@ Para cada história, foram definidos critérios claros e objetivos que garantem 
 ---
 
 ##  Histórias de Usuário
+
+A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das histórias de usuário do projeto. Ela padroniza os principais elementos necessários, como a descrição da necessidade, critérios de aceitação, prioridade, status de validação, entre outros. O objetivo é garantir consistência, rastreabilidade e clareza em todas as histórias documentadas.
+
+<p align="center">Tabela 2: <i>Modelo para História de Usuário.</i></p>
+<a name="tabela-modelo"></a>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>USx (número de identificação)</td>
+      <td>USx</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td>Código do requisito</td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Título</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>[tipo de usuário]</em>, desejo <em>[ação desejada]</em> para <em>[objetivo]</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- [Critério 1] <br> - [Critério 2]</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta, Média, Baixa</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Se a história foi validada ou não pelo usuário</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<p align="center">Fonte: <i>Danielle Soares</i></p>
+
+---
+
+
+### <a name="h01"></a> História 01 — Acompanhar Situação do Saque
+
+| Campo                   | Descrição                                                                 |
+|-------------------------|---------------------------------------------------------------------------|
+| **Requisito**           | RF08 (IS05, EN02)                                                         |
+| **Persona**             | Patrícia Nogueira (Técnica de Enfermagem, busca praticidade)              |
+| **Desejo / Ação**       | Acompanhar a situação do meu saque do FGTS                                |
+| **Objetivo / Benefício**| Saber se está aprovado, em análise ou concluído, sem ir à agência         |
+| **Critérios de Aceitação** | - Status exibido claramente (Ex.: “Aguardando análise”, “Aprovado”)  <br> - Mostra possíveis pendências ou exigências  <br> - Atualização automática do status |
+
+
+---
+
+### <a name="h01"></a> História 01 — Acompanhar Situação do Saque
+
+| Campo                   | Descrição                                                                 |
+|-------------------------|---------------------------------------------------------------------------|
+| **Requisito**           | RF08 (IS05, EN02)                                                         |
+| **Persona**             | Patrícia Nogueira (Técnica de Enfermagem, busca praticidade)              |
+| **Desejo / Ação**       | Acompanhar a situação do meu saque do FGTS                                |
+| **Objetivo / Benefício**| Saber se está aprovado, em análise ou concluído, sem ir à agência         |
+| **Critérios de Aceitação** | - Status exibido claramente (Ex.: “Aguardando análise”, “Aprovado”)  <br> - Mostra possíveis pendências ou exigências  <br> - Atualização automática do status |
+
 
 ---
 
@@ -301,6 +374,52 @@ Para cada história, foram definidos critérios claros e objetivos que garantem 
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
+### <a name="h13"></a> História 13 
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>USx (número de identificação)</td>
+      <td>RF11</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS08</a></td>
+    <tr>
+      <td>Tema</td>
+      <td>Título</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>[tipo de usuário]</em>, desejo <em>[ação desejada]</em> para <em>[objetivo]</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- [Critério 1] <br> - [Critério 2]</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta, Média, Baixa</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Se a história foi validada ou não pelo usuário</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
+
+
 ---
 
 ##  Bibliografia
@@ -315,5 +434,5 @@ Para cada história, foram definidos critérios claros e objetivos que garantem 
 | 1.1    | 27/05/2025 | Adicionando Introdução, Metodologia e Participantes | [Enzo Emir](https://github.com/EnzoEmir)     | [Marcelo Makoto](https://github.com/MM4k) |
 | 1.2    | 28/05/2025 | Adicionando Histórias 1 a 7               | [Enzo Emir](https://github.com/EnzoEmir)     | [Marcelo Makoto](https://github.com/MM4k) |
 | 1.3    | 28/05/2025 | Adição das Histórias de Usuário 8 a 12               | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress)  |
-| 1.4    | 29/05/2025 | Ajustes no texto | [Danielle Soares](https://github.com/danielle-soaress) | -  |
+| 1.4    | 29/05/2025 | Adição do modelo de tabela | [Danielle Soares](https://github.com/danielle-soaress) | -  |
 
