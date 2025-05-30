@@ -57,24 +57,12 @@ Com as histórias devidamente documentadas, o PO procedeu à sua priorização s
 
 ---
 
-## Temas
+## Temas e Épicos
 
-Após a análise e organização dos requisitos coletados para o aplicativo FGTS, foi possível agrupá-los em cinco grandes temas. Esses temas representam o nível mais alto de abstração e refletem as áreas principais de funcionalidade do sistema, facilitando a visualização geral das demandas. São eles:
-
-- **Tema 1:** Gestão de Conta e Dados Pessoais
-
-- **Tema 2:** Consulta e Acompanhamento de Saldo e Saques
-
-- **Tema 3:** Interface e Usabilidade
-
-- **Tema 4:** Comunicação e Suporte
-
-- **Tema 5:** Funcionalidades Complementares
+Após a análise e organização dos requisitos coletados para o aplicativo FGTS, foi possível agrupá-los em cinco grandes temas. Esses temas representam o nível mais alto de abstração e refletem as áreas principais de funcionalidade do sistema, facilitando a visualização geral das demandas. Para detalhar os temas, os requisitos foram desmembrados em épicos — agrupamentos de funcionalidades que representam grandes blocos de trabalho, com um nível intermediário de especificação. Abaixo, estão todos os temas e épicos.
 
 
-## Épicos
-
-Para detalhar os temas, os requisitos foram desmembrados em épicos — agrupamentos de funcionalidades que representam grandes blocos de trabalho, com um nível intermediário de especificação. Abaixo, estão todos os épicos utilizados:
+<a name="tema1"></a>
 
 ### Tema 1: Consulta e Informações da Conta
 
@@ -86,6 +74,8 @@ Para detalhar os temas, os requisitos foram desmembrados em épicos — agrupame
 
 - **E03 - Histórico de movimentações financeiras**  
   *Eu, como usuário, desejo acessar o histórico completo de movimentações financeiras para controle e transparência.*
+
+<a name="tema2"></a>
 
 ### Tema 2: Saques e Solicitações
 
@@ -101,10 +91,14 @@ Para detalhar os temas, os requisitos foram desmembrados em épicos — agrupame
 - **E07 - Guias e ajuda para o processo de saque**  
   *Eu, como usuário, desejo contar com guias interativos e seções de ajuda para facilitar a solicitação dos saques.*
 
+<a name="tema3"></a>
+
 ### Tema 3: Contas Bancárias
 
 - **E08 - Cadastro e gerenciamento de contas bancárias**  
   *Eu, como usuário, desejo cadastrar e gerenciar múltiplas contas bancárias para facilitar o recebimento dos valores.*
+
+<a name="tema4"></a>
 
 ### Tema 4: Comunicação e Suporte
 
@@ -113,6 +107,8 @@ Para detalhar os temas, os requisitos foram desmembrados em épicos — agrupame
 
 - **E10 - Notificações e avisos**  
   *Eu, como usuário, desejo receber notificações sobre o status dos saques e outras atualizações importantes.*
+
+<a name="tema5"></a>
 
 ### Tema 5: Usabilidade e Acessibilidade
 
@@ -129,7 +125,7 @@ Para detalhar os temas, os requisitos foram desmembrados em épicos — agrupame
 
 <font size="3"><p style="text-align: center">Tabela 2: Backlog</p></font>
 
-<table border="1" cellpadding="4" cellspacing="0">
+<table border="1" cellspacing="0" cellpadding="4">
   <thead>
     <tr>
       <th>Tema</th>
@@ -142,236 +138,143 @@ Para detalhar os temas, os requisitos foram desmembrados em épicos — agrupame
   </thead>
   <tbody>
     <tr>
-      <td rowspan="11">Consulta e Informações da Conta</td>
-      <td>Consulta de saldo e extrato</td>
+      <td rowspan="6">Consulta e Informações da Conta</td>
+      <td rowspan="2"><a href="#tema1">E01</a> - Consulta de saldo e extrato</td>
       <td></td>
       <td>RF03</td>
       <td></td>
-      <td>EN05</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN05</a></td>
     </tr>
     <tr>
-      <td>Consulta de saldo e extrato</td>
       <td></td>
       <td>RF07</td>
       <td></td>
-      <td>IS04, OB04</td>
+      <td>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS04</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/">OB04</a>
+      </td>
     </tr>
     <tr>
-      <td>Consulta de dados pessoais</td>
+      <td rowspan="2"><a href="#tema1">E02</a> - Consulta de dados pessoais</td>
       <td></td>
       <td>RF05</td>
       <td></td>
-      <td>IS01</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS01</a></td>
     </tr>
     <tr>
-      <td>Consulta de dados pessoais</td>
       <td></td>
       <td>RF06</td>
       <td></td>
-      <td>IS02</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS02</a></td>
     </tr>
     <tr>
-      <td>Consulta de histórico de movimentações</td>
+      <td rowspan="3"><a href="#tema1">E03</a> - Histórico de movimentações financeiras</td>
       <td></td>
       <td>RF12</td>
       <td></td>
-      <td>IS09</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS09</a></td>
     </tr>
     <tr>
-      <td>Consulta de histórico de movimentações</td>
       <td></td>
       <td>RF13</td>
       <td></td>
-      <td>IS10</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS10</a></td>
     </tr>
+    
     <tr>
-      <td>Consulta de histórico de movimentações</td>
-      <td></td>
-      <td>RF23</td>
-      <td></td>
-      <td>OB06</td>
-    </tr>
-    <tr>
-      <td>Informação sobre saques e bloqueios</td>
-      <td></td>
-      <td>RF11</td>
-      <td></td>
-      <td>IS08</td>
-    </tr>
-    <tr>
-      <td>Informação sobre saques e bloqueios</td>
-      <td></td>
-      <td>RF01</td>
-      <td></td>
-      <td>EN03</td>
-    </tr>
-    <tr>
-      <td>Resumo e detalhes sobre saques</td>
-      <td></td>
-      <td>RF21</td>
-      <td></td>
-      <td>OB02</td>
-    </tr>
-    <tr>
-      <td>Resumo e detalhes sobre saques</td>
-      <td></td>
-      <td>RF22</td>
-      <td></td>
-      <td>OB05</td>
-    </tr>
-    <tr>
-      <td rowspan="9">Saques e Solicitações</td>
-      <td>Solicitação de saque e acompanhamento</td>
-      <td></td>
-      <td>RF04</td>
-      <td></td>
-      <td>EN06, ST013, ST014</td>
-    </tr>
-    <tr>
-      <td>Solicitação de saque e acompanhamento</td>
-      <td></td>
-      <td>RF08</td>
-      <td></td>
-      <td>IS05, EN02</td>
-    </tr>
-    <tr>
-      <td>Solicitação de saque e acompanhamento</td>
-      <td></td>
-      <td>RF28</td>
-      <td></td>
-      <td>EN01, IS03, ST06, OB03</td>
-    </tr>
-    <tr>
-      <td>Solicitação de saque e acompanhamento</td>
-      <td></td>
-      <td>RF07</td>
-      <td></td>
-      <td>IS04, OB04</td>
-    </tr>
-    <tr>
-      <td>Cancelamento e filtro de saques</td>
-      <td></td>
-      <td>RF09</td>
-      <td></td>
-      <td>IS06</td>
-    </tr>
-    <tr>
-      <td>Cancelamento e filtro de saques</td>
-      <td></td>
-      <td>RF10</td>
-      <td></td>
-      <td>IS07</td>
-    </tr>
-    <tr>
-      <td>Guias e ajuda para saque</td>
-      <td></td>
-      <td>RF17</td>
-      <td></td>
-      <td>IS15</td>
-    </tr>
-    <tr>
-      <td>Guias e ajuda para saque</td>
-      <td></td>
-      <td>RF18</td>
-      <td></td>
-      <td>IS16</td>
-    </tr>
-    <tr>
-      <td>Guias e ajuda para saque</td>
-      <td></td>
-      <td>RF29</td>
-      <td></td>
-      <td>ST07</td>
-    </tr>
-    <tr>
-      <td rowspan="3">Contas Bancárias</td>
-      <td>Cadastro e gerenciamento de contas bancárias</td>
-      <td></td>
-      <td>RF14</td>
-      <td></td>
-      <td>IS11, ST05, OB08</td>
-    </tr>
-    <tr>
-      <td>Cadastro e gerenciamento de contas bancárias</td>
-      <td></td>
-      <td>RF31</td>
-      <td></td>
-      <td>ST010</td>
-    </tr>
-    <tr>
-      <td>Cadastro e gerenciamento de contas bancárias</td>
-      <td></td>
-      <td>RF35</td>
-      <td></td>
-      <td>IS12</td>
-    </tr>
-    <tr>
-      <td rowspan="3">Comunicação e Suporte</td>
-      <td>Suporte via chat e canais de atendimento</td>
-      <td></td>
-      <td>RF02</td>
-      <td></td>
-      <td>EN04</td>
-    </tr>
-    <tr>
-      <td>Suporte via chat e canais de atendimento</td>
-      <td></td>
-      <td>RF15</td>
-      <td></td>
-      <td>IS13</td>
-    </tr>
-    <tr>
-      <td>Notificações e avisos</td>
-      <td></td>
-      <td>RF27</td>
-      <td></td>
-      <td>ST03, ST09, ST015</td>
-    </tr>
-    <tr>
-      <td rowspan="6">Usabilidade e Acessibilidade</td>
-      <td>Personalização e acessibilidade da interface</td>
-      <td></td>
-      <td>RF30</td>
-      <td></td>
-      <td>ST08</td>
-    </tr>
-    <tr>
-      <td>Busca e navegação</td>
-      <td></td>
-      <td>RF16</td>
-      <td></td>
-      <td>IS14</td>
-    </tr>
-    <tr>
-      <td>Login e segurança</td>
-      <td></td>
-      <td>RF20</td>
-      <td></td>
-      <td>OB01</td>
-    </tr>
-    <tr>
-      <td>Login e segurança</td>
-      <td></td>
-      <td>RF32</td>
-      <td></td>
-      <td>ST011</td>
-    </tr>
-    <tr>
-      <td>Outros itens diversos</td>
-      <td></td>
-      <td>RF25</td>
-      <td></td>
-      <td>OB09</td>
-    </tr>
-    <tr>
-      <td>Guias e ajuda geral</td>
-      <td></td>
-      <td>RF34</td>
-      <td></td>
-      <td>ST016</td>
-    </tr>
+  <td rowspan="14">Saques e Solicitações</td>
+  <td rowspan="4">E06 - Informação sobre bloqueios e motivos</td>
+  <td>Como usuário, desejo ser informado sobre bloqueios para entender os impedimentos nos saques.</td>
+  <td>RF11</td>
+  <td></td>
+  <td>IS08</td>
+</tr>
+<tr>
+  <td>Como usuário, desejo saber o motivo do bloqueio para tomar as providências necessárias.</td>
+  <td>RF01</td>
+  <td></td>
+  <td>EN03</td>
+</tr>
+<tr>
+  <td>Como usuário, desejo entender os motivos dos bloqueios para evitar problemas futuros.</td>
+  <td>RF21</td>
+  <td></td>
+  <td>OB02</td>
+</tr>
+<tr>
+  <td>Como usuário, desejo receber explicações claras sobre bloqueios para esclarecer dúvidas.</td>
+  <td>RF22</td>
+  <td></td>
+  <td>OB05</td>
+</tr>
+
+<tr>
+  <td rowspan="4">Saques e Solicitações</td>
+  <td rowspan="4">E04 - Solicitação e acompanhamento de saques</td>
+  <td>Como usuário, desejo solicitar saques e acompanhar o status para controlar meus recursos.</td>
+  <td>RF04</td>
+  <td></td>
+  <td>EN06, ST013, ST014</td>
+</tr>
+<tr>
+  <td>Como usuário, desejo acompanhar os saques para saber o andamento do processo.</td>
+  <td>RF08</td>
+  <td></td>
+  <td>IS05, EN02</td>
+</tr>
+<tr>
+  <td>Como usuário, desejo solicitar saques múltiplos e acompanhar cada um para organização financeira.</td>
+  <td>RF28</td>
+  <td></td>
+  <td>EN01, IS03, ST06, OB03</td>
+</tr>
+<tr>
+  <td>Como usuário, desejo filtrar e visualizar meus saques para facilitar o acompanhamento.</td>
+  <td>RF07</td>
+  <td></td>
+  <td>IS04, OB04</td>
+</tr>
+
+<tr>
+  <td rowspan="2">Saques e Solicitações</td>
+  <td rowspan="2">E05 - Cancelamento e filtro de saques</td>
+  <td>Como usuário, desejo cancelar um saque para corrigir erros ou mudar planos.</td>
+  <td>RF09</td>
+  <td></td>
+  <td>IS06</td>
+</tr>
+<tr>
+  <td>Como usuário, desejo filtrar saques por tipo e data para facilitar a visualização.</td>
+  <td>RF10</td>
+  <td></td>
+  <td>IS07</td>
+</tr>
+
+<tr>
+  <td rowspan="3">Saques e Solicitações</td>
+  <td rowspan="3">E07 - Guias e ajuda para o processo de saque</td>
+  <td>Como usuário, desejo acessar guias para facilitar a solicitação de saque e entender os passos.</td>
+  <td>RF17</td>
+  <td></td>
+  <td>IS15</td>
+</tr>
+<tr>
+  <td>Como usuário, desejo ter acesso a ajuda online para esclarecer dúvidas no processo de saque.</td>
+  <td>RF18</td>
+  <td></td>
+  <td>IS16</td>
+</tr>
+<tr>
+  <td>Como usuário, desejo acessar tutoriais para entender regras e documentos necessários.</td>
+  <td>RF29</td>
+  <td></td>
+  <td>ST07</td>
+</tr>
+
   </tbody>
 </table>
+
+
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
