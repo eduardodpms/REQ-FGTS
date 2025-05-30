@@ -97,7 +97,7 @@ Para cada história, foram definidos critérios claros e objetivos que garantem 
   </thead>
   <tbody>
     <tr><td align="center">Danielle Soares</td><td align="center">30/05/2025</td><td align="center">00:05</td></tr>
-    <tr><td align="center">Eduardo de Pina</td><td align="center">--/05/2025</td><td align="center">00:00</td></tr>
+    <tr><td align="center">Eduardo de Pina</td><td align="center">30/05/2025</td><td align="center">13:35</td></tr>
     <tr><td align="center">Enzo Emir</td><td align="center">--/05/2025</td><td align="center">00:00</td></tr>
     <tr><td align="center">Leticia Arisa</td><td align="center">30/05/2025</td><td align="center">07:22</td></tr>
     <tr><td align="center">Marcelo Makoto</td><td align="center">28/05/2025</td><td align="center">21:50</td></tr>
@@ -231,6 +231,27 @@ Para cada história, foram definidos critérios claros e objetivos que garantem 
 **Requisito RF34 (ST016)**
 
 - [H33 – Disponibilização de Termo de Adesão](#h33)
+
+**Requisito RF06 (IS02)**
+
+- [H34 – Consulta de dados pessoais](#h34)
+
+**Requisito RF07 (IS04, OB04)**
+
+- [H35 – Consultar saldo](#h35)
+- [H36 – Exibir extrato para o empregador](#h36)
+
+**Requisito RF14 (IS11, ST05, OB08)**
+
+- [H37 – Permitir o cadastro de conta bancária](#h37)
+
+**Requisito RF18 (IS16)**
+
+- [H38 – Seção de ajuda com orientações](#h38)
+- 
+**Requisito RF29 (ST07)**
+
+- [H39 – Guia interativo para orientação](#h39)
 
 ---
 
@@ -1655,6 +1676,289 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
 
 
+### <a name="h34"></a> História 34 — Consulta de dados pessoais
+
+<font size="3"><p style="text-align: center">Tabela 37: História de consulta de dados pessoais</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF06</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS02</a></td>
+    <tr>
+      <td>Tema</td>
+      <td>Consulta de dados pessoais</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>consultar os meus dados pessoais</em> para <em>garantir que meus dados se encontram em conformidade no sistema.</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve exibir os dados pessoais do usuário. <br> - O sistema deve garantir segurança na exibição dos dados pessoais.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A validar pelo usuário</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
+
+### <a name="h35"></a> História 35 — Consultar saldo
+
+<font size="3"><p style="text-align: center">Tabela 38: História de consulta de Saldo</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF07</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS04</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB04</a></td>
+    <tr>
+      <td>Tema</td>
+      <td>Consultar Saldo</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>poder consultar o saldo da minha conta</em> para <em>verificar a situação do meu FGTS</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve exibir o saldo vinculado à conta do usuário.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A validar pelo usuário</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
+
+### <a name="h36"></a> História 36 — Exibir extrato para o empregador
+
+<font size="3"><p style="text-align: center">Tabela 39: História de exibição de extrato pro empregador</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF07</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS04</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB04</a></td>
+    <tr>
+      <td>Tema</td>
+      <td>Exibir extrato pro empregador</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>empregador vinculado ao FGTS</em>, desejo <em>poder consultar o extrato dos meus depósitos</em> para <em>gerenciar o tráfego do FGTS na minha conta.</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve exibir as movimentações referentes à conta do empregador. <br> - O sistema deve diferenciar as movimentações de entrada e de saída.<br> - O sistema deve garantir que haja uma visualização rápida e direta do extrato.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A validar pelo usuário</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
+
+### <a name="h37"></a> História 37 — Permitir o cadastro de conta bancária
+
+<font size="3"><p style="text-align: center">Tabela 40: História de cadastro de conta bancária</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF14</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS11</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST05</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB08</a></td>
+    <tr>
+      <td>Tema</td>
+      <td>Permitir o cadastro de conta bancária</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>cadastrar uma conta bancária no aplicativo</em> para <em>garantir os meus benefícios do FGTS.</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve permitir que o beneficiário cadastre uma conta bancária. <br> - O cadastro de conta bancária deve passar por verificações de segurança junto ao banco.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A validar pelo usuário</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
+
+### <a name="h38"></a> História 38 — Seção de ajuda com orientações
+
+<font size="3"><p style="text-align: center">Tabela 41: História de seção de ajuda com orientações</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF18</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS16</a></td>
+    <tr>
+      <td>Tema</td>
+      <td>Seção de ajuda com orientações</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>tirar uma dúvida relacionada ao uso do aplicativo</em> para <em>melhorar a minha usabilidade.</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve possuir uma página de ajuda. <br> - O acesso à página de ajuda deve ser facilitado e visível ao público</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A validar pelo usuário</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
+
+### <a name="h39"></a> História 39 — Guia interativo para orientação
+
+<font size="3"><p style="text-align: center">Tabela 42: História de guia interativo</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF29</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST07</a></td>
+    <tr>
+      <td>Tema</td>
+      <td>Guia interativo</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>ser guiado pelo aplicativo</em> para <em>realizar ações básicas.</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve guiar o usuário pelas funções básicas do aplicativo. <br> - O guia deve ser explicativo, claro e fácil de encontrar.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Baixa</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A validar pelo usuário</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
+
+
 ##  Bibliografia
 
 
@@ -1671,6 +1975,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | 1.6    | 30/05/2025 | Adicionando Histórias 18 a 22 | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
 | 1.7    | 30/05/2025 | Adicionando fonte tabelas | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
 | 1.8    | 30/05/2025 | Atualizando sumário | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
-| 1.9    | 30/05/2025 | Adicionando Histórias 23, 24, 25, 26 e 27 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | -  |
+| 1.9    | 30/05/2025 | Adicionando Histórias 23, 24, 25, 26 e 27 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | 2.0    | 30/05/2025 | Atualizando sumário | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  | [Victor Pontual](https://github.com/VictorPontual) |
 | 2.1    | 30/05/2025 | Adicionando Histórias 29 à 33 | [Victor Pontual](https://github.com/VictorPontual)  | - |
+| 2.2    | 30/05/2025 | Adicionando Histórias 34 à 39 | [Eduardo de Pina](https://github.com/eduardodpms) | - |
