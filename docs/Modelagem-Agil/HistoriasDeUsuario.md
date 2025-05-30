@@ -102,7 +102,7 @@ Para cada história, foram definidos critérios claros e objetivos que garantem 
     <tr><td align="center">Leticia Arisa</td><td align="center">30/05/2025</td><td align="center">07:22</td></tr>
     <tr><td align="center">Marcelo Makoto</td><td align="center">28/05/2025</td><td align="center">21:50</td></tr>
     <tr><td align="center">Maria Eduarda</td><td align="center">30/05/2025</td><td align="center">00:30</td></tr>
-    <tr><td align="center">Victor Pontual</td><td align="center">--/05/2025</td><td align="center">00:00</td></tr>
+    <tr><td align="center">Victor Pontual</td><td align="center">30/05/2025</td><td align="center">13:50</td></tr>
   </tbody>
 </table>
 </div>
@@ -211,6 +211,26 @@ Para cada história, foram definidos critérios claros e objetivos que garantem 
 **Requisito RF23 (OB06)**
 
 - [H26 – Visualizar histórico de saques realizados](#h26)
+
+**Requisito RF09 (IS06)**
+
+- [H29 – Cancelamento de Saque](#h29)
+
+**Requisito RF10 (IS07)**
+
+- [H30 – Filtro por Tipo de Saque](#h30)
+
+**Requisito RF32 (ST011)**
+
+- [H31 – Interface de Login Simples](#h31)
+
+**Requisito RF33 (ST012)**
+
+- [H32 – Escolha da Sistemática de Saque](#h32)
+
+**Requisito RF34 (ST016)**
+
+- [H33 – Disponibilização de Termo de Adesão](#h33)
 
 ---
 
@@ -1398,6 +1418,241 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
 
+### <a name="h29"></a> História 29 — Cancelamento de Saque 
+
+<font size="3"><p style="text-align: center">Tabela 32: História de Cancelamento de Saque</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>USx (número de identificação)</td>
+      <td>RF09</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS06</a></td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Cancelamento</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>usuário do aplicativo</em>, desejo <em>cancelar um saque solicitado</em> para <em>evitar transferências indesejadas ou feitas por engano</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve exibir a opção de cancelamento apenas para saques com status "pendente" <br> - O sistema deve exibir uma mensagem de confirmação antes de efetuar o cancelamento</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Não validada</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
+
+### <a name="h30"></a> História 30 — Filtro por Tipo de Saque
+
+<font size="3"><p style="text-align: center">Tabela 33: História de Filtro por Tipo de Saque</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>USx (número de identificação)</td>
+      <td>RF10</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS07</a></td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Consulta e Filtro</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>usuário do aplicativo</em>, desejo <em>filtrar os saques por tipo</em> para <em>localizar facilmente saques específicos como aniversário, doença ou falecimento</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve exibir uma lista de tipos de saque para seleção <br> - Ao selecionar um tipo, apenas os saques correspondentes devem ser exibidos</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Não validada</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
+
+
+### <a name="h31"></a> História 31 —  Interface de Login Simples
+
+<font size="3"><p style="text-align: center">Tabela 34: História de Interface de Login Simples</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>USx (número de identificação)</td>
+      <td>RF32</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST011</a></td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Autenticação</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>usuário iniciante</em>, desejo <em>uma interface de login simples</em> para <em>acessar o aplicativo sem dificuldades</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- A tela de login deve conter apenas os campos essenciais (CPF e senha) <br> - A interface deve ser limpa e responsiva</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Não validada</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
+
+### <a name="h32"></a> História 32 —  Escolha da Sistemática de Saque
+
+<font size="3"><p style="text-align: center">Tabela 35: História de Escolha da Sistemática de Saque</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>USx (número de identificação)</td>
+      <td>RF33</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST012</a></td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Saque</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>trabalhador com conta FGTS</em>, desejo <em>acessar uma página para escolher a sistemática de saque</em> para <em>optar entre saque-rescisão e saque-aniversário conforme minha necessidade</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- A página deve apresentar ambas as opções com explicações resumidas <br> - O sistema deve permitir a confirmação da escolha</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Não validada</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
+
+### <a name="h33"></a> História 33 —  Disponibilização de Termo de Adesão
+
+<font size="3"><p style="text-align: center">Tabela 36: História de Disponibilização de Termo de Adesão</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>USx (número de identificação)</td>
+      <td>RF34</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST016</a></td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Adesão</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>usuário interessado em aderir a uma sistemática de saque</em>, desejo <em>acessar o termo de adesão</em> para <em>conhecer as condições e formalizar minha escolha</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O termo deve estar disponível em formato acessível (PDF ou visualização direta) <br> - O sistema deve solicitar confirmação de leitura antes de prosseguir</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Não validada</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
 
 
 ##  Bibliografia
@@ -1417,4 +1672,5 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | 1.7    | 30/05/2025 | Adicionando fonte tabelas | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
 | 1.8    | 30/05/2025 | Atualizando sumário | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
 | 1.9    | 30/05/2025 | Adicionando Histórias 23, 24, 25, 26 e 27 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | -  |
-| 2.0    | 30/05/2025 | Atualizando sumário | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  | - |
+| 2.0    | 30/05/2025 | Atualizando sumário | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  | [Victor Pontual](https://github.com/VictorPontual) |
+| 2.1    | 30/05/2025 | Adicionando Histórias 29 à 33 | [Victor Pontual](https://github.com/VictorPontual)  | - |
