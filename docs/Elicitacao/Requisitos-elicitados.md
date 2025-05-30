@@ -59,8 +59,8 @@ Essa página tem como objetivo compilar todos os requisitos elicitados com a uti
 | RF38 | “Notificação de andamento de saque” | [IS05](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF) |
 | RF39 | O aplicativo deve possuir comentários sobre cada status do saque.| [EN02](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF)  |
 | RF40 | O aplicativo deve enviar notificação ao usuário quando o saque for recebido. | [ST015](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-elicitados) |
-| RF41 |   | [ST015](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-elicitados) |
-| RF42 | | [ST015](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-elicitados) |
+| RF41 |  O aplicativo deve possibilitar o envio de documentos digitalizados (PDF, imagem) para comprovação de situações específicas de saque (ex: doença grave, aposentadoria). | ---|
+| RF42 |O aplicativo deve permitir o agendamento de saque futuro. | --- |
 
 ### Requisitos não-funcionais
 **Legendas:**
@@ -110,3 +110,4 @@ Essa página tem como objetivo compilar todos os requisitos elicitados com a uti
 | `1.2`  | 17/05/2025 | Adição do requisito RF35 | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.3`  | 17/05/2025 | Adição de links de rastreabilidade aos requisitos | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.4`  | 30/05/2025 | Destruncamento de requisitos | [Victor Pontual](https://github.com/VictorPontual) | - |
+| `1.5`  | 30/05/2025 | Elicitação dos requisitos 41 e 42 | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) | - |
