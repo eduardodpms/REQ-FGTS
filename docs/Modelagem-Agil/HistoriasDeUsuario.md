@@ -111,52 +111,69 @@ Para cada história, foram definidos critérios claros e objetivos que garantem 
 
 ##  Sumário
 
-**Requisito RF08 (IS05, EN02):**
+**Requisito RF08 (IS05, EN02)**
+
 - [H01 – Acompanhar Situação do Saque](#h01)
+
 - [H02 – Exibir Status Atualizado do Saque](#h02)
+
 - [H03 – Notificações Sobre Andamento](#h03)
 
-**Requisito RF01 (EN03):**
+**Requisito RF01 (EN03)**
+
 - [H04 – Informar Datas de Liberação](#h04)
 
-**Requisito RF03 (EN05):**
-- [H04 – Informar Datas de Liberação](#h04)
+**Requisito RF03 (EN05)**
 
-**Requisito RF04 (EN06, ST13, ST14):**
-- [H04 – Informar Datas de Liberação](#h04)
+- [H15 – Consulta ao Saldo do FGTS](#h13)
 
-**Requisito RF05 (IS01):**
-- [H04 – Informar Datas de Liberação](#h04)
+**Requisito RF04 (EN06, ST13, ST14)**
 
-**Requisito RF11 (IS08):**
-- [H04 – Informar Datas de Liberação](#h04)
+- [H17 – Disponibilizar Saque-Aniversário](#h17)
 
-**Requisito RF17 (IS15):**
+**Requisito RF05 (IS01)**
+
+- [H16 – Atualização de Dados Pessoais](#h16)
+
+**Requisito RF11 (IS08)**
+
+- [H13 – Ver Informações Sobre Saques Bloqueados](#h13)
+
+**Requisito RF17 (IS15)**
+
 - [H05 – Acesso à Seção de Ajuda](#h05)
 
-**Requisito RF19 (IS17):**
+**Requisito RF19 (IS17)**
+
 - [H06 – Solicitação de Ressarcimento do PIS/PASEP](#h06)
 
-**Requisito RF20 (OB01):**
+**Requisito RF20 (OB01)**
+
 - [H07 – Login Seguro](#h07)
 
-**Requisito RF15 (IS13):**
+**Requisito RF15 (IS13)**
+
 - [H08 – Assistente via chat](#h08)
 
-**Requisito RF16 (IS14):**
+**Requisito RF16 (IS14)**
+
 - [H09 – Campo de busca](#h09)
 
-**Requisito RF24 (OB07):**
+**Requisito RF24 (OB07)**
+
 - [H10 – Aba de saque](#h10)
 
-**Requisito RF25 (OB09):**
+**Requisito RF25 (OB09)**
+
 - [H11 – Aba de itens diversos](#h11)
 
-**Requisito RF26 (ST02):**
+**Requisito RF26 (ST02)**
+
 - [H12 – Resumo dos tipos de saque](#h12)
 
-**Requisito RF35 (IS12):**
-- [H04 – Informar Datas de Liberação](#h04)
+**Requisito RF35 (IS12)**
+
+- [H14 – Cadastro de Múltiplas Contas Bancárias](#h14)
 
 ---
 
