@@ -195,6 +195,21 @@ Para cada história, foram definidos critérios claros e objetivos que garantem 
 
 - [H14 – Cadastro de Múltiplas Contas Bancárias](#h14)
 
+**Requisito RF12 (IS09)**
+-[H24 – Visualizar histórico de movimentações financeiras](#h24)
+
+**Requisito RF13 (IS10)**
+-[H25 – Filtrar extrato por data](#h25)
+
+**Requisito RF21 (OB02)**
+-[H26 – Visualizar empregadores anteriores com botão para consultar contas vinculadas](#h26)
+
+**Requisito RF22 (OB05)**
+-[H27 – Visualizar nome completo dos empregadores anteriores](#h27)
+
+**Requisito RF23 (OB06)**
+-[H28 –  Visualizar histórico de saques realizados](#h28)
+
 ---
 
 ##  Histórias de Usuário
@@ -983,7 +998,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF12</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF13</a></td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
@@ -1222,3 +1237,4 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | 1.7    | 30/05/2025 | Adicionando fonte tabelas | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
 | 1.8    | 30/05/2025 | Atualizando sumário | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
 | 1.9    | 30/05/2025 | Adicionando Histórias 24, 25, 26, 27 e 28 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | -  |
+| 2.0    | 30/05/2025 | Atualizando sumário | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  | - |
