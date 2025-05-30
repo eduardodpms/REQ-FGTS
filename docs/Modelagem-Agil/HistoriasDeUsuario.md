@@ -2150,7 +2150,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | 2.0    | 30/05/2025 | Atualizando sumário | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  | [Victor Pontual](https://github.com/VictorPontual) |
 | 2.1    | 30/05/2025 | Adicionando Histórias 29 à 33 | [Victor Pontual](https://github.com/VictorPontual)  | [Danielle Soares](https://github.com/danielle-soaress) |
 | 2.2    | 30/05/2025 | Adicionando histórias 34 à 39 | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
-| 2.2    | 30/05/2025 | Adicionando história 17 | [Danielle Soares](https://github.com/danielle-soaress) | - |
-| 2.2    | 30/05/2025 | Adicionando história 35 | [Victor Pontual](https://github.com/VictorPontual) | - |
+| 2.2    | 30/05/2025 | Adicionando história 17 | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| 2.2    | 30/05/2025 | Adicionando história 35 | [Victor Pontual](https://github.com/VictorPontual) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | 2.2    | 30/05/2025 | Adicionando história 41 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Maria Eduarda](https://github.com/dudaa28) |
-| 2.2    | 30/05/2025 | Adicionando história 42 | [Maria Eduarda](https://github.com/dudaa28) | - |
+| 2.2    | 30/05/2025 | Adicionando história 42 | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
