@@ -315,7 +315,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | **Descrição**            | Eu, como técnica de enfermagem, desejo acompanhar a situação do meu saque do FGTS para saber se está aprovado, em análise ou concluído, sem ir à agência. |
 | **Critérios de Aceitação** | - Status exibido claramente (Ex.: “Aguardando análise”, “Aprovado”)  <br> - Mostra possíveis pendências ou exigências  <br> - Atualização automática do status |
 | **Prioridade Usuário**   | Alta                                                                          |
-| **Status**               | Não Validada                                                                  |
+| **Status**               | A ser validado pelo usuário                                                                  |
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
@@ -329,7 +329,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | **Descrição**            | Eu, como comerciante, desejo receber notificações sobre o andamento do meu saque do FGTS para ser informada de atualizações sem precisar abrir o app constantemente. |
 | **Critérios de Aceitação** | - Notificações push quando houver mudança no status  <br> - Mensagens objetivas (Ex.: “Seu saque foi liberado”)  <br> - Opção de ativar/desativar notificações |
 | **Prioridade Usuário**   | Alta                                                                          |
-| **Status**               | Não Validada                                                                  |
+| **Status**               | A ser validado pelo usuário                                                                  |
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
@@ -343,7 +343,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | **Descrição**            | Eu, como aposentado, desejo ver as datas previstas para liberação dos valores do FGTS para me organizar financeiramente e pedir ajuda aos filhos, se necessário. |
 | **Critérios de Aceitação** | - Exibição da data estimada de liberação  <br> - Alerta caso a data seja alterada  <br> - Informação clara caso a data não esteja definida |
 | **Prioridade Usuário**   | Alta                                                                          |
-| **Status**               | Não Validada                                                                  |
+| **Status**               | A ser validado pelo usuário                                                                  |
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
@@ -357,7 +357,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | **Descrição**            | Eu, como técnica de enfermagem, desejo acessar uma seção de ajuda com orientações sobre FGTS e PIS/PASEP para esclarecer dúvidas rapidamente, sem precisar de atendimento presencial. |
 | **Critérios de Aceitação** | - FAQ com respostas claras  <br> - Explicações sobre regras de saque, prazos e documentação  <br> - Opção de contato com suporte |
 | **Prioridade Usuário**   | Média                                                                         |
-| **Status**               | Não Validada                                                                  |
+| **Status**               | A ser validado pelo usuário                                                                  |
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
@@ -371,7 +371,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | **Descrição**            | Eu, como jovem tecnólogo, desejo solicitar o ressarcimento de valores do PIS/PASEP pelo app para evitar filas, economizar tempo e resolver tudo digitalmente. |
 | **Critérios de Aceitação** | - Formulário simples, com upload de documentos  <br> - Confirmação do envio  <br> - Acompanhamento do andamento no app |
 | **Prioridade Usuário**   | Alta                                                                          |
-| **Status**               | Não Validada                                                                  |
+| **Status**               | A ser validado pelo usuário                                                                  |
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
@@ -385,7 +385,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | **Descrição**            | Eu, como usuária com pouca autonomia digital (ou comerciante ocupada), desejo fazer login de forma segura no app para proteger meus dados, sem complicações ou esquecimento de senha. |
 | **Critérios de Aceitação** | - Login com biometria, senha ou autenticação de dois fatores (2FA)  <br> - Mensagens claras em caso de erro  <br> - Opção de lembrar acesso ou recuperar senha |
 | **Prioridade Usuário**   | Alta                                                                          |
-| **Status**               | Não Validada                                                                  |
+| **Status**               | A ser validado pelo usuário                                                                  |
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
@@ -430,7 +430,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A validar pelo usuário</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
   </tbody>
 </table>
@@ -479,7 +479,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A validar pelo usuário</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
   </tbody>
 </table>
@@ -528,7 +528,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A validar pelo usuário</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
   </tbody>
 </table>
@@ -577,7 +577,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A validar pelo usuário</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
   </tbody>
 </table>
@@ -626,7 +626,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A validar pelo usuário</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
   </tbody>
 </table>
@@ -869,12 +869,12 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
-### <a name="h17"></a> História 17 —  
+### <a name="h17"></a> História 17 —  História de Usuário Comentários sobre Status do Saque
 
-<font size="3"><p style="text-align: center">Tabela 20: História de</p></font>
+<p align="center"><strong>Tabela 20: História de Usuário Comentários sobre Status Saque</strong></p>
 
 <div align="center">
-<table>
+<table border="1">
   <thead>
     <tr>
       <th><strong>Item</strong></th>
@@ -883,38 +883,43 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   </thead>
   <tbody>
     <tr>
-      <td>USx (número de identificação)</td>
-      <td>RF11</td>
+      <td>ID</td>
+      <td>RF39</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS08</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN02</a></td>
+    </tr>
     <tr>
       <td>Tema</td>
-      <td>Título</td>
+      <td>Comentários sobre Status</td>
     </tr>
     <tr>
       <td>Descrição</td>
-      <td>Eu, como <em>[tipo de usuário]</em>, desejo <em>[ação desejada]</em> para <em>[objetivo]</em></td>
+      <td>Eu, como <em>usuário do sistema</em>, desejo <em>visualizar comentários explicativos sobre o status de cada  saque</em> para <em>entender melhor sua situação ou andamento</em>.</td>
     </tr>
     <tr>
       <td>Critérios de Aceitação</td>
-      <td>- [Critério 1] <br> - [Critério 2]</td>
+      <td>
+        - O sistema deve exibir um campo de comentário associado ao status de cada saque.<br>
+        - O comentário deve ser visível para o usuário sempre que o status for exibido.<br>
+        - O conteúdo do comentário deve ser claro e explicativo, indicando o motivo do status atual.
+      </td>
     </tr>
     <tr>
       <td>Prioridade Usuário</td>
-      <td>Alta, Média, Baixa</td>
+      <td>Média</td>
     </tr>
     <tr>
       <td>Status</td>
-      <td>Se a história foi validada ou não pelo usuário</td>
-    </tr>
+      <td>A ser validado pelo usuário</td>
     </tr>
   </tbody>
 </table>
 </div>
 
-<font size="2"><p style="text-align: center">Fonte: </p></font>
+<p align="center">Fonte: <i>Danielle Soares</i></p>
+
 
 
 ### <a name="h18"></a> História 18 — Canal de Suporte/Chatbot 
@@ -955,7 +960,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A validar pelo usuário</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
     </tr>
   </tbody>
@@ -1002,7 +1007,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A validar pelo usuário</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
     </tr>
   </tbody>
@@ -1051,7 +1056,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A validar pelo usuário</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
     </tr>
   </tbody>
@@ -1101,7 +1106,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A validar pelo usuário</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
     </tr>
   </tbody>
@@ -1148,7 +1153,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A validar pelo usuário</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
     </tr>
   </tbody>
@@ -1195,7 +1200,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A validar pelo usuário</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
     </tr>
   </tbody>
@@ -1242,7 +1247,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A validar pelo usuário</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
     </tr>
   </tbody>
@@ -1289,7 +1294,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A validar pelo usuário</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
     </tr>
   </tbody>
@@ -1336,7 +1341,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A validar pelo usuário</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
     </tr>
   </tbody>
@@ -1383,7 +1388,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A validar pelo usuário</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
     </tr>
   </tbody>
@@ -1478,7 +1483,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>Não validada</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
   </tbody>
 </table>
@@ -1525,7 +1530,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>Não validada</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
   </tbody>
 </table>
@@ -1573,7 +1578,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>Não validada</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
   </tbody>
 </table>
@@ -1620,7 +1625,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>Não validada</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
   </tbody>
 </table>
@@ -1667,7 +1672,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>Não validada</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
   </tbody>
 </table>
@@ -1714,7 +1719,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A validar pelo usuário</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
     </tr>
   </tbody>
@@ -1761,7 +1766,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A validar pelo usuário</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
     </tr>
   </tbody>
@@ -1808,7 +1813,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A validar pelo usuário</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
     </tr>
   </tbody>
@@ -1855,7 +1860,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A validar pelo usuário</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
     </tr>
   </tbody>
@@ -1902,7 +1907,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A validar pelo usuário</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
     </tr>
   </tbody>
@@ -1949,7 +1954,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A validar pelo usuário</td>
+      <td>A ser validado pelo usuário</td>
     </tr>
     </tr>
   </tbody>
@@ -1971,11 +1976,12 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | 1.2    | 28/05/2025 | Adicionando Histórias 1 a 6               | [Enzo Emir](https://github.com/EnzoEmir)     | [Marcelo Makoto](https://github.com/MM4k) |
 | 1.3    | 28/05/2025 | Adição das Histórias de Usuário 7 a 11               | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress)  |
 | 1.4    | 29/05/2025 | Adição do modelo de tabela | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
-| 1.5    | 30/05/2025 | Adicionando Histórias 12 a 17 | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28)  |
+| 1.5    | 30/05/2025 | Adicionando Histórias 12 a 16 | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28)  |
 | 1.6    | 30/05/2025 | Adicionando Histórias 18 a 22 | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
 | 1.7    | 30/05/2025 | Adicionando fonte tabelas | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
 | 1.8    | 30/05/2025 | Atualizando sumário | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
 | 1.9    | 30/05/2025 | Adicionando Histórias 23, 24, 25, 26 e 27 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | 2.0    | 30/05/2025 | Atualizando sumário | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  | [Victor Pontual](https://github.com/VictorPontual) |
-| 2.1    | 30/05/2025 | Adicionando Histórias 29 à 33 | [Victor Pontual](https://github.com/VictorPontual)  | - |
-| 2.2    | 30/05/2025 | Adicionando histórias 34 à 39 | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| 2.1    | 30/05/2025 | Adicionando Histórias 29 à 33 | [Victor Pontual](https://github.com/VictorPontual)  | [Danielle Soares](https://github.com/danielle-soaress) |
+| 2.2    | 30/05/2025 | Adicionando histórias 34 à 39 | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
+| 2.2    | 30/05/2025 | Adicionando história 17 | [Danielle Soares](https://github.com/danielle-soaress) | - |
