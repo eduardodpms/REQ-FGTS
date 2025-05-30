@@ -171,14 +171,11 @@ Para cada história, foram definidos critérios claros e objetivos que garantem 
 
 - [H12 – Resumo dos tipos de saque](#h12)
 
-<<<<<<< Updated upstream
 **Requisito RF35 (IS12)**
 
 - [H14 – Cadastro de Múltiplas Contas Bancárias](#h14)
 
 ---
-=======
->>>>>>> Stashed changes
 
 ##  Histórias de Usuário
 
@@ -918,11 +915,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | 1.1    | 27/05/2025 | Adicionando Introdução, Metodologia e Participantes | [Enzo Emir](https://github.com/EnzoEmir)     | [Marcelo Makoto](https://github.com/MM4k) |
 | 1.2    | 28/05/2025 | Adicionando Histórias 1 a 7               | [Enzo Emir](https://github.com/EnzoEmir)     | [Marcelo Makoto](https://github.com/MM4k) |
 | 1.3    | 28/05/2025 | Adição das Histórias de Usuário 8 a 12               | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress)  |
-<<<<<<< Updated upstream
-| 1.4    | 29/05/2025 | Adição do modelo de tabela | [Danielle Soares](https://github.com/danielle-soaress) | -  |
-| 1.5    | 30/05/2025 | Adicionando Histórias 13 a 18 | [Danielle Soares](https://github.com/danielle-soaress) | -  |
-
-=======
 | 1.4    | 29/05/2025 | Adição do modelo de tabela | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
-| 1.6    | 29/05/2025 | Adição das H.U 19 a 24 | [Maria Eduarda](https://github.com/dudaa28) | - |
->>>>>>> Stashed changes
+| 1.5    | 30/05/2025 | Adicionando Histórias 13 a 18 | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28)  |
+| 1.6    | 30/05/2025 | Adicionando Histórias 19 a 24 | [Maria Eduarda](https://github.com/dudaa28) | -  |
+
