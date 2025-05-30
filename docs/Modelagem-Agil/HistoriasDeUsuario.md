@@ -232,30 +232,30 @@ Para cada história, foram definidos critérios claros e objetivos que garantem 
 
 - [H33 – Disponibilização de Termo de Adesão](#h33)
 
+**Requisito RF40 (ST015)**
+
+- [H34 — Notificação de Recebimento do Saque](#h34)
+
 **Requisito RF06 (IS02)**
 
-- [H34 – Consulta de dados pessoais](#h34)
-
-**Requisito RF06 (IS02)**
-
-- [H35 — Notificação de Recebimento do Saque](#h35)
+- [H35 – Consulta de dados pessoais](#h35)
 
 **Requisito RF07 (IS04, OB04)**
 
-- [H35 – Consultar saldo](#h35)
-- [H36 – Exibir extrato para o empregador](#h36)
+- [H36 – Consultar saldo](#h36)
+- [H37 – Exibir extrato para o empregador](#h37)
 
 **Requisito RF14 (IS11, ST05, OB08)**
 
-- [H37 – Permitir o cadastro de conta bancária](#h37)
+- [H38 – Permitir o cadastro de conta bancária](#h38)
 
 **Requisito RF18 (IS16)**
 
-- [H38 – Seção de ajuda com orientações](#h38)
+- [H39 – Seção de ajuda com orientações](#h39)
 
 **Requisito RF29 (ST07)**
 
-- [H39 – Guia interativo para orientação](#h39)
+- [H40 – Guia interativo para orientação](#h40)
 
 ---
 
@@ -1800,55 +1800,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
 
+### <a name="h34"></a> História 34 — Notificação de Recebimento do Saque
 
-### <a name="h34"></a> História 34 — Consulta de dados pessoais
-
-<font size="3"><p style="text-align: center">Tabela 37: História de consulta de dados pessoais</p></font>
-
-<div align="center">
-<table>
-  <thead>
-    <tr>
-      <th><strong>Item</strong></th>
-      <th><strong>Descrição</strong></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF06</a></td>
-    </tr>
-    <tr>
-      <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS02</a></td>
-    <tr>
-      <td>Tema</td>
-      <td>Consulta de dados pessoais</td>
-    </tr>
-    <tr>
-      <td>Descrição</td>
-      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>consultar os meus dados pessoais</em> para <em>garantir que meus dados se encontram em conformidade no sistema.</em></td>
-    </tr>
-    <tr>
-      <td>Critérios de Aceitação</td>
-      <td>- O sistema deve exibir os dados pessoais do usuário. <br> - O sistema deve garantir segurança na exibição dos dados pessoais.</td>
-    </tr>
-    <tr>
-      <td>Prioridade Usuário</td>
-      <td>Alta</td>
-    </tr>
-    <tr>
-      <td>Status</td>
-      <td>A ser validado pelo usuário</td>
-    </tr>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-### <a name="h35"></a> História 35 — Notificação de Recebimento do Saque
-
-<font size="3"><p style="text-align: center">Tabela 38: História de Notificação de Recebimento do Saque</p></font>
+<font size="3"><p style="text-align: center">Tabela 37: História de Notificação de Recebimento do Saque</p></font>
 
 <div align="center">
 <table>
@@ -1892,6 +1846,53 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 </div>
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
+
+### <a name="h35"></a> História 35 — Consulta de dados pessoais
+
+<font size="3"><p style="text-align: center">Tabela 38: História de consulta de dados pessoais</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF06</a></td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS02</a></td>
+    <tr>
+      <td>Tema</td>
+      <td>Consulta de dados pessoais</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>consultar os meus dados pessoais</em> para <em>garantir que meus dados se encontram em conformidade no sistema.</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve exibir os dados pessoais do usuário. <br> - O sistema deve garantir segurança na exibição dos dados pessoais.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>A ser validado pelo usuário</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
 ### <a name="h36"></a> História 36 — Consultar saldo
 
