@@ -114,7 +114,7 @@ Essa página tem como objetivo compilar todos os requisitos elicitados com a uti
 | `1.1`  | 04/05/2025 | Adição das tabelas de requisitos elicitados | [Victor Pontual](https://github.com/VictorPontual) | [Maria Eduarda](https://github.com/dudaa28) |
 | `1.2`  | 17/05/2025 | Adição do requisito RF35 | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.3`  | 17/05/2025 | Adição de links de rastreabilidade aos requisitos | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `1.4`  | 30/05/2025 | Destruncamento de requisitos | [Victor Pontual](https://github.com/VictorPontual) | - |
+| `1.4`  | 30/05/2025 | Destruncamento de requisitos | [Victor Pontual](https://github.com/VictorPontual) [Danielle Soares](https://github.com/danielle-soaress) | - |
 | `1.5`  | 30/05/2025 | Elicitação dos requisitos 41 e 42 | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) | - |
 | `1.6`  | 30/05/2025 | Aprimoramento das descrições dos requisitos | [Danielle Soares](https://github.com/danielle-soaress) |  | - |
 | `1.7`  | 31/05/2025 | Atualizando links de rastreabilidade | [Danielle Soares](https://github.com/danielle-soaress) |  | - |
