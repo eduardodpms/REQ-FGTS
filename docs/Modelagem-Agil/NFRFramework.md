@@ -354,6 +354,47 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
+## Cartões de Especificação
+
+<font size="3"><p style="text-align: center">Tabela 10: Participantes</p></font>
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Requisito Não Funcional – RNF04</th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Confiabilidade</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>Os prazos informados no app devem ser cumpridos fielmente.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>O cumprimento de prazos aumenta a credibilidade do sistema e evita frustrações por parte dos usuários.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RNF">EN10</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>O sistema deve garantir que as datas e prazos exibidos sejam atendidos, exceto em casos devidamente justificados por instâncias externas.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Integração com sistemas oficiais de processamento e saque</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>Média</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Prazos externos sujeitos a mudanças fora do controle do aplicativo</td></tr>
+  <tr><td><strong>História</strong></td><td>31/05/2025</td></tr>
+</table>
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir) </p></font>
+
+<font size="3"><p style="text-align: center">Tabela 11: Participantes</p></font>
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Requisito Não Funcional – RNF09</th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Acessibilidade</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O aplicativo deve aplicar princípios de acessibilidade.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>A aplicação de princípios de acessibilidade garante que pessoas com deficiência também possam utilizar o sistema com autonomia e facilidade.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF">IS21</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>O app deve seguir as Diretrizes de Acessibilidade para Conteúdo Web (WCAG), implementando recursos como contraste adequado, navegação por teclado e leitores de tela.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Equipe de design com conhecimento em acessibilidade; frameworks compatíveis</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>Alta</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Pode haver necessidade de maior tempo de desenvolvimento para adaptações específicas</td></tr>
+  <tr><td><strong>História</strong></td><td>31/05/2025</td></tr>
+</table>
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir) </p></font>
+
+
 
 ---
 
@@ -391,3 +432,4 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 | 1.3    | 31/05/2025 | Cartões de Especificação RNF12 e RNF21 | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | 1.4    | 31/05/2025 | Cartões de Especificação RNF05 e RNF22 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
 | 1.5    | 31/05/2025 | Cartões de Especificação RNF06 e RNF11 | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
+| 1.6    | 31/05/2025 | Cartões de Especificação RNF04 e RNF09 | [Enzo Emir](https://github.com/EnzoEmir) | - |
