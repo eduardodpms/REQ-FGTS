@@ -171,9 +171,10 @@ Por fim, a validação da modelagem seguiu duas frentes:
 
 Essa validação permite garantir que os RNFs não sejam apenas documentados, mas também rastreáveis, justificáveis e compatíveis com os requisitos funcionais do aplicativo.
 
----
 
-### Tabela 1: Participantes
+### Cronograma de Participantes
+
+<font size="3"><p style="text-align: center">Tabela 1: Cronograma de Participantes</p></font>
 
 <center>
 
@@ -200,7 +201,7 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 
 ## Cartões de Especificação
 
-<font size="3"><p style="text-align: center">Tabela 2: Participantes</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Processo Login</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
@@ -219,7 +220,7 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) </p></font>
 
-<font size="3"><p style="text-align: center">Tabela 3: Participantes</p></font>
+<font size="3"><p style="text-align: center">Tabela 3: Diferentes Funcionalidades</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
@@ -239,7 +240,7 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) </p></font>
 
 
-<font size="3"><p style="text-align: center">Tabela 4: Participantes</p></font>
+<font size="3"><p style="text-align: center">Tabela 4: Agilidade de Funcionalidades</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
@@ -258,7 +259,7 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
-<font size="3"><p style="text-align: center">Tabela 5: Participantes</p></font>
+<font size="3"><p style="text-align: center">Tabela 5: Menus Autoexplicativos</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
@@ -278,7 +279,7 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
-<font size="3"><p style="text-align: center">Tabela 6: Participantes</p></font>
+<font size="3"><p style="text-align: center">Tabela 6: Aplicativo com Segurança</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
@@ -297,7 +298,7 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </p></font>
 
-<font size="3"><p style="text-align: center">Tabela 7: Participantes</p></font>
+<font size="3"><p style="text-align: center">Tabela 7: Conformidade de Diretrizes</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
