@@ -75,7 +75,7 @@ Para cada história de usuário, foram estabelecidos critérios de aceitação c
   <tbody>
     <tr><td align="center">Danielle Soares</td><td align="center">13 até 18</td><td align="center">30/05/2025</td><td align="center">00:05</td></tr>
     <tr><td align="center">Eduardo de Pina</td><td align="center">37 até 42</td><td align="center">30/05/2025</td><td align="center">13:35</td></tr>
-    <tr><td align="center">Enzo Emir</td><td align="center">01 até 06</td><td align="center">--/05/2025</td><td align="center">00:00</td></tr>
+    <tr><td align="center">Enzo Emir</td><td align="center">01 até 06</td><td align="center">27/05/2025</td><td align="center">23:17</td></tr>
     <tr><td align="center">Leticia Arisa</td><td align="center">25 até 30</td><td align="center">30/05/2025</td><td align="center">07:22</td></tr>
     <tr><td align="center">Marcelo Makoto</td><td align="center">07 até 12</td><td align="center">28/05/2025</td><td align="center">21:50</td></tr>
     <tr><td align="center">Maria Eduarda</td><td align="center">19 até 24</td><td align="center">30/05/2025</td><td align="center">00:30</td></tr>
@@ -2044,4 +2044,4 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | 2.2    | 30/05/2025 | Adicionando história 41 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Maria Eduarda](https://github.com/dudaa28) |
 | 2.2    | 30/05/2025 | Adicionando história 42 | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | 2.3    | 30/05/2025 | Corrigindo numerações | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
-| 2.4    | 30/05/2025 | Referências Bibliográficas | [Danielle Soares](https://github.com/danielle-soaress) | - |
+| 2.4    | 30/05/2025 | Referências Bibliográficas | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
