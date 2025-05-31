@@ -278,6 +278,44 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
+<font size="3"><p style="text-align: center">Tabela 6: Participantes</p></font>
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Requisito Não Funcional – RNF05</th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Confiabilidade</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O aplicativo deve ser confiável e evitar falhas ou inconsistências nos processos.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>A confiabilidade é essencial para garantir que os usuários tenham uma experiência estável e segura, principalmente ao realizar tarefas importantes.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RNF">EN11</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>O sistema deve passar em testes de estresse e testes de integridade sem apresentar falhas ou perda de dados.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Testes automatizados, tratamento de erros</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>Alta</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Nenhum</td></tr>
+  <tr><td><strong>História</strong></td><td>31/05/2025</td></tr>
+</table>
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </p></font>
+
+<font size="3"><p style="text-align: center">Tabela 7: Participantes</p></font>
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Requisito Não Funcional – RNF22</th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Acessibilidade</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>A aplicação deve estar em conformidade com diretrizes de acessibilidade, garantindo acesso a pessoas com deficiência visual, auditiva ou motora.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Garantir acessibilidade promove inclusão digital e atende a requisitos legais e éticos, ampliando o público-alvo do sistema.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF">IS20</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>A interface deve permitir navegação por teclado, ser compátivel com leitores de tela e conter alternativas textuais para elementos visuais.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Equipe de design e desenvolvimento front-end</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>Média</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Nenhum</td></tr>
+  <tr><td><strong>História</strong></td><td>31/05/2025</td></tr>
+</table>
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </p></font>
+
 ---
 
 ## Modelagem
@@ -308,7 +346,8 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 
 | Versão | Data       | Descrição                                 | Autor(es)                                     | Revisor(es) |
 |--------|------------|--------------------------------------------|-----------------------------------------------|-------------|
-| 1.0    | 28/05/2025 | Criação da página | [Marcelo Makoto](https://github.com/MM4k) | - |
+| 1.0    | 28/05/2025 | Criação da página | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | 1.1    | 31/05/2025 | Cartões de Especificação RNF02 e RNF07 | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
-| 1.2    | 31/05/2025 | Atualização da Página | [Maria Eduarda](https://github.com/dudaa28) | - |
-| 1.3    | 31/05/2025 | Cartões de Especificação RNF12 e RNF21 | [Maria Eduarda](https://github.com/dudaa28) | - |
+| 1.2    | 31/05/2025 | Atualização da Página | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| 1.3    | 31/05/2025 | Cartões de Especificação RNF12 e RNF21 | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| 1.4    | 31/05/2025 | Cartões de Especificação RNF05 e RNF22 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
