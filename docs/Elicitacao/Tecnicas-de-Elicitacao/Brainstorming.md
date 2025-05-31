@@ -122,7 +122,7 @@ Legenda das Tabelas 3 e 4:
 ## Gravação da Elicitação
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=7E00fdLN2S4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
 ## Referências
@@ -134,4 +134,5 @@ Legenda das Tabelas 3 e 4:
 | Versão | Data       | Descrição                                      | Autor(es)   | Revisor(es) |
 |:------:|:----------:|:-----------------------------------------------|:------------|:-----------:|
 |  `1.0`   | 04/05/2025 | Introdução, Metodologia, Participantes e Requisitos elicitados  | [Danielle Soares](https://github.com/danielle-soaress)   | - |
+|  `1.1`   | 04/05/2025 | Vídeo da elicitação  | [Danielle Soares](https://github.com/danielle-soaress)   | - |
 
