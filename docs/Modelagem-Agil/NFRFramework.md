@@ -24,7 +24,7 @@ O SIG é dividido em três tipos principais:
 
 <font size="3"><p style="text-align: center">Figura 1: Tipos de Softgoal</p></font>
 
-![FIGURA 1](./../../assets/NFR/Capturadetelade2025-05-3100-59-40.png)
+![FIGURA 1](./../../assets/NFR/imagem1.png)
 
 <font size="2"><p style="text-align: center">Fonte: [SILVA, 2019](https://aprender3.unb.br/pluginfile.php/3096155/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) </p></font>
 
@@ -48,7 +48,7 @@ O SIG é dividido em três tipos principais:
 
 <font size="3"><p style="text-align: center">Figura 2: Tipos e Interdependências de Softgoals no NFR Framework</p></font>
 
-![FIGURA 2](./../../assets/NFR/Imagemcolada.png)
+![FIGURA 2](./../../assets/NFR/imagem2.png)
 
 <font size="2"><p style="text-align: center">Fonte: [SILVA, 2019](https://aprender3.unb.br/pluginfile.php/3096155/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) </p></font>
 
@@ -85,7 +85,14 @@ O SIG é dividido em três tipos principais:
 
 <font size="3"><p style="text-align: center">Figura 3: Procedimento de Avaliação no NFR Framework</p></font>
 
+<br>
+
 ![FIGURA 3](./../../assets/NFR/procedimento.png)
+<div style="text-align: center;">
+    Fonte: [SILVA, 2019](https://aprender3.unb.br/pluginfile.php/3096155/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf)
+</div>
+
+<br>
 
 <font size="2"><p style="text-align: center">Fonte: [SILVA, 2019](https://aprender3.unb.br/pluginfile.php/3096155/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) </p></font>
 
@@ -231,6 +238,46 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) </p></font>
 
+
+<font size="3"><p style="text-align: center">Tabela 4: Participantes</p></font>
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Requisito Não Funcional – RNF12</th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Usabilidade</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O aplicativo deve proporcionar agilidade ao acessar as funcionalidades.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Um acesso rápido melhora a experiência do usuário, reduz o tempo de espera e aumenta a eficiência no uso do aplicativo.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-nao-funcionais">IS24</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>O usuário deve conseguir acessar qualquer funcionalidade em menos de 3 segundos.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Infraestrutura do sistema, otimização do código</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>4,00</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Nenhum</td></tr>
+  <tr><td><strong>História</strong></td><td>31/05/2025</td></tr>
+</table>
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
+<font size="3"><p style="text-align: center">Tabela 5: Participantes</p></font>
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Requisito Não Funcional – RNF21</th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Usabilidade</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>Os menus devem ser autoexplicativos, com estrutura hierárquica lógica e nomenclatura padronizada.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Menus intuitivos facilitam a navegação do usuário, reduzem o tempo de aprendizado e aumentam a eficiência no uso do aplicativo.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF">IS19</a>
+  <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RNF">OB11</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>O usuário deve ser capaz de encontrar funcionalidades com facilidade, sem precisar acessar mais de três níveis de menu e com nomes consistentes e compreensíveis.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Design de Interface, Padrões de Navegação</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>3,75S</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Nenhum</td></tr>
+  <tr><td><strong>História</strong></td><td>31/05/2025</td></tr>
+</table>
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
 ---
 
 ## Modelagem
@@ -257,3 +304,4 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 | 1.0    | 28/05/2025 | Criação da página | [Marcelo Makoto](https://github.com/MM4k) | - |
 | 1.1    | 31/05/2025 | Cartões de Especificação RNF02 e RNF07 | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
 | 1.2    | 31/05/2025 | Atualização da Página | [Maria Eduarda](https://github.com/dudaa28) | - |
+| 1.3    | 31/05/2025 | Cartões de Especificação RNF12 e RNF21 | [Maria Eduarda](https://github.com/dudaa28) | - |
