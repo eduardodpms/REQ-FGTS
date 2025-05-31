@@ -24,7 +24,9 @@ O SIG é dividido em três tipos principais:
 
 <font size="3"><p style="text-align: center">Figura 1: Tipos de Softgoal</p></font>
 
-![FIGURA 1](./../../assets/NFR/imagem1.png)
+<div align="center">
+  <img src="./../../assets/NFR/imagem1.png" alt="FIGURA 1">
+</div>
 
 <font size="2"><p style="text-align: center">Fonte: [SILVA, 2019](https://aprender3.unb.br/pluginfile.php/3096155/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) </p></font>
 
@@ -48,7 +50,9 @@ O SIG é dividido em três tipos principais:
 
 <font size="3"><p style="text-align: center">Figura 2: Tipos e Interdependências de Softgoals no NFR Framework</p></font>
 
-![FIGURA 2](./../../assets/NFR/imagem2.png)
+<div align="center">
+  <img src="./../../assets/NFR/imagem2.png" alt="FIGURA 2">
+</div>
 
 <font size="2"><p style="text-align: center">Fonte: [SILVA, 2019](https://aprender3.unb.br/pluginfile.php/3096155/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) </p></font>
 
@@ -85,14 +89,10 @@ O SIG é dividido em três tipos principais:
 
 <font size="3"><p style="text-align: center">Figura 3: Procedimento de Avaliação no NFR Framework</p></font>
 
-<br>
 
-![FIGURA 3](./../../assets/NFR/procedimento.png)
-<div style="text-align: center;">
-    Fonte: [SILVA, 2019](https://aprender3.unb.br/pluginfile.php/3096155/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf)
+<div align="center">
+  <img src="./../../assets/NFR/procedimento.png" alt="FIGURA 3">
 </div>
-
-<br>
 
 <font size="2"><p style="text-align: center">Fonte: [SILVA, 2019](https://aprender3.unb.br/pluginfile.php/3096155/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) </p></font>
 
