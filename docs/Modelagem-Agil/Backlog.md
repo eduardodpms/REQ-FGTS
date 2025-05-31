@@ -118,6 +118,12 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
 - **E12 - Busca e navegação**  
   *Eu, como usuário, desejo dispor de um campo de busca e navegação clara para encontrar funcionalidades facilmente.*
 
+<a name="tema6"></a>
+
+### Tema 6: Segurança
+
+- **E13 - Acesso Seguro e Autenticação**  
+  *Eu, como usuário, desejo acessar o aplicativo de forma segura para garantir a proteção dos meus dados e permitir o uso das funcionalidades.*
 
 ---
 
@@ -182,7 +188,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS10</a></td>
     </tr>
     <tr>
-      <td rowspan="13">Saques e Solicitações</td>
+      <td rowspan="19">Saques e Solicitações</td>
       <td rowspan="4"><a href="#tema2">E06</a> - Informação sobre bloqueios e motivos</td>
       <td></td>
       <td>RF11</td>
@@ -208,7 +214,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/">OB05</a></td>
     </tr>
     <tr>
-      <td rowspan="4"><a href="#tema2">E04</a> - Solicitação e acompanhamento de saques</td>
+      <td rowspan="7"><a href="#tema2">E04</a> - Solicitação e acompanhamento de saques</td>
       <td></td>
       <td>RF04</td>
       <td></td>
@@ -248,6 +254,30 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       </td>
     </tr>
     <tr>
+      <td></td>
+      <td>RF19</td>
+      <td></td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS17</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>RF23</td>
+      <td></td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB06</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>RF24</td>
+      <td></td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB07</a>
+      </td>
+    </tr>
+    <tr>
       <td rowspan="2"><a href="#tema2">E05</a> - Cancelamento e filtro de saques</td>
       <td></td>
       <td>RF09</td>
@@ -261,7 +291,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS07</a></td>
     </tr>
     <tr>
-      <td rowspan="3"><a href="#tema2">E07</a> - Guias e ajuda para o processo de saque</td>
+      <td rowspan="6"><a href="#tema2">E07</a> - Guias e ajuda para o processo de saque</td>
       <td></td>
       <td>RF17</td>
       <td></td>
@@ -278,6 +308,24 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td>RF29</td>
       <td></td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST07</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>RF25</td>
+      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB09</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>RF26</td>
+      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST02</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>RF33</td>
+      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST012</a></td>
     </tr>
     <tr>
       <td rowspan="3">Contas Bancárias</td>
@@ -337,8 +385,8 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       </td>
     </tr>
     <tr>
-      <td>Usabilidade e Acessibilidade</td>
-      <td><a href="#tema5">E11</a> - Personalização da interface</td>
+      <td rowspan="3">Usabilidade e Acessibilidade</td>
+      <td rowspan="2"><a href="#tema5">E11</a> - Personalização da interface</td>
       <td></td>
       <td>RF30</td>
       <td></td>
@@ -347,7 +395,14 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       </td>
     </tr>
     <tr>
-      <td>Usabilidade e Acessibilidade</td>
+      <td></td>
+      <td>RF32</td>
+      <td></td>
+      <td>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST011</a>
+      </td>
+    </tr>
+    <tr>
       <td><a href="#tema5">E12</a> - Busca e navegação</td>
       <td></td>
       <td>RF16</td>
@@ -355,6 +410,22 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS14</a>
       </td>
+    </tr>
+    <tr>
+      <td rowspan="2">Segurança</td>
+      <td rowspan="2"><a href="#tema6">E13</a> - Acesso Seguro e Autenticação</td>
+      <td></td>
+      <td>RF20</td>
+      <td></td>
+      <td>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB01</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>RF34</td>
+      <td></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST016</a></td>
     </tr>
   </tbody>
 </table>
@@ -384,5 +455,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
 
 | Versão | Data       | Descrição                                 | Autor(es)                                     | Revisor(es) |
 |--------|------------|--------------------------------------------|-----------------------------------------------|-------------|
-| 1.0    | 30/05/2025 | Introdução, Metodologia e Backlog | [Danielle Soares](https://github.com/danielle-soaress) | - |
-| 1.1    | 30/05/2025 | Atualizações no texto da página | [Danielle Soares](https://github.com/danielle-soaress) | - |
+| 1.0    | 30/05/2025 | Introdução, Metodologia e Backlog | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
+| 1.1    | 30/05/2025 | Atualizações no texto da página | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
+| 1.2    | 30/05/2025 | Adicionando Requisitos Backlog | [Maria Eduarda](https://github.com/dudaa28) | - |
+
