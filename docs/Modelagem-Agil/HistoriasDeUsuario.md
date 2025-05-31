@@ -2017,7 +2017,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 Validação das histórias de usuário 13-30 presentes no vídeo a seguir:
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=_XVw-l1hJv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_XVw-l1hJv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
 <font size="2"><p style="text-align: center">Observação: no vídeo, houve algumas inconsistências nas numerações dos casos de uso, decorrentes de alterações posteriores. A história 12 citada no vídeo corresponde à 13, a 13 à 14, e assim sucessivamente.</p></font>
@@ -2063,4 +2063,5 @@ Validação das histórias de usuário 13-30 presentes no vídeo a seguir:
 | `2.6`    | 30/05/2025 | Adicionando história 42 | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `2.7`    | 31/05/2025 | Corrigindo numerações | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `2.8`    | 30/05/2025 | Referências Bibliográficas | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
-| `2.9`    | 31/05/2025 | Adicionando video validação 13-30 e Foto referência | [Maria Eduarda](https://github.com/dudaa28) | - |
+| `2.9`    | 31/05/2025 | Adicionando video validação 13-30 e Foto referência | [Maria Eduarda](https://github.com/dudaa28) | [Danielle Soares](https://github.com/danielle-soaress) |
+| `2.0`    | 31/05/2025 | Correção do link do vídeo | [Danielle Soares](https://github.com/danielle-soaress) | - |
