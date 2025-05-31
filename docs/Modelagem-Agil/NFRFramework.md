@@ -76,11 +76,49 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 
 ---
 
-## Modelagem com o NFR Framework
+## Cartões de Especificação
 
+<font size="3"><p style="text-align: center">Tabela 2: Participantes</p></font>
 
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Requisito Não Funcional – RNF02</th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Usabilidade</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O processo de login deve ser simplificado.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Um login simples melhora a experiência do usuário, reduz a frustração e torna o acesso ao aplicativo mais eficiente.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RNF">EN08</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>O usuário deve conseguir realizar o login com no máximo duas etapas, sem a necessidade de preencher dados excessivos.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Sistema de autenticação</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>3,25</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Nenhum</td></tr>
+  <tr><td><strong>História</strong></td><td>31/05/2025</td></tr>
+</table>
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) </p></font>
+
+<font size="3"><p style="text-align: center">Tabela 3: Participantes</p></font>
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Requisito Não Funcional – RNF08</th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Portabilidade</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O aplicativo deve fornecer as mesmas funcionalidades para diferentes plataformas e versões.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Garantir a consistência da experiência do usuário, independentemente do dispositivo ou sistema operacional utilizado.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF"> IS18</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>As funcionalidades disponíveis devem ser idênticas em todas as versões do aplicativo para Android, iOS e Web.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Frameworks multiplataforma, compatibilidade entre sistemas</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>4,40</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Pode haver limitações específicas em versões mais antigas de sistemas operacionais.</td></tr>
+  <tr><td><strong>História</strong></td><td>31/05/2025</td></tr>
+</table>
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) </p></font>
 
 ---
+
+## Modelagem
 
 ## Validação
 
@@ -101,3 +139,4 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 | Versão | Data       | Descrição                                 | Autor(es)                                     | Revisor(es) |
 |--------|------------|--------------------------------------------|-----------------------------------------------|-------------|
 | 1.0    | 28/05/2025 | Criação da página | [Marcelo Makoto](https://github.com/MM4k) | - |
+| 1.1    | 28/05/2025 | Cartões de Especificação RN02 e RN07 | [Danielle Soares](https://github.com/danielle-soaress) | - |
