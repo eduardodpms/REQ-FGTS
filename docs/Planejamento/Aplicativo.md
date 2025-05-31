@@ -24,7 +24,7 @@ Tabela 1: *Tabela dos rich pictures analisados*
 
 ### Motivações da escolha
 
-Após a análise de todos os rich pictures com base nos critérios definidos, o rich picture do aplicativo [e-Título](https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo) <a id="anchor_4" href="#ref4">^4^</a> foi inicialmente selecionado. Contudo, após a consulta com o professor e o monitor, foi recomendado que escolhesse um novo aplicativo, já que o e-Título havia sido utilizado em semestres passados. Decidimos, então, que o novo aplicativo seria o [FGTS] (https://www.caixa.gov.br/atendimento/aplicativos/fgts/Paginas/default.aspx).
+Após a análise de todos os rich pictures com base nos critérios definidos, o rich picture do aplicativo [e-Título](https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo) <a id="anchor_4" href="#ref4">^4^</a> foi inicialmente selecionado. Contudo, após a consulta com o professor e o monitor, foi recomendado que escolhesse um novo aplicativo, já que o e-Título havia sido utilizado em semestres passados. Decidimos, então, que o novo aplicativo seria o [FGTS](https://www.caixa.gov.br/atendimento/aplicativos/fgts/Paginas/default.aspx).
 
 As motivações foram as seguintes:
 
@@ -34,7 +34,7 @@ As motivações foram as seguintes:
 
 ## FGTS
 
-O [*FGTS*](https://play.google.com/store/apps/details?id=br.gov.caixa.fgts.trabalhador&hl=pt_BR&pli=1) é o aplicativo oficial do Fundo de Garantia do Tempo de Serviço, desenvolvido pela [Caixa Econômica Federal] (https://www.caixa.gov.br/Paginas/home-caixa.aspx). Disponível gratuitamente para smartphones (Android e IOS), ele permite que o trabalhador acompanhe o saldo das contas do FGTS, consulte os depósitos realizados pelo empregador, imprima seus extratos e escolha entre as opções de saque, como o Saque-aniversário. Além disso, o app oferece funcionalidades como solicitação de saques por instituições financeiras e atualização de endereço. <a id="anchor_2" href="#ref2">^2^</a>
+O [*FGTS*](https://play.google.com/store/apps/details?id=br.gov.caixa.fgts.trabalhador&hl=pt_BR&pli=1) é o aplicativo oficial do Fundo de Garantia do Tempo de Serviço, desenvolvido pela [Caixa Econômica Federal](https://www.caixa.gov.br/Paginas/home-caixa.aspx). Disponível gratuitamente para smartphones (Android e IOS), ele permite que o trabalhador acompanhe o saldo das contas do FGTS, consulte os depósitos realizados pelo empregador, imprima seus extratos e escolha entre as opções de saque, como o Saque-aniversário. Além disso, o app oferece funcionalidades como solicitação de saques por instituições financeiras e atualização de endereço. <a id="anchor_2" href="#ref2">^2^</a>
 
 ### Funcionalidades
 

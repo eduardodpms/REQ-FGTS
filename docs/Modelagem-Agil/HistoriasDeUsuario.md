@@ -2,9 +2,9 @@
 
 ##  Introdução
 
-O presente documento tem como objetivo apresentar as histórias de usuário elaboradas para o desenvolvimento de um aplicativo voltado à gestão e acompanhamento de serviços relacionados ao Fundo de Garantia do Tempo de Serviço (FGTS).
+O presente documento tem como objetivo apresentar as histórias de usuário elaboradas para o desenvolvimento de um aplicativo voltado à gestão e ao acompanhamento de serviços relacionados ao Fundo de Garantia do Tempo de Serviço (FGTS).
 
-As histórias de usuário são uma técnica fundamental no contexto da Engenharia de Requisitos Ágil, cuja finalidade é capturar as necessidades do usuário de maneira simples, objetiva e centrada no valor entregue. Por meio delas, é possível estabelecer uma comunicação clara entre os stakeholders, promovendo entendimento mútuo e alinhamento sobre as funcionalidades que o sistema deverá oferecer.
+As histórias de usuário são uma técnica fundamental na Engenharia de Requisitos Ágil, utilizadas para representar funcionalidades, resultados ou características desejadas no software. Elas são criadas a partir da escuta ativa das necessidades dos usuários e servem como guia para o desenvolvimento. Cada história recebe uma prioridade com base no seu valor de negócio, facilitando o planejamento incremental do sistema <a id="REF1">1</a>.
 
 Cada história de usuário é construída de forma a responder três perguntas essenciais:  
 
@@ -16,29 +16,9 @@ Cada história de usuário é construída de forma a responder três perguntas e
 
 ##  Metodologia
 
-A elaboração das histórias de usuário deste projeto seguiu uma abordagem centrada no usuário, fundamentada em princípios da Engenharia de Requisitos Ágil e do Design Centrado no Usuário (DCU).
+A elaboração das histórias de usuário deste projeto seguiu uma abordagem centrada no usuário, fundamentada em princípios da Engenharia de Requisitos Ágil e do Design Centrado no Usuário (DCU) <a href="#REF2">2</a>. Esta metodologia garantiu que as histórias de usuário fossem elaboradas de forma realista, testável e completamente alinhada às necessidades das personas, criando uma base sólida para o desenvolvimento do aplicativo FGTS.
 
-Esta metodologia garantiu que as histórias de usuário fossem elaboradas de forma realista, testável e completamente alinhada às necessidades das personas, criando uma base sólida para o desenvolvimento do aplicativo FGTS.
-
-###  Etapas da Metodologia
-
-**1. Definição das Personas e Antipersonas** 
-
-Foram criadas quatro personas representativas dos usuários do aplicativo FGTS — Lucas, Patrícia, Antônio e Beatriz — além de uma antipersona, Rafael. As personas foram construídas considerando dados como idade, profissão, habilidades digitais, objetivos, dores e expectativas.
-
-**2. Elicitação dos Requisitos** 
-
-Para garantir um entendimento abrangente e realista das necessidades dos usuários, foram aplicadas múltiplas técnicas de elicitação de requisitos:
-
-- **Entrevista:** Conversas diretas com usuários para compreender suas necessidades, expectativas e dificuldades no acesso aos serviços do FGTS.
-
-- **Introspecção:** Reflexão baseada na própria experiência dos desenvolvedores e idealizadores do projeto, identificando possíveis problemas e melhorias.
-
-- **Observação:** Análise de como diferentes perfis de usuários interagem com aplicativos semelhantes e como realizam tarefas relacionadas ao FGTS no dia a dia.
-
-- **Storytelling:** Construção de narrativas que simulam cenários reais de uso do aplicativo, explorando jornadas, dificuldades e expectativas dos usuários.
-
-**3. Construção das Histórias de Usuário**  
+### Construção das Histórias de Usuário
 
 As histórias de usuário foram escritas seguindo o modelo clássico:
 
@@ -46,11 +26,11 @@ As histórias de usuário foram escritas seguindo o modelo clássico:
 
 Essa estrutura ajuda a garantir que cada história represente uma necessidade real do usuário, deixando claro o objetivo e o valor gerado pela funcionalidade.
 
-**4. Aplicação dos Modelos Ágeis**  
+### Aplicação dos Modelos Ágeis
 
-Todas as histórias de usuário foram estruturadas e avaliadas com base em dois modelos consagrados no desenvolvimento ágil: **INVEST** e **3C’s**.
+Todas as histórias de usuário foram estruturadas e avaliadas com base em dois modelos amplamente reconhecidos no contexto do desenvolvimento ágil:  **INVEST** e **3C’s**.
 
-**INVEST (Wake, 2003):** Esse modelo estabelece seis critérios fundamentais que garantem a qualidade e a eficácia de uma história de usuário:
+**INVEST <a href="#anchor_3">3</a>:** Esse modelo estabelece seis critérios fundamentais que garantem a qualidade e a eficácia de uma história de usuário:
 
 - **I — Independente:** A história não deve depender de outras para ser desenvolvida, implementada ou testada.
 
@@ -64,7 +44,7 @@ Todas as histórias de usuário foram estruturadas e avaliadas com base em dois 
 
 - **T — Testável:** Deve possuir critérios de aceitação claros e objetivos, que permitam verificar se a funcionalidade atende às necessidades da persona e aos requisitos definidos.  
 
-**3C’s (Jeffries, 2001):** Esse modelo complementa o INVEST ao enfatizar três elementos essenciais na construção de uma boa história de usuário:
+**3C’s <a href="#anchor_4">4</a>:** Complementando o modelo INVEST, os 3C’s enfatizam três elementos centrais para a formulação e validação de uma história de usuário eficaz:
 
 - **Card (Cartão):** Representa a história em si, seja em um post-it físico ou em um quadro digital, funcionando como um lembrete do que precisa ser desenvolvido.
 
@@ -72,13 +52,9 @@ Todas as histórias de usuário foram estruturadas e avaliadas com base em dois 
 
 - **Confirmation (Confirmação):** Corresponde aos critérios de aceitação formalmente definidos, que validam que a história foi corretamente implementada, atendendo às expectativas e às necessidades do usuário.
 
-**5. Definição dos Critérios de Aceitação:**  
-Para cada história, foram definidos critérios claros e objetivos que garantem que a funcionalidade atende às expectativas da persona. Isso permite também verificar se a história foi corretamente implementada.
+### Definição dos Critérios de Aceitação
 
-
-##  Antipersona (Limitação)
-
-- **Rafael Moreira**, agricultor informal, não utiliza serviços digitais. Portanto, o aplicativo não é projetado para atender este perfil, que prefere atendimento presencial e suporte humano direto.
+Para cada história de usuário, foram estabelecidos critérios de aceitação claros, objetivos e verificáveis. Esses critérios funcionam como referência para confirmar se a funcionalidade entregue atende aos requisitos previamente acordados e, sobretudo, às expectativas do usuário.
 
 ### Participantes
 
@@ -91,18 +67,19 @@ Para cada história, foram definidos critérios claros e objetivos que garantem 
   <thead>
     <tr>
       <th align="center">Nome</th>
+      <th align="center">Histórias</th>
       <th align="center">Data</th>
       <th align="center">Hora</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td align="center">Danielle Soares</td><td align="center">30/05/2025</td><td align="center">00:05</td></tr>
-    <tr><td align="center">Eduardo de Pina</td><td align="center">30/05/2025</td><td align="center">13:35</td></tr>
-    <tr><td align="center">Enzo Emir</td><td align="center">--/05/2025</td><td align="center">00:00</td></tr>
-    <tr><td align="center">Leticia Arisa</td><td align="center">30/05/2025</td><td align="center">07:22</td></tr>
-    <tr><td align="center">Marcelo Makoto</td><td align="center">28/05/2025</td><td align="center">21:50</td></tr>
-    <tr><td align="center">Maria Eduarda</td><td align="center">30/05/2025</td><td align="center">00:30</td></tr>
-    <tr><td align="center">Victor Pontual</td><td align="center">30/05/2025</td><td align="center">13:50</td></tr>
+    <tr><td align="center">Danielle Soares</td><td align="center">13 até 18</td><td align="center">30/05/2025</td><td align="center">00:05</td></tr>
+    <tr><td align="center">Eduardo de Pina</td><td align="center">37 até 42</td><td align="center">30/05/2025</td><td align="center">13:35</td></tr>
+    <tr><td align="center">Enzo Emir</td><td align="center">01 até 06</td><td align="center">--/05/2025</td><td align="center">00:00</td></tr>
+    <tr><td align="center">Leticia Arisa</td><td align="center">25 até 30</td><td align="center">30/05/2025</td><td align="center">07:22</td></tr>
+    <tr><td align="center">Marcelo Makoto</td><td align="center">07 até 12</td><td align="center">28/05/2025</td><td align="center">21:50</td></tr>
+    <tr><td align="center">Maria Eduarda</td><td align="center">19 até 24</td><td align="center">30/05/2025</td><td align="center">00:30</td></tr>
+    <tr><td align="center">Victor Pontual</td><td align="center">31 até 36</td><td align="center">30/05/2025</td><td align="center">13:50</td></tr>
   </tbody>
 </table>
 </div>
@@ -111,151 +88,48 @@ Para cada história, foram definidos critérios claros e objetivos que garantem 
 
 ## Sumário
 
-**Requisito RF08 (IS05, EN02)**
-
-- [H01 – Acompanhar Situação do Saque](#h01)
-- [H02 – Notificações Sobre Andamento](#h02)
-
-**Requisito RF01 (EN03)**
-
-- [H03 – Informar Datas de Liberação](#h03)
-
-**Requisito RF02 (EN04)**
-
-- [H04 – Canal de Suporte/Chatbot](#h04)
-
-**Requisito RF03 (EN05)**
-
-- [H05 – Consulta ao Saldo do FGTS](#h05)
-
-**Requisito RF04 (EN06, ST13, ST14)**
-
-- [H06 – Disponibilizar Saque-Aniversário](#h06)
-
-**Requisito RF05 (IS01)**
-
-- [H07 – Atualização de Dados Pessoais](#h07)
-
-**Requisito RF11 (IS08)**
-
-- [H08 – Ver Informações Sobre Saques Bloqueados](#h08)
-
-**Requisito RF17 (IS15)**
-
-- [H09 – Acesso à Seção de Ajuda](#h09)
-
-**Requisito RF19 (IS17)**
-
-- [H10 – Solicitação de Ressarcimento do PIS/PASEP](#h10)
-
-**Requisito RF20 (OB01)**
-
-- [H11 – Login Seguro](#h11)
-
-**Requisito RF15 (IS13)**
-
-- [H12 – Assistente via chat](#h12)
-
-**Requisito RF16 (IS14)**
-
-- [H13 – Campo de busca](#h13)
-
-**Requisito RF24 (OB07)**
-
-- [H14 – Aba de saque](#h14)
-
-**Requisito RF25 (OB09)**
-
-- [H15 – Aba de itens diversos](#h15)
-
-**Requisito RF26 (ST02)**
-
-- [H16 – Resumo dos tipos de saque](#h16)
-
-**Requisito RF27 (ST02)**
-
-- [H17 – Notificações de Status e Saques](#h17)
-
-**Requisito RF28 (IS05, EN02)**
-
-- [H18 – Solicitação de Saques](#h18)
-
-**Requisito RF30 (OB07)**
-
-- [H19 – Ajuste de Tamanho de Fonte](#h19)
-
-**Requisito RF31 (IS08)**
-
-- [H20 – Visualização de Dados Bancários](#h20)
-
-**Requisito RF35 (IS12)**
-
-- [H21 – Cadastro de Múltiplas Contas Bancárias](#h21)
-
-**Requisito RF12 (IS09)**
-
-- [H22 – Visualizar histórico de movimentações financeiras](#h22)
-
-**Requisito RF13 (IS10)**
-
-- [H23 – Filtrar extrato por data](#h23)
-
-**Requisito RF21 (OB02)**
-
-- [H24 – Visualizar empregadores anteriores com botão para consultar contas vinculadas](#h24)
-
-**Requisito RF22 (OB05)**
-
-- [H25 – Visualizar nome completo dos empregadores anteriores](#h25)
-
-**Requisito RF23 (OB06)**
-
-- [H26 – Visualizar histórico de saques realizados](#h26)
-
-**Requisito RF09 (IS06)**
-
-- [H29 – Cancelamento de Saque](#h29)
-
-**Requisito RF10 (IS07)**
-
-- [H30 – Filtro por Tipo de Saque](#h30)
-
-**Requisito RF32 (ST011)**
-
-- [H31 – Interface de Login Simples](#h31)
-
-**Requisito RF33 (ST012)**
-
-- [H32 – Escolha da Sistemática de Saque](#h32)
-
-**Requisito RF34 (ST016)**
-
-- [H33 – Disponibilização de Termo de Adesão](#h33)
-
-**Requisito RF40 (ST015)**
-
-- [H34 — Notificação de Recebimento do Saque](#h34)
-
-**Requisito RF06 (IS02)**
-
-- [H35 – Consulta de dados pessoais](#h35)
-
-**Requisito RF07 (IS04, OB04)**
-
-- [H36 – Consultar saldo](#h36)
-- [H37 – Exibir extrato para o empregador](#h37)
-
-**Requisito RF14 (IS11, ST05, OB08)**
-
-- [H38 – Permitir o cadastro de conta bancária](#h38)
-
-**Requisito RF18 (IS16)**
-
-- [H39 – Seção de ajuda com orientações](#h39)
-
-**Requisito RF29 (ST07)**
-
-- [H40 – Guia interativo para orientação](#h40)
+- [H01 – Acompanhar Situação do Saque (RF08)](#h01)
+- [H02 – Notificações Sobre Andamento (RF08)](#h02)
+- [H03 – Informar Datas de Liberação (RF01)](#h03)
+- [H04 – Acesso à Seção de Ajuda (RF17)](#h04)
+- [H05 – Solicitação de Ressarcimento do PIS/PASEP (RF19)](#h05)
+- [H06 – Login Seguro (RF20)](#h06)
+- [H07 – Assistente Via Chat (RF15)](#h07)
+- [H08 – Campo de Busca (RF16)](#h08)
+- [H09 – Aba de Solicitação e Acompanhamento de Saques (RF24)](#h09)
+- [H10 – Aba de Informações Adicionais (RF25)](#h10)
+- [H11 – Resumo dos Tipos de Saque (RF26)](#h11)
+- [H12 – Disponibilidade de Saque-Rescisão (RF04)](#h12)
+- [H13 – Ver Informações Sobre Saques Bloqueados (RF11)](#h13)
+- [H14 – Cadastro de Múltiplas Contas Bancárias (RF35)](#h14)
+- [H15 – Consulta ao Saldo do FGTS (RF03)](#h15)
+- [H16 – Atualização de Dados Pessoais (RF05)](#h16)
+- [H17 – Disponibilizar Saque-Aniversário (RF04)](#h17)
+- [H18 – Comentários sobre Status do Saque (RF39)](#h18)
+- [H19 – Canal de Suporte/Chatbot (RF02)](#h19)
+- [H20 – Ajuste de Tamanho de Fonte (RF30)](#h20)
+- [H21 – Notificações de Status e Saques (RF27)](#h21)
+- [H22 – Solicitação de Saques (RF28)](#h22)
+- [H23 – Visualização de Dados Bancários (RF31)](#h23)
+- [H24 – Agendamento de Saque Futuro (RF42)](#h24)
+- [H25 – Visualização do Histórico de Movimentações Financeiras (RF12)](#h25)
+- [H26 – Filtrar Extrato por Data (RF13)](#h26)
+- [H27 – Visualizar Empregadores Anteriores com Botão para Consultar Contas Vinculadas (RF21)](#h27)
+- [H28 – Visualizar Nome Completo dos Empregadores Anteriores (RF22)](#h28)
+- [H29 – Visualizar Histórico de Saques Realizados (RF23)](#h29)
+- [H30 – Enviar Documentos Digitalizados para Comprovação de Saque (RF41)](#h30)
+- [H31 – Cancelamento de Saque (RF09)](#h31)
+- [H32 – Filtro por Tipo de Saque (RF10)](#h32)
+- [H33 – Interface de Login Simples (RF32)](#h33)
+- [H34 — Escolha da Sistemática de Saque (RF33)](#h34)
+- [H35 – Disponibilização de Termo de Adesão (RF34)](#h35)
+- [H36 – Notificação de Recebimento do Saque (RF40)](#h36)
+- [H37 – Consulta de Dados Pessoais (RF06)](#h37)
+- [H38 – Consultar Saldo (RF07)](#h38)
+- [H39 – Exibir Extrato para o Empregador (RF07)](#h39)
+- [H40 – Permitir o Cadastro de Conta Bancária (RF14)](#h40)
+- [H41 – Seção de Ajuda com Orientações (RF18)](#h41)
+- [H42 – Guia Interativo para Orientação (RF29)](#h42)
 
 ---
 
@@ -307,9 +181,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 </div>
 <p align="center">Fonte: <i>Danielle Soares</i></p>
 
-
-
 ### <a name="h01"></a> História 01 — Acompanhar Situação do Saque
+
+<font size="3"><p style="text-align: center">Tabela 3: História de acompanhamento de situação do saque</p></font>
 
 | **Item**                 | **Descrição**                                                                 |
 |--------------------------|------------------------------------------------------------------------------|
@@ -325,6 +199,8 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 ### <a name="h02"></a> História 02 — Notificações Sobre Andamento
 
+<font size="3"><p style="text-align: center">Tabela 4: História de notificações sobre andamento</p></font>
+
 | **Item**                 | **Descrição**                                                                 |
 |--------------------------|------------------------------------------------------------------------------|
 | **ID**                   | US03                                                                         |
@@ -338,6 +214,8 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
 ### <a name="h03"></a> História 03 — Informar Datas de Liberação
+
+<font size="3"><p style="text-align: center">Tabela 5: História de informar de datas de liberação</p></font>
 
 | **Item**                 | **Descrição**                                                                 |
 |--------------------------|------------------------------------------------------------------------------|
@@ -353,6 +231,8 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 ### <a name="h04"></a> História 04 — Acesso à Seção de Ajuda
 
+<font size="3"><p style="text-align: center">Tabela 6: História de acesso à seção de ajuda</p></font>
+
 | **Item**                 | **Descrição**                                                                 |
 |--------------------------|------------------------------------------------------------------------------|
 | **ID**                   | US05                                                                         |
@@ -367,6 +247,8 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 ### <a name="h05"></a> História 05 — Solicitação de Ressarcimento do PIS/PASEP
 
+<font size="3"><p style="text-align: center">Tabela 7: História de solicitação de ressarcimento do PIS/PASEP</p></font>
+
 | **Item**                 | **Descrição**                                                                 |
 |--------------------------|------------------------------------------------------------------------------|
 | **ID**                   | US06                                                                         |
@@ -380,6 +262,8 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
 ### <a name="h06"></a> História 06 — Login Seguro
+
+<font size="3"><p style="text-align: center">Tabela 8: História de login seguro</p></font>
 
 | **Item**                 | **Descrição**                                                                 |
 |--------------------------|------------------------------------------------------------------------------|
@@ -397,7 +281,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 ### <a name="h07"></a> História 07 — Assistente via chat
 
-<font size="3"><p style="text-align: center">Tabela 10: História de assistente via chat</p></font>
+<font size="3"><p style="text-align: center">Tabela 9: História de assistente via chat</p></font>
 
 <div align="center">
 <table>
@@ -446,7 +330,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 ### <a name="h08"></a> História 08 — Campo de busca
 
-<font size="3"><p style="text-align: center">Tabela 11: História de campo de busca</p></font>
+<font size="3"><p style="text-align: center">Tabela 10: História de campo de busca</p></font>
 
 <div align="center">
 <table>
@@ -495,7 +379,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 ### <a name="h09"></a> História 09 — Aba de solicitação e acompanhamento de saques
 
-<font size="3"><p style="text-align: center">Tabela 12: História de aba de solicitação e acompanhamento de saques</p></font>
+<font size="3"><p style="text-align: center">Tabela 11: História de aba de solicitação e acompanhamento de saques</p></font>
 
 <div align="center">
 <table>
@@ -544,7 +428,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 ### <a name="h10"></a> História 10 — Aba de informações adicionais
 
-<font size="3"><p style="text-align: center">Tabela 13: História de aba de informações adicionais</p></font>
+<font size="3"><p style="text-align: center">Tabela 12: História de aba de informações adicionais</p></font>
 
 <div align="center">
 <table>
@@ -593,7 +477,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 ### <a name="h11"></a> História 11 — Resumo dos tipos de saque
 
-<font size="3"><p style="text-align: center">Tabela 14: História de resumo dos tipos de saque</p></font>
+<font size="3"><p style="text-align: center">Tabela 13: História de resumo dos tipos de saque</p></font>
 
 <div align="center">
 <table>
@@ -640,9 +524,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 
 
-### <a name="hXX"></a> História XX — Disponibilidade de Saque-Rescisão
+### <a name="h12"></a> História 12 — Disponibilidade de Saque-Rescisão
 
-<font size="3"><p style="text-align: center">Tabela XX: História de disponibilidade de saque-rescisão</p></font>
+<font size="3"><p style="text-align: center">Tabela 14: História de disponibilidade de saque-rescisão</p></font>
 
 <div align="center">
 <table>
@@ -689,7 +573,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 
 
-### <a name="h12"></a> História 12 — Ver Informações Sobre Saques Bloqueados
+### <a name="h13"></a> História 13 — Ver Informações Sobre Saques Bloqueados
 
 <font size="3"><p style="text-align: center">Tabela 15: História de bloqueio de saque</p></font>
 
@@ -736,7 +620,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
-### <a name="h13"></a> História 13 — Cadastro de Múltiplas Contas Bancárias
+### <a name="h14"></a> História 14 — Cadastro de Múltiplas Contas Bancárias
 
 <font size="3"><p style="text-align: center">Tabela 16: História de cadastro de contas bancárias</p></font>
 
@@ -783,7 +667,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
-### <a name="h14"></a> História 14 —  Consulta ao Saldo do FGTS
+### <a name="h15"></a> História 15 —  Consulta ao Saldo do FGTS
 
 <font size="3"><p style="text-align: center">Tabela 17: História de consulta ao saldo do FGTS</p></font>
 
@@ -830,7 +714,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
-### <a name="h15"></a> História 15 — Atualização de Dados Pessoais
+### <a name="h16"></a> História 16 — Atualização de Dados Pessoais
 
 <font size="3"><p style="text-align: center">Tabela 18: História de atualização de dados pessoais</p></font>
 
@@ -877,7 +761,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
-### <a name="h16"></a> História 16 — Disponibilizar Saque-Aniversário
+### <a name="h17"></a> História 17 — Disponibilizar Saque-Aniversário
 
 <font size="3"><p style="text-align: center">Tabela 19: História de disponibilização de saque-aniversário</p></font>
 
@@ -924,9 +808,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
-### <a name="h17"></a> História 17 —  História de Usuário Comentários sobre Status do Saque
+### <a name="h18"></a> História 18 — Comentários sobre Status do Saque
 
-<p align="center"><strong>Tabela 20: História de Usuário Comentários sobre Status Saque</strong></p>
+<font size="3"><p style="text-align: center">Tabela 20: História de Usuário Comentários sobre Status Saque</p></font>
 
 <div align="center">
 <table border="1">
@@ -973,11 +857,10 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 </table>
 </div>
 
-<p align="center">Fonte: <i>Danielle Soares</i></p>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
 
-
-### <a name="h18"></a> História 18 — Canal de Suporte/Chatbot 
+### <a name="h19"></a> História 19 — Canal de Suporte/Chatbot 
 
 <font size="3"><p style="text-align: center">Tabela 21: História de Canal de Suporte/Chatbot</p></font>
 
@@ -1024,7 +907,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
 
-### <a name="h19"></a> História 19 — Ajuste de Tamanho de Fonte 
+### <a name="h20"></a> História 20 — Ajuste de Tamanho de Fonte 
 
 <font size="3"><p style="text-align: center">Tabela 22: História de ajuste de tamanho de fonte</p></font>
 
@@ -1071,7 +954,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
 
-### <a name="h20"></a> História 20 — Notificações de Status e SaqueS 
+### <a name="h21"></a> História 21 — Notificações de Status e Saques
 
 <font size="3"><p style="text-align: center">Tabela 23: História de notificações de status e saque</p></font>
 
@@ -1120,7 +1003,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
 
-### <a name="h21"></a> História 21 — Solicitação de Saques
+### <a name="h22"></a> História 22 — Solicitação de Saques
 
 <font size="3"><p style="text-align: center">Tabela 24: História de solicitação de saques</p></font>
 
@@ -1171,7 +1054,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
 
 
-### <a name="h22"></a> História 22 — Visualização de Dados Bancários 
+### <a name="h23"></a> História 23 — Visualização de Dados Bancários 
 
 <font size="3"><p style="text-align: center">Tabela 25: História de visualização de dados bancários</p></font>
 
@@ -1218,9 +1101,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
 
-### <a name="h40"></a> História X — Agendamento de Saque Futuro
+### <a name="h24"></a> História 24 — Agendamento de Saque Futuro
 
-<font size="3"><p style="text-align: center">Tabela X: História de agendamento de saque futuro</p></font>
+<font size="3"><p style="text-align: center">Tabela 26: História de agendamento de saque futuro</p></font>
 
 <div align="center">
 <table>
@@ -1273,9 +1156,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 
 
-### <a name="h23"></a> História 23 — Visualização do histórico de movimentações financeiras
+### <a name="h25"></a> História 25 — Visualização do histórico de movimentações financeiras
 
-<font size="3"><p style="text-align: center">Tabela 26: História de visualização do histórico de movimentação financeira</p></font>
+<font size="3"><p style="text-align: center">Tabela 27: História de visualização do histórico de movimentação financeira</p></font>
 
 <div align="center">
 <table>
@@ -1320,9 +1203,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
-### <a name="h24"></a> História 24 — Filtrar extrato por data
+### <a name="h26"></a> História 26 — Filtrar extrato por data
 
-<font size="3"><p style="text-align: center">Tabela 27: História de filtrar o extrato por data</p></font>
+<font size="3"><p style="text-align: center">Tabela 28: História de filtrar o extrato por data</p></font>
 
 <div align="center">
 <table>
@@ -1367,9 +1250,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
-### <a name="h25"></a> História 25 — Visualizar empregadores anteriores com botão para consultar contas vinculadas
+### <a name="h27"></a> História 27 — Visualizar empregadores anteriores com botão para consultar contas vinculadas
 
-<font size="3"><p style="text-align: center">Tabela 28: História de visualizar  empregadores anteriores com botão para consultar contas vinculadas</p></font>
+<font size="3"><p style="text-align: center">Tabela 29: História de visualizar  empregadores anteriores com botão para consultar contas vinculadas</p></font>
 
 <div align="center">
 <table>
@@ -1414,9 +1297,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
-### <a name="h26"></a> História 26 — Visualizar nome completo dos empregadores anteriores
+### <a name="h28"></a> História 28 — Visualizar nome completo dos empregadores anteriores
 
-<font size="3"><p style="text-align: center">Tabela 29: História de visualizar  nome completo dos empregadores anteriores</p></font>
+<font size="3"><p style="text-align: center">Tabela 30: História de visualizar  nome completo dos empregadores anteriores</p></font>
 
 <div align="center">
 <table>
@@ -1461,9 +1344,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
-### <a name="h27"></a> História 27 — Visualizar histórico de saques realizados
+### <a name="h29"></a> História 29 — Visualizar histórico de saques realizados
 
-<font size="3"><p style="text-align: center">Tabela 30: História de visualizar histórico de saques realizados</p></font>
+<font size="3"><p style="text-align: center">Tabela 31: História de visualizar histórico de saques realizados</p></font>
 
 <div align="center">
 <table>
@@ -1508,9 +1391,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
-### <a name="h28"></a> História X — Enviar Documentos Digitalizados para Comprovação de Saque
+### <a name="h30"></a> História 30 — Enviar Documentos Digitalizados para Comprovação de Saque
 
-<font size="3"><p style="text-align: center">Tabela X: História de envio de documentos para comprovação de saque</p></font>
+<font size="3"><p style="text-align: center">Tabela 32: História de envio de documentos para comprovação de saque</p></font>
 
 <div align="center">
   <table>
@@ -1564,9 +1447,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
-### <a name="h29"></a> História 29 — Cancelamento de Saque 
+### <a name="h31"></a> História 31 — Cancelamento de Saque 
 
-<font size="3"><p style="text-align: center">Tabela 32: História de Cancelamento de Saque</p></font>
+<font size="3"><p style="text-align: center">Tabela 33: História de Cancelamento de Saque</p></font>
 
 <div align="center">
 <table>
@@ -1611,9 +1494,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
 
-### <a name="h30"></a> História 30 — Filtro por Tipo de Saque
+### <a name="h32"></a> História 32 — Filtro por Tipo de Saque
 
-<font size="3"><p style="text-align: center">Tabela 33: História de Filtro por Tipo de Saque</p></font>
+<font size="3"><p style="text-align: center">Tabela 34: História de Filtro por Tipo de Saque</p></font>
 
 <div align="center">
 <table>
@@ -1659,9 +1542,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
 
 
-### <a name="h31"></a> História 31 —  Interface de Login Simples
+### <a name="h33"></a> História 33 —  Interface de Login Simples
 
-<font size="3"><p style="text-align: center">Tabela 34: História de Interface de Login Simples</p></font>
+<font size="3"><p style="text-align: center">Tabela 35: História de Interface de Login Simples</p></font>
 
 <div align="center">
 <table>
@@ -1706,9 +1589,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
 
-### <a name="h32"></a> História 32 —  Escolha da Sistemática de Saque
+### <a name="h34"></a> História 34 —  Escolha da Sistemática de Saque
 
-<font size="3"><p style="text-align: center">Tabela 35: História de Escolha da Sistemática de Saque</p></font>
+<font size="3"><p style="text-align: center">Tabela 36: História de Escolha da Sistemática de Saque</p></font>
 
 <div align="center">
 <table>
@@ -1753,9 +1636,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
 
-### <a name="h33"></a> História 33 —  Disponibilização de Termo de Adesão
+### <a name="h35"></a> História 35 —  Disponibilização de Termo de Adesão
 
-<font size="3"><p style="text-align: center">Tabela 36: História de Disponibilização de Termo de Adesão</p></font>
+<font size="3"><p style="text-align: center">Tabela 37: História de Disponibilização de Termo de Adesão</p></font>
 
 <div align="center">
 <table>
@@ -1800,9 +1683,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
 
-### <a name="h34"></a> História 34 — Notificação de Recebimento do Saque
+### <a name="h36"></a> História 36 — Notificação de Recebimento do Saque
 
-<font size="3"><p style="text-align: center">Tabela 37: História de Notificação de Recebimento do Saque</p></font>
+<font size="3"><p style="text-align: center">Tabela 38: História de Notificação de Recebimento do Saque</p></font>
 
 <div align="center">
 <table>
@@ -1847,9 +1730,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
 
-### <a name="h35"></a> História 35 — Consulta de dados pessoais
+### <a name="h37"></a> História 37 — Consulta de dados pessoais
 
-<font size="3"><p style="text-align: center">Tabela 38: História de consulta de dados pessoais</p></font>
+<font size="3"><p style="text-align: center">Tabela 39: História de consulta de dados pessoais</p></font>
 
 <div align="center">
 <table>
@@ -1894,9 +1777,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
-### <a name="h36"></a> História 36 — Consultar saldo
+### <a name="h38"></a> História 38 — Consultar saldo
 
-<font size="3"><p style="text-align: center">Tabela 39: História de consulta de Saldo</p></font>
+<font size="3"><p style="text-align: center">Tabela 40: História de consulta de Saldo</p></font>
 
 <div align="center">
 <table>
@@ -1941,9 +1824,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
-### <a name="h37"></a> História 37 — Exibir extrato para o empregador
+### <a name="h39"></a> História 39 — Exibir extrato para o empregador
 
-<font size="3"><p style="text-align: center">Tabela 40: História de exibição de extrato pro empregador</p></font>
+<font size="3"><p style="text-align: center">Tabela 41: História de exibição de extrato pro empregador</p></font>
 
 <div align="center">
 <table>
@@ -1988,9 +1871,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
-### <a name="h38"></a> História 38 — Permitir o cadastro de conta bancária
+### <a name="h40"></a> História 40 — Permitir o cadastro de conta bancária
 
-<font size="3"><p style="text-align: center">Tabela 41: História de cadastro de conta bancária</p></font>
+<font size="3"><p style="text-align: center">Tabela 42: História de cadastro de conta bancária</p></font>
 
 <div align="center">
 <table>
@@ -2035,9 +1918,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
-### <a name="h39"></a> História 39 — Seção de ajuda com orientações
+### <a name="h41"></a> História 41 — Seção de ajuda com orientações
 
-<font size="3"><p style="text-align: center">Tabela 42: História de seção de ajuda com orientações</p></font>
+<font size="3"><p style="text-align: center">Tabela 43: História de seção de ajuda com orientações</p></font>
 
 <div align="center">
 <table>
@@ -2082,9 +1965,9 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
-### <a name="h40"></a> História 40 — Guia interativo para orientação
+### <a name="h42"></a> História 42 — Guia interativo para orientação
 
-<font size="3"><p style="text-align: center">Tabela 43: História de guia interativo</p></font>
+<font size="3"><p style="text-align: center">Tabela 44: História de guia interativo</p></font>
 
 <div align="center">
 <table>
@@ -2129,9 +2012,15 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
+##  Referências
 
-##  Bibliografia
+> <a id="REF1" href="#anchor_1">1.</a>  PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
 
+> <a id="REF2" href="#anchor_2">2.</a>  SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 15. UnB, 2025. Disponível em: https://aprender3.unb.br/pluginfile.php/3096144/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em: 30 de maio 2025.
+
+> <a id="REF3" href="#anchor_3">3.</a> WAKE, Bill. INVEST in Good Stories, and SMART Tasks. Disponível em: https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/. Acesso em: 30 maio 2025.
+
+> <a id="REF4" href="#anchor_4">4.</a> JEFFRIES, Ron. The Three ‘C’s Revisited. Disponível em: https://ronjeffries.com/articles/019-01ff/3cs-revisited/. Acesso em: 30 maio 2025.
 
 ##  Histórico de Versão
 
@@ -2154,3 +2043,5 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | 2.2    | 30/05/2025 | Adicionando história 35 | [Victor Pontual](https://github.com/VictorPontual) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | 2.2    | 30/05/2025 | Adicionando história 41 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Maria Eduarda](https://github.com/dudaa28) |
 | 2.2    | 30/05/2025 | Adicionando história 42 | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| 2.3    | 30/05/2025 | Corrigindo numerações | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
+| 2.4    | 30/05/2025 | Referências Bibliográficas | [Danielle Soares](https://github.com/danielle-soaress) | - |
