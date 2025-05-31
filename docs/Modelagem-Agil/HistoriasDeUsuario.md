@@ -1121,7 +1121,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     <tr>
       <td>Rastreabilidade</td>
       <td> 
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">ENX</a>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/#requisitos-elicitados">BS10</a>
       </td>
     </tr>
     <tr>

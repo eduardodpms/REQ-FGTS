@@ -188,7 +188,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS10</a></td>
     </tr>
     <tr>
-      <td rowspan="19">Saques e Solicitações</td>
+      <td rowspan="20">Saques e Solicitações</td>
       <td rowspan="4"><a href="#tema2">E06</a> - Informação sobre bloqueios e motivos</td>
       <td></td>
       <td>RF11</td>
@@ -214,7 +214,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/">OB05</a></td>
     </tr>
     <tr>
-      <td rowspan="7"><a href="#tema2">E04</a> - Solicitação e acompanhamento de saques</td>
+      <td rowspan="8"><a href="#tema2">E04</a> - Solicitação e acompanhamento de saques</td>
       <td></td>
       <td>RF04</td>
       <td></td>
@@ -275,6 +275,14 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td></td>
       <td> 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB07</a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>RF42</td>
+      <td></td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/#BS_RF">BS10</a>
       </td>
     </tr>
     <tr>
