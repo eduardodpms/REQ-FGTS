@@ -316,6 +316,45 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </p></font>
 
+<font size="3"><p style="text-align: center">Tabela 8: Funcionamento em Conexão Instável</p></font>
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Requisito Não Funcional – RNF06</th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Confiabilidade</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O aplicativo deve funcionar corretamente mesmo com conexão instável.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Usuários em áreas com cobertura irregular de internet precisam acessar informações críticas do FGTS sem erros ou travamentos.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-nao-funcionais">EN12</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>O app deve manter funcionalidades mínimas (ex.: consulta de saldo e extrato) mesmo com perdas intermitentes de conexão.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Equipe de backend e gerenciamento de cache local</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>Alta</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Maior uso de memória local pode impactar desempenho em dispositivos antigos</td></tr>
+  <tr><td><strong>História</strong></td><td>31/05/2025</td></tr>
+</table>
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+
+<font size="3"><p style="text-align: center">Tabela 9: Segurança de Dados Pessoais</p></font>
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Requisito Não Funcional – RNF11</th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Segurança</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O aplicativo deve proporcionar segurança de dados pessoais.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Proteção de informações sensíveis como CPF, conta bancária e saldo do FGTS é essencial para evitar fraudes e vazamentos.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-nao-funcionais">IS23</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>Os dados devem ser armazenados e transmitidos com criptografia; autenticação deve usar biometria ou múltiplos fatores.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Equipe de segurança da informação e infraestrutura</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>Alta</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Maior nível de segurança pode exigir autenticação adicional, impactando usabilidade para alguns usuários</td></tr>
+  <tr><td><strong>História</strong></td><td>31/05/2025</td></tr>
+</table>
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+
+
 ---
 
 ## Modelagem
@@ -350,4 +389,5 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 | 1.1    | 31/05/2025 | Cartões de Especificação RNF02 e RNF07 | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
 | 1.2    | 31/05/2025 | Atualização da Página | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | 1.3    | 31/05/2025 | Cartões de Especificação RNF12 e RNF21 | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| 1.4    | 31/05/2025 | Cartões de Especificação RNF05 e RNF22 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
+| 1.4    | 31/05/2025 | Cartões de Especificação RNF05 e RNF22 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
+| 1.5    | 31/05/2025 | Cartões de Especificação RNF06 e RNF11 | [Marcelo Makoto](https://github.com/MM4k) | - |
