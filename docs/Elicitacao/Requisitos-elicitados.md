@@ -59,8 +59,8 @@ Essa página tem como objetivo compilar todos os requisitos elicitados com a uti
 | RF38 |O aplicativo deve notificar o usuário sobre o status do saque solicitado | [IS05](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF) |
 | RF39 | O aplicativo deve possuir comentários detalhados sobre cada status do saque.| [EN02](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF)  |
 | RF40 | O aplicativo deve enviar notificação ao usuário quando o saque for recebido. | [ST015](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-elicitados) |
-| RF41 |  O aplicativo deve possibilitar o envio de documentos digitalizados (PDF, imagem) para comprovação de situações específicas de saque (ex: doença grave, aposentadoria). | ---|
-| RF42 |O aplicativo deve permitir o agendamento de saque futuro. | --- |
+| RF41 |  O aplicativo deve possibilitar o envio de documentos digitalizados (PDF, imagem) para comprovação de situações específicas de saque (ex: doença grave, aposentadoria). | [BS03](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/#BS_RF)|
+| RF42 |O aplicativo deve permitir o agendamento de saque futuro. | [BS10](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/#BS_RF) |
 
 ### Requisitos não-funcionais
 **Legendas:**
@@ -111,4 +111,5 @@ Essa página tem como objetivo compilar todos os requisitos elicitados com a uti
 | `1.3`  | 17/05/2025 | Adição de links de rastreabilidade aos requisitos | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.4`  | 30/05/2025 | Destruncamento de requisitos | [Victor Pontual](https://github.com/VictorPontual) | - |
 | `1.5`  | 30/05/2025 | Elicitação dos requisitos 41 e 42 | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) | - |
-| `1.6`  | 30/05/2025 | Aprimoração das descrições dos requisitos | [Danielle Soares](https://github.com/danielle-soaress) |  | - |
+| `1.6`  | 30/05/2025 | Aprimoramento das descrições dos requisitos | [Danielle Soares](https://github.com/danielle-soaress) |  | - |
+| `1.7`  | 31/05/2025 | Atualizando links de rastreabilidade | [Danielle Soares](https://github.com/danielle-soaress) |  | - |
