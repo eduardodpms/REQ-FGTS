@@ -87,6 +87,7 @@ O SIG é dividido em três tipos principais:
 - A avaliação começa pelos *softgoals* de nível mais baixo na hierarquia, relacionados a decisões específicas do projeto.
 - O procedimento propaga os rótulos hierarquicamente, avaliando o impacto das decisões nos *softgoals* de níveis superiores, até alcançar o topo do SIG.
 
+
 <font size="3"><p style="text-align: center">Figura 3: Procedimento de Avaliação no NFR Framework</p></font>
 
 
@@ -97,11 +98,11 @@ O SIG é dividido em três tipos principais:
 <font size="2"><p style="text-align: center">Fonte: [SILVA, 2019](https://aprender3.unb.br/pluginfile.php/3096155/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) </p></font>
 
 
-# Metodologia
+## Metodologia
 
 Para aplicar o **NFR Framework** ao desenvolvimento do aplicativo, adotamos uma abordagem em etapas estruturadas, com o objetivo de identificar, modelar, analisar e tomar decisões relacionadas aos requisitos não funcionais (softgoals) do sistema. A metodologia compreende as seguintes fases:
 
-## 1. Identificação dos Requisitos Não Funcionais (Softgoals)
+### 1. Identificação dos Requisitos Não Funcionais (Softgoals)
 
 Nesta etapa, foram identificados os principais requisitos não funcionais relevantes ao contexto do aplicativo, como:
 
@@ -113,7 +114,7 @@ Nesta etapa, foram identificados os principais requisitos não funcionais releva
 
 Essa identificação foi baseada em entrevistas com stakeholders, análise de mercado e levantamento de requisitos funcionais relacionados. Os requisitos não funcionais são representados como **softgoals**, que expressam intenções qualitativas sem critérios rígidos de satisfação.
 
-## 2. Modelagem com o NFR Framework
+### 2. Modelagem com o NFR Framework
 
 A modelagem foi realizada utilizando a notação proposta por [*Chung et al. (2000)*](https://aprender3.unb.br/pluginfile.php/3096155/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf), representando os softgoals em uma estrutura hierárquica com relacionamentos de contribuição entre eles. Foram utilizados os seguintes tipos de contribuição:
 
@@ -129,7 +130,7 @@ A modelagem foi realizada utilizando a notação proposta por [*Chung et al. (20
 
 Também foram especificadas as **operacionalizações**, ou seja, decisões de projeto que implementam cada softgoal.
 
-### Uso do Cartão de Especificação
+#### Uso do Cartão de Especificação
 
 Durante essa fase de modelagem, utilizou-se o **Cartão de Especificação** como instrumento de apoio à documentação e análise. Cada cartão foi preenchido com os seguintes elementos:
 
@@ -142,7 +143,7 @@ Durante essa fase de modelagem, utilizou-se o **Cartão de Especificação** com
 
 O cartão facilitou a **rastreabilidade, clareza e consistência** das informações, além de permitir uma análise comparativa entre alternativas e apoiar a comunicação com os stakeholders durante a modelagem dos requisitos.
 
-## 3. Avaliação dos Softgoals
+### 3. Avaliação dos Softgoals
 
 Após modelar os softgoals e suas contribuições, foi realizado o **procedimento de avaliação**, no qual cada softgoal recebeu um rótulo indicando o grau de satisfação:
 
@@ -155,12 +156,12 @@ Após modelar os softgoals e suas contribuições, foi realizado o **procediment
 
 A avaliação começou pelos softgoals de nível mais baixo (operacionalizações), subindo até os níveis superiores da hierarquia para analisar o impacto global das decisões.
 
-## 4. Tomada de Decisão
+### 4. Tomada de Decisão
 
 Com base nas análises e rótulos atribuídos, foram tomadas decisões de projeto priorizando alternativas que maximizassem a satisfação dos softgoals mais relevantes. Em casos de conflito entre requisitos (ex: desempenho vs. segurança), foram feitas ponderações com stakeholders para encontrar o melhor compromisso possível.
 
 
-## 5. Validação
+### 5. Validação
 
 Por fim, a validação da modelagem seguiu duas frentes:
 
@@ -193,7 +194,6 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 ---
 
 ## Levantamento Inicial
-
 
 
 ---
@@ -294,6 +294,13 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 
 > 2.</a> CHUNG, Lawrence; NIXON, Brian A.; YU, Eric; MYLLOPULOS, John. Non-functional requirements in software engineering. Springer Science & Business Media, 2000.
 
+<font size="3"><p style="text-align: center">Figura 4: Foto referência</p></font>
+
+<div align="center">
+  <img src="./../../assets/referencias/NFR.png" alt="FIGURA 4">
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [SILVA, 2019](https://aprender3.unb.br/pluginfile.php/3096155/mod_resource/content/2/DISSERTA%C3%87%C3%83O%20Reinaldo%20Ant%C3%B4nio%20da%20Silva.pdf) </p></font>
 
 ---
 
