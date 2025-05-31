@@ -2044,23 +2044,23 @@ Validação das histórias de usuário 13-30 presentes no vídeo a seguir:
 
 | Versão | Data       | Descrição                                 | Autor(es)                                     | Revisor(es) |
 |--------|------------|--------------------------------------------|-----------------------------------------------|-------------|
-| 1.0    | 27/05/2025 | Criação da página | [Enzo Emir](https://github.com/EnzoEmir)     | [Danielle Soares](https://github.com/danielle-soaress)  |
-| 1.1    | 27/05/2025 | Adicionando Introdução, Metodologia e Participantes | [Enzo Emir](https://github.com/EnzoEmir)     | [Marcelo Makoto](https://github.com/MM4k) |
-| 1.2    | 28/05/2025 | Adicionando Histórias 1 a 6               | [Enzo Emir](https://github.com/EnzoEmir)     | [Marcelo Makoto](https://github.com/MM4k) |
-| 1.3    | 28/05/2025 | Adição das Histórias de Usuário 7 a 11               | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress)  |
-| 1.4    | 29/05/2025 | Adição do modelo de tabela | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
-| 1.5    | 30/05/2025 | Adicionando Histórias 12 a 16 | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28)  |
-| 1.6    | 30/05/2025 | Adicionando Histórias 18 a 22 | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
-| 1.7    | 30/05/2025 | Adicionando fonte tabelas | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
-| 1.8    | 30/05/2025 | Atualizando sumário | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
-| 1.9    | 30/05/2025 | Adicionando Histórias 23, 24, 25, 26 e 27 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| 2.0    | 30/05/2025 | Atualizando sumário | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  | [Victor Pontual](https://github.com/VictorPontual) |
-| 2.1    | 30/05/2025 | Adicionando Histórias 29 à 33 | [Victor Pontual](https://github.com/VictorPontual)  | [Danielle Soares](https://github.com/danielle-soaress) |
-| 2.2    | 30/05/2025 | Adicionando histórias 34 à 39 | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
-| 2.3    | 30/05/2025 | Adicionando história 17 | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| 2.4    | 30/05/2025 | Adicionando história 35 | [Victor Pontual](https://github.com/VictorPontual) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| 2.5    | 30/05/2025 | Adicionando história 41 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Maria Eduarda](https://github.com/dudaa28) |
-| 2.6    | 30/05/2025 | Adicionando história 42 | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| 2.7    | 31/05/2025 | Corrigindo numerações | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
-| 2.8    | 30/05/2025 | Referências Bibliográficas | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
-| 2.9    | 31/05/2025 | Adicionando video validação 13-30 e Foto referência | [Maria Eduarda](https://github.com/dudaa28) | - |
+| `1.0`  | 27/05/2025 | Criação da página | [Enzo Emir](https://github.com/EnzoEmir)     | [Danielle Soares](https://github.com/danielle-soaress)  |
+| `1.1`   | 27/05/2025 | Adicionando Introdução, Metodologia e Participantes | [Enzo Emir](https://github.com/EnzoEmir)     | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.2`    | 28/05/2025 | Adicionando Histórias 1 a 6               | [Enzo Emir](https://github.com/EnzoEmir)     | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.3`    | 28/05/2025 | Adição das Histórias de Usuário 7 a 11               | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress)  |
+| `1.4`    | 29/05/2025 | Adição do modelo de tabela | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.5`    | 30/05/2025 | Adicionando Histórias 12 a 16 | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28)  |
+| `1.6`    | 30/05/2025 | Adicionando Histórias 18 a 22 | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
+| `1.7`    | 30/05/2025 | Adicionando fonte tabelas | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
+| `1.8`    | 30/05/2025 | Atualizando sumário | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
+| `1.9`    | 30/05/2025 | Adicionando Histórias 23, 24, 25, 26 e 27 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `2.0`    | 30/05/2025 | Atualizando sumário | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  | [Victor Pontual](https://github.com/VictorPontual) |
+| `2.1`    | 30/05/2025 | Adicionando Histórias 29 à 33 | [Victor Pontual](https://github.com/VictorPontual)  | [Danielle Soares](https://github.com/danielle-soaress) |
+| `2.2`    | 30/05/2025 | Adicionando histórias 34 à 39 | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
+| `2.3`    | 30/05/2025 | Adicionando história 17 | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `2.4`    | 30/05/2025 | Adicionando história 35 | [Victor Pontual](https://github.com/VictorPontual) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `2.5`    | 30/05/2025 | Adicionando história 41 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Maria Eduarda](https://github.com/dudaa28) |
+| `2.6`    | 30/05/2025 | Adicionando história 42 | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `2.7`    | 31/05/2025 | Corrigindo numerações | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
+| `2.8`    | 30/05/2025 | Referências Bibliográficas | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `2.9`    | 31/05/2025 | Adicionando video validação 13-30 e Foto referência | [Maria Eduarda](https://github.com/dudaa28) | - |
