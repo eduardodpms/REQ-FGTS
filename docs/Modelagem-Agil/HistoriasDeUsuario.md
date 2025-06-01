@@ -204,7 +204,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | **Item**                 | **Descrição**                                                                 |
 |--------------------------|------------------------------------------------------------------------------|
 | **ID**                   | US03                                                                         |
-| **Rastreabilidade**      | RF08 (IS05, EN02)                                                             |
+| **Rastreabilidade**      | RF38 (IS05)                                                             |
 | **Tema**                 | Notificações Sobre Andamento                                                 |
 | **Descrição**            | Eu, como comerciante, desejo receber notificações sobre o andamento do meu saque do FGTS para ser informada de atualizações sem precisar abrir o app constantemente. |
 | **Critérios de Aceitação** | - Notificações push quando houver mudança no status  <br> - Mensagens objetivas (Ex.: “Seu saque foi liberado”)  <br> - Opção de ativar/desativar notificações |
@@ -2064,4 +2064,4 @@ Validação das histórias de usuário 13-30 presentes no vídeo a seguir:
 | `2.7`    | 31/05/2025 | Corrigindo numerações | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `2.8`    | 30/05/2025 | Referências Bibliográficas | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `2.9`    | 31/05/2025 | Adicionando video validação 13-30 e Foto referência | [Maria Eduarda](https://github.com/dudaa28) | [Danielle Soares](https://github.com/danielle-soaress) |
-| `2.0`    | 31/05/2025 | Correção do link do vídeo | [Danielle Soares](https://github.com/danielle-soaress) | - |
+| `3.0`    | 31/05/2025 | Correção do link do vídeo | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
