@@ -279,7 +279,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
-  <tr><th colspan="2">Requisito Não Funcional – RNF08</th></tr>
+  <tr><th colspan="2">Requisito Não Funcional – RNF07</th></tr>
   <tr><td><strong>Classificação</strong></td><td>Portabilidade</td></tr>
   <tr><td><strong>Descrição</strong></td><td>O aplicativo deve fornecer as mesmas funcionalidades para diferentes plataformas e versões.</td></tr>
   <tr><td><strong>Justificativa</strong></td><td>Garantir a consistência da experiência do usuário, independentemente do dispositivo ou sistema operacional utilizado.</td></tr>
@@ -454,6 +454,45 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 ---
 
+## NFR01: Portabilidade
+
+### Descrição
+
+Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de requisitos não funcionais relacionados à portabilidade do sistema. Esses requisitos garantem que o sistema seja acessível em diferentes ambientes.
+
+### Requisitos
+
+Requisitos utilizados para desenvolver o SIG da Figura 4:
+
+- RFN07: O aplicativo deve fornecer as mesmas funcionalidades para diferentes plataformas e versões.
+
+- RFN10: O aplicativo deve estar disponível para outras plataformas, como web.
+
+<font size="3"><p style="text-align: center">Figura 4: SIG Portabilidade</p></font>
+
+<div align="center">
+  <img src="./../../assets/NFRFramework/Portabilidade.png" alt="FIGURA 4">
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </p></font>
+
+### Propagação dos impactos
+
+A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na Figura 4.
+
+<font size="3"><p style="text-align: center">Tabela X: Tabela de impactos.</p></font>
+
+<center>
+| NFR | Impacto | Avaliador |
+|-----|---------|-------|
+|Portabilidade| ✓ | [Gabriel Campello](https://github.com/G16C)|
+|Manter as mesmas funcionalidades |  𝒲+|  [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)|
+|Disponibilidade em outras plataformas| 𝒲+|[Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)|
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </p></font>
+
 ## Modelagem
 
 ## Validação
@@ -490,3 +529,4 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 | `1.5`    | 31/05/2025 | Cartões de Especificação RNF06 e RNF11 | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.6`    | 31/05/2025 | Cartões de Especificação RNF04 e RNF09 | [Enzo Emir](https://github.com/EnzoEmir) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.7`    | 01/06/2025 | Tabela de Requisitos Não-Funcionais utilizadas | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
+| `1.8`    | 01/06/2025 | Adição do NRF01 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
