@@ -111,6 +111,7 @@ Nesta etapa, foram identificados os principais requisitos não funcionais releva
 - Segurança  
 - Acessibilidade  
 - Confiabilidade  
+- Portabilidade
 
 Essa identificação foi baseada em entrevistas com stakeholders, análise de mercado e levantamento de requisitos funcionais relacionados. Os requisitos não funcionais são representados como **softgoals**, que expressam intenções qualitativas sem critérios rígidos de satisfação.
 
