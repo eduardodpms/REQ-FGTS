@@ -206,7 +206,7 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 | Eduardo de Pina  | -    | -    |
 | Enzo Emir        | -    | -    |
 | Leticia Arisa    | 31/05/2025    | 20:17  |
-| Marcelo Makoto   | -    | -    |
+| Marcelo Makoto   | 31/05/2025    | 08:52    |
 | Maria Eduarda    | 31/05/2025 | 00:45 |
 | Victor Pontual   | -    | -    |
 
