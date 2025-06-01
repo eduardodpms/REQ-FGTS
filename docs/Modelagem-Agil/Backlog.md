@@ -237,6 +237,15 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       </td>
     </tr>
     <tr>
+      <td>Eu, como usuária que busca agilidade em momentos de desligamento, desejo poder solicitar o saque do FGTS na modalidade Saque-rescisão, para ter acesso rápido ao valor após a demissão.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#historia-12-disponibilidade-de-saque-rescisao">H12</a></td>
+      <td>Alta</td>
+      <td>RF36</td>
+      <td>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST013</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST014</a>
+      </td>
+    <tr>
       <td>Eu, como usuário do sistema, desejo visualizar comentários explicativos sobre o status de cada saque para entender melhor sua situação ou andamento.</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#h18">H18</a></td>
       <td>Média</td>
@@ -297,9 +306,9 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       </td>
     </tr>
     <tr>
-      <td></td>
-      <td>RF24</td>
-      <td></td>
+      <td>Eu, como técnica de enfermagem que busca praticidade, desejo acessar uma aba exclusiva para solicitação e acompanhamento de saques, para saber se o dinheiro foi liberado sem complicação.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#historia-09-aba-de-solicitacao-e-acompanhamento-de-saques">H09</a></td>
+      <td>Alta</td>
       <td>RF24</td>
       <td> 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB07</a>
@@ -370,16 +379,16 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST07</a></td>
     </tr>
     <tr>
-      <td></td>
-      <td>RF25</td>
-      <td></td>
+      <td>Eu, como comerciante que evita processos longos, desejo acessar uma aba com informações como PIS/PASEP, sistemática de saque e ajuda, para entender melhor meus direitos sem perder tempo.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#historia-10-aba-de-informacoes-adicionais">H10</a></td>
+      <td>Média</td>
       <td>RF25</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB09</a></td>
     </tr>
     <tr>
-      <td></td>
-      <td>RF26</td>
-      <td></td>
+      <td>Eu, como usuário que controla ativamente suas finanças, desejo visualizar um resumo dos tipos de saque disponíveis, para escolher a melhor opção para meu perfil.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#historia-11-resumo-dos-tipos-de-saque">H11</a></td>
+      <td>Alta</td>
       <td>RF26</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST02</a></td>
     </tr>
@@ -433,9 +442,9 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       </td>
     </tr>
     <tr>
-      <td></td>
-      <td>RF15</td>
-      <td></td>
+      <td>Eu, como aposentado com baixa autonomia digital, desejo que minha filha possa usar um chat no app para tirar dúvidas e resolver problemas, para que não precisemos ir até a agência.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#historia-07-assistente-via-chat">H07</a></td>
+      <td>Alta</td>
       <td>RF15</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS13</a>
@@ -475,9 +484,9 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
     </tr>
     <tr>
       <td><a href="#tema5">E12</a> - Busca e navegação</td>
-      <td></td>
-      <td>RF16</td>
-      <td></td>
+      <td>Eu, como usuário avançado que domina tecnologia, desejo buscar rapidamente funcionalidades como extrato ou saque, para navegar de forma mais eficiente no aplicativo.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#historia-08-campo-de-busca">H08</a></td>
+      <td>Alta</td>
       <td>RF16</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS14</a>
@@ -533,5 +542,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
 | 1.1    | 30/05/2025 | Atualizações no texto da página | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
 | 1.2    | 30/05/2025 | Adicionando Requisitos Backlog | [Maria Eduarda](https://github.com/dudaa28) | [Danielle Soares](https://github.com/danielle-soaress) |
 | 1.3    | 30/05/2025 | Adicionando H12-H18 ao backlog | [Danielle Soares](https://github.com/danielle-soaress) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| 1.4    | 30/05/2025 | Adicionando H25-H30 ao backlog | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Victor Pontual](https://github.com/VictorPontual) |
-| 1.5    | 01/06/2025 | Adicionando H-H30 ao backlog | [Victor Pontual](https://github.com/VictorPontual) | -- |
+| 1.4    | 30/05/2025 | Adicionando H25-H30 ao backlog | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
+| 1.5    | 01/06/2025 | Adicionando H07-H12 ao backlog | [Marcelo Makoto](https://github.com/MM4k) | [Victor Pontual](https://github.com/VictorPontual) |
+| 1.6    | 01/06/2025 | Adicionando H31-H36 ao backlog | [Victor Pontual](https://github.com/VictorPontual) | -- |
+>>>>>>> abfb18fd7e8791d3fda30ec6192ac1ead601515b
