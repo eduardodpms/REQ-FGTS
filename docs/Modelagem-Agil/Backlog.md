@@ -565,7 +565,44 @@ Validação do Backlog de usuário 13-30 presentes no vídeo a seguir:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/eEOLVMj95DE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
+<font size="3"><p style="text-align: center">Tabela 3: Participantes Validação</p></font>
 
+Validação dos Backlogs 01-12 e 31-42 presentes no vídeo a seguir:
+
+<center>
+    <table>
+    <thead>
+        <tr>
+        <th>Participante</th>
+        <th>Backlog</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+        <td>Enzo Emir</td>
+        <td>H01 à H06</td>
+        </tr>
+        <tr>
+        <td>Marcelo Makoto</td>
+        <td>H07 à H12</td>
+        </tr>
+        <tr>
+        <td>Victor Pontual</td>
+        <td>H30 à H36</td>
+        </tr>
+        <tr>
+        <td>Eduardo de Pina</td>
+        <td>H37 à H42</td>
+        </tr>
+    </tbody>
+    </table>
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
+<p style="text-align: center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6RrwddCuJdU?si=LqQ4cmGbbc1WM4Nd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 ---
 
 ##  Referências
