@@ -266,9 +266,9 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       </td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Eu, como trabalhador com direito ao FGTS, desejo solicitar saques através do sistema para acessar meus recursos de forma prática e segura.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#historia-22-solicitacao-de-saques">H22</a></td>
+      <td>Alta</td>
       <td>RF28</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN01</a>, 
@@ -333,9 +333,9 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       </td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Eu, como trabalhador com direito ao FGTS, desejo agendar um saque para uma data futura para poder me planejar financeiramente com antecedência.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#historia-24-agendamento-de-saque-futuro">H24</a></td>
+      <td>Alta</td>
       <td>RF42</td>
       <td> 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/#BS_RF">BS10</a>
@@ -422,9 +422,9 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       </td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Eu, como usuário do sistema FGTS, desejo visualizar os dados da conta bancária cadastrada para verificar se as informações estão corretas.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#historia-23-visualizacao-de-dados-bancarios">H23</a></td>
+      <td>Média</td>
       <td>RF31</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST010</a>
@@ -442,9 +442,9 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
     <tr>
       <td rowspan="3">Comunicação e Suporte</td>
       <td rowspan="2"><a href="#tema4">E09</a> - Suporte via chat e canal de atendimento</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Eu, como usuário do aplicativo, desejo ter acesso a um canal de suporte ou chatbot para esclarecer minhas dúvidas de forma rápida e eficiente.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#h19">H19</a></td>
+      <td>Alta</td>
       <td>RF02</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN04</a>
@@ -461,9 +461,9 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
     </tr>
     <tr>
       <td><a href="#tema4">E10</a> - Notificações e avisos</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>	Eu, como usuário do sistema FGTS, desejo receber notificações sobre o status da solicitação e confirmação de saque para acompanhar o andamento e ter confirmação das ações realizadas.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#historia-21-notificacoes-de-status-e-saques">H21</a></td>
+      <td>Alta</td>
       <td>RF27</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST03</a>, 
@@ -474,9 +474,9 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
     <tr>
       <td rowspan="3">Usabilidade e Acessibilidade</td>
       <td rowspan="2"><a href="#tema5">E11</a> - Personalização da interface</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>	Eu, como usuário, desejo poder ajustar o tamanho das fontes na interface para melhorar a legibilidade e personalizar minha experiência de uso.</td>
+      <td><a href="hhttps://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#historia-20-ajuste-de-tamanho-de-fonte">H20</a></td>
+      <td>Média</td>
       <td>RF30</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST08</a>
