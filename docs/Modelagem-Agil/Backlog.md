@@ -23,31 +23,31 @@ Com as histórias devidamente documentadas, o PO procedeu à sua priorização s
     <tbody>
         <tr>
         <td>Danielle Soares</td>
-        <td></td>
+        <td>Produtor do Backlog</td>
         </tr>
         <tr>
         <td>Eduardo de Pina</td>
-        <td></td>
+        <td>Produtor do Backlog</td>
         </tr>
         <tr>
         <td>Enzo Emir</td>
-        <td></td>
+        <td>Produtor do Backlog</td>
         </tr>
         <tr>
         <td>Leticia Arisa</td>
-        <td></td>
+        <td>Produtor do Backlog</td>
         </tr>
         <tr>
         <td>Marcelo Makoto</td>
-        <td></td>
+        <td>Produtor do Backlog</td>
         </tr>
         <tr>
         <td>Maria Eduarda</td>
-        <td></td>
+        <td>Produtor do Backlog</td>
         </tr>
         <tr>
         <td>Victor Pontual</td>
-        <td></td>
+        <td>Produtor do Backlog</td>
         </tr>
     </tbody>
     </table>
@@ -574,6 +574,14 @@ Validação do Backlog de usuário 13-30 presentes no vídeo a seguir:
 
 > <a id="REF2" href="#anchor_2">2.</a>  SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 15. UnB, 2025. Disponível em: https://aprender3.unb.br/pluginfile.php/3096144/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em: 30 de maio 2025.
 
+<font size="3"><p style="text-align: center">Figura 1: Foto referência</p></font>
+
+<div align="center">
+  <img src="./../../assets/referencias/backlog.png" alt="FIGURA 1">
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [SERRANO, 2025](https://aprender3.unb.br/pluginfile.php/3096144/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf) </p></font>
+
 
 ---
 
@@ -592,3 +600,4 @@ Validação do Backlog de usuário 13-30 presentes no vídeo a seguir:
 | 1.7   | 01/06/2025 | Correções no backlog | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | 1.8   | 01/06/2025 | Adicionando histórias 37-42 | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
 | 1.9   | 01/06/2025 | Adicionando video Validação | [Maria Eduarda](https://github.com/dudaa28) | - |
+| 2.0   | 01/06/2025 | Foto referência | [Maria Eduarda](https://github.com/dudaa28) | - |
