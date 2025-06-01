@@ -250,11 +250,6 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 ---
 
-## Levantamento Inicial
-
-
----
-
 ## Cartões de Especificação
 
 <font size="3"><p style="text-align: center">Tabela 4: Processo Login</p></font>

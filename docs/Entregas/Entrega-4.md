@@ -11,7 +11,8 @@ A Entrega 4 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 ---
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M228uKxFDQE
+" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
 ---
@@ -88,5 +89,6 @@ A Entrega 4 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0`  | 01/06/2025 | Criação do documento | [Marcelo Makoto](https://github.com/MM4k) | - |
+| `1.0`  | 01/06/2025 | Criação do documento | [Marcelo Makoto](https://github.com/MM4k) | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.1`  | 01/06/2025 | Adicionando video entrega 4 | [Maria Eduarda](https://github.com/dudaa28) | - |
 
