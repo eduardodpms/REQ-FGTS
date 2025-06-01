@@ -204,7 +204,7 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 |------------------|------|------|
 | Danielle Soares  | -    | -    |
 | Eduardo de Pina  | -    | -    |
-| Enzo Emir        | -    | -    |
+| Enzo Emir        | 31/05/2025    | 11:45    |
 | Leticia Arisa    | 31/05/2025    | 20:17  |
 | Marcelo Makoto   | 31/05/2025    | 08:52    |
 | Maria Eduarda    | 31/05/2025 | 00:45 |
