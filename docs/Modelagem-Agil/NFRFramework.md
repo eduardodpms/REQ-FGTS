@@ -664,7 +664,7 @@ A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impac
 
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms) </p></font>
 
-## NFR02: Usabilidade
+## NFR04: Usabilidade
 
 ### Descrição
 
