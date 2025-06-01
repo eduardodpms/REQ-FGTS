@@ -474,9 +474,9 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       </td>
     </tr>
     <tr>
-      <td></td>
-      <td>RF32</td>
-      <td></td>
+      <td>Eu, como usuário do sistema FGTS, desejo contar com uma interface de login simples e objetiva, para facilitar o acesso ao aplicativo mesmo com pouca familiaridade com tecnologia.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#h33">H33</a></td>
+      <td>Média</td>
       <td>RF32</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST011</a>
@@ -504,9 +504,9 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       </td>
     </tr>
     <tr>
-      <td></td>
-      <td>RF34</td>
-      <td></td>
+      <td>Eu, como usuário do sistema FGTS, desejo visualizar e aceitar o termo de adesão ao saque-aniversário ou outra sistemática, para formalizar minha escolha e garantir conformidade com as exigências legais.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#h35">H35</a></td>
+      <td>Média</td>
       <td>RF34</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST016</a></td>
     </tr>
