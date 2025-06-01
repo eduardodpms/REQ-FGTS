@@ -539,11 +539,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF04</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF36</a></td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST014</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST013, ST014</a></td>
     </tr>
     <tr>
       <td>Tema</td>
