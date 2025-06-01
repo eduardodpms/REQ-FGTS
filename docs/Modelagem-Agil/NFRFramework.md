@@ -489,4 +489,4 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 | `1.4`    | 31/05/2025 | Cartões de Especificação RNF05 e RNF22 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.5`    | 31/05/2025 | Cartões de Especificação RNF06 e RNF11 | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.6`    | 31/05/2025 | Cartões de Especificação RNF04 e RNF09 | [Enzo Emir](https://github.com/EnzoEmir) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| `1.7`    | 01/06/2025 | Tabela de Requisitos Não-Funcionais utilizadas | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
+| `1.7`    | 01/06/2025 | Tabela de Requisitos Não-Funcionais utilizadas | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Enzo Emir](https://github.com/EnzoEmir) |
