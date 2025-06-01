@@ -156,7 +156,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
     </tr>
     <tr>
       <td></td>
-      <td>RF07</td>
+      <td></td>
       <td></td>
       <td>RF07</td>
       <td>
@@ -174,7 +174,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
     </tr>
     <tr>
       <td></td>
-      <td>RF06</td>
+      <td></td>
       <td></td>
       <td>RF06</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS02</a></td>
@@ -267,7 +267,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
     </tr>
     <tr>
       <td></td>
-      <td>RF28</td>
+      <td></td>
       <td></td>
       <td>RF28</td>
       <td>
@@ -279,7 +279,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
     </tr>
     <tr>
       <td></td>
-      <td>RF07</td>
+      <td></td>
       <td></td>
       <td>RF07</td>
       <td>
@@ -375,14 +375,14 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
     </tr>
     <tr>
       <td></td>
-      <td>RF18</td>
+      <td></td>
       <td></td>
       <td>RF18</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS16</a></td>
     </tr>
     <tr>
       <td></td>
-      <td>RF29</td>
+      <td></td>
       <td></td>
       <td>RF29</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST07</a></td>
@@ -412,7 +412,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td rowspan="3">Contas Bancárias</td>
       <td rowspan="3"><a href="#tema3">E08</a> - Cadastro e gerenciamento de contas bancárias</td>
       <td></td>
-      <td>RF14</td>
+      <td></td>
       <td></td>
       <td>RF14</td>
       <td>
@@ -423,7 +423,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
     </tr>
     <tr>
       <td></td>
-      <td>RF31</td>
+      <td></td>
       <td></td>
       <td>RF31</td>
       <td>
@@ -443,7 +443,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td rowspan="3">Comunicação e Suporte</td>
       <td rowspan="2"><a href="#tema4">E09</a> - Suporte via chat e canal de atendimento</td>
       <td></td>
-      <td>RF02</td>
+      <td></td>
       <td></td>
       <td>RF02</td>
       <td>
@@ -462,7 +462,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
     <tr>
       <td><a href="#tema4">E10</a> - Notificações e avisos</td>
       <td></td>
-      <td>RF27</td>
+      <td></td>
       <td></td>
       <td>RF27</td>
       <td>
@@ -475,7 +475,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td rowspan="3">Usabilidade e Acessibilidade</td>
       <td rowspan="2"><a href="#tema5">E11</a> - Personalização da interface</td>
       <td></td>
-      <td>RF30</td>
+      <td></td>
       <td></td>
       <td>RF30</td>
       <td>
