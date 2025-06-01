@@ -183,7 +183,7 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 | Danielle Soares  | -    | -    |
 | Eduardo de Pina  | -    | -    |
 | Enzo Emir        | -    | -    |
-| Leticia Arisa    | -    | -    |
+| Leticia Arisa    | 31/05/2025    | 20:17  |
 | Marcelo Makoto   | -    | -    |
 | Maria Eduarda    | 31/05/2025 | 00:45 |
 | Victor Pontual   | -    | -    |
@@ -191,6 +191,39 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
+
+### Requisitos não-funcionais
+
+A Tabela 2 a seguir lista os Requisitos Não-Funcionais utilizados para a criação do NFR Framework.
+
+<div style="text-align: center">
+<p>Tabela 2: Requisitos não-funcionais</p>
+</div>
+
+<center>
+
+| Código | Descrição                                                                                             | Origem                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|--------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| RNF02  | O processo de login deve ser simplificado                                                             | [EN08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RNF)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| RNF03  | O sistema deve apresentar informações de forma transparente e confiável                               | [EN09](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RNF)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| RNF04  | Os prazos informados no app devem ser cumpridos fielmente                                             | [EN10](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RNF)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| RNF05  | O aplicativo deve ser confiável e evitar falhas ou inconsistências nos processos                      | [EN11](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RNF)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| RNF06  | O aplicativo deve funcionar corretamente mesmo com conexão instável                                   | [EN12](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RNF)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| RNF07  | O aplicativo deve fornecer as mesmas funcionalidades para diferentes plataformas e versões            | [IS18](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| RNF08  | Os menus devem fornecer informações não repetidas                                                     | [IS19](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| RNF09  | O aplicativo deve aplicar princípios de acessibilidade                                                | [IS21](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| RNF10  | O aplicativo deve estar disponível para outras plataformas, como web                                  | [IS22](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| RNF11  | O aplicativo deve proporcionar segurança de dados pessoais                                            | [IS23](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| RNF12  | O aplicativo deve proporcionar agilidade ao acessar as funcionalidades                                | [IS24](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| RNF13  | O sistema deve garantir segurança firme com verificação de dados pelo usuário                         | [OB10](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RNF)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| RNF21  | Os menus devem ser autoexplicativos, com estrutura hierárquica lógica e nomenclatura padronizada      | [IS19](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF), [OB11](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RNF)                                                                                                                                                                                                                                                                                                                                                              |
+| RNF22  | A aplicação deve estar em conformidade com diretrizes de acessibilidade, garantindo acesso a pessoas com deficiência visual, auditiva ou motora | [IS20](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </p></font>
+
+<br>
 
 ---
 
@@ -357,7 +390,7 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 
 ## Cartões de Especificação
 
-<font size="3"><p style="text-align: center">Tabela 10: Participantes</p></font>
+<font size="3"><p style="text-align: center">Tabela 10: Cumprimento dos Prazos</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
@@ -376,7 +409,7 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir) </p></font>
 
-<font size="3"><p style="text-align: center">Tabela 11: Participantes</p></font>
+<font size="3"><p style="text-align: center">Tabela 11: Princípios de Acessibilidade.</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
@@ -433,4 +466,5 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 | `1.3`    | 31/05/2025 | Cartões de Especificação RNF12 e RNF21 | [Maria Eduarda](https://github.com/dudaa28) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.4`    | 31/05/2025 | Cartões de Especificação RNF05 e RNF22 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.5`    | 31/05/2025 | Cartões de Especificação RNF06 e RNF11 | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
-| `1.6`    | 31/05/2025 | Cartões de Especificação RNF04 e RNF09 | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `1.6`    | 31/05/2025 | Cartões de Especificação RNF04 e RNF09 | [Enzo Emir](https://github.com/EnzoEmir) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.7`    | 01/06/2025 | Tabela de Requisitos Não-Funcionais utilizadas | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
