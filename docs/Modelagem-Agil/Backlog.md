@@ -545,4 +545,3 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
 | 1.4    | 30/05/2025 | Adicionando H25-H30 ao backlog | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
 | 1.5    | 01/06/2025 | Adicionando H07-H12 ao backlog | [Marcelo Makoto](https://github.com/MM4k) | [Victor Pontual](https://github.com/VictorPontual) |
 | 1.6    | 01/06/2025 | Adicionando H31-H36 ao backlog | [Victor Pontual](https://github.com/VictorPontual) | -- |
->>>>>>> abfb18fd7e8791d3fda30ec6192ac1ead601515b
