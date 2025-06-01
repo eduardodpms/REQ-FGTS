@@ -204,7 +204,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | **Item**                 | **Descrição**                                                                 |
 |--------------------------|------------------------------------------------------------------------------|
 | **ID**                   | US03                                                                         |
-| **Rastreabilidade**      | RF08 (IS05, EN02)                                                             |
+| **Rastreabilidade**      | RF38 (IS05)                                                             |
 | **Tema**                 | Notificações Sobre Andamento                                                 |
 | **Descrição**            | Eu, como comerciante, desejo receber notificações sobre o andamento do meu saque do FGTS para ser informada de atualizações sem precisar abrir o app constantemente. |
 | **Critérios de Aceitação** | - Notificações push quando houver mudança no status  <br> - Mensagens objetivas (Ex.: “Seu saque foi liberado”)  <br> - Opção de ativar/desativar notificações |
