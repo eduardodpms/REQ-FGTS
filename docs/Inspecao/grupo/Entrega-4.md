@@ -16,6 +16,12 @@ A Entrega 4 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 
 ---
 
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HpJ3ZmBCHXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
+---
+
 
 ## Modelo para Lista de Verificação/Inspeção da Entrega 4
 
@@ -138,4 +144,5 @@ A Entrega 4 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0`  | 01/06/2025 | Criação do documento | [Marcelo Makoto](https://github.com/MM4k) | [Maria Eduarda](https://github.com/dudaa28) |
-| `1.1`  | 01/06/2025 | Documento verificado | [Maria Eduarda](https://github.com/dudaa28) | - |
+| `1.1`  | 01/06/2025 | Documento verificado | [Maria Eduarda](https://github.com/dudaa28) | [Victor Pontual](https://github.com/VictorPontual) |
+| `1.2`  | 01/06/2025 | adição dos videos | [Victor Pontual](https://github.com/VictorPontual) | - |
