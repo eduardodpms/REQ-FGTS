@@ -599,5 +599,5 @@ Validação do Backlog de usuário 13-30 presentes no vídeo a seguir:
 | 1.6    | 01/06/2025 | Adicionando H01-H06 ao backlog | [Enzo Emir](https://github.com/EnzoEmir) | [Danielle Soares](https://github.com/danielle-soaress) |
 | 1.7   | 01/06/2025 | Correções no backlog | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | 1.8   | 01/06/2025 | Adicionando histórias 37-42 | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
-| 1.9   | 01/06/2025 | Adicionando video Validação | [Maria Eduarda](https://github.com/dudaa28) | - |
-| 2.0   | 01/06/2025 | Foto referência | [Maria Eduarda](https://github.com/dudaa28) | - |
+| 1.9   | 01/06/2025 | Adicionando video Validação | [Maria Eduarda](https://github.com/dudaa28) | [Enzo Emir](https://github.com/EnzoEmir) |
+| 2.0   | 01/06/2025 | Foto referência | [Maria Eduarda](https://github.com/dudaa28) | [Victor Pontual](https://github.com/VictorPontual) |
