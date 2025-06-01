@@ -585,6 +585,47 @@ A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impac
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </p></font>
 
+## NFR02: Confiabilidade
+
+### Descrição
+
+Este SIG (Softgoal Interdependency Graph) foi elaborado com base nos requisitos não funcionais relacionados à confiabilidade do sistema. A confiabilidade garante que o sistema execute suas funções de maneira consistente, sem falhas, mesmo em situações adversas, como conexões instáveis ou dependências externas.
+
+### Requisitos
+
+Requisitos utilizados para desenvolver o SIG da Figura 5:
+
+- RNF03: O sistema deve apresentar informações de forma transparente e confiável.
+- RNF04: Os prazos informados no app devem ser cumpridos fielmente.
+- RNF05: O aplicativo deve ser confiável e evitar falhas ou inconsistências nos processos.
+- RNF06: O aplicativo deve funcionar corretamente mesmo com conexão instável.
+
+<font size="3"><p style="text-align: center">Figura 5: SIG Confiabilidade</p></font>
+
+<div align="center">
+  <img src="./../../assets/NFRFramework/Confiabilidade.png" alt="FIGURA 5">
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
+### Propagação dos impactos
+
+A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na Figura 5.
+
+<font size="3"><p style="text-align: center">Tabela X: Tabela de impactos.</p></font>
+
+<center>
+
+| NFR                                                        | Impacto | Avaliador |
+|------------------------------------------------------------|---------|-----------|
+| Confiabilidade (RNF05 - evitar falhas ou inconsistências)  | ✓       | [Enzo Emir](https://github.com/EnzoEmir) |
+| Funcionamento em conexão instável (RNF06)                  | 𝒲+      | [Enzo Emir](https://github.com/EnzoEmir) |
+| Cumprimento de prazos (RNF04)                              | 𝒲+      | [Enzo Emir](https://github.com/EnzoEmir) |
+| Transparência e precisão das informações (RNF03)           | ✓       | [Enzo Emir](https://github.com/EnzoEmir) |
+
+</center>
+
+
 ## Modelagem
 
 ## Validação
@@ -624,4 +665,5 @@ A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impac
 | `1.8`    | 01/06/2025 | Adição do NRF01 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.9`    | 31/05/2025 | Cartões de Especificação RNF03 e RNF08 | [Eduardo de Pina](https://github.com/eduardodpms)  | [Enzo Emir](https://github.com/EnzoEmir) |
 | `2.0`    | 01/06/2025 | NFR 00 - Geral | [Danielle Soares](https://github.com/danielle-soaress)  | [Victor Pontual](https://github.com/VictorPontual)|
-| `2.1`    | 01/06/2025 | Cartões de Especificação RNF10 e RNF13 | [Victor Pontual](https://github.com/VictorPontual)  | - |
+| `2.1`    | 01/06/2025 | Cartões de Especificação RNF10 e RNF13 | [Victor Pontual](https://github.com/VictorPontual)  | [Enzo Emir](https://github.com/EnzoEmir) |
+| `2.2`    | 01/06/2025 | Adição do NRF02 | [Enzo Emir](https://github.com/EnzoEmir)  | - |
