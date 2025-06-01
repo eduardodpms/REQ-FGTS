@@ -450,8 +450,44 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir) </p></font>
 
+<font size="3"><p style="text-align: center">Tabela 14: Confiabilidade de informações.</p></font>
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Requisito Não Funcional – RNF03</th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Segurança</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O sistema deve apresentar informações de forma transparente e confiável.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>A confiabilidade e a transparência são requisitos básicos em uma aplicação que trabalha com dados bancários.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RNF">EN09</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>O usuário deve conseguir acessar os seus dados de forma segura e transparente, sem que haja desconforto ou desconfiança.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Verificação de informações junto ao banco e sistema de autenticação.</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>7.5</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>A acessibilidade pode modificar a maneira como as informações são exibidas.</td></tr>
+  <tr><td><strong>História</strong></td><td>01/06/2025</td></tr>
+</table>
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
 
+<font size="3"><p style="text-align: center">Tabela 15: Unicidade na exibição de informações.</p></font>
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Requisito Não Funcional – RNF08</th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Confiabilidade</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>Os menus devem fornecer informações não repetidas.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>A existência de informações repetidas nos menus pode impactar na confiabilidade que o usuário tem no sistema, bem como confundí-lo.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF">IS19</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>O usuário não pode encontrar menus que contenham botões, textos, caixas ou dados repetidos.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Planejamento de design e de front-end do aplicativo.</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>4.0</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Nenhum.</td></tr>
+  <tr><td><strong>História</strong></td><td>01/06/2025</td></tr>
+</table>
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 ---
 
 ## NFR01: Portabilidade
@@ -531,4 +567,5 @@ A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impac
 | `1.5`    | 31/05/2025 | Cartões de Especificação RNF06 e RNF11 | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.6`    | 31/05/2025 | Cartões de Especificação RNF04 e RNF09 | [Enzo Emir](https://github.com/EnzoEmir) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.7`    | 01/06/2025 | Tabela de Requisitos Não-Funcionais utilizadas | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Enzo Emir](https://github.com/EnzoEmir) |
-| `1.8`    | 01/06/2025 | Adição do NRF01 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
+| `1.8`    | 01/06/2025 | Adição do NRF01 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.9`    | 31/05/2025 | Cartões de Especificação RNF03 e RNF08 | [Eduardo de Pina](https://github.com/eduardodpms)  | [Enzo Emir](https://github.com/EnzoEmir) |
