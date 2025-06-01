@@ -411,7 +411,6 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
-## Cartões de Especificação
 
 <font size="3"><p style="text-align: center">Tabela 12: Cumprimento dos Prazos</p></font>
 
@@ -625,6 +624,46 @@ A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impac
 
 </center>
 
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
+## NFR03: Segurança
+
+### Descrição
+
+Este SIG (Softgoal Interdependency Graph) foi elaborado com base nos requisitos não funcionais relacionados à segurança do sistema no que tange ao dados. A segurança é responsável por garantir que os dados do usuário e de todas as partes envolvidas no uso do sistema tenham uma camada de proteção contra a exposição indesejada das suas informações.
+
+### Requisitos
+
+Requisitos utilizados para desenvolver o SIG da Figura 6:
+
+- RNF11: O aplicativo deve proporcionar segurança de dados pessoais
+- RNF13: O sistema deve garantir segurança firme com verificação de dados pelo usuário.
+
+<font size="3"><p style="text-align: center">Figura 6: SIG Segurança</p></font>
+
+<div align="center">
+  <img src="./../../assets/NFRFramework/Segurança.png" alt="FIGURA 6">
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
+
+### Propagação dos impactos
+
+A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na Figura 6.
+
+<font size="3"><p style="text-align: center">Tabela X: Tabela de impactos.</p></font>
+
+<center>
+
+| NFR | Impacto | Avaliador |
+|-|-|-|
+| Segurança de dados pessoais (RNF11) | ✓ | [Eduardo de Pina](https://github.com/eduardodpms) |
+| Verificação dos dados pelo usuário (RNF13) | 𝒲+ | [Eduardo de Pina](https://github.com/eduardodpms) |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms) </p></font>
+
 
 ## Modelagem
 
@@ -666,4 +705,5 @@ A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impac
 | `1.9`    | 31/05/2025 | Cartões de Especificação RNF03 e RNF08 | [Eduardo de Pina](https://github.com/eduardodpms)  | [Enzo Emir](https://github.com/EnzoEmir) |
 | `2.0`    | 01/06/2025 | NFR 00 - Geral | [Danielle Soares](https://github.com/danielle-soaress)  | [Victor Pontual](https://github.com/VictorPontual)|
 | `2.1`    | 01/06/2025 | Cartões de Especificação RNF10 e RNF13 | [Victor Pontual](https://github.com/VictorPontual)  | [Enzo Emir](https://github.com/EnzoEmir) |
-| `2.2`    | 01/06/2025 | Adição do NRF02 | [Enzo Emir](https://github.com/EnzoEmir)  | - |
+| `2.2`    | 01/06/2025 | Adição do NRF02 | [Enzo Emir](https://github.com/EnzoEmir)  | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `2.3`    | 01/06/2025 | Adição do NRF03 | [Eduardo de Pina](https://github.com/eduardodpms)  | - |
