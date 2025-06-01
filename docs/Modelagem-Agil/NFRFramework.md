@@ -488,6 +488,46 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 </center>
 
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
+
+<font size="3"><p style="text-align: center">Tabela 16: O aplicativo deve estar disponível para outras plataformas, como web.</p></font>
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Requisito Não Funcional – RNF10</th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Portabilidade</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O aplicativo deve estar disponível para outras plataformas além do celular, como navegadores web.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Expandir a acessibilidade do sistema para diferentes perfis de usuário, incluindo aqueles que preferem utilizar computadores ou que não têm acesso fácil a dispositivos móveis.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF">IS22</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>O sistema deve estar acessível por navegadores modernos em computadores pessoais (Windows, Linux, MacOS).</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Planejamento e desenvolvimento de uma versão responsiva ou adaptada para web.</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>4.0</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Nenhum.</td></tr>
+  <tr><td><strong>História</strong></td><td>01/06/2025</td></tr>
+</table>
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
+
+
+<font size="3"><p style="text-align: center">Tabela 17: O sistema deve garantir segurança firme com verificação de dados pelo usuário</p></font>
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Requisito Não Funcional – RNF13</th></tr>
+  <tr><td><strong>Classificação</strong></td><td>Segurança</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>O sistema deve permitir e incentivar a verificação ativa de dados pelo usuário para prevenir fraudes ou acessos indevidos.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Garantir que o usuário esteja ciente dos dados utilizados e possa confirmar suas informações aumenta a segurança e a confiabilidade do sistema.</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB10</a></td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>O sistema deve exibir resumos dos dados antes de cada ação crítica (como saque ou alteração de conta), solicitando confirmação do usuário.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Integração com módulos de segurança e lógica de interface voltada à confirmação de dados.</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>4.5</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Nenhum.</td></tr>
+  <tr><td><strong>História</strong></td><td>01/06/2025</td></tr>
+</table>
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
+
 ---
 
 ## NFR01: Portabilidade
@@ -569,3 +609,4 @@ A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impac
 | `1.7`    | 01/06/2025 | Tabela de Requisitos Não-Funcionais utilizadas | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.8`    | 01/06/2025 | Adição do NRF01 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.9`    | 31/05/2025 | Cartões de Especificação RNF03 e RNF08 | [Eduardo de Pina](https://github.com/eduardodpms)  | [Enzo Emir](https://github.com/EnzoEmir) |
+| `2.0`    | 01/06/2025 | Cartões de Especificação RNF10 e RNF13 | [Victor Pontual](https://github.com/VictorPontual)  | - |
