@@ -492,12 +492,12 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 ## NFR00: Geral
 
-A Figura 4 a seguir demonstra o Softgoal Interdependency Graph para se ter uma visão geral.
+A Figura 4 a seguir demonstra o Softgoal Interdependency Graph de uma maneira geral.
 
 <font size="3"><p style="text-align: center">Figura 4: Geral</p></font>
 
 <div align="center">
-  <img src="./../assets/NFRFramework/Geral.png" alt="FIGURA 3">
+  <img src="./../../assets/NFRFramework/Geral.png" alt="FIGURA 3">
 </div>
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) </p></font>
@@ -582,3 +582,4 @@ A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impac
 | `1.7`    | 01/06/2025 | Tabela de Requisitos Não-Funcionais utilizadas | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.8`    | 01/06/2025 | Adição do NRF01 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.9`    | 31/05/2025 | Cartões de Especificação RNF03 e RNF08 | [Eduardo de Pina](https://github.com/eduardodpms)  | [Enzo Emir](https://github.com/EnzoEmir) |
+| `2.0`    | 01/06/2025 | NFR 00 - Geral | [Danielle Soares](https://github.com/danielle-soaress)  | -- |
