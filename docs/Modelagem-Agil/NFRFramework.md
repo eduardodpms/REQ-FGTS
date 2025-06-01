@@ -664,6 +664,57 @@ A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impac
 
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms) </p></font>
 
+## NFR02: Usabilidade
+
+### Descrição
+
+Este Softgoal Interdependency Graph (SIG) foi elaborado para representar visualmente os aspectos relacionados à usabilidade no sistema FGTS. Ele demonstra como certos requisitos não funcionais influenciam positivamente ou negativamente esse atributo de qualidade, estruturando os relacionamentos entre metas e submetas de forma hierárquica.
+
+### Requisitos
+
+Requisitos utilizados para compor o SIG da Figura 7:
+
+- **RNF02**: O processo de login deve ser simplificado  
+  Origem: [EN08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista)
+  
+- **RNF08**: Os menus devem fornecer informações não repetidas  
+  Origem: [IS19](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF)
+
+- **RNF21**: Os menus devem ser autoexplicativos, com estrutura hierárquica lógica e nomenclatura padronizada  
+  Origem: [IS19](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF), [OB11](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF)
+
+- **RNF12**: O aplicativo deve proporcionar agilidade ao acessar as funcionalidades  
+  Origem: [IS24](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF)
+
+<font size="3"><p style="text-align: center">Figura 7: SIG Usabilidade</p></font>
+
+<div align="center">
+  <img src="./../../assets/NFRFramework/Usabilidade.png" alt="FIGURA 7">
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
+
+### Propagação dos Impactos
+
+A Tabela 17 apresenta a avaliação da propagação dos impactos identificados na Figura 7.
+
+<font size="3"><p style="text-align: center">Tabela 17: Avaliação dos Impactos dos Requisitos sobre Usabilidade</p></font>
+
+<center>
+
+| NFR                                                  | Impacto | Avaliador                                  |
+|------------------------------------------------------|---------|---------------------------------------------|
+ RNF02 – Login simplificado                           | ✓                | [Victor Pontual](https://github.com/VictorPontual) |
+| RNF08 – Não repetir informações                      | ❌                   | [Victor Pontual](https://github.com/VictorPontual) |
+| RNF21 – Menus autoexplicativos                       | 𝒲⁺    | [Victor Pontual](https://github.com/VictorPontual) |
+| RNF12 – Proporcionar agilidade                       | ✓               | [Victor Pontual](https://github.com/VictorPontual) |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
+
+
+
 
 ## Modelagem
 
@@ -706,4 +757,5 @@ A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impac
 | `2.0`    | 01/06/2025 | NFR 00 - Geral | [Danielle Soares](https://github.com/danielle-soaress)  | [Victor Pontual](https://github.com/VictorPontual)|
 | `2.1`    | 01/06/2025 | Cartões de Especificação RNF10 e RNF13 | [Victor Pontual](https://github.com/VictorPontual)  | [Enzo Emir](https://github.com/EnzoEmir) |
 | `2.2`    | 01/06/2025 | Adição do NRF02 | [Enzo Emir](https://github.com/EnzoEmir)  | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `2.3`    | 01/06/2025 | Adição do NRF03 | [Eduardo de Pina](https://github.com/eduardodpms)  | - |
+| `2.3`    | 01/06/2025 | Adição do NRF03 | [Eduardo de Pina](https://github.com/eduardodpms)  | [Victor Pontual](https://github.com/VictorPontual) |
+| `2.4`    | 01/06/2025 | Adição do NRF04 | [Victor Pontual](https://github.com/VictorPontual)  | - |
