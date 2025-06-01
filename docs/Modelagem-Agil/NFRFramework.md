@@ -490,6 +490,19 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 ---
 
+## NFR00: Geral
+
+A Figura 4 a seguir demonstra o Softgoal Interdependency Graph para se ter uma visão geral.
+
+<font size="3"><p style="text-align: center">Figura 4: Geral</p></font>
+
+<div align="center">
+  <img src="./../assets/NFRFramework/Geral.png" alt="FIGURA 3">
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) </p></font>
+
+
 ## NFR01: Portabilidade
 
 ### Descrição
