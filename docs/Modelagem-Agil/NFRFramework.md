@@ -483,11 +483,13 @@ A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impac
 <font size="3"><p style="text-align: center">Tabela X: Tabela de impactos.</p></font>
 
 <center>
+
 | NFR | Impacto | Avaliador |
 |-----|---------|-------|
-|Portabilidade| ✓ | [Gabriel Campello](https://github.com/G16C)|
-|Manter as mesmas funcionalidades |  𝒲+|  [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)|
+|Portabilidade| ✓ | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)|
+|Manter as mesmas funcionalidades | 𝒲+|  [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)|
 |Disponibilidade em outras plataformas| 𝒲+|[Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)|
+
 
 </center>
 
