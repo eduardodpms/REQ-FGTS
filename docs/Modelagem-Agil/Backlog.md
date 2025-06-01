@@ -141,21 +141,24 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <th>ID</th>
       <th>Prioridade</th>
       <th>Origem</th>
+      <th>Rastreabilidade</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td rowspan="6">Consulta e Informações da Conta</td>
       <td rowspan="2"><a href="#tema1">E01</a> - Consulta de saldo e extrato</td>
-      <td></td>
+      <td>Eu, como beneficiário do FGTS, desejo consultar o saldo da minha conta vinculada do FGTS para acompanhar minhas economias e planejar meus próximos passos.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#h15">H15</a></td>
+      <td>Alta</td>
       <td>RF03</td>
-      <td></td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN05</a></td>
     </tr>
     <tr>
       <td></td>
       <td>RF07</td>
       <td></td>
+      <td>RF07</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS04</a>, 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/">OB04</a>
@@ -163,15 +166,17 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
     </tr>
     <tr>
       <td rowspan="2"><a href="#tema1">E02</a> - Consulta de dados pessoais</td>
-      <td></td>
+      <td>Eu, como usuário do aplicativo FGTS, desejo atualizar meus dados pessoais para manter minhas informações corretas e atualizadas no sistema.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#h16">H16</a></td>
+      <td>Média</td>
       <td>RF05</td>
-      <td></td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS01</a></td>
     </tr>
     <tr>
       <td></td>
       <td>RF06</td>
       <td></td>
+      <td>RF06</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS02</a></td>
     </tr>
     <tr>
@@ -179,45 +184,52 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td></td>
       <td>RF12</td>
       <td></td>
+      <td>RF12</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS09</a></td>
     </tr>
     <tr>
       <td></td>
       <td>RF13</td>
       <td></td>
+      <td>RF13</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS10</a></td>
     </tr>
     <tr>
       <td rowspan="20">Saques e Solicitações</td>
       <td rowspan="4"><a href="#tema2">E06</a> - Informação sobre bloqueios e motivos</td>
-      <td></td>
+      <td>Eu, como beneficiário do FGTS, desejo visualizar informações sobre meus saques bloqueados e os respectivos motivos do bloqueio para entender minha situação e buscar a regularização, se possível.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#h13">H13</a></td>
+      <td>Alta</td>
       <td>RF11</td>
-      <td></td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS08</a></td>
     </tr>
     <tr>
       <td></td>
       <td>RF01</td>
       <td></td>
+      <td>RF01</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN03</a></td>
     </tr>
     <tr>
       <td></td>
       <td>RF21</td>
       <td></td>
+      <td>RF21</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/">OB02</a></td>
     </tr>
     <tr>
       <td></td>
       <td>RF22</td>
       <td></td>
+      <td>RF22</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/">OB05</a></td>
     </tr>
     <tr>
       <td rowspan="8"><a href="#tema2">E04</a> - Solicitação e acompanhamento de saques</td>
-      <td></td>
+      <td>Eu, como beneficiário do FGTS, desejo utilizar a funcionalidade de saque-aniversário de forma acessível, para poder sacar o valor disponível sem barreiras de uso.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#h17">H17</a></td>
+      <td>Alta</td>
       <td>RF04</td>
-      <td></td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN06</a>, 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST013</a>, 
@@ -225,9 +237,20 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       </td>
     </tr>
     <tr>
+      <td>Eu, como usuário do sistema, desejo visualizar comentários explicativos sobre o status de cada saque para entender melhor sua situação ou andamento.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#h18">H18</a></td>
+      <td>Média</td>
+      <td>RF39</td>
+      <td>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS05</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN02</a>
+      </td>
+    </tr>
+    <tr>
       <td></td>
       <td>RF08</td>
       <td></td>
+      <td>RF08</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS05</a>, 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN02</a>
@@ -237,6 +260,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td></td>
       <td>RF28</td>
       <td></td>
+      <td>RF28</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN01</a>, 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS03</a>, 
@@ -248,6 +272,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td></td>
       <td>RF07</td>
       <td></td>
+      <td>RF07</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS04</a>, 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/">OB04</a>
@@ -257,6 +282,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td></td>
       <td>RF19</td>
       <td></td>
+      <td>RF19</td>
       <td> 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS17</a>
       </td>
@@ -265,6 +291,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td></td>
       <td>RF23</td>
       <td></td>
+      <td>RF23</td>
       <td> 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB06</a>
       </td>
@@ -273,16 +300,9 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td></td>
       <td>RF24</td>
       <td></td>
+      <td>RF24</td>
       <td> 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB07</a>
-      </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>RF42</td>
-      <td></td>
-      <td> 
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/#BS_RF">BS10</a>
       </td>
     </tr>
     <tr>
@@ -290,12 +310,14 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td></td>
       <td>RF09</td>
       <td></td>
+      <td>RF09</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS06</a></td>
     </tr>
     <tr>
       <td></td>
       <td>RF10</td>
       <td></td>
+      <td>RF10</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS07</a></td>
     </tr>
     <tr>
@@ -303,36 +325,42 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td></td>
       <td>RF17</td>
       <td></td>
+      <td>RF17</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS15</a></td>
     </tr>
     <tr>
       <td></td>
       <td>RF18</td>
       <td></td>
+      <td>RF18</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS16</a></td>
     </tr>
     <tr>
       <td></td>
       <td>RF29</td>
       <td></td>
+      <td>RF29</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST07</a></td>
     </tr>
     <tr>
       <td></td>
       <td>RF25</td>
       <td></td>
+      <td>RF25</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB09</a></td>
     </tr>
     <tr>
       <td></td>
       <td>RF26</td>
       <td></td>
+      <td>RF26</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST02</a></td>
     </tr>
     <tr>
       <td></td>
       <td>RF33</td>
       <td></td>
+      <td>RF33</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST012</a></td>
     </tr>
     <tr>
@@ -341,6 +369,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td></td>
       <td>RF14</td>
       <td></td>
+      <td>RF14</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS11</a>, 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST05</a>, 
@@ -351,14 +380,16 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td></td>
       <td>RF31</td>
       <td></td>
+      <td>RF31</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST010</a>
       </td>
     </tr>
     <tr>
-      <td></td>
+      <td>Eu, como beneficiário do FGTS, desejo cadastrar mais de uma conta bancária de diferentes instituições financeiras para ter flexibilidade na hora de receber meus saques e benefícios.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#h14">H14</a></td>
+      <td>Média</td>
       <td>RF35</td>
-      <td></td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS12</a>
       </td>
@@ -369,6 +400,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td></td>
       <td>RF02</td>
       <td></td>
+      <td>RF02</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN04</a>
       </td>
@@ -377,6 +409,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td></td>
       <td>RF15</td>
       <td></td>
+      <td>RF15</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS13</a>
       </td>
@@ -386,6 +419,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td></td>
       <td>RF27</td>
       <td></td>
+      <td>RF27</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST03</a>, 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST09</a>, 
@@ -398,6 +432,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td></td>
       <td>RF30</td>
       <td></td>
+      <td>RF30</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST08</a>
       </td>
@@ -406,6 +441,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td></td>
       <td>RF32</td>
       <td></td>
+      <td>RF32</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST011</a>
       </td>
@@ -415,6 +451,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td></td>
       <td>RF16</td>
       <td></td>
+      <td>RF16</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS14</a>
       </td>
@@ -425,6 +462,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td></td>
       <td>RF20</td>
       <td></td>
+      <td>RF20</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB01</a>
       </td>
@@ -433,6 +471,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td></td>
       <td>RF34</td>
       <td></td>
+      <td>RF34</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST016</a></td>
     </tr>
   </tbody>
@@ -456,14 +495,6 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
 
 > <a id="REF2" href="#anchor_2">2.</a>  SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 15. UnB, 2025. Disponível em: https://aprender3.unb.br/pluginfile.php/3096144/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em: 30 de maio 2025.
 
-<font size="3"><p style="text-align: center">Figura 1: Foto referência</p></font>
-
-<div align="center">
-  <img src="./../../assets/referencias/backlog.png" alt="FIGURA 1">
-</div>
-
-<font size="2"><p style="text-align: center">Fonte: [SERRANO, 2025](https://aprender3.unb.br/pluginfile.php/3096144/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf) </p></font>
-
 
 ---
 
@@ -471,7 +502,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
 
 | Versão | Data       | Descrição                                 | Autor(es)                                     | Revisor(es) |
 |--------|------------|--------------------------------------------|-----------------------------------------------|-------------|
-| `1.0`    | 30/05/2025 | Introdução, Metodologia e Backlog | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
-| `1.1`    | 30/05/2025 | Atualizações no texto da página | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
-| `1.2`    | 30/05/2025 | Adicionando Requisitos Backlog | [Maria Eduarda](https://github.com/dudaa28) | [Danielle Soares](https://github.com/danielle-soaress) |
-
+| 1.0    | 30/05/2025 | Introdução, Metodologia e Backlog | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
+| 1.1    | 30/05/2025 | Atualizações no texto da página | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
+| 1.2    | 30/05/2025 | Adicionando Requisitos Backlog | [Maria Eduarda](https://github.com/dudaa28) | [Danielle Soares](https://github.com/danielle-soaress) |
+| 1.3    | 30/05/2025 | Adicionando H12-H18 ao backlog | [Danielle Soares](https://github.com/danielle-soaress) | -- |
