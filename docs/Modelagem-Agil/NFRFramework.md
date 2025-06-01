@@ -696,9 +696,9 @@ Requisitos utilizados para compor o SIG da Figura 7:
 
 ### Propagação dos Impactos
 
-A Tabela 17 apresenta a avaliação da propagação dos impactos identificados na Figura 7.
+A Tabela X apresenta a avaliação da propagação dos impactos identificados na Figura 7.
 
-<font size="3"><p style="text-align: center">Tabela 17: Avaliação dos Impactos dos Requisitos sobre Usabilidade</p></font>
+<font size="3"><p style="text-align: center">Tabela X: Avaliação dos Impactos dos Requisitos sobre Usabilidade</p></font>
 
 <center>
 
