@@ -268,7 +268,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
   <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RNF">EN08</a></td></tr>
   <tr><td><strong>Critério de Aceitação</strong></td><td>O usuário deve conseguir realizar o login com no máximo duas etapas, sem a necessidade de preencher dados excessivos.</td></tr>
   <tr><td><strong>Dependências</strong></td><td>Sistema de autenticação</td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>9</td></tr>
   <tr><td><strong>Conflitos</strong></td><td>Nenhum</td></tr>
   <tr><td><strong>História</strong></td><td>31/05/2025</td></tr>
 </table>
@@ -287,7 +287,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
   <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF"> IS18</a></td></tr>
   <tr><td><strong>Critério de Aceitação</strong></td><td>As funcionalidades disponíveis devem ser idênticas em todas as versões do aplicativo para Android, iOS e Web.</td></tr>
   <tr><td><strong>Dependências</strong></td><td>Frameworks multiplataforma, compatibilidade entre sistemas</td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>9</td></tr>
   <tr><td><strong>Conflitos</strong></td><td>Pode haver limitações específicas em versões mais antigas de sistemas operacionais.</td></tr>
   <tr><td><strong>História</strong></td><td>31/05/2025</td></tr>
 </table>
@@ -307,7 +307,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
   <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-nao-funcionais">IS24</a></td></tr>
   <tr><td><strong>Critério de Aceitação</strong></td><td>O usuário deve conseguir acessar qualquer funcionalidade em menos de 3 segundos.</td></tr>
   <tr><td><strong>Dependências</strong></td><td>Infraestrutura do sistema, otimização do código</td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>10</td></tr>
   <tr><td><strong>Conflitos</strong></td><td>Nenhum</td></tr>
   <tr><td><strong>História</strong></td><td>31/05/2025</td></tr>
 </table>
@@ -327,7 +327,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
   <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RNF">OB11</a></td></tr>
   <tr><td><strong>Critério de Aceitação</strong></td><td>O usuário deve ser capaz de encontrar funcionalidades com facilidade, sem precisar acessar mais de três níveis de menu e com nomes consistentes e compreensíveis.</td></tr>
   <tr><td><strong>Dependências</strong></td><td>Design de Interface, Padrões de Navegação</td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>10</td></tr>
   <tr><td><strong>Conflitos</strong></td><td>Nenhum</td></tr>
   <tr><td><strong>História</strong></td><td>31/05/2025</td></tr>
 </table>
@@ -346,7 +346,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
   <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RNF">EN11</a></td></tr>
   <tr><td><strong>Critério de Aceitação</strong></td><td>O sistema deve passar em testes de estresse e testes de integridade sem apresentar falhas ou perda de dados.</td></tr>
   <tr><td><strong>Dependências</strong></td><td>Testes automatizados, tratamento de erros</td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>9</td></tr>
   <tr><td><strong>Conflitos</strong></td><td>Nenhum</td></tr>
   <tr><td><strong>História</strong></td><td>31/05/2025</td></tr>
 </table>
@@ -365,7 +365,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
   <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF">IS20</a></td></tr>
   <tr><td><strong>Critério de Aceitação</strong></td><td>A interface deve permitir navegação por teclado, ser compátivel com leitores de tela e conter alternativas textuais para elementos visuais.</td></tr>
   <tr><td><strong>Dependências</strong></td><td>Equipe de design e desenvolvimento front-end</td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>10</td></tr>
   <tr><td><strong>Conflitos</strong></td><td>Nenhum</td></tr>
   <tr><td><strong>História</strong></td><td>31/05/2025</td></tr>
 </table>
@@ -384,7 +384,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
   <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-nao-funcionais">EN12</a></td></tr>
   <tr><td><strong>Critério de Aceitação</strong></td><td>O app deve manter funcionalidades mínimas (ex.: consulta de saldo e extrato) mesmo com perdas intermitentes de conexão.</td></tr>
   <tr><td><strong>Dependências</strong></td><td>Equipe de backend e gerenciamento de cache local</td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>8</td></tr>
   <tr><td><strong>Conflitos</strong></td><td>Maior uso de memória local pode impactar desempenho em dispositivos antigos</td></tr>
   <tr><td><strong>História</strong></td><td>31/05/2025</td></tr>
 </table>
@@ -403,7 +403,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
   <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-nao-funcionais">IS23</a></td></tr>
   <tr><td><strong>Critério de Aceitação</strong></td><td>Os dados devem ser armazenados e transmitidos com criptografia; autenticação deve usar biometria ou múltiplos fatores.</td></tr>
   <tr><td><strong>Dependências</strong></td><td>Equipe de segurança da informação e infraestrutura</td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>10</td></tr>
   <tr><td><strong>Conflitos</strong></td><td>Maior nível de segurança pode exigir autenticação adicional, impactando usabilidade para alguns usuários</td></tr>
   <tr><td><strong>História</strong></td><td>31/05/2025</td></tr>
 </table>
@@ -423,7 +423,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
   <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RNF">EN10</a></td></tr>
   <tr><td><strong>Critério de Aceitação</strong></td><td>O sistema deve garantir que as datas e prazos exibidos sejam atendidos, exceto em casos devidamente justificados por instâncias externas.</td></tr>
   <tr><td><strong>Dependências</strong></td><td>Integração com sistemas oficiais de processamento e saque</td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>10</td></tr>
   <tr><td><strong>Conflitos</strong></td><td>Prazos externos sujeitos a mudanças fora do controle do aplicativo</td></tr>
   <tr><td><strong>História</strong></td><td>31/05/2025</td></tr>
 </table>
@@ -442,7 +442,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
   <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF">IS21</a></td></tr>
   <tr><td><strong>Critério de Aceitação</strong></td><td>O app deve seguir as Diretrizes de Acessibilidade para Conteúdo Web (WCAG), implementando recursos como contraste adequado, navegação por teclado e leitores de tela.</td></tr>
   <tr><td><strong>Dependências</strong></td><td>Equipe de design com conhecimento em acessibilidade; frameworks compatíveis</td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>9</td></tr>
   <tr><td><strong>Conflitos</strong></td><td>Pode haver necessidade de maior tempo de desenvolvimento para adaptações específicas</td></tr>
   <tr><td><strong>História</strong></td><td>31/05/2025</td></tr>
 </table>
@@ -461,7 +461,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
   <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RNF">EN09</a></td></tr>
   <tr><td><strong>Critério de Aceitação</strong></td><td>O usuário deve conseguir acessar os seus dados de forma segura e transparente, sem que haja desconforto ou desconfiança.</td></tr>
   <tr><td><strong>Dependências</strong></td><td>Verificação de informações junto ao banco e sistema de autenticação.</td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>10</td></tr>
   <tr><td><strong>Conflitos</strong></td><td>A acessibilidade pode modificar a maneira como as informações são exibidas.</td></tr>
   <tr><td><strong>História</strong></td><td>01/06/2025</td></tr>
 </table>
@@ -481,7 +481,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
   <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF">IS19</a></td></tr>
   <tr><td><strong>Critério de Aceitação</strong></td><td>O usuário não pode encontrar menus que contenham botões, textos, caixas ou dados repetidos.</td></tr>
   <tr><td><strong>Dependências</strong></td><td>Planejamento de design e de front-end do aplicativo.</td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>7</td></tr>
   <tr><td><strong>Conflitos</strong></td><td>Nenhum.</td></tr>
   <tr><td><strong>História</strong></td><td>01/06/2025</td></tr>
 </table>
@@ -500,7 +500,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
   <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF">IS22</a></td></tr>
   <tr><td><strong>Critério de Aceitação</strong></td><td>O sistema deve estar acessível por navegadores modernos em computadores pessoais (Windows, Linux, MacOS).</td></tr>
   <tr><td><strong>Dependências</strong></td><td>Planejamento e desenvolvimento de uma versão responsiva ou adaptada para web.</td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>10</td></tr>
   <tr><td><strong>Conflitos</strong></td><td>Nenhum.</td></tr>
   <tr><td><strong>História</strong></td><td>01/06/2025</td></tr>
 </table>
@@ -520,7 +520,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
   <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB10</a></td></tr>
   <tr><td><strong>Critério de Aceitação</strong></td><td>O sistema deve exibir resumos dos dados antes de cada ação crítica (como saque ou alteração de conta), solicitando confirmação do usuário.</td></tr>
   <tr><td><strong>Dependências</strong></td><td>Integração com módulos de segurança e lógica de interface voltada à confirmação de dados.</td></tr>
-  <tr><td><strong>Prioridade</strong></td><td></td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>10</td></tr>
   <tr><td><strong>Conflitos</strong></td><td>Nenhum.</td></tr>
   <tr><td><strong>História</strong></td><td>01/06/2025</td></tr>
 </table>
@@ -880,3 +880,4 @@ A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impac
 | `2.4`    | 01/06/2025 | Adição do NFR04 | [Victor Pontual](https://github.com/VictorPontual)  | [Maria Eduarda](https://github.com/dudaa28) |
 | `2.5`    | 01/06/2025 | Adição do NFR05 | [Maria Eduarda](https://github.com/dudaa28)  | [Marcelo Makoto](https://github.com/MM4k) |
 | `2.6`    | 01/06/2025 | Adição do NFR06 | [Marcelo Makoto](https://github.com/MM4k)  | - |
+| `2.7`    | 01/06/2025 | Adição das prioridades dos cartões de especificação definidas pelo usuário | [Marcelo Makoto](https://github.com/MM4k)  | - |
