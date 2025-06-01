@@ -839,6 +839,9 @@ A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impac
 
 ## Validação
 
+<p style="text-align: center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/unU4njRbzHA?si=qKsumdvPXtuQobt8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 
 
 ---

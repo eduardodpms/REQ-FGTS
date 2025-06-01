@@ -2022,6 +2022,12 @@ Validação das histórias de usuário 13-30 presentes no vídeo a seguir:
 
 <font size="2"><p style="text-align: center">Observação: no vídeo, houve algumas inconsistências nas numerações dos casos de uso, decorrentes de alterações posteriores. A história 12 citada no vídeo corresponde à 13, a 13 à 14, e assim sucessivamente.</p></font>
 
+Validação das histórias de usuário 01-12 e 31-42 presentes no vídeo a seguir:
+
+<p style="text-align: center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6RrwddCuJdU?si=LqQ4cmGbbc1WM4Nd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
 ##  Referências
 
 > <a id="REF1" href="#anchor_1">1.</a>  PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
