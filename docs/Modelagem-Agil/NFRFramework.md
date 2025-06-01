@@ -204,7 +204,7 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 | Nome             | Data | Hora |
 |------------------|------|------|
 | Danielle Soares  | -    | -    |
-| Eduardo de Pina  | -    | -    |
+| Eduardo de Pina  | 01/06/2025    | 11:32    |
 | Enzo Emir        | 31/05/2025    | 11:45    |
 | Leticia Arisa    | 31/05/2025    | 20:17  |
 | Marcelo Makoto   | 31/05/2025    | 08:52    |
