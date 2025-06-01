@@ -530,7 +530,40 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
 
 ## Validação
 
+Validação do Backlog de usuário 13-30 presentes no vídeo a seguir:
 
+<font size="3"><p style="text-align: center">Tabela 2: Participantes Validação</p></font>
+
+<center>
+    <table>
+    <thead>
+        <tr>
+        <th>Participante</th>
+        <th>Backlog</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+        <td>Danielle Soares</td>
+        <td>H13 à H18</td>
+        </tr>
+        <tr>
+        <td>Leticia Arisa</td>
+        <td>H25 à H30</td>
+        </tr>
+        <tr>
+        <td>Maria Eduarda</td>
+        <td>H19 à H24</td>
+        </tr>
+    </tbody>
+    </table>
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
+
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_XVw-l1hJv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 
 ---
 
@@ -556,4 +589,5 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
 | 1.6    | 01/06/2025 | Adicionando H31-H36 ao backlog | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |
 | 1.6    | 01/06/2025 | Adicionando H01-H06 ao backlog | [Enzo Emir](https://github.com/EnzoEmir) | [Danielle Soares](https://github.com/danielle-soaress) |
 | 1.7   | 01/06/2025 | Correções no backlog | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| 1.8   | 01/06/2025 | Adicionando histórias 37-42 | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| 1.8   | 01/06/2025 | Adicionando histórias 37-42 | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
+| 1.9   | 01/06/2025 | Adicionando video Validação | [Maria Eduarda](https://github.com/dudaa28) | - |
