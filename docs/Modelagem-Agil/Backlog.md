@@ -195,7 +195,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS10</a></td>
     </tr>
     <tr>
-      <td rowspan="23">Saques e Solicitações</td>
+      <td rowspan="24">Saques e Solicitações</td>
       <td rowspan="4"><a href="#tema2">E06</a> - Informação sobre bloqueios e motivos</td>
       <td>Eu, como beneficiário do FGTS, desejo visualizar informações sobre meus saques bloqueados e os respectivos motivos do bloqueio para entender minha situação e buscar a regularização, se possível.</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#h13">H13</a></td>
@@ -396,7 +396,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td>Eu, como usuário do sistema FGTS, desejo escolher a sistemática de saque que melhor se adequa ao meu perfil para garantir maior controle e previsibilidade sobre os valores a serem recebidos.</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#h34">H34</a></td>
       <td>Média</td>
-      <td>RF33</td>
+      <td>RF26</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST012</a></td>
     </tr>
     <tr>
