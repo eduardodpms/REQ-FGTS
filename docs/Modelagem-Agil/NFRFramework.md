@@ -203,7 +203,7 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 
 | Nome             | Data | Hora |
 |------------------|------|------|
-| Danielle Soares  | -    | -    |
+| Danielle Soares  | 01/06/2025    | 13:30    |
 | Eduardo de Pina  | 01/06/2025    | 11:32    |
 | Enzo Emir        | 31/05/2025    | 11:45    |
 | Leticia Arisa    | 31/05/2025    | 20:17  |
