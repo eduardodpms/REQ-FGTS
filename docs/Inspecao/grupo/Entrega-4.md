@@ -137,4 +137,5 @@ A Entrega 4 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0`  | 01/06/2025 | Criação do documento | [Marcelo Makoto](https://github.com/MM4k) | - |
+| `1.0`  | 01/06/2025 | Criação do documento | [Marcelo Makoto](https://github.com/MM4k) | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.1`  | 01/06/2025 | Documento verificado | [Maria Eduarda](https://github.com/dudaa28) | - |
