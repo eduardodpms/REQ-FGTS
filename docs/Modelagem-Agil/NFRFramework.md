@@ -204,7 +204,7 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 |------------------|------|------|
 | Danielle Soares  | -    | -    |
 | Eduardo de Pina  | -    | -    |
-| Enzo Emir        | -    | -    |
+| Enzo Emir        | 31/05/2025    | 11:45    |
 | Leticia Arisa    | 31/05/2025    | 20:17  |
 | Marcelo Makoto   | 31/05/2025    | 08:52    |
 | Maria Eduarda    | 31/05/2025 | 00:45 |
@@ -483,11 +483,13 @@ A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impac
 <font size="3"><p style="text-align: center">Tabela X: Tabela de impactos.</p></font>
 
 <center>
+
 | NFR | Impacto | Avaliador |
 |-----|---------|-------|
-|Portabilidade| ✓ | [Gabriel Campello](https://github.com/G16C)|
-|Manter as mesmas funcionalidades |  𝒲+|  [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)|
+|Portabilidade| ✓ | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)|
+|Manter as mesmas funcionalidades | 𝒲+|  [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)|
 |Disponibilidade em outras plataformas| 𝒲+|[Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)|
+
 
 </center>
 
