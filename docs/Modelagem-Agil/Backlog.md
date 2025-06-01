@@ -23,31 +23,31 @@ Com as histórias devidamente documentadas, o PO procedeu à sua priorização s
     <tbody>
         <tr>
         <td>Danielle Soares</td>
-        <td></td>
+        <td>Produtor do Backlog</td>
         </tr>
         <tr>
         <td>Eduardo de Pina</td>
-        <td></td>
+        <td>Produtor do Backlog</td>
         </tr>
         <tr>
         <td>Enzo Emir</td>
-        <td></td>
+        <td>Produtor do Backlog</td>
         </tr>
         <tr>
         <td>Leticia Arisa</td>
-        <td></td>
+        <td>Produtor do Backlog</td>
         </tr>
         <tr>
         <td>Marcelo Makoto</td>
-        <td></td>
+        <td>Produtor do Backlog</td>
         </tr>
         <tr>
         <td>Maria Eduarda</td>
-        <td></td>
+        <td>Produtor do Backlog</td>
         </tr>
         <tr>
         <td>Victor Pontual</td>
-        <td></td>
+        <td>Produtor do Backlog</td>
         </tr>
     </tbody>
     </table>
@@ -155,9 +155,9 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN05</a></td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>poder consultar o saldo da minha conta</em> para <em>verificar a situação do meu FGTS</em></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#h38">H38</a></td>
+      <td>Alta</td>
       <td>RF07</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS04</a>, 
@@ -173,9 +173,9 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS01</a></td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>consultar os meus dados pessoais</em> para <em>garantir que meus dados se encontram em conformidade no sistema.</em></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#h37">H37</a></td>
+      <td>Alta</td>
       <td>RF06</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS02</a></td>
     </tr>
@@ -278,9 +278,9 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       </td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Eu, como <em>empregador vinculado ao FGTS</em>, desejo <em>poder consultar o extrato dos meus depósitos</em> para <em>gerenciar o tráfego do FGTS na minha conta.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#h39">H39</a></td>
+      <td>Alta</td>
       <td>RF07</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS04</a>, 
@@ -374,16 +374,16 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS15</a></td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>tirar uma dúvida relacionada ao uso do aplicativo</em> para <em>melhorar a minha usabilidade.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#h41">H41</a></td>
+      <td>Média</td>
       <td>RF18</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS16</a></td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>ser guiado pelo aplicativo</em> para <em>realizar ações básicas.</em></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#h42">H42</a></td>
+      <td>Baixa</td>
       <td>RF29</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/">ST07</a></td>
     </tr>
@@ -411,9 +411,9 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
     <tr>
       <td rowspan="3">Contas Bancárias</td>
       <td rowspan="3"><a href="#tema3">E08</a> - Cadastro e gerenciamento de contas bancárias</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>cadastrar uma conta bancária no aplicativo</em> para <em>garantir os meus benefícios do FGTS.</em></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#h40">H40</a></td>
+      <td>Alta</td>
       <td>RF14</td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS11</a>, 
@@ -530,6 +530,40 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
 
 ## Validação
 
+Validação do Backlog de usuário 13-30 presentes no vídeo a seguir:
+
+<font size="3"><p style="text-align: center">Tabela 2: Participantes Validação</p></font>
+
+<center>
+    <table>
+    <thead>
+        <tr>
+        <th>Participante</th>
+        <th>Backlog</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+        <td>Danielle Soares</td>
+        <td>H13 à H18</td>
+        </tr>
+        <tr>
+        <td>Leticia Arisa</td>
+        <td>H25 à H30</td>
+        </tr>
+        <tr>
+        <td>Maria Eduarda</td>
+        <td>H19 à H24</td>
+        </tr>
+    </tbody>
+    </table>
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28)</p></font>
+
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/eEOLVMj95DE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 
 
 ---
@@ -539,6 +573,14 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
 > <a id="REF1" href="#anchor_1">1.</a>  PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
 
 > <a id="REF2" href="#anchor_2">2.</a>  SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 15. UnB, 2025. Disponível em: https://aprender3.unb.br/pluginfile.php/3096144/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em: 30 de maio 2025.
+
+<font size="3"><p style="text-align: center">Figura 1: Foto referência</p></font>
+
+<div align="center">
+  <img src="./../../assets/referencias/backlog.png" alt="FIGURA 1">
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [SERRANO, 2025](https://aprender3.unb.br/pluginfile.php/3096144/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf) </p></font>
 
 
 ---
@@ -555,4 +597,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
 | 1.5    | 01/06/2025 | Adicionando H07-H12 ao backlog | [Marcelo Makoto](https://github.com/MM4k) | [Victor Pontual](https://github.com/VictorPontual) |
 | 1.6    | 01/06/2025 | Adicionando H31-H36 ao backlog | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |
 | 1.6    | 01/06/2025 | Adicionando H01-H06 ao backlog | [Enzo Emir](https://github.com/EnzoEmir) | [Danielle Soares](https://github.com/danielle-soaress) |
-| 1.7   | 01/06/2025 | Correções no backlog | [Danielle Soares](https://github.com/danielle-soaress) | - |
+| 1.7   | 01/06/2025 | Correções no backlog | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| 1.8   | 01/06/2025 | Adicionando histórias 37-42 | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
+| 1.9   | 01/06/2025 | Adicionando video Validação | [Maria Eduarda](https://github.com/dudaa28) | [Enzo Emir](https://github.com/EnzoEmir) |
+| 2.0   | 01/06/2025 | Foto referência | [Maria Eduarda](https://github.com/dudaa28) | [Victor Pontual](https://github.com/VictorPontual) |

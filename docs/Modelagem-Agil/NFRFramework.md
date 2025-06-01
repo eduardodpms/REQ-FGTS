@@ -204,7 +204,7 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 | Nome             | Data | Hora |
 |------------------|------|------|
 | Danielle Soares  | -    | -    |
-| Eduardo de Pina  | -    | -    |
+| Eduardo de Pina  | 01/06/2025    | 11:32    |
 | Enzo Emir        | 31/05/2025    | 11:45    |
 | Leticia Arisa    | 31/05/2025    | 20:17  |
 | Marcelo Makoto   | 31/05/2025    | 08:52    |
@@ -411,7 +411,6 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
-## Cartões de Especificação
 
 <font size="3"><p style="text-align: center">Tabela 12: Cumprimento dos Prazos</p></font>
 
@@ -585,7 +584,258 @@ A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impac
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </p></font>
 
-## Modelagem
+
+## NFR02: Confiabilidade
+
+### Descrição
+
+Este SIG (Softgoal Interdependency Graph) foi elaborado com base nos requisitos não funcionais relacionados à confiabilidade do sistema. A confiabilidade garante que o sistema execute suas funções de maneira consistente, sem falhas, mesmo em situações adversas, como conexões instáveis ou dependências externas.
+
+### Requisitos
+
+Requisitos utilizados para desenvolver o SIG da Figura 5:
+
+- RNF03: O sistema deve apresentar informações de forma transparente e confiável.
+- RNF04: Os prazos informados no app devem ser cumpridos fielmente.
+- RNF05: O aplicativo deve ser confiável e evitar falhas ou inconsistências nos processos.
+- RNF06: O aplicativo deve funcionar corretamente mesmo com conexão instável.
+
+<font size="3"><p style="text-align: center">Figura 5: SIG Confiabilidade</p></font>
+
+<div align="center">
+  <img src="./../../assets/NFRFramework/Confiabilidade.png" alt="FIGURA 5">
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
+### Propagação dos impactos
+
+A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na Figura 5.
+
+<font size="3"><p style="text-align: center">Tabela X: Tabela de impactos.</p></font>
+
+<center>
+
+| NFR                                                        | Impacto | Avaliador |
+|------------------------------------------------------------|---------|-----------|
+| Confiabilidade (RNF05 - evitar falhas ou inconsistências)  | ✓       | [Enzo Emir](https://github.com/EnzoEmir) |
+| Funcionamento em conexão instável (RNF06)                  | 𝒲+      | [Enzo Emir](https://github.com/EnzoEmir) |
+| Cumprimento de prazos (RNF04)                              | 𝒲+      | [Enzo Emir](https://github.com/EnzoEmir) |
+| Transparência e precisão das informações (RNF03)           | ✓       | [Enzo Emir](https://github.com/EnzoEmir) |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
+## NFR03: Segurança
+
+### Descrição
+
+Este SIG (Softgoal Interdependency Graph) foi elaborado com base nos requisitos não funcionais relacionados à segurança do sistema no que tange ao dados. A segurança é responsável por garantir que os dados do usuário e de todas as partes envolvidas no uso do sistema tenham uma camada de proteção contra a exposição indesejada das suas informações.
+
+### Requisitos
+
+Requisitos utilizados para desenvolver o SIG da Figura 6:
+
+- RNF11: O aplicativo deve proporcionar segurança de dados pessoais
+- RNF13: O sistema deve garantir segurança firme com verificação de dados pelo usuário.
+
+<font size="3"><p style="text-align: center">Figura 6: SIG Segurança</p></font>
+
+<div align="center">
+  <img src="./../../assets/NFRFramework/Segurança.png" alt="FIGURA 6">
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
+
+### Propagação dos impactos
+
+A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na Figura 6.
+
+<font size="3"><p style="text-align: center">Tabela X: Tabela de impactos.</p></font>
+
+<center>
+
+| NFR | Impacto | Avaliador |
+|-|-|-|
+| Segurança de dados pessoais (RNF11) | ✓ | [Eduardo de Pina](https://github.com/eduardodpms) |
+| Verificação dos dados pelo usuário (RNF13) | 𝒲+ | [Eduardo de Pina](https://github.com/eduardodpms) |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms) </p></font>
+
+## NFR04: Usabilidade
+
+### Descrição
+
+Este Softgoal Interdependency Graph (SIG) foi elaborado para representar visualmente os aspectos relacionados à usabilidade no sistema FGTS. Ele demonstra como certos requisitos não funcionais influenciam positivamente ou negativamente esse atributo de qualidade, estruturando os relacionamentos entre metas e submetas de forma hierárquica.
+
+### Requisitos
+
+Requisitos utilizados para compor o SIG da Figura 7:
+
+- **RNF02**: O processo de login deve ser simplificado  
+  Origem: [EN08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista)
+  
+- **RNF08**: Os menus devem fornecer informações não repetidas  
+  Origem: [IS19](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF)
+
+- **RNF21**: Os menus devem ser autoexplicativos, com estrutura hierárquica lógica e nomenclatura padronizada  
+  Origem: [IS19](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF), [OB11](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF)
+
+- **RNF12**: O aplicativo deve proporcionar agilidade ao acessar as funcionalidades  
+  Origem: [IS24](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF)
+
+<font size="3"><p style="text-align: center">Figura 7: SIG Usabilidade</p></font>
+
+<div align="center">
+  <img src="./../../assets/NFRFramework/Usabilidade.png" alt="FIGURA 7">
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
+
+### Propagação dos Impactos
+
+A Tabela X apresenta a avaliação da propagação dos impactos identificados na Figura 7.
+
+<font size="3"><p style="text-align: center">Tabela X: Avaliação dos Impactos dos Requisitos sobre Usabilidade</p></font>
+
+<center>
+
+| NFR                                                  | Impacto | Avaliador                                  |
+|------------------------------------------------------|---------|---------------------------------------------|
+ RNF02 – Login simplificado                           | ✓                | [Victor Pontual](https://github.com/VictorPontual) |
+| RNF08 – Não repetir informações                      | ❌                   | [Victor Pontual](https://github.com/VictorPontual) |
+| RNF21 – Menus autoexplicativos                       | 𝒲⁺    | [Victor Pontual](https://github.com/VictorPontual) |
+| RNF12 – Proporcionar agilidade                       | ✓               | [Victor Pontual](https://github.com/VictorPontual) |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
+
+## NFR05: Acessibilidade
+
+### Descrição
+
+Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de requisitos não funcionais relacionados à acessibilidade do sistema. Esses requisitos garantem que o aplicativo seja inclusivo e acessível a todos os usuários, incluindo aqueles com deficiências visuais, auditivas ou motoras, promovendo uma experiência mais equitativa e usável.
+
+### Requisitos
+
+Requisitos utilizados para desenvolver o SIG da Figura 8:
+
+- RFN09: O aplicativo deve aplicar princípios de acessibilidade.
+
+- RFN22: A aplicação deve estar em conformidade com diretrizes de acessibilidade, garantindo acesso a pessoas com deficiência visual, auditiva ou motora.
+
+<font size="3"><p style="text-align: center">Figura 8: SIG Acessibilidade</p></font>
+
+<div align="center">
+  <img src="./../../assets/NFRFramework/Acessibilidade.png" alt="FIGURA 8">
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
+### Propagação dos impactos
+
+A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na Figura 8.
+
+<font size="3"><p style="text-align: center">Tabela X: Tabela de impactos.</p></font>
+
+<center>
+
+| NFR | Impacto | Avaliador |
+|-----|---------|-------|
+| Acessibilidade | ✓ | [Maria Eduarda](https://github.com/dudaa28)|
+| Aplicar princípios de acessibilidade | 𝒲+|  [Maria Eduarda](https://github.com/dudaa28)|
+| Atender diretrizes de acessibilidade | 𝒲+|  [Maria Eduarda](https://github.com/dudaa28)|
+|Seguir as Diretrizes WCAG| 𝒲+|[Maria Eduarda](https://github.com/dudaa28)|
+|Garantir acesso a pessoas com deficiência visual, auditiva ou motora| 𝒲+|[Maria Eduarda](https://github.com/dudaa28)|
+
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
+## NFR06: SIG Completo
+
+### Descrição
+
+Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de todos os requisitos não funcionais elicitados do sistema. Ele mostra todas as relações entre os SIGs anteriores em um único grafo, possibilitando a visualização geral das dinâmicas entre eles.
+
+### Requisitos
+
+Requisitos utilizados para desenvolver o SIG da Figura 9:
+
+- RFN07: O aplicativo deve fornecer as mesmas funcionalidades para diferentes plataformas e versões.
+
+- RFN10: O aplicativo deve estar disponível para outras plataformas, como web.
+
+- RNF03: O sistema deve apresentar informações de forma transparente e confiável.
+
+- RNF04: Os prazos informados no app devem ser cumpridos fielmente.
+
+- RNF05: O aplicativo deve ser confiável e evitar falhas ou inconsistências nos processos.
+
+- RNF06: O aplicativo deve funcionar corretamente mesmo com conexão instável.
+
+- RNF11: O aplicativo deve proporcionar segurança de dados pessoais
+
+- RNF13: O sistema deve garantir segurança firme com verificação de dados pelo usuário.
+
+- RNF02: O processo de login deve ser simplificado  
+  
+- RNF08: Os menus devem fornecer informações não repetidas
+
+- RNF21: Os menus devem ser autoexplicativos, com estrutura hierárquica lógica e nomenclatura padronizada
+
+- RNF12: O aplicativo deve proporcionar agilidade ao acessar as funcionalidades
+
+- RFN09: O aplicativo deve aplicar princípios de acessibilidade.
+
+- RFN22: A aplicação deve estar em conformidade com diretrizes de acessibilidade, garantindo acesso a pessoas com deficiência visual, auditiva ou motora.
+
+<font size="3"><p style="text-align: center">Figura 9: SIG Completo</p></font>
+
+<div align="center">
+  <img src="./../../assets/NFRFramework/Completo.png" alt="FIGURA 9">
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+
+### Propagação dos impactos
+
+A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na Figura 4.
+
+<font size="3"><p style="text-align: center">Tabela X: Tabela de impactos.</p></font>
+
+<center>
+
+| NFR | Impacto | Avaliador |
+|-----|---------|-------|
+|Portabilidade| ✓ | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)|
+|Manter as mesmas funcionalidades | 𝒲+|  [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)|
+|Disponibilidade em outras plataformas| 𝒲+|[Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)|
+| Confiabilidade (RNF05 - evitar falhas ou inconsistências)  | ✓       | [Enzo Emir](https://github.com/EnzoEmir) |
+| Funcionamento em conexão instável (RNF06)                  | 𝒲+      | [Enzo Emir](https://github.com/EnzoEmir) |
+| Cumprimento de prazos (RNF04)                              | 𝒲+      | [Enzo Emir](https://github.com/EnzoEmir) |
+| Transparência e precisão das informações (RNF03)           | ✓       | [Enzo Emir](https://github.com/EnzoEmir) |
+| Segurança de dados pessoais (RNF11) | ✓ | [Eduardo de Pina](https://github.com/eduardodpms) |
+| Verificação dos dados pelo usuário (RNF13) | 𝒲+ | [Eduardo de Pina](https://github.com/eduardodpms) |
+ RNF02 – Login simplificado                           | ✓                | [Victor Pontual](https://github.com/VictorPontual) |
+| RNF08 – Não repetir informações                      | X                   | [Victor Pontual](https://github.com/VictorPontual) |
+| RNF21 – Menus autoexplicativos                       | 𝒲⁺    | [Victor Pontual](https://github.com/VictorPontual) |
+| RNF12 – Proporcionar agilidade                       | ✓               | [Victor Pontual](https://github.com/VictorPontual) |
+| Acessibilidade | ✓ | [Maria Eduarda](https://github.com/dudaa28)|
+| Aplicar princípios de acessibilidade | 𝒲+|  [Maria Eduarda](https://github.com/dudaa28)|
+| Atender diretrizes de acessibilidade | 𝒲+|  [Maria Eduarda](https://github.com/dudaa28)|
+|Seguir as Diretrizes WCAG| 𝒲+|[Maria Eduarda](https://github.com/dudaa28)|
+|Garantir acesso a pessoas com deficiência visual, auditiva ou motora| 𝒲+|[Maria Eduarda](https://github.com/dudaa28)|
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+
 
 ## Validação
 
@@ -624,4 +874,9 @@ A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impac
 | `1.8`    | 01/06/2025 | Adição do NRF01 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.9`    | 31/05/2025 | Cartões de Especificação RNF03 e RNF08 | [Eduardo de Pina](https://github.com/eduardodpms)  | [Enzo Emir](https://github.com/EnzoEmir) |
 | `2.0`    | 01/06/2025 | NFR 00 - Geral | [Danielle Soares](https://github.com/danielle-soaress)  | [Victor Pontual](https://github.com/VictorPontual)|
-| `2.1`    | 01/06/2025 | Cartões de Especificação RNF10 e RNF13 | [Victor Pontual](https://github.com/VictorPontual)  | - |
+| `2.1`    | 01/06/2025 | Cartões de Especificação RNF10 e RNF13 | [Victor Pontual](https://github.com/VictorPontual)  | [Enzo Emir](https://github.com/EnzoEmir) |
+| `2.2`    | 01/06/2025 | Adição do NFR02 | [Enzo Emir](https://github.com/EnzoEmir)  | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `2.3`    | 01/06/2025 | Adição do NFR03 | [Eduardo de Pina](https://github.com/eduardodpms)  | [Victor Pontual](https://github.com/VictorPontual) |
+| `2.4`    | 01/06/2025 | Adição do NFR04 | [Victor Pontual](https://github.com/VictorPontual)  | [Maria Eduarda](https://github.com/dudaa28) |
+| `2.5`    | 01/06/2025 | Adição do NFR05 | [Maria Eduarda](https://github.com/dudaa28)  | [Marcelo Makoto](https://github.com/MM4k) |
+| `2.6`    | 01/06/2025 | Adição do NFR06 | [Marcelo Makoto](https://github.com/MM4k)  | - |
