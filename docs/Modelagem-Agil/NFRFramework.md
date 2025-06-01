@@ -757,8 +757,84 @@ A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impac
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
+## NFR06: SIG Completo
 
-## Modelagem
+### Descrição
+
+Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de todos os requisitos não funcionais elicitados do sistema. Ele mostra todas as relações entre os SIGs anteriores em um único grafo, possibilitando a visualização geral das dinâmicas entre eles.
+
+### Requisitos
+
+Requisitos utilizados para desenvolver o SIG da Figura 9:
+
+- RFN07: O aplicativo deve fornecer as mesmas funcionalidades para diferentes plataformas e versões.
+
+- RFN10: O aplicativo deve estar disponível para outras plataformas, como web.
+
+- RNF03: O sistema deve apresentar informações de forma transparente e confiável.
+
+- RNF04: Os prazos informados no app devem ser cumpridos fielmente.
+
+- RNF05: O aplicativo deve ser confiável e evitar falhas ou inconsistências nos processos.
+
+- RNF06: O aplicativo deve funcionar corretamente mesmo com conexão instável.
+
+- RNF11: O aplicativo deve proporcionar segurança de dados pessoais
+
+- RNF13: O sistema deve garantir segurança firme com verificação de dados pelo usuário.
+
+- RNF02: O processo de login deve ser simplificado  
+  
+- RNF08: Os menus devem fornecer informações não repetidas
+
+- RNF21: Os menus devem ser autoexplicativos, com estrutura hierárquica lógica e nomenclatura padronizada
+
+- RNF12: O aplicativo deve proporcionar agilidade ao acessar as funcionalidades
+
+- RFN09: O aplicativo deve aplicar princípios de acessibilidade.
+
+- RFN22: A aplicação deve estar em conformidade com diretrizes de acessibilidade, garantindo acesso a pessoas com deficiência visual, auditiva ou motora.
+
+<font size="3"><p style="text-align: center">Figura 9: SIG Completo</p></font>
+
+<div align="center">
+  <img src="./../../assets/NFRFramework/Completo.png" alt="FIGURA 9">
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+
+### Propagação dos impactos
+
+A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na Figura 4.
+
+<font size="3"><p style="text-align: center">Tabela X: Tabela de impactos.</p></font>
+
+<center>
+
+| NFR | Impacto | Avaliador |
+|-----|---------|-------|
+|Portabilidade| ✓ | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)|
+|Manter as mesmas funcionalidades | 𝒲+|  [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)|
+|Disponibilidade em outras plataformas| 𝒲+|[Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)|
+| Confiabilidade (RNF05 - evitar falhas ou inconsistências)  | ✓       | [Enzo Emir](https://github.com/EnzoEmir) |
+| Funcionamento em conexão instável (RNF06)                  | 𝒲+      | [Enzo Emir](https://github.com/EnzoEmir) |
+| Cumprimento de prazos (RNF04)                              | 𝒲+      | [Enzo Emir](https://github.com/EnzoEmir) |
+| Transparência e precisão das informações (RNF03)           | ✓       | [Enzo Emir](https://github.com/EnzoEmir) |
+| Segurança de dados pessoais (RNF11) | ✓ | [Eduardo de Pina](https://github.com/eduardodpms) |
+| Verificação dos dados pelo usuário (RNF13) | 𝒲+ | [Eduardo de Pina](https://github.com/eduardodpms) |
+ RNF02 – Login simplificado                           | ✓                | [Victor Pontual](https://github.com/VictorPontual) |
+| RNF08 – Não repetir informações                      | X                   | [Victor Pontual](https://github.com/VictorPontual) |
+| RNF21 – Menus autoexplicativos                       | 𝒲⁺    | [Victor Pontual](https://github.com/VictorPontual) |
+| RNF12 – Proporcionar agilidade                       | ✓               | [Victor Pontual](https://github.com/VictorPontual) |
+| Acessibilidade | ✓ | [Maria Eduarda](https://github.com/dudaa28)|
+| Aplicar princípios de acessibilidade | 𝒲+|  [Maria Eduarda](https://github.com/dudaa28)|
+| Atender diretrizes de acessibilidade | 𝒲+|  [Maria Eduarda](https://github.com/dudaa28)|
+|Seguir as Diretrizes WCAG| 𝒲+|[Maria Eduarda](https://github.com/dudaa28)|
+|Garantir acesso a pessoas com deficiência visual, auditiva ou motora| 𝒲+|[Maria Eduarda](https://github.com/dudaa28)|
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 
 ## Validação
@@ -799,7 +875,8 @@ A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impac
 | `1.9`    | 31/05/2025 | Cartões de Especificação RNF03 e RNF08 | [Eduardo de Pina](https://github.com/eduardodpms)  | [Enzo Emir](https://github.com/EnzoEmir) |
 | `2.0`    | 01/06/2025 | NFR 00 - Geral | [Danielle Soares](https://github.com/danielle-soaress)  | [Victor Pontual](https://github.com/VictorPontual)|
 | `2.1`    | 01/06/2025 | Cartões de Especificação RNF10 e RNF13 | [Victor Pontual](https://github.com/VictorPontual)  | [Enzo Emir](https://github.com/EnzoEmir) |
-| `2.2`    | 01/06/2025 | Adição do NRF02 | [Enzo Emir](https://github.com/EnzoEmir)  | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `2.3`    | 01/06/2025 | Adição do NRF03 | [Eduardo de Pina](https://github.com/eduardodpms)  | [Victor Pontual](https://github.com/VictorPontual) |
-| `2.4`    | 01/06/2025 | Adição do NRF04 | [Victor Pontual](https://github.com/VictorPontual)  | [Maria Eduarda](https://github.com/dudaa28) |
-| `2.5`    | 01/06/2025 | Adição do NRF05 | [Maria Eduarda](https://github.com/dudaa28)  | - |
+| `2.2`    | 01/06/2025 | Adição do NFR02 | [Enzo Emir](https://github.com/EnzoEmir)  | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `2.3`    | 01/06/2025 | Adição do NFR03 | [Eduardo de Pina](https://github.com/eduardodpms)  | [Victor Pontual](https://github.com/VictorPontual) |
+| `2.4`    | 01/06/2025 | Adição do NFR04 | [Victor Pontual](https://github.com/VictorPontual)  | [Maria Eduarda](https://github.com/dudaa28) |
+| `2.5`    | 01/06/2025 | Adição do NFR05 | [Maria Eduarda](https://github.com/dudaa28)  | [Marcelo Makoto](https://github.com/MM4k) |
+| `2.6`    | 01/06/2025 | Adição do NFR06 | [Marcelo Makoto](https://github.com/MM4k)  | - |
