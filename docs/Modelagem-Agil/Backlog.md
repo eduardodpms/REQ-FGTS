@@ -195,7 +195,7 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS10</a></td>
     </tr>
     <tr>
-      <td rowspan="22">Saques e Solicitações</td>
+      <td rowspan="23">Saques e Solicitações</td>
       <td rowspan="4"><a href="#tema2">E06</a> - Informação sobre bloqueios e motivos</td>
       <td>Eu, como beneficiário do FGTS, desejo visualizar informações sobre meus saques bloqueados e os respectivos motivos do bloqueio para entender minha situação e buscar a regularização, se possível.</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#h13">H13</a></td>
@@ -324,19 +324,28 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       </td>
     </tr>
     <tr>
-      <td rowspan="2"><a href="#tema2">E05</a> - Cancelamento e filtro de saques</td>
-      <td></td>
-      <td>RF09</td>
-      <td></td>
+      <td rowspan="3"><a href="#tema2">E05</a> - Cancelamento e filtro de saques</td>
+      <td>Eu, como usuário do sistema FGTS, desejo filtrar os saques realizados por tipo (ex: aniversário, falecimento, doença) para facilitar a visualização e organização das informações.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#h31">H31</a></td>
+      <td>Alta</td>
       <td>RF09</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS06</a></td>
     </tr>
     <tr>
-      <td></td>
-      <td>RF10</td>
-      <td></td>
+      <td>Eu, como usuário do sistema FGTS, desejo filtrar os saques realizados por tipo (ex: aniversário, falecimento, doença) para facilitar a visualização e organização das informações.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#h32">H32</a></td>
+      <td>Média</td>
       <td>RF10</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS07</a></td>
+    </tr>
+    <tr>
+      <td>Eu, como usuário do sistema FGTS, desejo receber uma notificação quando o valor do saque for efetivamente creditado, para que eu saiba quando o recurso estiver disponível.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#h36">H36</a></td>
+      <td>Alta</td>
+      <td>RF40</td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST015</a>
+      </td>
     </tr>
     <tr>
       <td rowspan="6"><a href="#tema2">E07</a> - Guias e ajuda para o processo de saque</td>
@@ -375,9 +384,9 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST02</a></td>
     </tr>
     <tr>
-      <td></td>
-      <td>RF33</td>
-      <td></td>
+      <td>Eu, como usuário do sistema FGTS, desejo escolher a sistemática de saque que melhor se adequa ao meu perfil para garantir maior controle e previsibilidade sobre os valores a serem recebidos.</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-Agil/HistoriasDeUsuario/#h34">H34</a></td>
+      <td>Média</td>
       <td>RF33</td>
       <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST012</a></td>
     </tr>
@@ -524,4 +533,5 @@ Após a análise e organização dos requisitos coletados para o aplicativo FGTS
 | 1.1    | 30/05/2025 | Atualizações no texto da página | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
 | 1.2    | 30/05/2025 | Adicionando Requisitos Backlog | [Maria Eduarda](https://github.com/dudaa28) | [Danielle Soares](https://github.com/danielle-soaress) |
 | 1.3    | 30/05/2025 | Adicionando H12-H18 ao backlog | [Danielle Soares](https://github.com/danielle-soaress) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| 1.4    | 30/05/2025 | Adicionando H25-H30 ao backlog | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | -- |
+| 1.4    | 30/05/2025 | Adicionando H25-H30 ao backlog | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Victor Pontual](https://github.com/VictorPontual) |
+| 1.5    | 01/06/2025 | Adicionando H-H30 ao backlog | [Victor Pontual](https://github.com/VictorPontual) | -- |
