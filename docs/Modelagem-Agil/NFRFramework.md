@@ -584,6 +584,7 @@ A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impac
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </p></font>
 
+
 ## NFR02: Confiabilidade
 
 ### Descrição
@@ -713,10 +714,52 @@ A Tabela X apresenta a avaliação da propagação dos impactos identificados na
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
 
+## NFR05: Acessibilidade
 
+### Descrição
+
+Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de requisitos não funcionais relacionados à acessibilidade do sistema. Esses requisitos garantem que o aplicativo seja inclusivo e acessível a todos os usuários, incluindo aqueles com deficiências visuais, auditivas ou motoras, promovendo uma experiência mais equitativa e usável.
+
+### Requisitos
+
+Requisitos utilizados para desenvolver o SIG da Figura 8:
+
+- RFN09: O aplicativo deve aplicar princípios de acessibilidade.
+
+- RFN22: A aplicação deve estar em conformidade com diretrizes de acessibilidade, garantindo acesso a pessoas com deficiência visual, auditiva ou motora.
+
+<font size="3"><p style="text-align: center">Figura 8: SIG Acessibilidade</p></font>
+
+<div align="center">
+  <img src="./../../assets/NFRFramework/Acessibilidade.png" alt="FIGURA 8">
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
+### Propagação dos impactos
+
+A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na Figura 8.
+
+<font size="3"><p style="text-align: center">Tabela X: Tabela de impactos.</p></font>
+
+<center>
+
+| NFR | Impacto | Avaliador |
+|-----|---------|-------|
+| Acessibilidade | ✓ | [Maria Eduarda](https://github.com/dudaa28)|
+| Aplicar princípios de acessibilidade | 𝒲+|  [Maria Eduarda](https://github.com/dudaa28)|
+| Atender diretrizes de acessibilidade | 𝒲+|  [Maria Eduarda](https://github.com/dudaa28)|
+|Seguir as Diretrizes WCAG| 𝒲+|[Maria Eduarda](https://github.com/dudaa28)|
+|Garantir acesso a pessoas com deficiência visual, auditiva ou motora| 𝒲+|[Maria Eduarda](https://github.com/dudaa28)|
+
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
 
 ## Modelagem
+
 
 ## Validação
 
@@ -758,4 +801,5 @@ A Tabela X apresenta a avaliação da propagação dos impactos identificados na
 | `2.1`    | 01/06/2025 | Cartões de Especificação RNF10 e RNF13 | [Victor Pontual](https://github.com/VictorPontual)  | [Enzo Emir](https://github.com/EnzoEmir) |
 | `2.2`    | 01/06/2025 | Adição do NRF02 | [Enzo Emir](https://github.com/EnzoEmir)  | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `2.3`    | 01/06/2025 | Adição do NRF03 | [Eduardo de Pina](https://github.com/eduardodpms)  | [Victor Pontual](https://github.com/VictorPontual) |
-| `2.4`    | 01/06/2025 | Adição do NRF04 | [Victor Pontual](https://github.com/VictorPontual)  | - |
+| `2.4`    | 01/06/2025 | Adição do NRF04 | [Victor Pontual](https://github.com/VictorPontual)  | [Maria Eduarda](https://github.com/dudaa28) |
+| `2.5`    | 01/06/2025 | Adição do NRF05 | [Maria Eduarda](https://github.com/dudaa28)  | - |
