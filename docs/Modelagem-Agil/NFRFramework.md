@@ -141,6 +141,28 @@ Durante essa fase de modelagem, utilizou-se o **Cartão de Especificação** com
 - Justificativa das decisões  
 - Responsável e data da análise  
 
+A Tabela 1 ilustra o modelo adotado para a elaboração dos cartões de especificação.
+
+<font size="3"><p style="text-align: center">Tabela 1: Template de cartão de especificação </p></font>
+
+<center>
+<table border="1" cellpadding="6" cellspacing="0">
+  <tr><th colspan="2">Requisito Não Funcional – RNFXX</th></tr>
+  <tr><td><strong>Classificação</strong></td><td>	Classificação do RNF conforme a hierarquia do catálogo.</td></tr>
+  <tr><td><strong>Descrição</strong></td><td>Declaração única do significado do requisito.</td></tr>
+  <tr><td><strong>Justificativa</strong></td><td>Justificativa sobre a criação do requisito</td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td>Origem do requisito (stakeholder, norma técnica e etc...)</td></tr>
+  <tr><td><strong>Critério de Aceitação</strong></td><td>Métrica do requisito que possa ser testada e que deve ser satisfeita.</td></tr>
+  <tr><td><strong>Dependências</strong></td><td>Requisitos relacionados a este.</td></tr>
+  <tr><td><strong>Prioridade</strong></td><td>Um número usado para decidir a importância relativa deste requisito entre os outros RNFs (varia de 1 a 10). A prioridade mínima é 1 e a máxima é 10.</td></tr>
+  <tr><td><strong>Conflitos</strong></td><td>Requisitos conflitantes com este.</td></tr>
+  <tr><td><strong>História</strong></td><td>Data de criação e de modificações.</td></tr>
+</table>
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </p></font>
+
+
 O cartão facilitou a **rastreabilidade, clareza e consistência** das informações, além de permitir uma análise comparativa entre alternativas e apoiar a comunicação com os stakeholders durante a modelagem dos requisitos.
 
 ### 3. Avaliação dos Softgoals
@@ -174,7 +196,7 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 
 ### Cronograma de Participantes
 
-<font size="3"><p style="text-align: center">Tabela 1: Cronograma de Participantes</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Cronograma de Participantes</p></font>
 
 <center>
 
@@ -194,10 +216,10 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 
 ### Requisitos não-funcionais
 
-A Tabela 2 a seguir lista os Requisitos Não-Funcionais utilizados para a criação do NFR Framework.
+A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criação do NFR Framework.
 
 <div style="text-align: center">
-<p>Tabela 2: Requisitos não-funcionais</p>
+<p>Tabela 3: Requisitos não-funcionais</p>
 </div>
 
 <center>
@@ -234,7 +256,7 @@ A Tabela 2 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 ## Cartões de Especificação
 
-<font size="3"><p style="text-align: center">Tabela 2: Processo Login</p></font>
+<font size="3"><p style="text-align: center">Tabela 4: Processo Login</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
@@ -253,7 +275,7 @@ A Tabela 2 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) </p></font>
 
-<font size="3"><p style="text-align: center">Tabela 3: Diferentes Funcionalidades</p></font>
+<font size="3"><p style="text-align: center">Tabela 5: Diferentes Funcionalidades</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
@@ -273,7 +295,7 @@ A Tabela 2 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) </p></font>
 
 
-<font size="3"><p style="text-align: center">Tabela 4: Agilidade de Funcionalidades</p></font>
+<font size="3"><p style="text-align: center">Tabela 6: Agilidade de Funcionalidades</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
@@ -292,7 +314,7 @@ A Tabela 2 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
-<font size="3"><p style="text-align: center">Tabela 5: Menus Autoexplicativos</p></font>
+<font size="3"><p style="text-align: center">Tabela 7: Menus Autoexplicativos</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
@@ -312,7 +334,7 @@ A Tabela 2 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
-<font size="3"><p style="text-align: center">Tabela 6: Aplicativo com Segurança</p></font>
+<font size="3"><p style="text-align: center">Tabela 8: Aplicativo com Segurança</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
@@ -331,7 +353,7 @@ A Tabela 2 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </p></font>
 
-<font size="3"><p style="text-align: center">Tabela 7: Conformidade de Diretrizes</p></font>
+<font size="3"><p style="text-align: center">Tabela 9: Conformidade de Diretrizes</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
@@ -350,7 +372,7 @@ A Tabela 2 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </p></font>
 
-<font size="3"><p style="text-align: center">Tabela 8: Funcionamento em Conexão Instável</p></font>
+<font size="3"><p style="text-align: center">Tabela 10: Funcionamento em Conexão Instável</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
@@ -369,7 +391,7 @@ A Tabela 2 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
-<font size="3"><p style="text-align: center">Tabela 9: Segurança de Dados Pessoais</p></font>
+<font size="3"><p style="text-align: center">Tabela 11: Segurança de Dados Pessoais</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
@@ -390,7 +412,7 @@ A Tabela 2 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 ## Cartões de Especificação
 
-<font size="3"><p style="text-align: center">Tabela 10: Cumprimento dos Prazos</p></font>
+<font size="3"><p style="text-align: center">Tabela 12: Cumprimento dos Prazos</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
@@ -409,7 +431,7 @@ A Tabela 2 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir) </p></font>
 
-<font size="3"><p style="text-align: center">Tabela 11: Princípios de Acessibilidade.</p></font>
+<font size="3"><p style="text-align: center">Tabela 13: Princípios de Acessibilidade.</p></font>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
