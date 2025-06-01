@@ -551,25 +551,25 @@ Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de requisitos n
 
 ### Requisitos
 
-Requisitos utilizados para desenvolver o SIG da Figura 4:
+Requisitos utilizados para desenvolver o SIG da Figura 5:
 
 - RFN07: O aplicativo deve fornecer as mesmas funcionalidades para diferentes plataformas e versões.
 
 - RFN10: O aplicativo deve estar disponível para outras plataformas, como web.
 
-<font size="3"><p style="text-align: center">Figura 4: SIG Portabilidade</p></font>
+<font size="3"><p style="text-align: center">Figura 5: SIG Portabilidade</p></font>
 
 <div align="center">
-  <img src="./../../assets/NFRFramework/Portabilidade.png" alt="FIGURA 4">
+  <img src="./../../assets/NFRFramework/Portabilidade.png" alt="FIGURA 5">
 </div>
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </p></font>
 
 ### Propagação dos impactos
 
-A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na Figura 4.
+A Tabela 18, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na Figura 5.
 
-<font size="3"><p style="text-align: center">Tabela X: Tabela de impactos.</p></font>
+<font size="3"><p style="text-align: center">Tabela 18: Tabela de impactos.</p></font>
 
 <center>
 
@@ -593,26 +593,26 @@ Este SIG (Softgoal Interdependency Graph) foi elaborado com base nos requisitos 
 
 ### Requisitos
 
-Requisitos utilizados para desenvolver o SIG da Figura 5:
+Requisitos utilizados para desenvolver o SIG da Figura 6:
 
 - RNF03: O sistema deve apresentar informações de forma transparente e confiável.
 - RNF04: Os prazos informados no app devem ser cumpridos fielmente.
 - RNF05: O aplicativo deve ser confiável e evitar falhas ou inconsistências nos processos.
 - RNF06: O aplicativo deve funcionar corretamente mesmo com conexão instável.
 
-<font size="3"><p style="text-align: center">Figura 5: SIG Confiabilidade</p></font>
+<font size="3"><p style="text-align: center">Figura 6: SIG Confiabilidade</p></font>
 
 <div align="center">
-  <img src="./../../assets/NFRFramework/Confiabilidade.png" alt="FIGURA 5">
+  <img src="./../../assets/NFRFramework/Confiabilidade.png" alt="FIGURA 6">
 </div>
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
 ### Propagação dos impactos
 
-A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na Figura 5.
+A Tabela 19, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na Figura 6.
 
-<font size="3"><p style="text-align: center">Tabela X: Tabela de impactos.</p></font>
+<font size="3"><p style="text-align: center">Tabela 19: Tabela de impactos.</p></font>
 
 <center>
 
@@ -635,24 +635,24 @@ Este SIG (Softgoal Interdependency Graph) foi elaborado com base nos requisitos 
 
 ### Requisitos
 
-Requisitos utilizados para desenvolver o SIG da Figura 6:
+Requisitos utilizados para desenvolver o SIG da Figura 7:
 
 - RNF11: O aplicativo deve proporcionar segurança de dados pessoais
 - RNF13: O sistema deve garantir segurança firme com verificação de dados pelo usuário.
 
-<font size="3"><p style="text-align: center">Figura 6: SIG Segurança</p></font>
+<font size="3"><p style="text-align: center">Figura 7: SIG Segurança</p></font>
 
 <div align="center">
-  <img src="./../../assets/NFRFramework/Segurança.png" alt="FIGURA 6">
+  <img src="./../../assets/NFRFramework/Segurança.png" alt="FIGURA 7">
 </div>
 
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
 ### Propagação dos impactos
 
-A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na Figura 6.
+A Tabela 20, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na Figura 7.
 
-<font size="3"><p style="text-align: center">Tabela X: Tabela de impactos.</p></font>
+<font size="3"><p style="text-align: center">Tabela 20: Tabela de impactos.</p></font>
 
 <center>
 
@@ -673,7 +673,7 @@ Este Softgoal Interdependency Graph (SIG) foi elaborado para representar visualm
 
 ### Requisitos
 
-Requisitos utilizados para compor o SIG da Figura 7:
+Requisitos utilizados para compor o SIG da Figura 8:
 
 - **RNF02**: O processo de login deve ser simplificado  
   Origem: [EN08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista)
@@ -687,19 +687,19 @@ Requisitos utilizados para compor o SIG da Figura 7:
 - **RNF12**: O aplicativo deve proporcionar agilidade ao acessar as funcionalidades  
   Origem: [IS24](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF)
 
-<font size="3"><p style="text-align: center">Figura 7: SIG Usabilidade</p></font>
+<font size="3"><p style="text-align: center">Figura 8: SIG Usabilidade</p></font>
 
 <div align="center">
-  <img src="./../../assets/NFRFramework/Usabilidade.png" alt="FIGURA 7">
+  <img src="./../../assets/NFRFramework/Usabilidade.png" alt="FIGURA 8">
 </div>
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
 
 ### Propagação dos Impactos
 
-A Tabela X apresenta a avaliação da propagação dos impactos identificados na Figura 7.
+A Tabela 21 apresenta a avaliação da propagação dos impactos identificados na Figura 8.
 
-<font size="3"><p style="text-align: center">Tabela X: Avaliação dos Impactos dos Requisitos sobre Usabilidade</p></font>
+<font size="3"><p style="text-align: center">Tabela 21: Avaliação dos Impactos dos Requisitos sobre Usabilidade</p></font>
 
 <center>
 
@@ -722,25 +722,25 @@ Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de requisitos n
 
 ### Requisitos
 
-Requisitos utilizados para desenvolver o SIG da Figura 8:
+Requisitos utilizados para desenvolver o SIG da Figura 9:
 
 - RFN09: O aplicativo deve aplicar princípios de acessibilidade.
 
 - RFN22: A aplicação deve estar em conformidade com diretrizes de acessibilidade, garantindo acesso a pessoas com deficiência visual, auditiva ou motora.
 
-<font size="3"><p style="text-align: center">Figura 8: SIG Acessibilidade</p></font>
+<font size="3"><p style="text-align: center">Figura 9: SIG Acessibilidade</p></font>
 
 <div align="center">
-  <img src="./../../assets/NFRFramework/Acessibilidade.png" alt="FIGURA 8">
+  <img src="./../../assets/NFRFramework/Acessibilidade.png" alt="FIGURA 9">
 </div>
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
 ### Propagação dos impactos
 
-A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na Figura 8.
+A Tabela 22, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na Figura 9.
 
-<font size="3"><p style="text-align: center">Tabela X: Tabela de impactos.</p></font>
+<font size="3"><p style="text-align: center">Tabela 22: Tabela de impactos.</p></font>
 
 <center>
 
@@ -765,7 +765,7 @@ Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de todos os req
 
 ### Requisitos
 
-Requisitos utilizados para desenvolver o SIG da Figura 9:
+Requisitos utilizados para desenvolver o SIG da Figura 10:
 
 - RFN07: O aplicativo deve fornecer as mesmas funcionalidades para diferentes plataformas e versões.
 
@@ -795,19 +795,19 @@ Requisitos utilizados para desenvolver o SIG da Figura 9:
 
 - RFN22: A aplicação deve estar em conformidade com diretrizes de acessibilidade, garantindo acesso a pessoas com deficiência visual, auditiva ou motora.
 
-<font size="3"><p style="text-align: center">Figura 9: SIG Completo</p></font>
+<font size="3"><p style="text-align: center">Figura 10: SIG Completo</p></font>
 
 <div align="center">
-  <img src="./../../assets/NFRFramework/Completo.png" alt="FIGURA 9">
+  <img src="./../../assets/NFRFramework/Completo.png" alt="FIGURA 10">
 </div>
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ### Propagação dos impactos
 
-A Tabela X, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na Figura 4.
+A Tabela 23, apresentada a seguir, mostra a avaliação da propagação dos impactos representados na Figura 10.
 
-<font size="3"><p style="text-align: center">Tabela X: Tabela de impactos.</p></font>
+<font size="3"><p style="text-align: center">Tabela 23: Tabela de impactos.</p></font>
 
 <center>
 
