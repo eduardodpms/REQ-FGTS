@@ -8,14 +8,11 @@ A Entrega 4 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 
 ## Apresentação
 
----
-
 <p style="text-align: center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M228uKxFDQE
 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
----
 
 
 ## Modelo para Lista de Verificação/Inspeção da Entrega 4

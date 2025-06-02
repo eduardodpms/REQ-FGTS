@@ -834,8 +834,16 @@ A Tabela 23, apresentada a seguir, mostra a avaliação da propagação dos impa
 
 ## Validação
 
+Parte 01: 
+
 <p style="text-align: center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/unU4njRbzHA?si=qKsumdvPXtuQobt8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
+Parte 02:
+
+<p style="text-align: center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/QaTmRHfpv_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
 
@@ -879,3 +887,4 @@ A Tabela 23, apresentada a seguir, mostra a avaliação da propagação dos impa
 | `2.5`    | 01/06/2025 | Adição do NFR05 | [Maria Eduarda](https://github.com/dudaa28)  | [Marcelo Makoto](https://github.com/MM4k) |
 | `2.6`    | 01/06/2025 | Adição do NFR06 | [Marcelo Makoto](https://github.com/MM4k)  | - |
 | `2.7`    | 01/06/2025 | Adição das prioridades dos cartões de especificação definidas pelo usuário | [Marcelo Makoto](https://github.com/MM4k)  | - |
+| `2.8`    | 01/06/2025 | Adicionando parte 2 video validação | [Maria Eduarda](https://github.com/dudaa28)  | - |
