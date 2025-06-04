@@ -19,8 +19,8 @@ Os artefatos desenvolvidos estão listados a seguir, com seus respectivos links 
 
 1. [Pré-Rastreabilidade 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Pre-Rastreabilidade/Rich-Picture/)
 2. [Elicitação de Requisitos 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Perfil-de-Usuario/)
-3. [Modelagem de Requisitos I 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem/Diagrama/)
-4. [Modelagem de Requisitos II 🔗]()
+3. [Modelagem de Requisitos I 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/)
+4. [Modelagem de Requisitos II 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/)
 5. [Pós-Rastreabilidade 🔗]()
 6. [Análise de Requisitos 🔗]()
 
