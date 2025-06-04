@@ -76,7 +76,7 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
     </tr>
     <tr>
       <td> Leticia Arisa </td>
-      <td> 17/05 </td>
+      <td> 17/05/2025 </td>
       <td> 8:24 </td>
     </tr>
     <tr>
@@ -1216,4 +1216,4 @@ O léxico L45 utiliza o requisito funcional não implementado ST07 (O aplicativo
 | `2.0` | 18/05/2025 | Atualização do Documento | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `2.1` | 18/05/2025 | Adição de léxicos referentes aos requisitos faltantes | [Eduardo de Pina](https://github.com/eduardodpms) | [Marcelo Makoto](https://github.com/MM4k) |
 | `2.2` | 18/05/2025 | Mudança de estilo da página | [Marcelo Makoto](https://github.com/MM4k) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `2.3` | 18/05/2025 | Adicionando Hyper Links | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `2.3` | 18/05/2025 | Adicionando Hyper Links | [Enzo Emir](https://github.com/EnzoEmir) | [Eduardo de Pina](https://github.com/eduardodpms) |

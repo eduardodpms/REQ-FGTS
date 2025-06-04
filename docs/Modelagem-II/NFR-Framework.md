@@ -299,7 +299,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
   <tr><td><strong>Classificação</strong></td><td>Usabilidade</td></tr>
   <tr><td><strong>Descrição</strong></td><td>O aplicativo deve proporcionar agilidade ao acessar as funcionalidades.</td></tr>
   <tr><td><strong>Justificativa</strong></td><td>Um acesso rápido melhora a experiência do usuário, reduz o tempo de espera e aumenta a eficiência no uso do aplicativo.</td></tr>
-  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-nao-funcionais">IS24</a></td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF">IS24</a></td></tr>
   <tr><td><strong>Critério de Aceitação</strong></td><td>O usuário deve conseguir acessar qualquer funcionalidade em menos de 3 segundos.</td></tr>
   <tr><td><strong>Dependências</strong></td><td>Infraestrutura do sistema, otimização do código</td></tr>
   <tr><td><strong>Prioridade</strong></td><td>10</td></tr>
@@ -376,7 +376,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
   <tr><td><strong>Classificação</strong></td><td>Confiabilidade</td></tr>
   <tr><td><strong>Descrição</strong></td><td>O aplicativo deve funcionar corretamente mesmo com conexão instável.</td></tr>
   <tr><td><strong>Justificativa</strong></td><td>Usuários em áreas com cobertura irregular de internet precisam acessar informações críticas do FGTS sem erros ou travamentos.</td></tr>
-  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-nao-funcionais">EN12</a></td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RNF">EN12</a></td></tr>
   <tr><td><strong>Critério de Aceitação</strong></td><td>O app deve manter funcionalidades mínimas (ex.: consulta de saldo e extrato) mesmo com perdas intermitentes de conexão.</td></tr>
   <tr><td><strong>Dependências</strong></td><td>Equipe de backend e gerenciamento de cache local</td></tr>
   <tr><td><strong>Prioridade</strong></td><td>8</td></tr>
@@ -395,7 +395,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
   <tr><td><strong>Classificação</strong></td><td>Segurança</td></tr>
   <tr><td><strong>Descrição</strong></td><td>O aplicativo deve proporcionar segurança de dados pessoais.</td></tr>
   <tr><td><strong>Justificativa</strong></td><td>Proteção de informações sensíveis como CPF, conta bancária e saldo do FGTS é essencial para evitar fraudes e vazamentos.</td></tr>
-  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-nao-funcionais">IS23</a></td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IR_RNF">IS23</a></td></tr>
   <tr><td><strong>Critério de Aceitação</strong></td><td>Os dados devem ser armazenados e transmitidos com criptografia; autenticação deve usar biometria ou múltiplos fatores.</td></tr>
   <tr><td><strong>Dependências</strong></td><td>Equipe de segurança da informação e infraestrutura</td></tr>
   <tr><td><strong>Prioridade</strong></td><td>10</td></tr>
@@ -512,7 +512,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
   <tr><td><strong>Classificação</strong></td><td>Segurança</td></tr>
   <tr><td><strong>Descrição</strong></td><td>O sistema deve permitir e incentivar a verificação ativa de dados pelo usuário para prevenir fraudes ou acessos indevidos.</td></tr>
   <tr><td><strong>Justificativa</strong></td><td>Garantir que o usuário esteja ciente dos dados utilizados e possa confirmar suas informações aumenta a segurança e a confiabilidade do sistema.</td></tr>
-  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB10</a></td></tr>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RNF">OB10</a></td></tr>
   <tr><td><strong>Critério de Aceitação</strong></td><td>O sistema deve exibir resumos dos dados antes de cada ação crítica (como saque ou alteração de conta), solicitando confirmação do usuário.</td></tr>
   <tr><td><strong>Dependências</strong></td><td>Integração com módulos de segurança e lógica de interface voltada à confirmação de dados.</td></tr>
   <tr><td><strong>Prioridade</strong></td><td>10</td></tr>
@@ -548,9 +548,9 @@ Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de requisitos n
 
 Requisitos utilizados para desenvolver o SIG da Figura 5:
 
-- RFN07: O aplicativo deve fornecer as mesmas funcionalidades para diferentes plataformas e versões.
+- [RFN07](#requisitos-nao-funcionais): O aplicativo deve fornecer as mesmas funcionalidades para diferentes plataformas e versões.
 
-- RFN10: O aplicativo deve estar disponível para outras plataformas, como web.
+- [RFN10](#requisitos-nao-funcionais): O aplicativo deve estar disponível para outras plataformas, como web.
 
 <font size="3"><p style="text-align: center">Figura 5: SIG Portabilidade</p></font>
 
@@ -590,10 +590,10 @@ Este SIG (Softgoal Interdependency Graph) foi elaborado com base nos requisitos 
 
 Requisitos utilizados para desenvolver o SIG da Figura 6:
 
-- RNF03: O sistema deve apresentar informações de forma transparente e confiável.
-- RNF04: Os prazos informados no app devem ser cumpridos fielmente.
-- RNF05: O aplicativo deve ser confiável e evitar falhas ou inconsistências nos processos.
-- RNF06: O aplicativo deve funcionar corretamente mesmo com conexão instável.
+- [RNF03](#requisitos-nao-funcionais): O sistema deve apresentar informações de forma transparente e confiável.
+- [RNF04](#requisitos-nao-funcionais): Os prazos informados no app devem ser cumpridos fielmente.
+- [RNF05](#requisitos-nao-funcionais): O aplicativo deve ser confiável e evitar falhas ou inconsistências nos processos.
+- [RNF06](#requisitos-nao-funcionais): O aplicativo deve funcionar corretamente mesmo com conexão instável.
 
 <font size="3"><p style="text-align: center">Figura 6: SIG Confiabilidade</p></font>
 
@@ -632,8 +632,8 @@ Este SIG (Softgoal Interdependency Graph) foi elaborado com base nos requisitos 
 
 Requisitos utilizados para desenvolver o SIG da Figura 7:
 
-- RNF11: O aplicativo deve proporcionar segurança de dados pessoais
-- RNF13: O sistema deve garantir segurança firme com verificação de dados pelo usuário.
+- [RNF11](#requisitos-nao-funcionais): O aplicativo deve proporcionar segurança de dados pessoais
+- [RNF13](#requisitos-nao-funcionais): O sistema deve garantir segurança firme com verificação de dados pelo usuário.
 
 <font size="3"><p style="text-align: center">Figura 7: SIG Segurança</p></font>
 
@@ -670,16 +670,16 @@ Este Softgoal Interdependency Graph (SIG) foi elaborado para representar visualm
 
 Requisitos utilizados para compor o SIG da Figura 8:
 
-- **RNF02**: O processo de login deve ser simplificado  
+- [**RNF02**](#requisitos-nao-funcionais): O processo de login deve ser simplificado  
   Origem: [EN08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista)
   
-- **RNF08**: Os menus devem fornecer informações não repetidas  
+- [**RNF08**](requisitos-nao-funcionais): Os menus devem fornecer informações não repetidas  
   Origem: [IS19](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF)
 
-- **RNF21**: Os menus devem ser autoexplicativos, com estrutura hierárquica lógica e nomenclatura padronizada  
+- [**RNF21**](requisitos-nao-funcionais): Os menus devem ser autoexplicativos, com estrutura hierárquica lógica e nomenclatura padronizada  
   Origem: [IS19](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF), [OB11](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF)
 
-- **RNF12**: O aplicativo deve proporcionar agilidade ao acessar as funcionalidades  
+- [**RNF12**](requisitos-nao-funcionais): O aplicativo deve proporcionar agilidade ao acessar as funcionalidades  
   Origem: [IS24](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF)
 
 <font size="3"><p style="text-align: center">Figura 8: SIG Usabilidade</p></font>
@@ -700,10 +700,10 @@ A Tabela 21 apresenta a avaliação da propagação dos impactos identificados n
 
 | NFR                                                  | Impacto | Avaliador                                  |
 |------------------------------------------------------|---------|---------------------------------------------|
- RNF02 – Login simplificado                           | ✓                | [Victor Pontual](https://github.com/VictorPontual) |
-| RNF08 – Não repetir informações                      | ❌                   | [Victor Pontual](https://github.com/VictorPontual) |
-| RNF21 – Menus autoexplicativos                       | 𝒲⁺    | [Victor Pontual](https://github.com/VictorPontual) |
-| RNF12 – Proporcionar agilidade                       | ✓               | [Victor Pontual](https://github.com/VictorPontual) |
+ [RNF02](#requisitos-nao-funcionais) – Login simplificado                           | ✓                | [Victor Pontual](https://github.com/VictorPontual) |
+| [RNF08](#requisitos-nao-funcionais) – Não repetir informações                      | ❌                   | [Victor Pontual](https://github.com/VictorPontual) |
+| [RNF21](#requisitos-nao-funcionais) – Menus autoexplicativos                       | 𝒲⁺    | [Victor Pontual](https://github.com/VictorPontual) |
+| [RNF12](#requisitos-nao-funcionais) – Proporcionar agilidade                       | ✓               | [Victor Pontual](https://github.com/VictorPontual) |
 
 </center>
 
@@ -719,9 +719,9 @@ Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de requisitos n
 
 Requisitos utilizados para desenvolver o SIG da Figura 9:
 
-- RFN09: O aplicativo deve aplicar princípios de acessibilidade.
+- [RFN09](#requisitos-nao-funcionais): O aplicativo deve aplicar princípios de acessibilidade.
 
-- RFN22: A aplicação deve estar em conformidade com diretrizes de acessibilidade, garantindo acesso a pessoas com deficiência visual, auditiva ou motora.
+- [RFN22](#requisitos-nao-funcionais): A aplicação deve estar em conformidade com diretrizes de acessibilidade, garantindo acesso a pessoas com deficiência visual, auditiva ou motora.
 
 <font size="3"><p style="text-align: center">Figura 9: SIG Acessibilidade</p></font>
 
@@ -760,7 +760,7 @@ Este SIG (Softgoal Interdependency Graph) foi elaborado a partir de todos os req
 
 ### Requisitos
 
-Requisitos utilizados para desenvolver o SIG da Figura 10:
+[Requisitos](#requisitos-nao-funcionais) utilizados para desenvolver o SIG da Figura 10:
 
 - RFN07: O aplicativo deve fornecer as mesmas funcionalidades para diferentes plataformas e versões.
 
@@ -885,6 +885,7 @@ Parte 02:
 | `2.3`    | 01/06/2025 | Adição do NFR03 | [Eduardo de Pina](https://github.com/eduardodpms)  | [Victor Pontual](https://github.com/VictorPontual) |
 | `2.4`    | 01/06/2025 | Adição do NFR04 | [Victor Pontual](https://github.com/VictorPontual)  | [Maria Eduarda](https://github.com/dudaa28) |
 | `2.5`    | 01/06/2025 | Adição do NFR05 | [Maria Eduarda](https://github.com/dudaa28)  | [Marcelo Makoto](https://github.com/MM4k) |
-| `2.6`    | 01/06/2025 | Adição do NFR06 | [Marcelo Makoto](https://github.com/MM4k)  | - |
-| `2.7`    | 01/06/2025 | Adição das prioridades dos cartões de especificação definidas pelo usuário | [Marcelo Makoto](https://github.com/MM4k)  | - |
-| `2.8`    | 01/06/2025 | Adicionando parte 2 video validação | [Maria Eduarda](https://github.com/dudaa28)  | - |
+| `2.6`    | 01/06/2025 | Adição do NFR06 | [Marcelo Makoto](https://github.com/MM4k)  | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `2.7`    | 01/06/2025 | Adição das prioridades dos cartões de especificação definidas pelo usuário | [Marcelo Makoto](https://github.com/MM4k)  | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `2.8`    | 01/06/2025 | Adicionando parte 2 video validação | [Maria Eduarda](https://github.com/dudaa28)  | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `2.9`    | 04/06/2025 | Correção de links | [Eduardo de Pina](https://github.com/eduardodpms) | - |
