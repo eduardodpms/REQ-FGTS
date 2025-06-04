@@ -7,7 +7,7 @@ Esta seção apresenta os requisitos funcionais e não funcionais que ainda **n�
 
 ## Requisitos Funcionais Não Implementados
 
-| Código | Descrição                                                                                   | Status |
+| Código | Descrição                                                                                   | Origem |
 |--------|----------------------------------------------------------------------------------------------|--------|
 | RF02   | O aplicativo deve exibir status comentado e atualizado do processo de saque                 | [EN02](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF)   |
 | RF03   | O aplicativo deve informar claramente as datas previstas para liberação de valores          | [EN03](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF)   |
