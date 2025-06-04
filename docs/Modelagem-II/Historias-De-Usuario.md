@@ -188,12 +188,12 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 | **Item**                 | **Descrição**                                                                 |
 |--------------------------|------------------------------------------------------------------------------|
 | **ID**                   | US01                                                                         |
-| **Rastreabilidade**      | RF08 (IS05, EN02)                                                             |
+| **Rastreabilidade**      | [RF08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais) ([IS05](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF), [EN02](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF))                                                             |
 | **Tema**                 | Acompanhar Situação do Saque                                                 |
 | **Descrição**            | Eu, como técnica de enfermagem, desejo acompanhar a situação do meu saque do FGTS para saber se está aprovado, em análise ou concluído, sem ir à agência. |
 | **Critérios de Aceitação** | - Status exibido claramente (Ex.: “Aguardando análise”, “Aprovado”)  <br> - Mostra possíveis pendências ou exigências  <br> - Atualização automática do status |
 | **Prioridade Usuário**   | Alta                                                                          |
-| **Status**               | A ser validado pelo usuário                                                                  |
+| **Status**               | Validado pelo usuário.                                                                  |
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
@@ -203,13 +203,13 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 | **Item**                 | **Descrição**                                                                 |
 |--------------------------|------------------------------------------------------------------------------|
-| **ID**                   | US03                                                                         |
-| **Rastreabilidade**      | RF38 (IS05)                                                             |
+| **ID**                   | US02                                                                         |
+| **Rastreabilidade**      | [RF38](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais) ([IS05](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF))                                                             |
 | **Tema**                 | Notificações Sobre Andamento                                                 |
 | **Descrição**            | Eu, como comerciante, desejo receber notificações sobre o andamento do meu saque do FGTS para ser informada de atualizações sem precisar abrir o app constantemente. |
 | **Critérios de Aceitação** | - Notificações push quando houver mudança no status  <br> - Mensagens objetivas (Ex.: “Seu saque foi liberado”)  <br> - Opção de ativar/desativar notificações |
 | **Prioridade Usuário**   | Alta                                                                          |
-| **Status**               | A ser validado pelo usuário                                                                  |
+| **Status**               | Validado pelo usuário.                                                                  |
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
@@ -219,13 +219,13 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 | **Item**                 | **Descrição**                                                                 |
 |--------------------------|------------------------------------------------------------------------------|
-| **ID**                   | US04                                                                         |
-| **Rastreabilidade**      | RF01 (EN03)                                                                   |
+| **ID**                   | US03                                                                        |
+| **Rastreabilidade**      | [RF01](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais) ([EN03](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF))                                                                   |
 | **Tema**                 | Informar Datas de Liberação                                                  |
 | **Descrição**            | Eu, como aposentado, desejo ver as datas previstas para liberação dos valores do FGTS para me organizar financeiramente e pedir ajuda aos filhos, se necessário. |
 | **Critérios de Aceitação** | - Exibição da data estimada de liberação  <br> - Alerta caso a data seja alterada  <br> - Informação clara caso a data não esteja definida |
 | **Prioridade Usuário**   | Alta                                                                          |
-| **Status**               | A ser validado pelo usuário                                                                  |
+| **Status**               | Validado pelo usuário.                                                                  |
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
@@ -235,13 +235,13 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 | **Item**                 | **Descrição**                                                                 |
 |--------------------------|------------------------------------------------------------------------------|
-| **ID**                   | US05                                                                         |
-| **Rastreabilidade**      | RF17 (IS15)                                                                   |
+| **ID**                   | US04                                                                         |
+| **Rastreabilidade**      | [RF17](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais) ([IS15](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF))                                                                   |
 | **Tema**                 | Acesso à Seção de Ajuda                                                       |
 | **Descrição**            | Eu, como técnica de enfermagem, desejo acessar uma seção de ajuda com orientações sobre FGTS e PIS/PASEP para esclarecer dúvidas rapidamente, sem precisar de atendimento presencial. |
 | **Critérios de Aceitação** | - FAQ com respostas claras  <br> - Explicações sobre regras de saque, prazos e documentação  <br> - Opção de contato com suporte |
 | **Prioridade Usuário**   | Média                                                                         |
-| **Status**               | A ser validado pelo usuário                                                                  |
+| **Status**               | Validado pelo usuário.                                                                  |
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
@@ -251,13 +251,13 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 | **Item**                 | **Descrição**                                                                 |
 |--------------------------|------------------------------------------------------------------------------|
-| **ID**                   | US06                                                                         |
-| **Rastreabilidade**      | RF19 (IS17)                                                                   |
+| **ID**                   | US05                                                                         |
+| **Rastreabilidade**      | [RF19](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais) ([IS17](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF))                                                                   |
 | **Tema**                 | Solicitação de Ressarcimento do PIS/PASEP                                    |
 | **Descrição**            | Eu, como jovem tecnólogo, desejo solicitar o ressarcimento de valores do PIS/PASEP pelo app para evitar filas, economizar tempo e resolver tudo digitalmente. |
 | **Critérios de Aceitação** | - Formulário simples, com upload de documentos  <br> - Confirmação do envio  <br> - Acompanhamento do andamento no app |
 | **Prioridade Usuário**   | Alta                                                                          |
-| **Status**               | A ser validado pelo usuário                                                                  |
+| **Status**               | Validado pelo usuário.                                                                  |
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
@@ -267,13 +267,13 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
 
 | **Item**                 | **Descrição**                                                                 |
 |--------------------------|------------------------------------------------------------------------------|
-| **ID**                   | US07                                                                         |
-| **Rastreabilidade**      | RF20 (OB01)                                                                   |
+| **ID**                   | US06                                                                         |
+| **Rastreabilidade**      | [RF20](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais) ([OB01](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF))                                                                   |
 | **Tema**                 | Login Seguro                                                                 |
 | **Descrição**            | Eu, como usuária com pouca autonomia digital (ou comerciante ocupada), desejo fazer login de forma segura no app para proteger meus dados, sem complicações ou esquecimento de senha. |
 | **Critérios de Aceitação** | - Login com biometria, senha ou autenticação de dois fatores (2FA)  <br> - Mensagens claras em caso de erro  <br> - Opção de lembrar acesso ou recuperar senha |
 | **Prioridade Usuário**   | Alta                                                                          |
-| **Status**               | A ser validado pelo usuário                                                                  |
+| **Status**               | Validado pelo usuário.                                                                  |
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
@@ -294,11 +294,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF15</a></td>
+      <td>US07</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS13</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF15</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS13</a>)</td>
     </tr>
     <tr>
       <td>Tema</td>
@@ -318,7 +318,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
   </tbody>
 </table>
@@ -343,11 +343,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF16</a></td>
+      <td>US08</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS14</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF16</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS14</a>)</td>
     </tr>
     <tr>
       <td>Tema</td>
@@ -367,7 +367,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
   </tbody>
 </table>
@@ -392,11 +392,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF24</a></td>
+      <td>US09</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-funcionais">OB07</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF24</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-funcionais">OB07</a>)</td>
     </tr>
     <tr>
       <td>Tema</td>
@@ -416,7 +416,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
   </tbody>
 </table>
@@ -441,11 +441,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF25</a></td>
+      <td>US10</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-funcionais">OB09</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF25</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-funcionais">OB09</a>)</td>
     </tr>
     <tr>
       <td>Tema</td>
@@ -465,7 +465,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
   </tbody>
 </table>
@@ -490,11 +490,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF26</a></td>
+      <td>US11</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST02</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF26</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST02</a>)</td>
     </tr>
     <tr>
       <td>Tema</td>
@@ -514,7 +514,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
   </tbody>
 </table>
@@ -539,11 +539,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF36</a></td>
+      <td>US12</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST013, ST014</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF36</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST013, ST014</a>)</td>
     </tr>
     <tr>
       <td>Tema</td>
@@ -563,7 +563,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A validar pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
   </tbody>
 </table>
@@ -588,11 +588,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td>RF11</td>
+      <td>US13</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS08</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF11</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS08</a>)</td>
     <tr>
       <td>Tema</td>
       <td>Ver Informações Sobre Saques Bloqueados</td>
@@ -611,7 +611,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
     </tr>
   </tbody>
@@ -635,11 +635,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td>RF35</td>
+      <td>US14</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS12</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF35</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS12</a>)</td>
     <tr>
       <td>Tema</td>
       <td>Cadastro de Múltiplas Contas Bancárias</td>
@@ -658,7 +658,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
     </tr>
   </tbody>
@@ -682,11 +682,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td>RF03</td>
+      <td>US15</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN05</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF03</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN05</a>)</td>
     <tr>
       <td>Tema</td>
       <td>Consulta ao Saldo do FGTS</td>
@@ -705,7 +705,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
     </tr>
   </tbody>
@@ -729,11 +729,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td>RF05</td>
+      <td>US16</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS01</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF05</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS01</a>)</td>
     <tr>
       <td>Tema</td>
       <td>Atualização de Dados Pessoais</td>
@@ -752,7 +752,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
     </tr>
   </tbody>
@@ -776,11 +776,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td>RF04</td>
+      <td>US17</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN06</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST013</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST014</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF04</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN06</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST013</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST014</a>)</td>
     <tr>
       <td>Tema</td>
       <td>Disponibilizar Saque-Aniversário</td>
@@ -799,7 +799,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
     </tr>
   </tbody>
@@ -823,11 +823,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td>RF39</td>
+      <td>US18</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN02</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF39</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN02</a>)</td>
     </tr>
     <tr>
       <td>Tema</td>
@@ -851,7 +851,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
   </tbody>
 </table>
@@ -875,11 +875,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF02</a></td>
+      <td>US19</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais">EN04</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF02</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais">EN04</a>)</td>
     <tr>
       <td>Tema</td>
       <td>Suporte ao Usuário</td>
@@ -898,7 +898,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
     </tr>
   </tbody>
@@ -922,11 +922,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF30</a></td>
+      <td>US20</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST08</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF30</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST08</a>)</td>
     <tr>
       <td>Tema</td>
       <td>Acessibilidade</td>
@@ -945,7 +945,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
     </tr>
   </tbody>
@@ -969,13 +969,13 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF27</a></td>
+      <td>US21</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST03</a>
-      <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST09</a>
-      <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST015</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF27</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST03</a>,
+      <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST09</a>,
+      <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST015</a>)</td>
     <tr>
       <td>Tema</td>
       <td>Notificações do sistema</td>
@@ -994,7 +994,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
     </tr>
   </tbody>
@@ -1018,14 +1018,14 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td> ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF28</a></td>
+      <td>US22</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN01</a>
-      <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS03</a>
-      <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST06</a>
-      <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB03</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF28</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN01</a>,
+      <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS03</a>,
+      <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST06</a>,
+      <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB03</a>)</td>
     <tr>
       <td>Tema</td>
       <td>Solicitação de Saque</td>
@@ -1044,7 +1044,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
     </tr>
   </tbody>
@@ -1069,11 +1069,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF31</a></td>
+      <td>US23</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST010</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF31</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST010</a>)</td>
     <tr>
       <td>Tema</td>
       <td>Visualização de dados bancários</td>
@@ -1092,7 +1092,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
     </tr>
   </tbody>
@@ -1116,12 +1116,12 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF42</a></td>
+      <td>US24</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
       <td> 
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/#requisitos-elicitados">BS10</a>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF42</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/#requisitos-elicitados">BS10</a>)
       </td>
     </tr>
     <tr>
@@ -1146,7 +1146,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A validar pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
   </tbody>
 </table>
@@ -1171,11 +1171,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF12</a></td>
+      <td>US25</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS09</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF12</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS09</a>)</td>
     <tr>
       <td>Tema</td>
       <td>Visualização do histórico de movimentação financeira</td>
@@ -1194,7 +1194,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
     </tr>
   </tbody>
@@ -1218,11 +1218,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF13</a></td>
+      <td>US26</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS10</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF13</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS10</a>)</td>
     <tr>
       <td>Tema</td>
       <td>Filtrar extrato por data</td>
@@ -1241,7 +1241,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
     </tr>
   </tbody>
@@ -1265,11 +1265,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF21</a></td>
+      <td>US27</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao">OB02</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF21</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao">OB02</a>)</td>
     <tr>
       <td>Tema</td>
       <td>Visualizar empregadores anteriores com botão para consultar contas vinculadas</td>
@@ -1288,7 +1288,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
     </tr>
   </tbody>
@@ -1312,11 +1312,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF22</a></td>
+      <td>US28</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao">OB05</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF22</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao">OB05</a>)</td>
     <tr>
       <td>Tema</td>
       <td>Visualizar nome completo dos empregadores anteriores</td>
@@ -1335,7 +1335,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
     </tr>
   </tbody>
@@ -1359,11 +1359,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF23</a></td>
+      <td>US29</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao">OB06</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF23</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao">OB06</a>)</td>
     <tr>
       <td>Tema</td>
       <td>Visualizar histórico de saques realizados</td>
@@ -1382,7 +1382,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
     </tr>
   </tbody>
@@ -1407,13 +1407,14 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
       <tr>
         <td><strong>ID</strong></td>
         <td>
-          <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF41</a>
+          US30
         </td>
       </tr>
       <tr>
         <td><strong>Rastreabilidade</strong></td>
         <td>
-          <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/#BS_RF">BS03</a>
+          <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF41</a>
+          (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/#BS_RF">BS03</a>)
         </td>
       </tr>
       <tr>
@@ -1439,7 +1440,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
       </tr>
       <tr>
         <td><strong>Status</strong></td>
-        <td>A validar pelo usuário</td>
+        <td>Validado pelo usuário.</td>
       </tr>
     </tbody>
   </table>
@@ -1461,12 +1462,12 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   </thead>
   <tbody>
     <tr>
-      <td>USx (número de identificação)</td>
-      <td>RF09</td>
+      <td>ID</td>
+      <td>US31</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS06</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF09</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS06</a>)</td>
     </tr>
     <tr>
       <td>Tema</td>
@@ -1486,7 +1487,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
   </tbody>
 </table>
@@ -1508,12 +1509,12 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   </thead>
   <tbody>
     <tr>
-      <td>USx (número de identificação)</td>
-      <td>RF10</td>
+      <td>ID</td>
+      <td>US32</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS07</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF10</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS07</a>)</td>
     </tr>
     <tr>
       <td>Tema</td>
@@ -1533,7 +1534,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
   </tbody>
 </table>
@@ -1556,12 +1557,12 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   </thead>
   <tbody>
     <tr>
-      <td>USx (número de identificação)</td>
-      <td>RF32</td>
+      <td>ID</td>
+      <td>US33</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST011</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF32</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST011</a>)</td>
     </tr>
     <tr>
       <td>Tema</td>
@@ -1581,7 +1582,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
   </tbody>
 </table>
@@ -1603,12 +1604,12 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   </thead>
   <tbody>
     <tr>
-      <td>USx (número de identificação)</td>
-      <td>RF33</td>
+      <td>ID</td>
+      <td>US34</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST012</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF33</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST012</a>)</td>
     </tr>
     <tr>
       <td>Tema</td>
@@ -1628,7 +1629,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
   </tbody>
 </table>
@@ -1650,12 +1651,12 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   </thead>
   <tbody>
     <tr>
-      <td>USx (número de identificação)</td>
-      <td>RF34</td>
+      <td>ID</td>
+      <td>US35</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST016</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF34</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST016</a>)</td>
     </tr>
     <tr>
       <td>Tema</td>
@@ -1675,7 +1676,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
   </tbody>
 </table>
@@ -1697,12 +1698,12 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   </thead>
   <tbody>
     <tr>
-      <td>USx (número de identificação)</td>
-      <td>RF40</td>
+      <td>ID</td>
+      <td>US36</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST015</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF40</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST015</a>)</td>
     </tr>
     <tr>
       <td>Tema</td>
@@ -1722,7 +1723,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
   </tbody>
 </table>
@@ -1745,11 +1746,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF06</a></td>
+      <td>US37</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS02</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF06</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS02</a>)</td>
     <tr>
       <td>Tema</td>
       <td>Consulta de dados pessoais</td>
@@ -1768,7 +1769,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
     </tr>
   </tbody>
@@ -1792,11 +1793,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF07</a></td>
+      <td>US38</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS04</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB04</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF07</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS04</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB04</a>)</td>
     <tr>
       <td>Tema</td>
       <td>Consultar Saldo</td>
@@ -1815,7 +1816,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
     </tr>
   </tbody>
@@ -1839,11 +1840,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF07</a></td>
+      <td>US39</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS04</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB04</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF07</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS04</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB04</a>)</td>
     <tr>
       <td>Tema</td>
       <td>Exibir extrato pro empregador</td>
@@ -1862,7 +1863,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
     </tr>
   </tbody>
@@ -1886,11 +1887,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF14</a></td>
+      <td>US40</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS11</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST05</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB08</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF14</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS11</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST05</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB08</a>)</td>
     <tr>
       <td>Tema</td>
       <td>Permitir o cadastro de conta bancária</td>
@@ -1909,7 +1910,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
     </tr>
   </tbody>
@@ -1933,11 +1934,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF18</a></td>
+      <td>US41</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS16</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF18</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS16</a>)</td>
     <tr>
       <td>Tema</td>
       <td>Seção de ajuda com orientações</td>
@@ -1956,7 +1957,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
     </tr>
   </tbody>
@@ -1980,11 +1981,11 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   <tbody>
     <tr>
       <td>ID</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF29</a></td>
+      <td>US42</td>
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST07</a></td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF29</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST07</a>)</td>
     <tr>
       <td>Tema</td>
       <td>Guia interativo</td>
@@ -2003,7 +2004,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Status</td>
-      <td>A ser validado pelo usuário</td>
+      <td>Validado pelo usuário.</td>
     </tr>
     </tr>
   </tbody>
@@ -2071,3 +2072,4 @@ Validação das histórias de usuário 01-12 e 31-42 presentes no vídeo a segui
 | `2.8`    | 30/05/2025 | Referências Bibliográficas | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `2.9`    | 31/05/2025 | Adicionando video validação 13-30 e Foto referência | [Maria Eduarda](https://github.com/dudaa28) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `3.0`    | 31/05/2025 | Correção do link do vídeo | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `3.1`    | 04/06/2025 | Padronizando US e atualizando status | [Eduardo de Pina](https://github.com/eduardodpms) | - |
