@@ -43,7 +43,7 @@ Os artefatos previstos, associados a cada entrega, estão listados a seguir com 
 1. [Pré-Rastreabilidade 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Pre-Rastreabilidade/Rich-Picture/)
 2. [Elicitação de Requisitos 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Perfil-de-Usuario/)
 3. [Modelagem de Requisitos I 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/)
-4. [Modelagem de Requisitos II 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/)
+4. [Modelagem de Requisitos II (Ágil) 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/)
 5. [Pós-Rastreabilidade 🔗]()
 6. [Análise de Requisitos 🔗]()
 
@@ -59,9 +59,9 @@ Os artefatos previstos, associados a cada entrega, estão listados a seguir com 
 
 ## 6. Histórico de Entregas 📅
 
-| Item | Escopo | Componentes | Data | Gravação | Autor(es) | Revisor(es) |
+| Item | Escopo | Artefatos | Data | Gravação | Autor(es) | Revisor(es) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | **Entrega** `1` | *Pré-Rastreabilidade* | `Planejamento` e `Rich Map` | 13/04/2025 | [[LINK]](https://youtu.be/GZ2H4fPk-Dg) | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | [Enzo](https://github.com/EnzoEmir), [Danielle](https://github.com/danielle-soaress) |
 | **Entrega** `2` | *Elicitação de Requisitos* | `Perfil de Usuário`, `Personas`, `Técnicas de Elicitação` e `Técnicas de Priorização` | 04/05/2025 | [[LINK]](https://youtu.be/MWnO37Rvfqc) | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | [Eduardo](https://github.com/eduardodpms) |
 | **Entrega** `3` | *Modelagem de Requisitos I* | `Casos de Uso`, `Cenários`, `Léxicos` e `Especificação Suplementar` | 18/05/2025 | [[LINK]](https://youtu.be/6DFnkU2cEqs) | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k) |
-| **Entrega** `4` | *Modelagem de Requisitos II* | `NFR Framework`, `Histórias de Usuário` e `Product Backlog` | 01/06/2025 | [[LINK]](https://youtu.be/M228uKxFDQE) | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |
+| **Entrega** `4` | *Modelagem de Requisitos II (Ágil)* | `NFR Framework`, `Histórias de Usuário` e `Product Backlog` | 01/06/2025 | [[LINK]](https://youtu.be/M228uKxFDQE) | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |
