@@ -101,7 +101,7 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 
 A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 3.
 
-<p style="text-align: center; font-size: 16px;">Tabela 5: <i>Modelagem de Requisitos 1</i></p>
+<p style="text-align: center; font-size: 16px;">Tabela 5: <i>Modelagem de Requisitos I</i></p>
 
 | **Atividade** | **Período de Desenvolvimento** | **Responsáveis** | **Período de Revisão** | **Revisores** |
 |:-:|:-:|:-:|:-:|:-:|
@@ -118,7 +118,7 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 ### Entregue 📬
 
 
-<p style="text-align: center; font-size: 16px;">Tabela 5: <i>Modelagem de Requisitos 1</i></p>
+<p style="text-align: center; font-size: 16px;">Tabela 6: <i>Modelagem de Requisitos I</i></p>
 
 | **Atividade** | **Período de Desenvolvimento** | **Responsáveis** | **Período de Revisão** | **Revisores** |
 |:-:|:-:|:-:|:-:|:-:|
@@ -144,7 +144,7 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 
 A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 4.
 
-<p style="text-align: center; font-size: 16px;">Tabela 7: <i>Modelagem de Requisitos 2</i></p>
+<p style="text-align: center; font-size: 16px;">Tabela 7: <i>Modelagem de Requisitos II (Ágil)</i></p>
 
 | **Atividade** | **Período de Desenvolvimento** | **Responsáveis** | **Período de Revisão** | **Revisores** |
 |:-:|:-:|:-:|:-:|:-:|
@@ -156,6 +156,16 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 
 ### Entregue 📬
 
+A tabela a seguir mostra o que foi *entregue* no cronograma das atividades da Entrega 4.
+
+<p style="text-align: center; font-size: 16px;">Tabela 8: <i>Modelagem de Requisitos II (Ágil)</i></p>
+
+| **Atividade** | **Período de Desenvolvimento** | **Responsáveis** | **Período de Revisão** | **Revisores** |
+|:-:|:-:|:-:|:-:|:-:|
+| Criação de Histórias de Usuário | Início: 24/05 <br> Fim: 31/05 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 20/05 <br> Fim: 21/05 | [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |
+| Implementação de Backlogs | Início: 27/05 <br> Fim: 01/06 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 22/05 <br> Fim: 23/05 | [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa) |
+| Implementação do NFR Framework | Início: 26/05 <br> Fim: 01/06 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 24/05 <br> Fim: 25/05 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Marcelo](https://github.com/MM4k) |
+| Gravação da Apresentação | Início: 01/06 <br> Fim: 01/06 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 26/05 <br> Fim: 27/05 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |
 
 <br>
 
@@ -231,3 +241,4 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 | `1.8` | 04/05/2025 | Cronograma da entrega 2 - Entregue | [Maria Eduarda](https://github.com/dudaa28) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.9` | 12/05/2025 | Melhorando o cronograma da entrega 3 | [Enzo Emir](https://github.com/EnzoEmir) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `2.0` | 18/05/2025 | Adicionando cronograma entregue na etapa de modelagem 1 | [Eduardo de Pina](https://github.com/eduardodpms) | [Marcelo Makoto](https://github.com/MM4k) |
+| `2.1` | 05/06/2025 | Adicionando cronograma entregue na etapa de modelagem 2 | [Eduardo de Pina](https://github.com/eduardodpms) | - |
