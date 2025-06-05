@@ -137,7 +137,7 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 <br>
 
 
-## E4: Modelagem de Requisitos II (Ágil)
+## E4: Modelagem de Requisitos II
 
 
 ### Planejado 💡

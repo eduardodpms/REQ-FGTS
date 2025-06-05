@@ -318,7 +318,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
   <tr><td><strong>Classificação</strong></td><td>Usabilidade</td></tr>
   <tr><td><strong>Descrição</strong></td><td>Os menus devem ser autoexplicativos, com estrutura hierárquica lógica e nomenclatura padronizada.</td></tr>
   <tr><td><strong>Justificativa</strong></td><td>Menus intuitivos facilitam a navegação do usuário, reduzem o tempo de aprendizado e aumentam a eficiência no uso do aplicativo.</td></tr>
-  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF">IS19</a>
+  <tr><td><strong>Origem do Requisito</strong></td><td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF">IS19</a>,
   <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RNF">OB11</a></td></tr>
   <tr><td><strong>Critério de Aceitação</strong></td><td>O usuário deve ser capaz de encontrar funcionalidades com facilidade, sem precisar acessar mais de três níveis de menu e com nomes consistentes e compreensíveis.</td></tr>
   <tr><td><strong>Dependências</strong></td><td>Design de Interface, Padrões de Navegação</td></tr>
