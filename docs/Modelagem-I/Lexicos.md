@@ -841,7 +841,7 @@ O léxico L30 utiliza o requisito funcional IS12 (O aplicativo deve permitir o c
 
 ---
 
-### L31: Exibir informações detalhadas
+### <a name="L31"></a> L31: Exibir informações detalhadas
 
 O L31, apresentado na tabela 34, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
 
@@ -864,7 +864,7 @@ O L31, apresentado na tabela 34, utiliza o seguinte requisito não implementado:
 
 ---
 
-### L32: Informações detalhadas
+### <a name="L32"></a> L32: Informações detalhadas
 
 O L32, apresentado na tabela 35, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
 
@@ -888,7 +888,7 @@ O L32, apresentado na tabela 35, utiliza o seguinte requisito não implementado:
 
 ---
 
-### L33: Histórico de movimentações financeiras
+### <a name="L33"></a> L33: Histórico de movimentações financeiras
 
 O L33, apresentado na tabela 36, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
 
@@ -915,7 +915,7 @@ O L33, apresentado na tabela 36, utiliza o seguinte requisito não implementado:
 
 ---
 
-### L34: Filtrar
+### <a name="L34"></a> L34: Filtrar
 
 <center>
 

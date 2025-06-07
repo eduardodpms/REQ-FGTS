@@ -4,7 +4,7 @@
 
 Essa página tem como objetivo compilar todos os requisitos elicitados com a utilização de técnicas como Entrevista, Introspecção, Observação e Storytelling. Os requisitos serão divididos em duas tabelas, a primeira sendo para requisitos fuincionais e a segunda para requisitos não-funcionais.
 
-### Requisitos funcionais
+### <a name="RF"></a> Requisitos funcionais
 **Legendas:**
 
 * RFx: Requisito funcional número x
@@ -62,7 +62,7 @@ Essa página tem como objetivo compilar todos os requisitos elicitados com a uti
 | RF41 |  O aplicativo deve possibilitar o envio de documentos digitalizados (PDF, imagem) para comprovação de situações específicas de saque (ex: doença grave, aposentadoria). | [BS03](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/#BS_RF)|
 | RF42 |O aplicativo deve permitir o agendamento de saque futuro. | [BS10](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/#BS_RF) |
 
-### Requisitos não-funcionais
+### <a name="RNF"></a> Requisitos não-funcionais
 **Legendas:**
 
 * RNFx: Requisito não-funcional número x

@@ -260,7 +260,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Danielle Soares](https://github.com/danielle-soaress)</i></b></p></font>
 
-## Caso de Uso 7 (IS09)
+## <a name="UC07"></a> Caso de Uso 7 (IS09)
 
 <font size="3"><p style="text-align: center">Tabela 8: Exibir informações detalhadas sobre o histórico de movimentações financeiras </p></font>
 
@@ -279,7 +279,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </i></b></p></font>
 
-## Caso de Uso 8 (IS10)
+## <a name="UC08"></a> Caso de Uso 8 (IS10)
 
 <font size="3"><p style="text-align: center">Tabela 9: Filtrar extrato por data </p></font>
 

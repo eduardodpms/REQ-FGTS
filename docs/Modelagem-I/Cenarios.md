@@ -208,7 +208,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 <font size="2"><p style="text-align: center">Fonte: <i>[Danielle Soares](https://github.com/danielle-soaress)</i> </p></font>
 
 
-## Cenário 7: Visualizar histórico de movimentação financeira
+## <a name="C07"></a> Cenário 7: Visualizar histórico de movimentação financeira
 
 <font size="3"><p style="text-align: center">Tabela 7: Cenário de visuaização histórico de movimentação financeira</p></font>
 
@@ -230,7 +230,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</i> </p></font>
 
-## Cenário 8: Filtrar extrato por data
+## <a name="C08"></a> Cenário 8: Filtrar extrato por data
 
 <font size="3"><p style="text-align: center">Tabela 8: Cenário de filtragem de extrato por data</p></font>
 
