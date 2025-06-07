@@ -27,7 +27,7 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
 * OBSx: Requisito elicitado pela observação número x
 * STx: Requisito elicitado pelo storytelling número x
 
-### Tabela 1: Requisitos Funcionais
+### <a name="RF"></a> Tabela 1: Requisitos Funcionais
 
 | Código | Descrição                                                                                                 | Origem                     | Prioridade | Justificativa                               |
 |--------|-----------------------------------------------------------------------------------------------------------|----------------------------|------------|----------------------------------------------|
@@ -67,7 +67,7 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
 | RF34   | “Disponibilizar termo de adesão”                                                                         | ST016                      | IN         |                                              |
 
 
-### Tabela 2: Requisitos Não Funcionais
+### <a name="RNF"></a> Tabela 2: Requisitos Não Funcionais
 
 
 | Código  | Descrição                                                                                               | Origem                             | Prioridade | Justificativa                             |

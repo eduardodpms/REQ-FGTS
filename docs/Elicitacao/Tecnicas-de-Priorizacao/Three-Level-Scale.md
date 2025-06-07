@@ -37,6 +37,7 @@ Dessa maneira, os requisitos podem ser priorizados de maneira relativamente fác
 <div style="text-align: center">
 <p>Tabela 1: Requisitos Funcionais</p>
 </div>
+<a name="RF"></a>
 
 | Código | Descrição                                                                                                 | Origem | Priorização |
 |--------|-----------------------------------------------------------------------------------------------------------|--------|-------------|
@@ -78,6 +79,7 @@ Dessa maneira, os requisitos podem ser priorizados de maneira relativamente fác
 <div style="text-align: center">
 <p>Tabela 2: Requisitos Não Funcionais</p>
 </div>
+<a name="RNF"></a>
 
 | Código | Descrição                                                                                                 | Origem | Prioridade |
 |--------|-----------------------------------------------------------------------------------------------------------|--------|------------|

@@ -62,7 +62,7 @@ A técnica foi aplicada de forma individual, sendo que cada participante aplicou
 
 <font size="3"><p style="text-align: center">Tabela 2: Planilha de priorização dos 100 dólares.</p></font>
 
-
+<a name="Req"></a>
 | Código  | Descrição                                                                                                                                     | Origem                           | Danielle | Enzo | Maria | TOTAL |
 |---------|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|----------|------|-------|-------|
 | RF14    | “Permitir o cadastro de uma conta bancária”                                                                                                   | IS11, ST05, OB08                 | 5        | 15   | 5     | 25    |
