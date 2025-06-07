@@ -115,4 +115,7 @@ nav:
     - NFR Framework: Modelagem-II/NFR-Framework.md
     - Histórias de Usuário: Modelagem-II/Historias-De-Usuario.md
     - Product Backlog: Modelagem-II/Product-Backlog.md
-
+  - Pós-Rastreabilidade:
+    - Forward-From: Pos-Rastreabilidade/Forward-From.md
+    - Backward-From: Pos-Rastreabilidade/Backward-From.md
+    
