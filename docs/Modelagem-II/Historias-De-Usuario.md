@@ -89,7 +89,7 @@ Para cada história de usuário, foram estabelecidos critérios de aceitação c
 ## Sumário
 
 - [H01 – Acompanhar Situação do Saque (RF08)](#h01)
-- [H02 – Notificações Sobre Andamento (RF08)](#h02)
+- [H02 – Notificações Sobre Andamento (RF38)](#h02)
 - [H03 – Informar Datas de Liberação (RF01)](#h03)
 - [H04 – Acesso à Seção de Ajuda (RF17)](#h04)
 - [H05 – Solicitação de Ressarcimento do PIS/PASEP (RF19)](#h05)
@@ -99,7 +99,7 @@ Para cada história de usuário, foram estabelecidos critérios de aceitação c
 - [H09 – Aba de Solicitação e Acompanhamento de Saques (RF24)](#h09)
 - [H10 – Aba de Informações Adicionais (RF25)](#h10)
 - [H11 – Resumo dos Tipos de Saque (RF26)](#h11)
-- [H12 – Disponibilidade de Saque-Rescisão (RF04)](#h12)
+- [H12 – Disponibilidade de Saque-Rescisão (RF36)](#h12)
 - [H13 – Ver Informações Sobre Saques Bloqueados (RF11)](#h13)
 - [H14 – Cadastro de Múltiplas Contas Bancárias (RF35)](#h14)
 - [H15 – Consulta ao Saldo do FGTS (RF03)](#h15)
@@ -125,7 +125,7 @@ Para cada história de usuário, foram estabelecidos critérios de aceitação c
 - [H35 – Disponibilização de Termo de Adesão (RF34)](#h35)
 - [H36 – Notificação de Recebimento do Saque (RF40)](#h36)
 - [H37 – Consulta de Dados Pessoais (RF06)](#h37)
-- [H38 – Consultar Saldo (RF07)](#h38)
+- [H38 – Consultar Saldo (RF37)](#h38)
 - [H39 – Exibir Extrato para o Empregador (RF07)](#h39)
 - [H40 – Permitir o Cadastro de Conta Bancária (RF14)](#h40)
 - [H41 – Seção de Ajuda com Orientações (RF18)](#h41)
@@ -1797,7 +1797,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
     </tr>
     <tr>
       <td>Rastreabilidade</td>
-      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF07</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS04</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB04</a>)</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF37</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB04</a>)</td>
     <tr>
       <td>Tema</td>
       <td>Consultar Saldo</td>
@@ -2073,3 +2073,4 @@ Validação das histórias de usuário 01-12 e 31-42 presentes no vídeo a segui
 | `2.9`    | 31/05/2025 | Adicionando video validação 13-30 e Foto referência | [Maria Eduarda](https://github.com/dudaa28) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `3.0`    | 31/05/2025 | Correção do link do vídeo | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `3.1`    | 04/06/2025 | Padronizando US e atualizando status | [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `3.1`    | 07/06/2025 | Atualizando tabelas seguindo os novos requisitos | [Enzo Emir](https://github.com/EnzoEmir) | - |
