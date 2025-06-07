@@ -139,7 +139,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 <font size="3"><p style="text-align: center">Tabela 2: Visualizar Status Comentado do Saque </p></font>
 
 
-| **Elemento**                     | **Descrição** |
+| **RF39**                     | **Descrição** |
 |----------------------------------|----------------|
 | **Nome do Caso de Uso**          | Visualizar Status Comentado do Saque |
 | **Rastreabilidade** | [EN02](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) |
@@ -161,7 +161,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 <font size="3"><p style="text-align: center">Tabela 3: Visualizar Data Prevista para Liberação de Valores </p></font>
 
 
-| **Elemento**                     | **Descrição** |
+| **RF01**                     | **Descrição** |
 |----------------------------------|----------------|
 | **Nome do Caso de Uso**          | Visualizar Data Prevista para Liberação de Valores |
 | **Rastreabilidade** | [EN03](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) |
@@ -180,7 +180,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 <font size="3"><p style="text-align: center">Tabela 4: Acessar Suporte via Chatbot </p></font>
 
-| **Elemento**                     | **Descrição** |
+| **RF02**                     | **Descrição** |
 |---------------------------------|---------------|
 | **Nome do Caso de Uso**          | Acessar Suporte via Chatbot |
 | **Rastreabilidade** | [EN04](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) |
@@ -321,7 +321,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 <font size="3"><p style="text-align: center">Tabela 11: Contato com Assistente via Chat </p></font>
 
-| **Elemento**                     | **Descrição** |
+| **RF15**                     | **Descrição** |
 |----------------------------------|----------------|
 | **Nome do Caso de Uso**          | Contato com Assistente via Chat |
 | **Rastreabilidade** | [IS13](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
@@ -341,7 +341,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 <font size="3"><p style="text-align: center">Tabela 12: Busca de Funcionalidades e Informações </p></font>
 
-| **Elemento**                     | **Descrição** |
+| **RF16**                     | **Descrição** |
 |----------------------------------|----------------|
 | **Nome do Caso de Uso**          | Busca de Funcionalidades e Informações |
 | **Rastreabilidade** | [IS14](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
@@ -361,7 +361,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 <font size="3"><p style="text-align: center">Tabela 13: Página de Ajuda </p></font>
 
-| **Elemento** | **Descrição** |
+| **RF18** | **Descrição** |
 |-|-|
 | **Nome do Caso de Uso** | Página de Ajuda |
 | **Rastreabilidade** | [IS16](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) |
@@ -383,7 +383,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 <font size="3"><p style="text-align: center">Tabela 14: Guia Interativo </p></font>
 
-| **Elemento** | **Descrição** |
+| **RF29** | **Descrição** |
 |-|-|
 | **Nome do Caso de Uso** | Guia Interativo |
 | **Rastreabilidade** | [ST07](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais) |
@@ -403,7 +403,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 <font size="3"><p style="text-align: center">Tabela 15: Ajuste do Tamanho da Fonte </p></font>
 
-| **Elemento**                     | **Descrição** |
+| **RF30**                     | **Descrição** |
 |----------------------------------|----------------|
 | **Nome do Caso de Uso**          | Ajustar Tamanho da Fonte |
 | **Rastreabilidade** | [ST08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais) |
