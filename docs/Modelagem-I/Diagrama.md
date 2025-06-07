@@ -202,7 +202,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 <font size="3"><p style="text-align: center">Tabela 5: Cancelar Solicitação de Saque </p></font>
 
-| **Elemento**                     | **Descrição** |
+| **RF09**                     | **Descrição** |
 |----------------------------------|----------------|
 | **Nome do Caso de Uso**          | Cancelar Solicitação de Saque |
 | **Rastreabilidade** | [IS06](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
@@ -222,7 +222,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 <font size="3"><p style="text-align: center">Tabela 6: Filtrar Saques por Tipo </p></font>
 
-| **Elemento**                     | **Descrição** |
+| **RF10**                     | **Descrição** |
 |----------------------------------|----------------|
 | **Nome do Caso de Uso**          | Filtrar Saques por Tipo |
 | **Rastreabilidade** | [IS07](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
