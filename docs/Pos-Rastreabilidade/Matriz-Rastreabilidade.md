@@ -48,12 +48,12 @@ A matriz desenvolvida contém 8 colunas, sendo elas:
     <tr><td align="center">Leticia Arisa</td><td align="center"> - </td><td align="center">07/06/2025</td><td align="center">13:15</td></tr>
     <tr><td align="center">Marcelo Makoto</td><td align="center"> - </td><td align="center"> - </td><td align="center"> - </td></tr>
     <tr><td align="center">Maria Eduarda</td><td align="center"> - </td><td align="center"> - </td><td align="center"> - </td></tr>
-    <tr><td align="center">Victor Pontual</td><td align="center"> - </td><td align="center"> - </td><td align="center"> - </td></tr>
+    <tr><td align="center">Victor Pontual</td><td align="center">RF09,RF10,RF32,RF33,RF34,RF40 </td><td align="center"> 07/06/2025 </td><td align="center"> 15:23 </td></tr>
   </tbody>
 </table>
 </div>
 
-<p align="center">Fonte: <i>[Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</i></p>
+<p align="center">Fonte: <i> <a href = https://github.com/Leticia-Arisa-K-Higa>Leticia Arisa</a> </i></p>
 
 
 ## Matriz de Rastreabilidade
@@ -390,28 +390,31 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
     <tr>
         <td align="center">RF32</td>
         <td>O aplicativo deve oferecer uma interface de login simples.</td>
+        <td align="center">Sim</td>
+        <td align="center">1.0</td>
+        <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RNF>ST011</td>
+        <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H33>H33</a></td>
         <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center"><a href = https://github.com/VictorPontual>Victor Pontual</a></td>
     </tr>
     <tr>
         <td align="center">RF33</td>
         <td>O aplicativo deve disponibilizar uma página para escolha da sistemática de saque.</td>
+        <td align="center">Sim</td>
+        <td align="center">1.0</td>
+        <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RNF>ST012</td>
+        <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H34>H34</a></td>
         <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center"><a href = https://github.com/VictorPontual>Victor Pontual</a></td>
     </tr>
     <tr><td align="center">RF34</td>
         <td>O aplicativo deve exibir o termo de adesão ao usuário no primeiro acesso ao aplicativo</td>
-        <td align="center">-</td><td align="center">-</td>
-        <td align="center">-</td><td align="center">-</td>
-        <td align="center">-</td><td align="center">-</td>
+        <td align="center">Sim</td>
+        <td align="center">1.0</td>
+        <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RNF>ST016</td>
+        <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H35>H35</a></td>
+        <td align="center">-</td>
+        <td align="center"><a href = https://github.com/VictorPontual>Victor Pontual</a></td>
     </tr>
     <tr>
         <td align="center">RF35</td>
@@ -466,12 +469,12 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
     <tr>
         <td align="center">RF40</td>
         <td>O aplicativo deve enviar notificação ao usuário quando o saque for recebido.</td>
+        <td align="center">Sim</td>
+        <td align="center">1.0</td>
+        <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RNF>ST015</td>
+        <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H36>H36</a></td>
         <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center"><a href = https://github.com/VictorPontual>Victor Pontual</a></td>
     </tr>
     <tr>
         <td align="center">RF41</td>
@@ -721,4 +724,5 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
 
 | Versão | Data       | Descrição                                      | Autor(es)   | Revisor(es) |
 |:------:|:----------:|:-----------------------------------------------|:------------|:-----------:|
-|  `1.0`   | 07/06/2025 | Criação do documento  | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)   | - |
+|  `1.0`   | 07/06/2025 | Criação do documento  | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)   | [Victor Pontual](https://github.com/VictorPontual) |
+|  `1.0`   | 07/06/2025 | adição de informações dos requisitos: RF09,RF10,RF32,RF33,RF34,RF40 | [Victor Pontual](https://github.com/VictorPontual)   | - |
