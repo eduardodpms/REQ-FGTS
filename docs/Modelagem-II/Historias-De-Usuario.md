@@ -2073,4 +2073,4 @@ Validação das histórias de usuário 01-12 e 31-42 presentes no vídeo a segui
 | `2.9`    | 31/05/2025 | Adicionando video validação 13-30 e Foto referência | [Maria Eduarda](https://github.com/dudaa28) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `3.0`    | 31/05/2025 | Correção do link do vídeo | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `3.1`    | 04/06/2025 | Padronizando US e atualizando status | [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir) |
-| `3.1`    | 07/06/2025 | Atualizando tabelas seguindo os novos requisitos | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `3.2`    | 07/06/2025 | Atualizando tabelas seguindo os novos requisitos | [Enzo Emir](https://github.com/EnzoEmir) | - |
