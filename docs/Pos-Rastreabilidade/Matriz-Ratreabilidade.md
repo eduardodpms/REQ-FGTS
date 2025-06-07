@@ -536,12 +536,12 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
 <tr>
     <td align="center">RNF05</td>
     <td>O aplicativo deve ser confiável e evitar falhas ou inconsistências nos processos</td>
+    <td align="center">Não</td>
+    <td align="center">1.0</td>
+    <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RNF>EN11</a></td>
+    <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#CE05>Cartão de Especificação 5</a></td>
     <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center"><a href = https://github.com/Leticia-Arisa-K-Higa>Leticia Arisa</a></td>
 </tr>
 <tr>
     <td align="center">RNF06</td>
@@ -646,22 +646,22 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
 <tr>
     <td align="center">RNF16</td>
     <td>Garantir tempo de resposta de até 1 segundo para o cadastro da conta bancária</td>
+    <td align="center">Sim</td>
+    <td align="center">1.0</td>
+    <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RNF>ST017</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center"><a href = https://github.com/Leticia-Arisa-K-Higa>Leticia Arisa</a></td>
 </tr>
 <tr>
     <td align="center">RNF17</td>
     <td>Garantir tempo de resposta de até 1 segundo para a solicitação de saque</td>
+    <td align="center">Sim</td>
+    <td align="center">1.0</td>
+    <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RNF>ST018</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center"><a href = https://github.com/Leticia-Arisa-K-Higa>Leticia Arisa</a></td>
 </tr>
 <tr>
     <td align="center">RNF18</td>
@@ -706,12 +706,12 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
 <tr>
     <td align="center">RNF22</td>
     <td>A aplicação deve estar em conformidade com diretrizes de acessibilidade, garantindo acesso a pessoas com deficiência visual, auditiva ou motora</td>
+    <td align="center">Sim</td>
+    <td align="center">1.0</td>
+    <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF>IS20</a></td>
+    <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/EspecificacaoSuplementar/#RNF>Especificação Suplementar</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#>Cartão de Especificação 6</a></td>
     <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center"><a href = https://github.com/Leticia-Arisa-K-Higa>Leticia Arisa</a></td>
 </tr>
   </tbody>
 </table>

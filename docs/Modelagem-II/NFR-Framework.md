@@ -330,7 +330,9 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
+
 <font size="3"><p style="text-align: center">Tabela 8: Aplicativo com Segurança</p></font>
+<a name="CE05"></a>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
@@ -350,6 +352,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </p></font>
 
 <font size="3"><p style="text-align: center">Tabela 9: Conformidade de Diretrizes</p></font>
+<a name="CE06"></a>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
