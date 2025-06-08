@@ -1256,7 +1256,7 @@
     </tr>
   </tbody>
 </table>
-<div>
+</div>
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) </p></font>
 
