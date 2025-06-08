@@ -1,8 +1,6 @@
 ##  Introdução
 
-A rastreabilidade é uma técnica essencial na engenharia de requisitos, fundamental para estabelecer e gerenciar o relacionamento entre requisitos, a arquitetura e a implementação de um sistema. Conforme discutido por Ayão e Leite (2005), diferentes tipos de rastreabilidade são empregados para garantir a completude e a consistência do projeto  <a href="REF1">1</a>. Entre eles, destaca-se a rastreabilidade ***forward-from***, que é caracterizada por ligar os requisitos aos artefatos de desenho e implementação do sistema, assegurando que as especificações iniciais sejam devidamente contempladas nas etapas subsequentes de desenvolvimento. 
-
-Neste documento, serão apresentados os elos ***forward-from*** dos requisitos funcionais e não funcionais do sistema FGTS. Esta abordagem da pós-rastreabilidade demonstrará como os requisitos evoluem e se relacionam com os artefatos de desenho e implementação.
+A rastreabilidade é uma técnica essencial na engenharia de requisitos, fundamental para estabelecer e gerenciar o relacionamento entre requisitos, a arquitetura e a implementação de um sistema. Conforme discutido por Ayão e Leite (2005), diferentes tipos de rastreabilidade são empregados para garantir a completude e a consistência do projeto  <a href="REF1">1</a>. Entre eles, destaca-se a rastreabilidade **forward-from**, que é caracterizada por ligar os requisitos aos artefatos de desenho e implementação do sistema, assegurando que as especificações iniciais sejam devidamente contempladas nas etapas subsequentes de desenvolvimento. 
 
 ##  Metodologia
 
@@ -97,8 +95,8 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Enzo Emir </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 08/06/2025 </td>
+      <td> 16:42 </td>
     </tr>
     <tr>
       <td> Leticia Arisa </td>
@@ -160,16 +158,23 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
   <li>RF40 - Rastreabilidade <a href="#E43">E43</a></li>
   <li>RF41 - Rastreabilidade <a href="#E06">E06</a></li>
   <li>RF42 - Rastreabilidade <a href="#E34">E34</a></li>
+  <li>RF08 - Rastreabilidade <a href="#E38">E38</a></li>
+  <li>RF01 - Rastreabilidade <a href="#E49">E49</a></li>
+  <li>RF17 - Rastreabilidade <a href="#E50">E50</a></li>
+  <li>RF19 - Rastreabilidade <a href="#E51">E51</a></li>
+  <li>RF20 - Rastreabilidade <a href="#E52">E52</a></li>
   <li>RNF01 - Rastreabilidade <a href="#E26">E26</a></li>
   <li>RNF02 - Rastreabilidade <a href="#E27">E27</a></li>
+  <li>RNF04 - Rastreabilidade <a href="#E53">E53</a></li>
   <li>RNF05 - Rastreabilidade <a href="#E07">E07</a></li>
   <li>RNF06 - Rastreabilidade <a href="#E17">E17</a></li>
   <li>RNF07 - Rastreabilidade <a href="#E28">E28</a></li>
-  <li>RNF09 - Rastreabilidade <a href="#E38">E38</a></li>
+  <li>RNF09 - Rastreabilidade <a href="#E54">E54</a></li>
   <li>RNF10 - Rastreabilidade <a href="#E44">E44</a></li>
   <li>RNF11 - Rastreabilidade <a href="#E18">E18</a></li>
   <li>RNF11 - Rastreabilidade <a href="#E36">E36</a></li>
   <li>RNF13 - Rastreabilidade <a href="#E45">E45</a></li>
+  <li>RNF15 - Rastreabilidade <a href="#E55">E55</a></li>
   <li>RNF16 - Rastreabilidade <a href="#E08">E08</a></li>
   <li>RNF17 - Rastreabilidade <a href="#E09">E09</a></li>
   <li>RNF18 - Rastreabilidade <a href="#E19">E19</a></li>
@@ -2263,6 +2268,436 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
 
+### <a name="E47"></a> E47 - Rastrebilidade Forward From do requisito RF08
+
+<font size="3"><p style="text-align: center">Tabela 48: E47 - Cartão do Requisito Funcional 08</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve exibir os status atualizados do saque.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rf08">RF08</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS05</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais">EN02</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h01">H01</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+        Satisfação - O requisito funcional recebeu uma priorização de 0,075 na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/First-Things-First/">First Things First</a><br>
+        Satisfação - O requisito funcional recebeu prioridade OUT na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/In-or-Out/#tabela-1-requisitos-funcionais">In or Out</a><br>
+        Satisfação - O requisito funcional recebeu $11 na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/100-Test/#aplicacao-da-tecnica">$100</a><br>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/Three-Level-Scale/#requisitos-priorizados">Three-Level Scale</a><br>
+        Agregação - O requisito originou-se das técnicas de elicitação 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS05</a> e 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais">EN02</a>.
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
+### <a name="E48"></a> E48 - Rastrebilidade Forward From do requisito RF38
+
+<font size="3"><p style="text-align: center">Tabela 49: E48 - Cartão do Requisito Funcional 38</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve notificar o usuário sobre o status do saque solicitado.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rf38">RF38</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS05</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+        <i>O requisito funcional RF38 não foi priorizado nas técnicas First Things First, In or Out, $100 ou Three-Level Scale.</i><br>
+        Agregação - O requisito originou-se da técnica de elicitação 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS05</a>.
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
+### <a name="E49"></a> E49 - Rastrebilidade Forward From do requisito RF01
+
+<font size="3"><p style="text-align: center">Tabela 50: E49 - Cartão do Requisito Funcional 01</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve informar claramente as datas previstas para liberação de valores.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rf01">RF01</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais">EN03</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+        Satisfação - O requisito funcional recebeu uma priorização de 0,075 na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/First-Things-First/">First Things First</a><br>
+        Satisfação - O requisito funcional recebeu prioridade OUT na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/In-or-Out/#tabela-1-requisitos-funcionais">In or Out</a><br>
+        Satisfação - O requisito funcional recebeu $6 na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/100-Test/#aplicacao-da-tecnica">$100</a><br>
+        Satisfação - O requisito foi classificado como prioridade MÉDIA na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/Three-Level-Scale/#requisitos-priorizados">Three-Level Scale</a><br>
+        Agregação - O requisito originou-se da técnica de elicitação 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais">EN03</a>.
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
+### <a name="E50"></a> E50 - Rastrebilidade Forward From do requisito RF17
+
+<font size="3"><p style="text-align: center">Tabela 51: E50 - Cartão do Requisito Funcional 17</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve conter uma seção de ajuda com orientações sobre o FGTS e PIS/PAESP.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rf17">RF17</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS15</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+        Satisfação - O requisito funcional recebeu uma priorização de 0,741 na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/First-Things-First/">First Things First</a><br>
+        Satisfação - O requisito funcional recebeu prioridade IN na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/In-or-Out/#tabela-1-requisitos-funcionais">In or Out</a><br>
+        Satisfação - O requisito foi classificado como prioridade MÉDIA na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/Three-Level-Scale/#requisitos-priorizados">Three-Level Scale</a><br>
+        Agregação - O requisito originou-se da técnica de elicitação 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS15</a>.
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
+
+### <a name="E51"></a> E51 - Rastrebilidade Forward From do requisito RF19
+
+<font size="3"><p style="text-align: center">Tabela 52: E51 - Cartão do Requisito Funcional 19</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve permitir a solicitação de ressarcimento de valores do PIS/PASEP.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rf19">RF19</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS17</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+        Satisfação - O requisito funcional recebeu prioridade IN na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/In-or-Out/#tabela-1-requisitos-funcionais">In or Out</a><br>
+        Satisfação - O requisito funcional recebeu $8 na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/100-Test/#aplicacao-da-tecnica">$100</a><br>
+        Satisfação - O requisito foi classificado como prioridade ALTA na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/Three-Level-Scale/#requisitos-priorizados">Three-Level Scale</a><br>
+        Agregação - O requisito originou-se da técnica de elicitação 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS17</a>.
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
+### <a name="E52"></a> E52 - Rastrebilidade Forward From do requisito RF20
+
+<font size="3"><p style="text-align: center">Tabela 53: E52 - Cartão do Requisito Funcional 20</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve permitir login seguro pelo aplicativo.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rf20">RF20</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-funcionais">OB01</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+        Satisfação - O requisito funcional recebeu uma priorização de 0,066 na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/First-Things-First/">First Things First</a><br>
+        Satisfação - O requisito funcional recebeu prioridade IN na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/In-or-Out/#tabela-1-requisitos-funcionais">In or Out</a><br>
+        Satisfação - O requisito funcional recebeu $21 na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/100-Test/#aplicacao-da-tecnica">$100</a><br>
+        Satisfação - O requisito foi classificado como prioridade ALTA na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/Three-Level-Scale/#requisitos-priorizados">Three-Level Scale</a><br>
+        Agregação - O requisito originou-se da técnica de elicitação 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-funcionais">OB01</a>.
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
+### <a name="E53"></a> E53 - Rastrebilidade Forward From do requisito RNF04
+
+<font size="3"><p style="text-align: center">Tabela 54: E53 - Cartão do Requisito Não Funcional 04</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>Os prazos informados no app devem ser cumpridos fielmente.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Qualidade </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rnf04">RNF04</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-nao-funcionais">EN10</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+        Satisfação - O requisito não funcional recebeu uma priorização de 0,228 na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/First-Things-First/">First Things First</a><br>
+        Satisfação - O requisito não funcional recebeu prioridade IN na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/In-or-Out/#tabela-1-requisitos-funcionais">In or Out</a><br>
+        Satisfação - O requisito foi classificado como prioridade ALTA na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/Three-Level-Scale/#requisitos-priorizados">Three-Level Scale</a><br>
+        Agregação - O requisito originou-se da técnica de elicitação 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-nao-funcionais">EN10</a>.
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
+### <a name="E54"></a> E54 - Rastrebilidade Forward From do requisito RNF09
+
+<font size="3"><p style="text-align: center">Tabela 55: E54 - Cartão do Requisito Não Funcional 09</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve aplicar princípios de acessibilidade.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Qualidade </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rnf09">RNF09</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-nao-funcionais">IS21</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+        Satisfação - O requisito não funcional recebeu uma priorização de 0,270 na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/First-Things-First/">First Things First</a><br>
+        Satisfação - O requisito não funcional recebeu prioridade OUT na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/In-or-Out/#tabela-1-requisitos-funcionais">In or Out</a><br>
+        Satisfação - O requisito foi classificado como prioridade BAIXA na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/Three-Level-Scale/#requisitos-priorizados">Three-Level Scale</a><br>
+        Agregação - O requisito originou-se da técnica de elicitação 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-nao-funcionais">IS21</a>.
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
+### <a name="E55"></a> E55 - Rastrebilidade Forward From do requisito RNF15
+
+<font size="3"><p style="text-align: center">Tabela 56: E55 - Cartão do Requisito Não Funcional 15</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>As informações devem estar organizadas de forma clara e com terminologia compreensível para o usuário.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Qualidade </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rnf15">RNF15</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-nao-funcionais">OB13</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+        Satisfação - O requisito não funcional recebeu uma priorização de 0,222 na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/First-Things-First/">First Things First</a><br>
+        Satisfação - O requisito não funcional recebeu prioridade IN na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/In-or-Out/#tabela-1-requisitos-funcionais">In or Out</a><br>
+        Satisfação - O requisito não funcional recebeu $6 na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/100-Test/#aplicacao-da-tecnica">$100</a><br>
+        Satisfação - O requisito foi classificado como prioridade MÉDIA na técnica 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/Three-Level-Scale/#requisitos-priorizados">Three-Level Scale</a><br>
+        Agregação - O requisito originou-se da técnica de elicitação 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-nao-funcionais">OB13</a>.
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
+
 ## Referências Bibliográficas
 
 > <a name="REF1">1. </a>AYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf. Acesso em: 08 de jun. de 2025
@@ -2295,5 +2730,6 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
 | `1.3`  | 07/06/2025 | Adição das E20 - E28 | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
 | `1.4`  | 08/06/2025 | Adição das E29 - E37 | [Maria Eduarda](https://github.com/dudaa28) | [Victor Pontual](https://github.com/VictorPontual) |
 | `1.5`  | 08/06/2025 | Adição das tabelas E38 - E46 |  [Victor Pontual](https://github.com/VictorPontual)   | [Danielle Soares](https://github.com/danielle-soaress) |
-| `1.6`  | 08/06/2025 | Introdução, Metodologia e Referências  | [Danielle Soares](https://github.com/danielle-soaress) | - |
-| `1.7`  | 08/06/2025 | Sumário, melhorando organização da página | [Danielle Soares](https://github.com/danielle-soaress) | - |
+| `1.6`  | 08/06/2025 | Introdução, Metodologia e Referências  | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.7`  | 08/06/2025 | Sumário, melhorando organização da página | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.8`  | 08/06/2025 | Adição das E47 - E55 | [Enzo Emir](https://github.com/EnzoEmir) | - |
