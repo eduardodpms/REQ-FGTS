@@ -1,6 +1,8 @@
 ##  Introdução
 
-A rastreabilidade é uma técnica essencial na engenharia de requisitos, fundamental para estabelecer e gerenciar o relacionamento entre requisitos, a arquitetura e a implementação de um sistema. Conforme discutido por Ayão e Leite (2005), diferentes tipos de rastreabilidade são empregados para garantir a completude e a consistência do projeto  <a href="REF1">1</a>. Entre eles, destaca-se a rastreabilidade **forward-from**, que é caracterizada por ligar os requisitos aos artefatos de desenho e implementação do sistema, assegurando que as especificações iniciais sejam devidamente contempladas nas etapas subsequentes de desenvolvimento. 
+A rastreabilidade é uma técnica essencial na engenharia de requisitos, fundamental para estabelecer e gerenciar o relacionamento entre requisitos, a arquitetura e a implementação de um sistema. Conforme discutido por Ayão e Leite (2005), diferentes tipos de rastreabilidade são empregados para garantir a completude e a consistência do projeto  <a href="REF1">1</a>. Entre eles, destaca-se a rastreabilidade ***forward-from***, que é caracterizada por ligar os requisitos aos artefatos de desenho e implementação do sistema, assegurando que as especificações iniciais sejam devidamente contempladas nas etapas subsequentes de desenvolvimento. 
+
+Neste documento, serão apresentados os elos ***forward-from*** dos requisitos funcionais e não funcionais do sistema FGTS. Esta abordagem da pós-rastreabilidade demonstrará como os requisitos evoluem e se relacionam com os artefatos de desenho e implementação.
 
 ##  Metodologia
 

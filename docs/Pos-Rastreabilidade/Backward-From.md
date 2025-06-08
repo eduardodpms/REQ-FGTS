@@ -1,8 +1,8 @@
 ## Introdução
 
-O processo de rastreabilidade de requisitos é uma atividade essencial na engenharia de requisitos, pois permite estabelecer e acompanhar as ligações entre diferentes artefatos produzidos ao longo do desenvolvimento de software. Por meio da rastreabilidade, é possível verificar a origem, a evolução e o impacto de cada requisito, garantindo maior controle, consistência e qualidade na construção do sistema.
+O processo de rastreabilidade de requisitos é uma atividade essencial na engenharia de requisitos, pois permite estabelecer e acompanhar as ligações entre diferentes artefatos produzidos ao longo do desenvolvimento de software. Por meio da rastreabilidade, é possível verificar a origem, a evolução e o impacto de cada requisito, garantindo maior controle, consistência e qualidade na construção do sistema <a href="REF1">1</a>.
 
-Neste documento, será apresentada a **pós-rastreabilidade** dos requisitos funcionais e não funcionais do sistema FGTS, contemplando tanto os elos *Backward From* (que indicam de onde o requisito foi originado) . Para isso, foram utilizados os cartões de requisitos elaborados ao longo da disciplina, bem como os registros de técnicas de elicitação e elementos de modelagem (como léxicos, cenários e casos de uso).
+Neste documento, serão apresentados os elos ***backward from*** dos requisitos funcionais e não funcionais do sistema FGTS. Essa abordagem demonstrará como os requisitos foram originados e se relacionam com seus artefatos de origem e elicitação. Para isso, a análise e o estabelecimento dessas relações partiram dos cartões de requisitos elaborados ao longo da disciplina, bem como dos registros de técnicas de elicitação e elementos de modelagem (como léxicos, cenários e casos de uso).
 
 
 ## Metodologia
@@ -2064,6 +2064,20 @@ A metodologia utilizada para construir a matriz de pós-rastreabilidade baseou-s
 </div>
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
+
+## Referências Bibliográficas
+
+> <a name="REF1">1. </a>AYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf. Acesso em: 08 de jun. de 2025
+
+
+<font size="3"><p style="text-align: center">Figura 1: Foto da referência 1</p></font>
+
+<div align="center">
+  <img src="./../assets/pos-rastreabilidade/referencias/ref1.png" alt="FIGURA 1">
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [AYÃO, LEITE, 2005](https://www-di.inf.puc-rio.br/~julio/rastre.pdf) </p></font>
+
 
 ##  Histórico de Versão
 
