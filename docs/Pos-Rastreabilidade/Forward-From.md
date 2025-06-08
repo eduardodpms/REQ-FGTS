@@ -1385,58 +1385,6 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) </p></font>
 
 
-<font size="3"><p style="text-align: center">Tabela 30: E29 - Cartão do Requisito Funcional 02</p></font>
-
-<div align="center">
-
-<table>
-  <thead>
-    <tr>
-      <th>Item</th>
-      <th>Descrição</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td> Descrição do requisito </td>
-      <td> O aplicativo deve oferecer canal de suporte ou chatbot para esclarecer dúvidas </td>
-    </tr>
-    <tr>
-      <td> Categoria </td>
-      <td> Desenvolvimento </td>
-    </tr>
-    <tr>
-      <td> Elementos </td>
-      <td> 
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN04</a>, 
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/#UC03">Caso de Uso 3</a>, 
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/#C03">Cenário 3</a>, 
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L14">L14</a>, 
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L15">L15</a>, 
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H19">H19</a> 
-      </td>
-    </tr>
-    <tr>
-      <td> Elos Forward-from </td>
-      <td> 
-      Satisfação - O requisito recebeu uma priorização de 0,054 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/First-Things-First>First Things First</a> <br>
-      Satisfação - O requisito recebeu prioridade OUT na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/In-or-Out/#RF>In or Out</a><br>
-      Satisfação - O requisito recebeu $2 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/100-Test/#Req>$100</a><br>
-      Satisfação - O requisito recebeu prioridade Baixa na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/Three-Level-Scale/#RF>Three-Level Scale</a><br>
-      Agregação - O requisito é classificado no Épico <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Product-Backlog/#tema3>E09</a>
-      </td>
-    </tr>
-    <tr>
-      <td> Print </td>
-      <td> Não implementado </td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
-
-<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
-
 ### <a name="E29"></a> E29
 
 <font size="3"><p style="text-align: center">Tabela 30: E29 - Cartão do Requisito Funcional 02</p></font>
