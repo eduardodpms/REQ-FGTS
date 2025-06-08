@@ -1143,7 +1143,7 @@
 
 ### <a name="E26"></a> E26
 
-<font size="3"><p style="text-align: center">Tabela 27: E27 - Cartão do Requisito Não Funcional 01</p></font>
+<font size="3"><p style="text-align: center">Tabela 27: E26 - Cartão do Requisito Não Funcional 01</p></font>
 
 <div align="center">
 <table>
@@ -1188,7 +1188,7 @@
 
 ### <a name="E27"></a> E27
 
-<font size="3"><p style="text-align: center">Tabela 29: E28 - Cartão do Requisito Não Funcional 02</p></font>
+<font size="3"><p style="text-align: center">Tabela 28: E27 - Cartão do Requisito Não Funcional 02</p></font>
 
 <div align="center">
 <table>
@@ -1225,7 +1225,7 @@
 
 ### <a name="E28"></a> E28
 
-<font size="3"><p style="text-align: center">Tabela 28: E28 - Cartão do Requisito Não Funcional 07</p></font>
+<font size="3"><p style="text-align: center">Tabela 29: E28 - Cartão do Requisito Não Funcional 07</p></font>
 
 <div align="center">
 <table>
