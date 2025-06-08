@@ -1604,7 +1604,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     <tr>
       <td> Print </td>
       <td>
-        <img src="./../../assets/pos-rastreabilidade/prints/rf27.jpeg" width="100px"/>
+        <a href="../../../assets/pos-rastreabilidade/prints/rf27.pdf" target="_blank">📄 Ver Imagem completa</a>
       </td>
     </tr>
   </tbody>
@@ -1659,7 +1659,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     <tr>
       <td> Print </td>
       <td>
-          <img src="./../../assets/pos-rastreabilidade/prints/rf28.jpeg" width="100px"/>
+          <a href="../../../assets/pos-rastreabilidade/prints/rf28.pdf" target="_blank">📄 Ver Imagem completa</a>
       </td>
     </tr>
   </tbody>
