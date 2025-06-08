@@ -1818,6 +1818,7 @@
     </tr>
   </tbody>
 </table>
+</div>
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
 
@@ -1858,6 +1859,7 @@
     </tr>
   </tbody>
 </table>
+</div>
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
 
@@ -1898,6 +1900,7 @@
     </tr>
   </tbody>
 </table>
+</div>
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
 
@@ -1938,6 +1941,7 @@
     </tr>
   </tbody>
 </table>
+</div>
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
 
@@ -1978,6 +1982,7 @@
     </tr>
   </tbody>
 </table>
+</div>
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
 
@@ -2014,6 +2019,7 @@
     </tr>
   </tbody>
 </table>
+</div>
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
 
@@ -2054,6 +2060,7 @@
     </tr>
   </tbody>
 </table>
+</div>
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
 
@@ -2094,6 +2101,7 @@
     </tr>
   </tbody>
 </table>
+</div>
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
 
@@ -2130,6 +2138,7 @@
     </tr>
   </tbody>
 </table>
+</div>
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
 ##  Histórico de Versão
