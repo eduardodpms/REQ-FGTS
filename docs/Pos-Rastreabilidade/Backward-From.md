@@ -1,6 +1,19 @@
-##  Introdução
+## Introdução
 
-##  Metodologia
+O processo de rastreabilidade de requisitos é uma atividade essencial na engenharia de requisitos, pois permite estabelecer e acompanhar as ligações entre diferentes artefatos produzidos ao longo do desenvolvimento de software. Por meio da rastreabilidade, é possível verificar a origem, a evolução e o impacto de cada requisito, garantindo maior controle, consistência e qualidade na construção do sistema.
+
+Neste documento, será apresentada a **pós-rastreabilidade** dos requisitos funcionais e não funcionais do sistema FGTS, contemplando tanto os elos *Backward From* (que indicam de onde o requisito foi originado) . Para isso, foram utilizados os cartões de requisitos elaborados ao longo da disciplina, bem como os registros de técnicas de elicitação e elementos de modelagem (como léxicos, cenários e casos de uso).
+
+
+## Metodologia
+
+A metodologia utilizada para construir a matriz de pós-rastreabilidade baseou-se em uma abordagem documental e analítica, composta pelas seguintes etapas:
+
+1. **Coleta de artefatos**: foram reunidos os cartões de requisitos funcionais (RF) e requisitos  não funcionais (RNF), registros das técnicas de elicitação (entrevista, introspecção, observação e storytelling) e os elementos de modelagem associados (léxicos, casos de uso, cenários e histórias de usuário, NFR).
+
+2. **Identificação dos elos Backward From**: para cada requisito funcional, foi analisada sua origem, mapeando-se a técnica de elicitação responsável e a ligação com os elementos iniciais de descoberta. O elo *Backward From* indica de onde o requisito foi derivado.
+
+3. **Documentação e organização**: as informações foram organizadas em tabelas, com hiperlinks para os elementos relacionados hospedados na documentação do projeto. Também foi elaborado um cronograma com a participação dos entrevistados no processo de elicitação.
 
 
 ##  Cronograma de Participantes
@@ -32,8 +45,8 @@
     </tr>
     <tr>
       <td> Enzo Emir </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 08/06/2025 </td>
+      <td> 13:51 </td>
     </tr>
     <tr>
       <td> Leticia Arisa </td>
@@ -52,8 +65,8 @@
     </tr>
     <tr>
       <td> Victor Pontual </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 08/06/2025 </td>
+      <td> 13:30 </td>
     </tr>
   </tbody>
 </table>
@@ -1256,8 +1269,752 @@
     </tr>
   </tbody>
 </table>
+</div>
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) </p></font>
+
+### <a name="E29"></a> E29
+
+<font size="3"><p style="text-align: center">Tabela 30: E29 - Cartão do Requisito Funcional 08</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve exibir os status atualizados do saque.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rf08">RF08</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS05</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h01">H01</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+        Agregação - O requisito originou-se da introspecção <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspecao/#is05">IS05</a>.
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> - </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
+### <a name="E30"></a> E30
+
+<font size="3"><p style="text-align: center">Tabela 31: E30 - Cartão do Requisito Funcional 38</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve notificar o usuário sobre o status do saque solicitado.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rf38">RF38</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspecao/#requisitos-funcionais">IS05</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h02">H02</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+        Agregação - O requisito originou-se da introspecção <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspecao/#is05">IS05</a>.
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> - </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
+### <a name="E31"></a> E31
+
+<font size="3"><p style="text-align: center">Tabela 32: E31 - Cartão do Requisito Funcional 01</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve informar claramente as datas previstas para liberação de valores.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rf01">RF01</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais">EN03</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/#caso-de-uso-2-en03">Caso de uso 02</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/#cenario-2-visualizar-data-prevista-para-liberacao-de-valores">Cenário 02</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#l10">L10</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#l11">L11</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#l12">L12</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#l13">L13</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+        Agregação - O requisito originou-se da entrevista <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais">EN03</a>.
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> - </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
+### <a name="E32"></a> E32
+
+<font size="3"><p style="text-align: center">Tabela 33: E32 - Cartão do Requisito Funcional 17</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve conter uma seção de ajuda com orientações sobre o FGTS e PIS/PAESP.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rf17">RF17</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS15</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h04">H04</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+        Agregação - O requisito originou-se da introspecção <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspecao/#is15">IS15</a>.
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> - </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
+
+### <a name="E33"></a> E33
+
+<font size="3"><p style="text-align: center">Tabela 34: E33 - Cartão do Requisito Funcional 19</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve permitir a solicitação de ressarcimento de valores do PIS/PASEP.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rf19">RF19</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS17</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h05">H05</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+        Agregação - O requisito originou-se da introspecção <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#is17">IS17</a>.
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> - </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
+### <a name="E34"></a> E34
+
+<font size="3"><p style="text-align: center">Tabela 35: E34 - Cartão do Requisito Funcional 20</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve permitir login seguro pelo aplicativo.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rf20">RF20</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-funcionais">OB01</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h06">H06</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+        Agregação - O requisito originou-se da observação <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#ob01">OB01</a>.
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> - </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
+### <a name="E35"></a> E35
+
+<font size="3"><p style="text-align: center">Tabela 36: E35 - Cartão do Requisito Não Funcional 04</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>Os prazos informados no app devem ser cumpridos fielmente.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rnf04">RNF04</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-nao-funcionais">EN10</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#cartoes-de-especificacao">Cartão de Especificação 9</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+        Agregação - O requisito originou-se da entrevista <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#en10">EN10</a>.
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> - </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
+### <a name="E36"></a> E36
+
+<font size="3"><p style="text-align: center">Tabela 37: E36 - Cartão do Requisito Não Funcional 09</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve aplicar princípios de acessibilidade.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rnf09">RNF09</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-nao-funcionais">IS21</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#cartoes-de-especificacao">Cartão de Especificação 10</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+        Agregação - O requisito originou-se da introspecção <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#is21">IS21</a>.
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> - </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
+### <a name="E37"></a> E37
+
+<font size="3"><p style="text-align: center">Tabela 38: E37 - Cartão do Requisito Não Funcional 15</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>As informações devem estar organizadas de forma clara e com terminologia compreensível para o usuário.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rnf15">RNF15</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-nao-funcionais">OB13</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+        Agregação - O requisito originou-se da observação <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#ob13">OB13</a>.
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> - </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
+### <a name="E38"></a> E38
+
+<font size="3"><p style="text-align: center">Tabela 39: E38 - Cartão do Requisito Funcional 09</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O sistema deve permitir que o usuário cancele um saque solicitado</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#RF>RF09</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS06, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/#C04>Cenário 4</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/#UC04>Caso de Uso 4</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L20>L20</a>,<a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L21>L21</a>,<a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L22>L22</a>,<a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L23>L23</a>,<a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L24>L24</a>,<a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L25>L25</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H31>H31</a></a></td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se da Técnica de Introspecção  <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS06</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
+
+### <a name="E39"></a> E39
+
+<font size="3"><p style="text-align: center">Tabela 40: E39 - Cartão do Requisito Funcional 10</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve permitir o filtro dos saques por tipo (ex: aniversário, doença, falecimento)</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#RF>RF10</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS07, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/#C05>Cenário 5</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/#UC05>Caso de Uso 5</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L26>L26</a>,<a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L27>L27</a>,<a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L28>L28</a>,<a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L29>L29</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H32>H32</a></a></td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se da Técnica de Introspecção  <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS07</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
+
+### <a name="E40"></a> E40
+
+<font size="3"><p style="text-align: center">Tabela 41: E40 - Cartão do Requisito Funcional 32</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve oferecer uma interface de login simples.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#RF>RF32</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST011, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H33>H33</a></a></td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se da Técnica de Storytelling  <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST011</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
+
+### <a name="E41"></a> E41
+
+<font size="3"><p style="text-align: center">Tabela 42: E41 - Cartão do Requisito Funcional 33</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve disponibilizar uma página para escolha da sistemática de saque.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#RF>RF33</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST012</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H34>H34</a></td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se da Técnica de Storytelling  <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST012</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
+
+### <a name="E42"></a> E42
+
+<font size="3"><p style="text-align: center">Tabela 43: E42 - Cartão do Requisito Funcional 34</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve exibir o termo de adesão ao usuário no primeiro acesso ao aplicativo</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#RF>RF34</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST016</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H35>H35</a></td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se da Técnica de Storytelling  <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST016</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
+
+### <a name="E43"></a> E43
+
+<font size="3"><p style="text-align: center">Tabela 44: E43 - Cartão do Requisito Funcional 40</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve enviar notificação ao usuário quando o saque for recebido.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#RF>RF40</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST015</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H36>H36</a></td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se da Técnica de Storytelling  <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST015</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
+
+### <a name="E44"></a> E44
+
+<font size="3"><p style="text-align: center">Tabela 45: E44 - Cartão do Requisito Não Funcional 10</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve estar disponível para outras plataformas, como web</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#RNF>RNF10</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-nao-funcionais">IS22</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#cartoes-de-especificacao>Cartão de Especificação 8</a></td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se da Técnica de Instrospecção  <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-nao-funcionais">IS22</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
+
+### <a name="E45"></a> E45
+
+<font size="3"><p style="text-align: center">Tabela 46: E45 - Cartão do Requisito Não Funcional 13</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O sistema deve garantir segurança firme com verificação de dados pelo usuário</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#RNF>RNF13</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-nao-funcionais>OB10</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#cartoes-de-especificacao>Cartão de Especificação 14</a></td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se da Técnica de Observação <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-nao-funcionais>OB10</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
+
+### <a name="E46"></a> E46
+
+<font size="3"><p style="text-align: center">Tabela 47: E46 - Cartão do Requisito Não Funcional 20</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>Saque-rescisão deve atender princípios de acessibilidade</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#RNF>RNF20</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF>EN06</a></td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se da Técnica de Entrevista <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF>EN06</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
 
 ##  Histórico de Versão
 
@@ -1265,5 +2022,8 @@
 |--------|------------|--------------------------------------------|-----------------------------------------------|-------------|
 | `1.0`  | 07/06/2025 | Criação da página | [Enzo Emir](https://github.com/EnzoEmir)     | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
 | `1.1`  | 07/06/2025 | Adição das tabelas E01 - E10 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)    | [Marcelo Makoto](https://github.com/MM4k)  |
-| `1.2`  | 07/06/2025 | Adição das tabelas E11 - E19 | [Marcelo Makoto](https://github.com/MM4k)    | -  |
-| `1.3`  | 08/06/2025 | Adição das tabelas E20 - E28 |  [Danielle Soares](https://github.com/danielle-soaress)   | -  |
+| `1.2`  | 07/06/2025 | Adição das tabelas E11 - E19 | [Marcelo Makoto](https://github.com/MM4k)    | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.3`  | 08/06/2025 | Adição das tabelas E20 - E28 |  [Danielle Soares](https://github.com/danielle-soaress)   | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.4`  | 08/06/2025 | Adição das tabelas E29 - E37 |  [Enzo Emir](https://github.com/EnzoEmir)   | [Victor Pontual](https://github.com/VictorPontual) |
+| `1.5`  | 08/06/2025 | Adição das tabelas E38 - E46 |  [Victor Pontual](https://github.com/VictorPontual)   | - |
+| `1.6`  | 08/06/2025 | Adição dos textos de introdução e metodologia |  [Enzo Emir](https://github.com/EnzoEmir)   | - |

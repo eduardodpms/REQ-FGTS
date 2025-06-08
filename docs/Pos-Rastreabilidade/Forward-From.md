@@ -110,13 +110,13 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Maria Eduarda </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 08/06/2025 </td>
+      <td> 13:16 </td>
     </tr>
     <tr>
       <td> Victor Pontual </td>
-      <td> - </td>
-      <td> - </td>
+      <td>08/06/2025 </td>
+      <td> 15:16 </td>
     </tr>
   </tbody>
 </table>
@@ -1384,6 +1384,883 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) </p></font>
 
+
+<font size="3"><p style="text-align: center">Tabela 30: E29 - Cartão do Requisito Funcional 02</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td> O aplicativo deve oferecer canal de suporte ou chatbot para esclarecer dúvidas </td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN04</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/#UC03">Caso de Uso 3</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/#C03">Cenário 3</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L14">L14</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L15">L15</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H19">H19</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+      Satisfação - O requisito recebeu uma priorização de 0,054 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/First-Things-First>First Things First</a> <br>
+      Satisfação - O requisito recebeu prioridade OUT na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/In-or-Out/#RF>In or Out</a><br>
+      Satisfação - O requisito recebeu $2 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/100-Test/#Req>$100</a><br>
+      Satisfação - O requisito recebeu prioridade Baixa na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/Three-Level-Scale/#RF>Three-Level Scale</a><br>
+      Agregação - O requisito é classificado no Épico <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Product-Backlog/#tema3>E09</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> Não implementado </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
+### <a name="E29"></a> E29
+
+<font size="3"><p style="text-align: center">Tabela 30: E29 - Cartão do Requisito Funcional 02</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td> O aplicativo deve oferecer canal de suporte ou chatbot para esclarecer dúvidas </td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN04</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/#UC03">Caso de Uso 3</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/#C03">Cenário 3</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L14">L14</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L15">L15</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H19">H19</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+      Satisfação - O requisito recebeu uma priorização de 0,054 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/First-Things-First>First Things First</a> <br>
+      Satisfação - O requisito recebeu prioridade OUT na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/In-or-Out/#RF>In or Out</a><br>
+      Satisfação - O requisito recebeu $2 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/100-Test/#Req>$100</a><br>
+      Satisfação - O requisito recebeu prioridade Baixa na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/Three-Level-Scale/#RF>Three-Level Scale</a><br>
+      Agregação - O requisito é classificado no Épico <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Product-Backlog/#tema3>E09</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> Não implementado </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
+
+### <a name="E30"></a> E30
+
+<font size="3"><p style="text-align: center">Tabela 31: E30 - Cartão do Requisito Funcional 30</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td> O aplicativo deve permitir o ajuste do tamanho das fontes na interface. </td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST08</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/#UC14">Caso de Uso 14</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/#C14">Cenário 14</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L16">L16</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L17">L17</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L18">L18</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L19">L19</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H20">H20</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+      Satisfação - O requisito recebeu uma priorização de 0,365 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/First-Things-First>First Things First</a> <br>
+      Satisfação - O requisito recebeu prioridade OUT na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/In-or-Out/#RF>In or Out</a><br>
+      Satisfação - O requisito recebeu $2 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/100-Test/#Req>$100</a><br>
+      Satisfação - O requisito recebeu prioridade Baixa na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/Three-Level-Scale/#RF>Three-Level Scale</a><br>
+      Agregação - O requisito é classificado no Épico <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Product-Backlog/#tema3>E11</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> Não implementado </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
+### <a name="E31"></a> E31
+
+<font size="3"><p style="text-align: center">Tabela 32: E31 - Cartão do Requisito Funcional 27</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td> O aplicativo deve enviar notificação sobre o andamento do saque. </td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST02</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST09</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST015</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H21">H21</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+      Satisfação - O requisito recebeu uma priorização de 0,290 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/First-Things-First>First Things First</a> <br>
+      Satisfação - O requisito recebeu prioridade OUT na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/In-or-Out/#RF>In or Out</a><br>
+      Satisfação - O requisito recebeu $4 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/100-Test/#Req>$100</a><br>
+      Satisfação - O requisito recebeu prioridade Baixa na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/Three-Level-Scale/#RF>Three-Level Scale</a><br>
+      Agregação - O requisito é classificado no Épico <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Product-Backlog/#tema3>E10</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> - </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
+### <a name="E32"></a> E32
+
+<font size="3"><p style="text-align: center">Tabela 33: E32 - Cartão do Requisito Funcional 28</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td> O aplicativo deve permitir a solicitação de saques. </td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN01</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS03</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST06</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB03</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+      Satisfação - O requisito recebeu uma priorização de 0,157 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/First-Things-First>First Things First</a> <br>
+      Satisfação - O requisito recebeu prioridade IN na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/In-or-Out/#RF>In or Out</a><br>
+      Satisfação - O requisito recebeu $12 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/100-Test/#Req>$100</a><br>
+      Satisfação - O requisito recebeu prioridade Alta na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/Three-Level-Scale/#RF>Three-Level Scale</a><br>
+      Agregação - O requisito é classificado no Épico <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Product-Backlog/#tema3>E04</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> - </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
+### <a name="E33"></a> E33
+
+<font size="3"><p style="text-align: center">Tabela 34: E33 - Cartão do Requisito Funcional 31</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td> O aplicativo deve permitir a visualização dos dados da conta bancária cadastrada. </td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST010</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H23">H23</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+      Satisfação - O requisito recebeu uma priorização de 1,096 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/First-Things-First>First Things First</a> <br>
+      Satisfação - O requisito recebeu prioridade IN na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/In-or-Out/#RF>In or Out</a><br>
+      Satisfação - O requisito recebeu $8 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/100-Test/#Req>$100</a><br>
+      Satisfação - O requisito recebeu prioridade Média na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/Three-Level-Scale/#RF>Three-Level Scale</a><br>
+      Agregação - O requisito é classificado no Épico <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Product-Backlog/#tema3>E08</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> - </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
+### <a name="E34"></a> E34
+
+<font size="3"><p style="text-align: center">Tabela 35: E34 - Cartão do Requisito Funcional 42</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td> O aplicativo deve permitir o agendamento de saque futuro FGTS </td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/#resultados">BS10</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H24">H24</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+      Satisfação - O requisito recebeu uma priorização de - na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/First-Things-First>First Things First</a> <br>
+      Satisfação - O requisito recebeu prioridade - na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/In-or-Out/#RF>In or Out</a><br>
+      Satisfação - O requisito recebeu - na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/100-Test/#Req>$100</a><br>
+      Satisfação - O requisito recebeu prioridade - na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/Three-Level-Scale/#RF>Three-Level Scale</a><br>
+      Agregação - O requisito é classificado no Épico <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Product-Backlog/#tema3>E04</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> Não implementado </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
+### <a name="E35"></a> E35
+
+<font size="3"><p style="text-align: center">Tabela 36: E35 - Cartão do Requisito Não Funcional 21</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td> Os menus devem ser autoexplicativos, com estrutura hierárquica lógica e nomenclatura padronizada </td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS19">IS19</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB11">OB11</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+      Satisfação - O requisito recebeu uma priorização de - na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/First-Things-First>First Things First</a> <br>
+      Satisfação - O requisito recebeu prioridade - na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/In-or-Out/#RF>In or Out</a><br>
+      Satisfação - O requisito recebeu - na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/100-Test/#Req>$100</a><br>
+      Satisfação - O requisito recebeu prioridade - na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/Three-Level-Scale/#RF>Three-Level Scale</a><br>
+      Agregação - O requisito é classificado no Épico <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Product-Backlog/#tema3> - </a>
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> - </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
+### <a name="E36"></a> E36
+
+<font size="3"><p style="text-align: center">Tabela 37: E36 - Cartão do Requisito Não Funcional 12</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td> O aplicativo deve proporcionar agilidade ao acessar as funcionalidades </td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS24">IS24</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+      Satisfação - O requisito recebeu uma priorização de 0,060 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/First-Things-First>First Things First</a> <br>
+      Satisfação - O requisito recebeu prioridade IN na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/In-or-Out/#RF>In or Out</a><br>
+      Satisfação - O requisito recebeu $0 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/100-Test/#Req>$100</a><br>
+      Satisfação - O requisito recebeu prioridade Média na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/Three-Level-Scale/#RF>Three-Level Scale</a><br>
+      Agregação - O requisito é classificado no Épico <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Product-Backlog/#tema3> - </a>
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> - </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
+### <a name="E37"></a> E37
+
+<font size="3"><p style="text-align: center">Tabela 38: E37 - Cartão do Requisito Não Funcional 19</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td> Saque-aniversário deve atender princípios de acessibilidade </td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN06">EN06</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+      Satisfação - O requisito recebeu uma priorização de - na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/First-Things-First>First Things First</a> <br>
+      Satisfação - O requisito recebeu prioridade - na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/In-or-Out/#RF>In or Out</a><br>
+      Satisfação - O requisito recebeu - na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/100-Test/#Req>$100</a><br>
+      Satisfação - O requisito recebeu prioridade - na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/Three-Level-Scale/#RF>Three-Level Scale</a><br>
+      Agregação - O requisito é classificado no Épico <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Product-Backlog/#tema3> - </a>
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> - </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
+### <a name="E38"></a> E38
+
+<font size="3"><p style="text-align: center">Tabela 39: E38 - Cartão do Requisito Funcional 09</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O sistema deve permitir que o usuário cancele um saque solicitado</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#RF>RF09</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS06, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/#C04>Cenário 4</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/#UC04>Caso de Uso 4</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L20>L20</a>,<a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L21>L21</a>,<a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L22>L22</a>,<a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L23>L23</a>,<a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L24>L24</a>,<a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L25>L25</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H31>H31</a></a></td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+      Satisfação - O requisito funcional recebeu uma priorização de 0,152 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/First-Things-First>First Things First</a><br>
+      Satisfação - O requisito funcional recebeu prioridade IN na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/In-or-Out/#RNF>In or Out</a><br>
+      Satisfação - O requisito funcional recebeu $16 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/100-Test/#Req>$100</a><br>
+      Satisfação - O requisito funcional recebeu prioridade alta na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/Three-Level-Scale/#RNF>Three-Level Scale</a><br>
+      Agregação - O requisito originou-se da Técnica de Introspecção  <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS06</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
+
+### <a name="E39"></a> E39
+
+<font size="3"><p style="text-align: center">Tabela 40: E39 - Cartão do Requisito Funcional 10</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve permitir o filtro dos saques por tipo (ex: aniversário, doença, falecimento)</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#RF>RF10</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS07, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/#C05>Cenário 5</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/#UC05>Caso de Uso 5</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L26>L26</a>,<a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L27>L27</a>,<a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L28>L28</a>,<a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L29>L29</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H32>H32</a></a></td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td>
+      Satisfação - O requisito funcional recebeu uma priorização de 0,289 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/First-Things-First>First Things First</a><br>
+      Satisfação - O requisito funcional recebeu prioridade OUT na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/In-or-Out/#RNF>In or Out</a><br>
+      Satisfação - O requisito funcional recebeu $1 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/100-Test/#Req>$100</a><br>
+      Satisfação - O requisito funcional recebeu prioridade baixa na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/Three-Level-Scale/#RNF>Three-Level Scale</a><br>
+      Agregação - O requisito originou-se da Técnica de Introspecção  <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS07</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
+
+### <a name="E40"></a> E40
+
+<font size="3"><p style="text-align: center">Tabela 41: E40 - Cartão do Requisito Funcional 32</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve oferecer uma interface de login simples.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#RF>RF32</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST011, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H33>H33</a></a></td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+      Satisfação - O requisito funcional recebeu uma priorização de 1,055 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/First-Things-First>First Things First</a><br>
+      Satisfação - O requisito funcional recebeu prioridade OUT na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/In-or-Out/#RNF>In or Out</a><br>
+      Satisfação - O requisito funcional recebeu $4 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/100-Test/#Req>$100</a><br>
+      Satisfação - O requisito funcional recebeu prioridade baixa na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/Three-Level-Scale/#RNF>Three-Level Scale</a><br>
+      Agregação - O requisito originou-se da Técnica de Storytelling  <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST011</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
+
+### <a name="E41"></a> E41
+
+<font size="3"><p style="text-align: center">Tabela 42: E41 - Cartão do Requisito Funcional 33</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve disponibilizar uma página para escolha da sistemática de saque.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#RF>RF33</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST012</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H34>H34</a></td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+      Satisfação - O requisito funcional recebeu uma priorização de 0,456 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/First-Things-First>First Things First</a><br>
+      Satisfação - O requisito funcional recebeu prioridade IN na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/In-or-Out/#RNF>In or Out</a><br>
+      Satisfação - O requisito funcional recebeu $6 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/100-Test/#Req>$100</a><br>
+      Satisfação - O requisito funcional recebeu prioridade alta na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/Three-Level-Scale/#RNF>Three-Level Scale</a><br>
+      Agregação - O requisito originou-se da Técnica de Storytelling  <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST012</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
+
+### <a name="E42"></a> E42
+
+<font size="3"><p style="text-align: center">Tabela 43: E42 - Cartão do Requisito Funcional 34</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve exibir o termo de adesão ao usuário no primeiro acesso ao aplicativo</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#RF>RF34</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST016</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H35>H35</a></td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+      Satisfação - O requisito funcional recebeu uma priorização de 0,507 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/First-Things-First>First Things First</a><br>
+      Satisfação - O requisito funcional recebeu prioridade IN na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/In-or-Out/#RNF>In or Out</a><br>
+      Satisfação - O requisito funcional recebeu $0 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/100-Test/#Req>$100</a><br>
+      Satisfação - O requisito funcional recebeu prioridade alta na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/Three-Level-Scale/#RNF>Three-Level Scale</a><br>
+      Agregação - O requisito originou-se da Técnica de Storytelling  <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST016</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
+
+### <a name="E43"></a> E43
+
+<font size="3"><p style="text-align: center">Tabela 44: E43 - Cartão do Requisito Funcional 40</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve enviar notificação ao usuário quando o saque for recebido.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#RF>RF40</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST015</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H36>H36</a></td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+      Agregação - O requisito originou-se da Técnica de Storytelling  <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST015</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
+
+### <a name="E44"></a> E44
+
+<font size="3"><p style="text-align: center">Tabela 45: E44 - Cartão do Requisito Não Funcional 10</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve estar disponível para outras plataformas, como web</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#RNF>RNF10</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-nao-funcionais">IS22</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#cartoes-de-especificacao>Cartão de Especificação 8</a></td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td>
+      Satisfação - O requisito não funcional recebeu uma priorização de 0,095 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/First-Things-First>First Things First</a><br>
+      Satisfação - O requisito não funcional recebeu prioridade OUT na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/In-or-Out/#RNF>In or Out</a><br>
+      Satisfação - O requisito não funcional recebeu $1 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/100-Test/#Req>$100</a><br>
+      Satisfação - O requisito não funcional recebeu prioridade baixa na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/Three-Level-Scale/#RNF>Three-Level Scale</a><br>
+      Agregação - O requisito originou-se da Técnica de Instrospecção  <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-nao-funcionais">IS22</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
+
+### <a name="E45"></a> E45
+
+<font size="3"><p style="text-align: center">Tabela 46: E45 - Cartão do Requisito Não Funcional 13</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O sistema deve garantir segurança firme com verificação de dados pelo usuário</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#RNF>RNF13</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-nao-funcionais>OB10</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#cartoes-de-especificacao>Cartão de Especificação 14</a></td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+      Satisfação - O requisito não funcional recebeu uma priorização de 0,068 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/First-Things-First>First Things First</a><br>
+      Satisfação - O requisito não funcional recebeu prioridade IN na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/In-or-Out/#RNF>In or Out</a><br>
+      Satisfação - O requisito não funcional recebeu $17 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/100-Test/#Req>$100</a><br>
+      Satisfação - O requisito não funcional recebeu prioridade alta na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/Three-Level-Scale/#RNF>Three-Level Scale</a><br>
+      Agregação - O requisito originou-se da Técnica de Observação <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-nao-funcionais>OB10</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
+
+### <a name="E46"></a> E46
+
+<font size="3"><p style="text-align: center">Tabela 47: E46 - Cartão do Requisito Não Funcional 20</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>Saque-rescisão deve atender princípios de acessibilidade</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#RNF>RNF20</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF>EN06</a></td>
+    </tr>
+    <tr>
+      <td> Elos Forward-from </td>
+      <td> 
+      Agregação - O requisito originou-se da Técnica de Entrevista <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF>EN06</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
+
 ## Referências Bibliográficas
 
 > <a name="REF1">1. </a>AYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf. Acesso em: 08 de jun. de 2025
@@ -1406,8 +2283,6 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
 
 <font size="2"><p style="text-align: center">Fonte: [TORANZO, CASTO, MELLO, 2002](http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/toranzo.pdf) </p></font>
 
-
-
 ##  Histórico de Versão
 
 | Versão | Data       | Descrição                                 | Autor(es)                                     | Revisor(es) |
@@ -1415,5 +2290,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
 | `1.0`  | 07/06/2025 | Criação da página | [Enzo Emir](https://github.com/EnzoEmir)     | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
 | `1.1`  | 07/06/2025 | Adição das E01 - E10 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)    | [Marcelo Makoto](https://github.com/MM4k)  |
 | `1.2`  | 07/06/2025 | Adição das E11 - E19 | [Marcelo Makoto](https://github.com/MM4k)    | [Danielle Soares](https://github.com/danielle-soaress) |
-| `1.3`  | 07/06/2025 | Adição das E20 - E28 | [Danielle Soares](https://github.com/danielle-soaress) |  |
-| `1.4`  | 08/06/2025 | Introdução, Metodologia e Referências  | [Danielle Soares](https://github.com/danielle-soaress) |  |
+| `1.3`  | 07/06/2025 | Adição das E20 - E28 | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.4`  | 08/06/2025 | Adição das E29 - E37 | [Maria Eduarda](https://github.com/dudaa28) | [Victor Pontual](https://github.com/VictorPontual) |
+| `1.5`  | 08/06/2025 | Adição das tabelas E38 - E46 |  [Victor Pontual](https://github.com/VictorPontual)   | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.6`  | 08/06/2025 | Introdução, Metodologia e Referências  | [Danielle Soares](https://github.com/danielle-soaress) | - |
