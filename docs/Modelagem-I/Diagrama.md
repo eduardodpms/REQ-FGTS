@@ -138,6 +138,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 <font size="3"><p style="text-align: center">Tabela 2: Visualizar Status Comentado do Saque </p></font>
 
+<a name="UC01"></a>
 
 | **RF39**                     | **Descrição** |
 |----------------------------------|----------------|
@@ -160,6 +161,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 <font size="3"><p style="text-align: center">Tabela 3: Visualizar Data Prevista para Liberação de Valores </p></font>
 
+<a name="UC02"></a>
 
 | **RF01**                     | **Descrição** |
 |----------------------------------|----------------|
@@ -179,6 +181,8 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 ## Caso de Uso 3 (EN04)
 
 <font size="3"><p style="text-align: center">Tabela 4: Acessar Suporte via Chatbot </p></font>
+
+<a name="UC03"></a>
 
 | **RF02**                     | **Descrição** |
 |---------------------------------|---------------|
@@ -200,6 +204,8 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 ## Caso de Uso 4 (IS06)
 
+<a name="UC04"></a>
+
 <font size="3"><p style="text-align: center">Tabela 5: Cancelar Solicitação de Saque </p></font>
 
 | **RF09**                     | **Descrição** |
@@ -219,6 +225,8 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Victor Pontual](https://github.com/VictorPontual) </i></b></p></font>
 
 ## Caso de Uso 5 (IS07)
+
+<a name="UC05"></a>
 
 <font size="3"><p style="text-align: center">Tabela 6: Filtrar Saques por Tipo </p></font>
 
@@ -243,6 +251,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 <font size="3"><p style="text-align: center">Tabela 7: Consultar Saques Bloqueados </p></font>
 
+<a name="UC06"></a>
 
 | **RF11** | **Descrição** |
 |---------|----------------|
@@ -261,6 +270,8 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Danielle Soares](https://github.com/danielle-soaress)</i></b></p></font>
 
 ## <a name="UC07"></a> Caso de Uso 7 (IS09)
+
+<a name="UC07"></a>
 
 <font size="3"><p style="text-align: center">Tabela 8: Exibir informações detalhadas sobre o histórico de movimentações financeiras </p></font>
 
@@ -302,6 +313,8 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 <font size="3"><p style="text-align: center">Tabela 10: Cadastrar Múltiplas Contas Bancárias </p></font>
 
+<a name="UC09"></a>
+
 | **RF35** | **Descrição** |
 |---------|----------------|
 | **Nome do Caso de Uso**          | Cadastrar Múltiplas Contas Bancárias |
@@ -318,6 +331,8 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Danielle Soares](https://github.com/danielle-soaress) </i></b></p></font>
 
 ## Caso de Uso 10 (IS13)
+
+<a name="UC10"></a>
 
 <font size="3"><p style="text-align: center">Tabela 11: Contato com Assistente via Chat </p></font>
 
@@ -339,6 +354,8 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 ## Caso de Uso 11 (IS14)
 
+<a name="UC11"></a>
+
 <font size="3"><p style="text-align: center">Tabela 12: Busca de Funcionalidades e Informações </p></font>
 
 | **RF16**                     | **Descrição** |
@@ -358,6 +375,8 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Marcelo Makoto](https://github.com/MM4k) </i></b></p></font>
 
 ## Caso de Uso 12 (IS16)
+
+<a name="UC12"></a>
 
 <font size="3"><p style="text-align: center">Tabela 13: Página de Ajuda </p></font>
 
@@ -381,6 +400,8 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 
 ## Caso de Uso 13 (ST07)
 
+<a name="UC13"></a>
+
 <font size="3"><p style="text-align: center">Tabela 14: Guia Interativo </p></font>
 
 | **RF29** | **Descrição** |
@@ -400,6 +421,8 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Eduardo de Pina](https://github.com/eduardodpms) </i></b></p></font>
 
 ## Caso de Uso 14 (ST08)
+
+<a name="UC14"></a>
 
 <font size="3"><p style="text-align: center">Tabela 15: Ajuste do Tamanho da Fonte </p></font>
 
@@ -503,3 +526,4 @@ No contexto do app FGTS, uma pós-condição para o caso de uso **Visualizar Dat
 | `2.3` | 18/05/2025 | Adição Fluxos | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |
 | `2.4` | 18/05/2025 | Atualização Página | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |
 | `2.5` | 18/05/2025 | Gravação da Verificação | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `2.6` | 08/06/2025 | Adição de hiperlinks | [Danielle](https://github.com/danielle-soaress) |  |  |

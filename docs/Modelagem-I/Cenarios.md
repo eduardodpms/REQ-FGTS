@@ -187,6 +187,8 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 ## Cenário 6: Fornecimento de informações sobre saques bloqueados
 
+<a name="C06"></a>
+
 <font size="3"><p style="text-align: center">Tabela 6: Cenário de fornecimento de informações sobre saques bloqueados</p></font>
 
 <center>
