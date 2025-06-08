@@ -1605,7 +1605,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
       <td> Print </td>
       <td>
         <div align="center">
-          <img src="./../../assets/pos-rastreabilidade/prints/rf05.jpeg" width="100px"/>
+          <img src="./../../assets/pos-rastreabilidade/prints/rf27.jpeg" width="100px"/>
         </div> 
       </td>
     </tr>
@@ -1660,7 +1660,11 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td>
+        <div align="center">
+          <img src="./../../assets/pos-rastreabilidade/prints/rf28.jpeg" width="100px"/>
+        </div>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -1710,7 +1714,11 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td>
+        <div align="center">
+          <img src="./../../assets/pos-rastreabilidade/prints/rf31.jpeg" width="100px"/>
+        </div>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -1810,7 +1818,11 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td>
+        <div align="center">
+          <img src="./../../assets/pos-rastreabilidade/prints/rnf21.jpeg" width="100px"/>
+        </div>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -1859,7 +1871,11 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td>
+        <div align="center">
+          <img src="./../../assets/pos-rastreabilidade/prints/rnf12.jpeg" width="100px"/>
+        </div>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -1908,7 +1924,11 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td>
+        <div align="center">
+          <img src="./../../assets/pos-rastreabilidade/prints/rnf19.jpeg" width="100px"/>
+        </div>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -2743,4 +2763,5 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
 | `1.6`  | 08/06/2025 | Introdução, Metodologia e Referências  | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.7`  | 08/06/2025 | Sumário, melhorando organização da página | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.8`  | 08/06/2025 | Adição das E47 - E55 | [Enzo Emir](https://github.com/EnzoEmir) | [Danielle Soares](https://github.com/danielle-soaress) |
-| `1.9`  | 08/06/2025 | Prints dos requisitos RF03, RF04, RF05 |  [Danielle Soares](https://github.com/danielle-soaress)  | - |
+| `1.9`  | 08/06/2025 | Prints dos requisitos RF03, RF04, RF05 |  [Danielle Soares](https://github.com/danielle-soaress)  | [Maria Eduarda](https://github.com/dudaa28) |
+| `2.0`  | 08/06/2025 | Prints dos requisitos RF27, RF28, RF31, RNF21, RNF12, RNF19 |  [Maria Eduarda](https://github.com/dudaa28)  | - |
