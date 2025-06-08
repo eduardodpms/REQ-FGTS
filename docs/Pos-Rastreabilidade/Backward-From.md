@@ -93,7 +93,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Introspecção <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF>IS09</a>
+      Agregação - O requisito originou-se da Técnica de Introspecção <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF>IS09</a>
       </td>
     </tr>
     <tr>
@@ -140,7 +140,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Introspecção <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF>IS10</a>
+      Agregação - O requisito originou-se da Técnica de Introspecção <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF>IS10</a>
       </td>
     </tr>
     <tr>
@@ -186,7 +186,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Observação <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF>OB02</a>
+      Agregação - O requisito originou-se da Técnica de Observação <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF>OB02</a>
       </td>
     </tr>
     <tr>
@@ -232,7 +232,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Observação <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF>OB05</a>
+      Agregação - O requisito originou-se da Técnica de Observação <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF>OB05</a>
       </td>
     </tr>
     <tr>
@@ -279,7 +279,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Observação <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF>OB06</a>
+      Agregação - O requisito originou-se da Técnica de Observação <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF>OB06</a>
       </td>
     </tr>
     <tr>
@@ -325,7 +325,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Brainstrorming <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstroming/#BS_RF>BS03</a>
+      Agregação - O requisito originou-se da Técnica de Brainstrorming <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstroming/#BS_RF>BS03</a>
       </td>
     </tr>
     <tr>
@@ -372,7 +372,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Entrevista <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RNF>EN11</a>
+      Agregação - O requisito originou-se da Técnica de Entrevista <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RNF>EN11</a>
       </td>
     </tr>
   </tbody>
@@ -415,7 +415,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Storytelling <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RNF>ST017</a>
+      Agregação - O requisito originou-se da Técnica de Storytelling <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RNF>ST017</a>
       </td>
     </tr>
   </tbody>
@@ -455,7 +455,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Storytelling <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RNF>ST018</a>
+      Agregação - O requisito originou-se da Técnica de Storytelling <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RNF>ST018</a>
       </td>
     </tr>
   </tbody>
@@ -495,7 +495,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Introspecção <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF>IS20</a>
+      Agregação - O requisito originou-se da Técnica de Introspecção <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF>IS20</a>
       </td>
     </tr>
   </tbody>
@@ -534,7 +534,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Introspecção <a href =https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais>IS13</a>
+      Agregação - O requisito originou-se da Técnica de Introspecção <a href =https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais>IS13</a>
       </td>
     </tr>
     <tr>
@@ -577,7 +577,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Introspecção <a href =https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais>IS14</a>
+      Agregação - O requisito originou-se da Técnica de Introspecção <a href =https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais>IS14</a>
       </td>
     </tr>
     <tr>
@@ -620,7 +620,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Observação <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-funcionais>OB07</a>
+      Agregação - O requisito originou-se da Técnica de Observação <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-funcionais>OB07</a>
       </td>
     </tr>
     <tr>
@@ -663,7 +663,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Observação <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-funcionais>OB09</a>
+      Agregação - O requisito originou-se da Técnica de Observação <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-funcionais>OB09</a>
       </td>
     </tr>
     <tr>
@@ -706,7 +706,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Storytelling <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais>ST02</a>
+      Agregação - O requisito originou-se da Técnica de Storytelling <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais>ST02</a>
       </td>
     </tr>
     <tr>
@@ -749,7 +749,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Storytelling <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais>ST013</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais>ST014</a>
+      Agregação - O requisito originou-se da Técnica de Storytelling <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais>ST013</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais>ST014</a>
       </td>
     </tr>
     <tr>
@@ -792,7 +792,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Entrevista <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-4-requisitos-nao-funcionais>EN12</a>
+      Agregação - O requisito originou-se da Técnica de Entrevista <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-4-requisitos-nao-funcionais>EN12</a>
       </td>
     </tr>
     <tr>
@@ -835,7 +835,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Introspecção <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-nao-funcionais>IS23</a>
+      Agregação - O requisito originou-se da Técnica de Introspecção <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-nao-funcionais>IS23</a>
       </td>
     </tr>
     <tr>
@@ -878,7 +878,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Storytelling <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais>ST019</a>
+      Agregação - O requisito originou-se da Técnica de Storytelling <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais>ST019</a>
       </td>
     </tr>
     <tr>
@@ -919,7 +919,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Introspecção <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais>IS08</a>
+      Agregação - O requisito originou-se da Técnica de Introspecção <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais>IS08</a>
       </td>
     </tr>
     <tr>
@@ -960,7 +960,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Introspecção <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS12</a>
+      Agregação - O requisito originou-se da Técnica de Introspecção <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS12</a>
       </td>
     </tr>
     <tr>
@@ -999,10 +999,9 @@
       <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais>RF03</a>, <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN05</a>, <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h15">H15</a></td>
     </tr>
     <tr>
-      <td> Elos Forward-from </td>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Entrevista <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN05</a>
+      Agregação - O requisito originou-se da Técnica de Entrevista <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN05</a>
       </td>
     </tr>
     <tr>
@@ -1044,7 +1043,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Entrevista e Storytelling <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN06</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST013</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST014</a>,
+      Agregação - O requisito originou-se da Técnica de Entrevista e Storytelling <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN06</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST013</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST014</a>
       </td>
     </tr>
     <tr>
@@ -1086,7 +1085,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Intorspecção <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS01</a>
+      Agregação - O requisito originou-se da Técnica de Intorspecção <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS01</a>
       </td>
     </tr>
     <tr>
@@ -1129,7 +1128,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Entrevista <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN02</a>
+      Agregação - O requisito originou-se da Técnica de Entrevista <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN02</a>
       </td>
     </tr>
     <tr>
@@ -1174,7 +1173,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Entrevista, Introspecção, Observação e Storytelling <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RNF">EN07</a>,
+      Agregação - O requisito originou-se da Técnica de Entrevista, Introspecção, Observação e Storytelling <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RNF">EN07</a>,
        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF">IS20</a>,
        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RNF">OB11</a>,
        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RNF">ST01</a>,
@@ -1215,7 +1214,7 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Entrevista <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RNF">EN08</a>
+      Agregação - O requisito originou-se da Técnica de Entrevista <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RNF">EN08</a>
       </td>
     </tr>
   </tbody>
@@ -1252,14 +1251,13 @@
     <tr>
       <td> Elos Backward-from </td>
       <td> 
-      Agregação - O requisito originou-se da Técnida de Introspecção  <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF">IS18</a>
+      Agregação - O requisito originou-se da Técnica de Introspecção  <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF">IS18</a>
       </td>
     </tr>
   </tbody>
 </table>
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) </p></font>
-
 
 ##  Histórico de Versão
 
