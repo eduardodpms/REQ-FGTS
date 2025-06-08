@@ -1603,7 +1603,11 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td>
+        <div align="center">
+          <img src="./../../assets/pos-rastreabilidade/prints/rf05.jpeg" width="100px"/>
+        </div> 
+      </td>
     </tr>
   </tbody>
 </table>
