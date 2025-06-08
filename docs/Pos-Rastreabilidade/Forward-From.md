@@ -948,15 +948,15 @@
     </tr>
     <tr>
       <td> Elementos </td>
-      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais>RF11</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais>IS08</a></td>
+      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais>RF11</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais>IS08</a>, <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#historia-13-ver-informacoes-sobre-saques-bloqueados">H13</a></td>
     </tr>
     <tr>
       <td> Elos Forward-from </td>
       <td> 
-      Satisfação - O requisito recebeu uma priorização de 0,262 na técnica <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/First-Things-First">First Things First</a><br>
-      Satisfação - O requisito recebeu prioridade IN na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/In-or-Out/#RF>In or Out</a><br>
-      Satisfação - O requisito recebeu $5 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/100-Test/#Req>$100</a><br>
-      Satisfação - O requisito recebeu prioridade alta na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/Three-Level-Scale/#RF>Three-Level Scale</a><br>
+      Satisfação - O requisito recebeu uma priorização de <b>0,262</b> na técnica <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/First-Things-First">First Things First</a><br>
+      Satisfação - O requisito recebeu prioridade <b>IN</b> na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/In-or-Out/#RF>In or Out</a><br>
+      Satisfação - O requisito recebeu <b>$5</b> na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/100-Test/#Req>$100</a><br>
+      Satisfação - O requisito recebeu prioridade <b>alta</b> na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorização/Three-Level-Scale/#RF>Three-Level Scale</a><br>
       Agregação - O requisito é classificado no Épico <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Product-Backlog/#tema-1-consulta-e-informacoes-da-conta">E06</a>
       </td>
     </tr>
@@ -993,7 +993,7 @@
     </tr>
     <tr>
       <td> Elementos </td>
-      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais>RF35</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais>IS12</a></td>
+      <td> <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF35</a>, <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS12</a>, <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#historia-13-ver-informacoes-sobre-saques-bloqueados">H14</a></td>
     </tr>
     <tr>
       <td> Elos Forward-from </td>
@@ -1034,7 +1034,7 @@
     </tr>
     <tr>
       <td> Elementos </td>
-      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais>RF03</a>, <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN05</a></td>
+      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais>RF03</a>, <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN05</a>, <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h15">H15</a></td>
     </tr>
     <tr>
       <td> Elos Forward-from </td>
@@ -1080,7 +1080,7 @@
     </tr>
     <tr>
       <td> Elementos </td>
-      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais>RF04</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN06</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST013</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST014</a></td>
+      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais>RF04</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN06</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST013</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST014</a>, <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h17">H17</a></td>
     </tr>
     <tr>
       <td> Elos Forward-from </td>
@@ -1105,7 +1105,7 @@
 
 ### <a name="E24"></a> E24
 
-<font size="3"><p style="text-align: center">Tabela 25: E24 - Cartão do Requisito Funcional 23</p></font>
+<font size="3"><p style="text-align: center">Tabela 25: E24 - Cartão do Requisito Funcional 05</p></font>
 
 <div align="center">
 <table>
@@ -1126,7 +1126,7 @@
     </tr>
     <tr>
       <td> Elementos </td>
-      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais>RF05</a>, <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS01</a></td>
+      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais>RF05</a>, <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS01</a>, <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h16">H16</a></td>
     </tr>
     <tr>
       <td> Elos Forward-from </td>
@@ -1152,7 +1152,7 @@
 
 ### <a name="E25"></a> E25
 
-<font size="3"><p style="text-align: center">Tabela 26: E25 - Cartão do Requisito Funcional 5</p></font>
+<font size="3"><p style="text-align: center">Tabela 26: E25 - Cartão do Requisito Funcional 39</p></font>
 
 <div align="center">
 <table>
@@ -1173,7 +1173,7 @@
     </tr>
     <tr>
       <td> Elementos </td>
-      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais>RF05</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN02</a></td>
+      <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais>RF39</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN02</a>, <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h18">H18</a></td>
     </tr>
     <tr>
       <td> Elos Forward-from </td>
