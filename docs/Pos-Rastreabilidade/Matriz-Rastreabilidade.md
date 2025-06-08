@@ -14,19 +14,19 @@ A matriz desenvolvida contém 8 colunas, sendo elas:
 
 - **Requisito:** identificação do requisito;
 
-- **Descrição:** descrição do requisito;
+- **Descrição**: descrição do requisito;
 
-- **Implementado:** indica se o requisito está ou não implementado no aplicativo (Sim ou Não);
+- **Implementado**: indica se o requisito está ou não implementado no aplicativo (Sim ou Não);
 
-- **Versão:** versão atribuída ao requisito para controle de alterações durante o projeto;
+- **Versão**: versão atribuída ao requisito para controle de alterações durante o projeto;
 
-- **Elicitação:** origem da elicitação do requisito;
+- **Elicitação**: origem da elicitação do requisito;
 
-- **Modelagem:** artefatos desenvolvidos com base no requisito;
+- **Modelagem**: artefatos desenvolvidos com base no requisito;
 
-- **Elos:** vínculos entre os requisitos e os artefatos;
+- **Elos**: vínculos entre os requisitos e os artefatos;
 
-- **Autor:** integrante responsável pelo desenvolvimento do requisito.
+- **Autor**: integrante responsável pelo desenvolvimento do requisito.
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
@@ -42,13 +42,13 @@ A matriz desenvolvida contém 8 colunas, sendo elas:
     </tr>
   </thead>
   <tbody>
-    <tr><td align="center">Danielle Soares</td><td align="center"> RF03, RF04, RF05, RF11, RF35, RF39, RNF01, RNF02, RNF07 </td><td align="center"> 08/06/2025 </td><td align="center"> 00:02 </td></tr>
-    <tr><td align="center">Eduardo de Pina</td><td align="center"> - </td><td align="center"> - </td><td align="center"> - </td></tr>
-    <tr><td align="center">Enzo Emir</td><td align="center"> RF08, RF38, RF01, RF17, RF19, RF20, RNF04, RNF09, RNF15 </td><td align="center"> 08/07/2025 </td><td align="center"> 14:26 </td></tr>
-    <tr><td align="center">Leticia Arisa</td><td align="center"> - </td><td align="center">07/06/2025</td><td align="center">13:15</td></tr>
-    <tr><td align="center">Marcelo Makoto</td><td align="center"> RF15, RF16, RF24, RF25, RF26, RF36, RNF06, RNF11, RNF18 </td><td align="center"> 07/06/2025 </td><td align="center"> 19:22 </td></tr>
-    <tr><td align="center">Maria Eduarda</td><td align="center"> RF02, RF30, RF27, RF28, RF21, RF42, RNF21, RNF12, RNF19 </td><td align="center"> 07/06/2025 </td><td align="center"> 21:31 </td></tr>
-    <tr><td align="center">Victor Pontual</td><td align="center">RF09, RF10, RF32, RF33, RF34, RF40, RNF10, RNF13, RNF20 </td><td align="center"> 07/06/2025 </td><td align="center"> 15:23 </td></tr>
+    <tr><td align="center"><a href = https://github.com/danielle-soaress>Danielle Soares</a></td><td align="center"> RF03, RF04, RF05, RF11, RF35, RF39, RNF01, RNF02, RNF07 </td><td align="center"> 08/06/2025 </td><td align="center"> 00:02 </td></tr>
+    <tr><td align="center"><a href = https://github.com/eduardodpms>Eduardo de Pina</a></td><td align="center"> RF06, RF07, RF14, RF18, RF29, RF37, RNF03, RNF08, RNF14 </td><td align="center"> 08/06/2025 </td><td align="center"> 15:06 </td></tr>
+    <tr><td align="center"><a href = https://github.com/EnzoEmir>Enzo Emir</a></td><td align="center"> RF08, RF38, RF01, RF17, RF19, RF20, RNF04, RNF09, RNF15 </td><td align="center"> 08/07/2025 </td><td align="center"> 14:26 </td></tr>
+    <tr><td align="center"><a href = https://github.com/Leticia-Arisa-K-Higa>Leticia Arisa</a></td><td align="center"> RF12, RF13, RF21, RF22, RF23, RF41, RNF05, RNF16, RNF17, RNF22 </td><td align="center">07/06/2025</td><td align="center">13:15</td></tr>
+    <tr><td align="center"><a href = https://github.com/MM4k>Marcelo Makoto</a></td><td align="center"> RF15, RF16, RF24, RF25, RF26, RF36, RNF06, RNF11, RNF18 </td><td align="center"> 07/06/2025 </td><td align="center"> 19:22 </td></tr>
+    <tr><td align="center"><a href = https://github.com/dudaa28>Maria Eduarda</a></td><td align="center"> RF02, RF30, RF27, RF28, RF21, RF42, RNF21, RNF12, RNF19 </td><td align="center"> 07/06/2025 </td><td align="center"> 21:31 </td></tr>
+    <tr><td align="center"><a href = https://github.com/VictorPontual>Victor Pontual</a></td><td align="center">RF09, RF10, RF32, RF33, RF34, RF40, RNF10, RNF13, RNF20 </td><td align="center"> 07/06/2025 </td><td align="center"> 15:23 </td></tr>
   </tbody>
 </table>
 </div>
@@ -139,22 +139,29 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
     <tr>
         <td align="center">RF06</td>
         <td>O sistema deve permitir a consulta de dados pessoais do usuário</td>
+        <td align="center">Sim</td>
+        <td align="center">1.0</td>
+        <td align="center"><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS02</a></td>
+        <td align="center">
+            <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h37">H37</a>
+        </td>
         <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center"><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
     </tr>
     <tr>
         <td align="center">RF07</td>
         <td>O aplicativo deve permitir que o usuário visualize o extrato detalhado de movimentações financeiras</td>
+        <td align="center">Sim</td>
+        <td align="center">1.0</td>
+        <td align="center">
+            <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS04</a>, 
+            <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB04</a>
+        </td>
+        <td align="center">
+            <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h39">H39</a>
+        </td>
         <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center"><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
     </tr>
     <tr>
         <td align="center">RF08</td>
@@ -223,12 +230,18 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
     <tr>
         <td align="center">RF14</td>
         <td>O aplicativo deve permitir o cadastro de uma conta bancária</td>
+        <td align="center">Sim</td>
+        <td align="center">1.0</td>
+        <td align="center">
+            <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS11</a>, 
+            <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST05</a>, 
+            <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB08</a>
+        </td>
+        <td align="center">
+            <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h40">H40</a>
+        </td>
         <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center"><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
     </tr>
     <tr>
         <td align="center">RF15</td>
@@ -267,12 +280,18 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
     <tr>
         <td align="center">RF18</td>
         <td>O aplicativo deve conter uma seção de ajuda com orientações sobre o uso do aplicativo</td>
+        <td align="center">Não</td>
+        <td align="center">1.0</td>
+        <td align="center"><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN02</a></td>
+        <td align="center">
+            <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/#caso-de-uso-12-is16">Caso de Uso 12</a>, 
+            <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/#cenario-12-secao-de-ajuda-com-explicacoes-relacionadas-ao-app">Cenário 12</a>, 
+            <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#l42-acessar-ajuda">L42</a>, 
+            <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#l43-procurar-duvida">L43</a>, 
+            <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h41">H41</a>
+        </td>
         <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center"><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
     </tr>
     <tr>
         <td align="center">RF19</td>
@@ -385,12 +404,18 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
     <tr>
         <td align="center">RF29</td>
         <td>O aplicativo deve disponibilizar um guia interativo para orientar o usuário durante o processo.</td>
+        <td align="center">Não</td>
+        <td align="center">1.0</td>
+        <td align="center"><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST07</a></td>
+        <td align="center">
+            <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/#caso-de-uso-13-st07">Caso de Uso 13</a>, 
+            <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/#cenario-13-guia-interativo-para-orientacao-sobre-o-uso-do-aplicativo">Cenário 13</a>, 
+            <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#l44-requerer-guia">L44</a>, 
+            <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#l45-seguir-guia">L45</a>, 
+            <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h42">H42</a>
+        </td>
         <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center"><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
     </tr>
     <tr>
         <td align="center">RF30</td>
@@ -464,12 +489,14 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
     <tr>
         <td align="center">RF37</td>
         <td>O aplicativo deve permitir que o usuário consulte seu saldo disponível para saque.</td>
+        <td align="center">Sim</td>
+        <td align="center">1.0</td>
+        <td align="center"><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB04</a></td>
+        <td align="center">
+            <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h38">H38</a>
+        </td>
         <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center"><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
     </tr>
     <tr>
         <td align="center">RF38</td>
@@ -562,12 +589,15 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
 <tr>
     <td align="center">RNF03</td>
     <td>O sistema deve apresentar informações de forma transparente e confiável</td>
+    <td align="center">Não</td>
+    <td align="center">1.0</td>
+    <td align="center"><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN09</a></td>
+    <td align="center">
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/EspecificacaoSuplementar/#requisitos-nao-funcionais">Especificação Suplementar</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#CE10">Cartão de Especificação 10</a>
+    </td>
     <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center"><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
 </tr>
 <tr>
     <td align="center">RNF04</td>
@@ -578,7 +608,7 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-nao-funcionais">EN10</a>
     </td>
     <td align="center">
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#cartoes-de-especificacao">Cartão de Especificação 9</a>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#CE09">Cartão de Especificação 9</a>
     </td>
     <td align="center">-</td>
     <td align="center"><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
@@ -599,7 +629,7 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
     <td align="center">Não</td>
     <td align="center">1.0</td>
     <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-4-requisitos-nao-funcionais>EN12</a></td>
-    <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#cartoes-de-especificacao>Cartão de Especificação 7</a></td>
+    <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#CE07>Cartão de Especificação 7</a></td>
     <td align="center">-</td>
     <td align="center"><a href =https://github.com/MMk4>Marcelo Makoto</a></td>
 </tr>
@@ -616,12 +646,15 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
 <tr>
     <td align="center">RNF08</td>
     <td>Os menus devem fornecer informações não repetidas</td>
+    <td align="center">Não</td>
+    <td align="center">1.0</td>
+    <td align="center"><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS19</a></td>
+    <td align="center">
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/EspecificacaoSuplementar/#requisitos-nao-funcionais">Especificação Suplementar</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#CE11">Cartão de Especificação 11</a>
+    </td>
     <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center"><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
 </tr>
 <tr>
     <td align="center">RNF09</td>
@@ -632,7 +665,7 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-nao-funcionais">IS21</a>
     </td>
     <td align="center">
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#cartoes-de-especificacao">Cartão de Especificação 10</a>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#CE10">Cartão de Especificação 10</a>
     </td>
     <td align="center">-</td>
     <td align="center"><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
@@ -643,7 +676,7 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
     <td align="center">Não</td>
     <td align="center">1.0</td>
     <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-nao-funcionais>IS22</a></td>
-    <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#cartoes-de-especificacao>Cartão de Especificação 13</a></td>
+    <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#CE13>Cartão de Especificação 13</a></td>
     <td align="center">-</td>
     <td align="center"><a href =https://github.com/VictorPontual>Victor Pontual</a></td>
 </tr>
@@ -653,7 +686,7 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
     <td align="center">Sim</td>
     <td align="center">1.0</td>
     <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-nao-funcionais>IS23</a></td>
-    <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#cartoes-de-especificacao>Cartão de Especificação 8</a></td>
+    <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#CE08>Cartão de Especificação 8</a></td>
     <td align="center">-</td>
     <td align="center"><a href =https://github.com/MMk4>Marcelo Makoto</a></td>
 </tr>
@@ -662,7 +695,7 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
     <td>O aplicativo deve proporcionar agilidade ao acessar as funcionalidades</td>
     <td align="center">Sim</td>
     <td align="center">1.0</td>
-    <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/>IS24</a></td>
+    <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-nao-funcionais>IS24</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
     <td align="center"><a href = https://github.com/dudaa28>Maria Eduarda</a></td>
@@ -673,19 +706,19 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
     <td align="center">Sim</td>
     <td align="center">1.0</td>
     <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-nao-funcionais>OB10</a></td>
-    <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#cartoes-de-especificacao>Cartão de Especificação 14</a></td>
+    <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#CE14>Cartão de Especificação 14</a></td>
     <td align="center">-</td>
     <td align="center"><a href =https://github.com/VictorPontual>Victor Pontual</a></td>
 </tr>
 <tr>
     <td align="center">RNF14</td>
     <td>A aplicação deve exibir notificações ou notícias úteis de forma acessível</td>
+    <td align="center">Sim</td>
+    <td align="center">1.0</td>
+    <td align="center"><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-nao-funcionais">OB12</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center"><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
 </tr>
 <tr>
     <td align="center">RNF15</td>
@@ -696,7 +729,7 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-nao-funcionais">OB13</a>
     </td>
     <td align="center">
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#cartoes-de-especificacao">Cartão de Especificação 11</a>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#CE11">Cartão de Especificação 11</a>
     </td>
     <td align="center">-</td>
     <td align="center"><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
@@ -775,8 +808,8 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
 </table>
 </div>
 
-## Referências Bibliográficas
 
+## Referências Bibliográficas
 
 
 ## Histórico de Versões 📅
@@ -790,4 +823,6 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
 |  `1.4`   | 08/06/2025 | Adição dos requisitos: RF27, RF28, RF31, RF42, RNF21, RNF12, RNF19 | [Maria Eduarda](https://github.com/dudaa28)   | [Danielle Soares](https://github.com/danielle-soaress) |
 |  `1.5`   | 08/06/2025 | Adição dos requisitos: RF11, RF35, RF39, RF03, RF04, RF05, RNF01, RNF02, RNF07 |[Danielle Soares](https://github.com/danielle-soaress)   | [Enzo Emir](https://github.com/EnzoEmir)  |
 |  `1.6`   | 08/06/2025 | Adição de informações dos requisitos: RNF10, RNF13, RNF20 | [Victor Pontual](https://github.com/VictorPontual)   | [Enzo Emir](https://github.com/EnzoEmir) |
-|  `1.7`   | 08/06/2025 | Adição  dos requisitos: RF08, RF38, RF01, RF17, RF19, RF20, RNF04, RNF09, RNF15 | [Enzo Emir](https://github.com/EnzoEmir)   | - |
+|  `1.7`   | 08/06/2025 | Adição dos requisitos: RF08, RF38, RF01, RF17, RF19, RF20, RNF04, RNF09, RNF15 | [Enzo Emir](https://github.com/EnzoEmir)   | - |
+|  `1.8`   | 08/06/2025 | Adição dos requisitos: RF06, RF07, RF14, RF18, RF29, RF37, RNF03, RNF08, RNF14 | [Eduardo de Pina](https://github.com/eduardodpms)   | - |
+|  `1.9`   | 08/06/2025 | Ajustes de link | [Eduardo de Pina](https://github.com/eduardodpms)   | - |
