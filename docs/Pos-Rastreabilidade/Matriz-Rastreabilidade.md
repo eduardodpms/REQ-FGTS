@@ -340,22 +340,22 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
     <tr>
         <td align="center">RF27</td>
         <td>O aplicativo deve enviar notificação sobre o andamento do saque.</td>
+        <td align="center">Sim</td>
+        <td align="center">1.0</td>
+        <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais>ST02, ST09, ST015</a></td>
+        <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/>H21</a></td>
         <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center"><a href = https://github.com/dudaa28>Maria Eduarda</a></td>
     </tr>
     <tr>
         <td align="center">RF28</td>
         <td>O aplicativo deve permitir a solicitação de saques</td>
+        <td align="center">Sim</td>
+        <td align="center">1.0</td>
+        <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais>EN01,<a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF>IS03, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais>ST06, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF>OB03</a></td>
+        <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/>H22</a></td>
         <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center"><a href = https://github.com/dudaa28>Maria Eduarda</a></td>
     </tr>
     <tr>
         <td align="center">RF29</td>
@@ -380,12 +380,12 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
     <tr>
         <td align="center">RF31</td>
         <td>O aplicativo deve permitir a visualização dos dados da conta bancária cadastrada.</td>
+        <td align="center">Sim</td>
+        <td align="center">1.0</td>
+        <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais>ST010</a></td>
+        <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/>H23</a></td>
         <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center"><a href = https://github.com/dudaa28>Maria Eduarda</a></td>
     </tr>
     <tr>
         <td align="center">RF32</td>
@@ -489,12 +489,12 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
     <tr>
         <td align="center">RF42</td>
         <td>O aplicativo deve permitir o agendamento de saque futuro.FGTS</td>
+        <td align="center">Não</td>
+        <td align="center">1.0</td>
+        <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/#resultados>BS10</a></td>
+        <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/>H24</a></td>
         <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center"><a href = https://github.com/dudaa28>Maria Eduarda</a></td>
     </tr>
     <tr>
     <td align="center">RNF01</td>
@@ -609,12 +609,12 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
 <tr>
     <td align="center">RNF12</td>
     <td>O aplicativo deve proporcionar agilidade ao acessar as funcionalidades</td>
+    <td align="center">Sim</td>
+    <td align="center">1.0</td>
+    <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/>IS24</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center"><a href = https://github.com/dudaa28>Maria Eduarda</a></td>
 </tr>
 <tr>
     <td align="center">RNF13</td>
@@ -679,12 +679,12 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
 <tr>
     <td align="center">RNF19</td>
     <td>Saque-aniversário deve atender princípios de acessibilidade</td>
+    <td align="center">Sim</td>
+    <td align="center">1.0</td>
+    <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/>EN06</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center"><a href = https://github.com/dudaa28>Maria Eduarda</a></td>
 </tr>
 <tr>
     <td align="center">RNF20</td>
@@ -699,12 +699,12 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
 <tr>
     <td align="center">RNF21</td>
     <td>Os menus devem ser autoexplicativos, com estrutura hierárquica lógica e nomenclatura padronizada</td>
+    <td align="center">Não,Sim</td>
+    <td align="center">1.0</td>
+    <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/>IS19, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/>OB11</a></td>
     <td align="center">-</td>
     <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
-    <td align="center">-</td>
+    <td align="center"><a href = https://github.com/dudaa28>Maria Eduarda</a></td>
 </tr>
 <tr>
     <td align="center">RNF22</td>
@@ -728,3 +728,4 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
 |  `1.1`   | 07/06/2025 | adição de informações dos requisitos: RF09,RF10,RF32,RF33,RF34,RF40 | [Victor Pontual](https://github.com/VictorPontual)   | [Marcelo Makoto](https://github.com/MM4k) |
 |  `1.2`   | 07/06/2025 | Adição dos requisitos: RF15, RF16, RF24, RF25, RF26, RF36, RNF06, RNF11, RNF18 | [Marcelo Makoto](https://github.com/MM4k)   | [Maria Eduarda](https://github.com/dudaa28) |
 |  `1.3`   | 07/06/2025 | Adição dos requisitos: RF02, RF30  | [Maria Eduarda](https://github.com/dudaa28)   | - |
+|  `1.4`   | 08/06/2025 | Adição dos requisitos: RF27, RF28, RF31, RF42, RNF21, RNF12, RNF19 | [Maria Eduarda](https://github.com/dudaa28)   | - |
