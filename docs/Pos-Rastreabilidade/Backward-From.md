@@ -52,8 +52,8 @@
     </tr>
     <tr>
       <td> Victor Pontual </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 08/06/2025 </td>
+      <td> 13:30 </td>
     </tr>
   </tbody>
 </table>
