@@ -2294,4 +2294,4 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
 | `1.4`  | 08/06/2025 | Adição das E29 - E37 | [Maria Eduarda](https://github.com/dudaa28) | [Victor Pontual](https://github.com/VictorPontual) |
 | `1.5`  | 08/06/2025 | Adição das tabelas E38 - E46 |  [Victor Pontual](https://github.com/VictorPontual)   | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.6`  | 08/06/2025 | Introdução, Metodologia e Referências  | [Danielle Soares](https://github.com/danielle-soaress) | - |
-| `1.7`  | 08/06/2025 | Melhorando organização da página | [Danielle Soares](https://github.com/danielle-soaress) | - |
+| `1.7`  | 08/06/2025 | Sumário, melhorando organização da página | [Danielle Soares](https://github.com/danielle-soaress) | - |
