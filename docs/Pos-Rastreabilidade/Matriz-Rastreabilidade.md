@@ -47,7 +47,7 @@ A matriz desenvolvida contém 8 colunas, sendo elas:
     <tr><td align="center">Enzo Emir</td><td align="center"> - </td><td align="center"> - </td><td align="center"> - </td></tr>
     <tr><td align="center">Leticia Arisa</td><td align="center"> - </td><td align="center">07/06/2025</td><td align="center">13:15</td></tr>
     <tr><td align="center">Marcelo Makoto</td><td align="center"> RF15, RF16, RF24, RF25, RF26, RF36, RNF06, RNF11, RNF18 </td><td align="center"> 07/06/2025 </td><td align="center"> 19:22 </td></tr>
-    <tr><td align="center">Maria Eduarda</td><td align="center"> - </td><td align="center"> - </td><td align="center"> - </td></tr>
+    <tr><td align="center">Maria Eduarda</td><td align="center"> RF02, RF30, RF27, RF28, RF21, RF42, RNF21, RNF12, RNF19 </td><td align="center"> 07/06/2025 </td><td align="center"> 21:31 </td></tr>
     <tr><td align="center">Victor Pontual</td><td align="center">RF09,RF10,RF32,RF33,RF34,RF40 </td><td align="center"> 07/06/2025 </td><td align="center"> 15:23 </td></tr>
   </tbody>
 </table>
@@ -90,12 +90,12 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
     <tr>
         <td align="center">RF02</td>
         <td>O aplicativo deve oferecer canal de suporte ou chatbot para esclarecer dúvidas</td>
+        <td align="center">Não</td>
+        <td align="center">1.0</td>
+        <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF>EN04</td>
+        <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/>Caso de Uso 3, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/>Cenário 3, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/>L14, L15, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/>H19</td>
         <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center"><a href = https://github.com/dudaa28>Maria Eduarda</a></td> 
     </tr>
     <tr>
         <td align="center">RF03</td>
@@ -370,12 +370,12 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
     <tr>
         <td align="center">RF30</td>
         <td>O aplicativo deve permitir o ajuste do tamanho das fontes na interface.</td>
+        <td align="center">Não</td>
+        <td align="center">1.0</td>
+        <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais>ST08</td>
+        <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/>Caso de Uso 14, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/>Cenário 14, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/>L16, L17, L18, L19, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/>H20</td>
         <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center"><a href = https://github.com/dudaa28>Maria Eduarda</a></td>
     </tr>
     <tr>
         <td align="center">RF31</td>
@@ -726,4 +726,5 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
 |:------:|:----------:|:-----------------------------------------------|:------------|:-----------:|
 |  `1.0`   | 07/06/2025 | Criação do documento  | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)   | [Victor Pontual](https://github.com/VictorPontual) |
 |  `1.1`   | 07/06/2025 | adição de informações dos requisitos: RF09,RF10,RF32,RF33,RF34,RF40 | [Victor Pontual](https://github.com/VictorPontual)   | [Marcelo Makoto](https://github.com/MM4k) |
-|  `1.2`   | 07/06/2025 | Adição dos requisitos: RF15, RF16, RF24, RF25, RF26, RF36, RNF06, RNF11, RNF18 | [Marcelo Makoto](https://github.com/MM4k)   | - |
+|  `1.2`   | 07/06/2025 | Adição dos requisitos: RF15, RF16, RF24, RF25, RF26, RF36, RNF06, RNF11, RNF18 | [Marcelo Makoto](https://github.com/MM4k)   | [Maria Eduarda](https://github.com/dudaa28) |
+|  `1.3`   | 07/06/2025 | Adição dos requisitos: RF02, RF30  | [Maria Eduarda](https://github.com/dudaa28)   | - |
