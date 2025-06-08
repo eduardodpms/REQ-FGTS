@@ -23,6 +23,7 @@ Esta seção apresenta os requisitos funcionais e não funcionais que ainda **n�
 | RF16   | O aplicativo deve conter uma seção de ajuda com orientações sobre o uso do aplicativo       | [IS16](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF)   |
 | RF07   | O aplicativo deve disponibilizar um guia interativo para orientar o usuário durante o processo | [ST07](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF)   |
 | RF08   | O aplicativo deve permitir o ajuste do tamanho das fontes na interface                      | [ST08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF)   |
+| RF22   | 	O aplicativo deve mostrar o nome completo dos empregadores anteriores                      | [OB05](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF)   |
 
 ---
 
