@@ -1,6 +1,19 @@
-##  Introdução
+## Introdução
 
-##  Metodologia
+O processo de rastreabilidade de requisitos é uma atividade essencial na engenharia de requisitos, pois permite estabelecer e acompanhar as ligações entre diferentes artefatos produzidos ao longo do desenvolvimento de software. Por meio da rastreabilidade, é possível verificar a origem, a evolução e o impacto de cada requisito, garantindo maior controle, consistência e qualidade na construção do sistema.
+
+Neste documento, será apresentada a **pós-rastreabilidade** dos requisitos funcionais e não funcionais do sistema FGTS, contemplando tanto os elos *Backward From* (que indicam de onde o requisito foi originado) . Para isso, foram utilizados os cartões de requisitos elaborados ao longo da disciplina, bem como os registros de técnicas de elicitação e elementos de modelagem (como léxicos, cenários e casos de uso).
+
+
+## Metodologia
+
+A metodologia utilizada para construir a matriz de pós-rastreabilidade baseou-se em uma abordagem documental e analítica, composta pelas seguintes etapas:
+
+1. **Coleta de artefatos**: foram reunidos os cartões de requisitos funcionais (RF) e requisitos  não funcionais (RNF), registros das técnicas de elicitação (entrevista, introspecção, observação e storytelling) e os elementos de modelagem associados (léxicos, casos de uso, cenários e histórias de usuário, NFR).
+
+2. **Identificação dos elos Backward From**: para cada requisito funcional, foi analisada sua origem, mapeando-se a técnica de elicitação responsável e a ligação com os elementos iniciais de descoberta. O elo *Backward From* indica de onde o requisito foi derivado.
+
+3. **Documentação e organização**: as informações foram organizadas em tabelas, com hiperlinks para os elementos relacionados hospedados na documentação do projeto. Também foi elaborado um cronograma com a participação dos entrevistados no processo de elicitação.
 
 
 ##  Cronograma de Participantes
@@ -2013,3 +2026,4 @@
 | `1.3`  | 08/06/2025 | Adição das tabelas E20 - E28 |  [Danielle Soares](https://github.com/danielle-soaress)   | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.4`  | 08/06/2025 | Adição das tabelas E29 - E37 |  [Enzo Emir](https://github.com/EnzoEmir)   | [Victor Pontual](https://github.com/VictorPontual) |
 | `1.5`  | 08/06/2025 | Adição das tabelas E38 - E46 |  [Victor Pontual](https://github.com/VictorPontual)   | - |
+| `1.6`  | 08/06/2025 | Adição dos textos de introdução e metodologia |  [Enzo Emir](https://github.com/EnzoEmir)   | - |
