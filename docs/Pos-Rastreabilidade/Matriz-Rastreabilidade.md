@@ -12,21 +12,21 @@ Para o desenvolvimento desta matriz, foram utilizados os 42 <a href="https://req
 
 A matriz desenvolvida contém 8 colunas, sendo elas:
 
-- Requisito: identificação do requisito;
+- **Requisito:** identificação do requisito;
 
-- Descrição: descrição do requisito;
+- **Descrição:** descrição do requisito;
 
-- Implementado: indica se o requisito está ou não implementado no aplicativo (Sim ou Não);
+- **Implementado:** indica se o requisito está ou não implementado no aplicativo (Sim ou Não);
 
-- Versão: versão atribuída ao requisito para controle de alterações durante o projeto;
+- **Versão:** versão atribuída ao requisito para controle de alterações durante o projeto;
 
-- Elicitação: origem da elicitação do requisito;
+- **Elicitação:** origem da elicitação do requisito;
 
-- Modelagem: artefatos desenvolvidos com base no requisito;
+- **Modelagem:** artefatos desenvolvidos com base no requisito;
 
-- Elos: vínculos entre os requisitos e os artefatos;
+- **Elos:** vínculos entre os requisitos e os artefatos;
 
-- Autor: integrante responsável pelo desenvolvimento do requisito.
+- **Autor:** integrante responsável pelo desenvolvimento do requisito.
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
