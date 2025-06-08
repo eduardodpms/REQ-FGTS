@@ -297,6 +297,8 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 <font size="3"><p style="text-align: center">Tabela 6: Agilidade de Funcionalidades</p></font>
 
+<a name="CE03"></a>
+
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2">Requisito Não Funcional – RNF12</th></tr>
@@ -315,6 +317,8 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
 <font size="3"><p style="text-align: center">Tabela 7: Menus Autoexplicativos</p></font>
+
+<a name="CE04"></a>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
@@ -336,6 +340,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 
 <font size="3"><p style="text-align: center">Tabela 8: Aplicativo com Segurança</p></font>
+
 <a name="CE05"></a>
 
 <center>
@@ -356,6 +361,7 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </p></font>
 
 <font size="3"><p style="text-align: center">Tabela 9: Conformidade de Diretrizes</p></font>
+
 <a name="CE06"></a>
 
 <center>
@@ -377,6 +383,8 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 <font size="3"><p style="text-align: center">Tabela 10: Funcionamento em Conexão Instável</p></font>
 
+<a name="CE07"></a>
+
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2">Requisito Não Funcional – RNF06</th></tr>
@@ -395,6 +403,8 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 <font size="3"><p style="text-align: center">Tabela 11: Segurança de Dados Pessoais</p></font>
+
+<a name="CE08"></a>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
@@ -416,6 +426,8 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 <font size="3"><p style="text-align: center">Tabela 12: Cumprimento dos Prazos</p></font>
 
+<a name="CE09"></a>
+
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2">Requisito Não Funcional – RNF04</th></tr>
@@ -435,6 +447,8 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 <font size="3"><p style="text-align: center">Tabela 13: Princípios de Acessibilidade.</p></font>
 
+<a name="CE10"></a>
+
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2">Requisito Não Funcional – RNF09</th></tr>
@@ -453,6 +467,8 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir) </p></font>
 
 <font size="3"><p style="text-align: center">Tabela 14: Confiabilidade de informações.</p></font>
+
+<a name="CE11"></a>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
@@ -474,6 +490,8 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 <font size="3"><p style="text-align: center">Tabela 15: Unicidade na exibição de informações.</p></font>
 
+<a name="CE12"></a>
+
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2">Requisito Não Funcional – RNF08</th></tr>
@@ -492,6 +510,8 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
 <font size="3"><p style="text-align: center">Tabela 16: O aplicativo deve estar disponível para outras plataformas, como web.</p></font>
+
+<a name="CE13"></a>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
@@ -512,6 +532,8 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 
 <font size="3"><p style="text-align: center">Tabela 17: O sistema deve garantir segurança firme com verificação de dados pelo usuário</p></font>
+
+<a name="CE14"></a>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
