@@ -1,7 +1,72 @@
 ##  Introdução
 
+A rastreabilidade é uma técnica essencial na engenharia de requisitos, fundamental para estabelecer e gerenciar o relacionamento entre requisitos, a arquitetura e a implementação de um sistema. Conforme discutido por Ayão e Leite (2005), diferentes tipos de rastreabilidade são empregados para garantir a completude e a consistência do projeto  <a href="REF1">1</a>. Entre eles, destaca-se a rastreabilidade **forward-from**, que é caracterizada por ligar os requisitos aos artefatos de desenho e implementação do sistema, assegurando que as especificações iniciais sejam devidamente contempladas nas etapas subsequentes de desenvolvimento. 
+
 ##  Metodologia
 
+Para a definição de nossa metodologia de rastreabilidade, adotamos como base a proposta de Toranzo, Castro e Mello (2002) <a href="REF2">2</a>. Esta abordagem compreende diversas estratégias fundamentais para o rastreamento de requisitos, começando pela classificação das informações em quatro categorias principais:
+
+- **Ambiental**: Abrange informações originadas do contexto externo onde a organização está inserida, e que podem influenciar o sistema em desenvolvimento. Exemplos incluem leis, objetivos estratégicos e padrões.
+
+- **Organizacional**: Reúne informações diretamente relacionadas à organização, como sua missão, objetivos internos, regras e processos.
+
+- **Gerencial**: Agrega informações que permitem associar tarefas a requisitos, e que são úteis para auxiliar a gerência do projeto. Inclui objetivos gerenciais, tarefas específicas e restrições.
+
+- **Desenvolvimento**: Engloba informações relacionadas aos diversos artefatos gerados no processo de desenvolvimento do sistema, como documentos de requisitos, diagramas e código de programa.
+
+Além da classificação das informações, o meta-modelo de rastreamento de requisitos de Toranzo, Castro e Mello (2002) também identifica diferentes tipos de elos (ou links) que suportam a rastreabilidade. Esses elos representam as relações e as dependências entre os diversos elementos do sistema <a href="REF2">2</a>. Os principais tipos de elos são:
+
+- **Satisfação**: Indica que uma classe de origem tem dependência de satisfação com uma classe de destino.
+
+- **Recurso**: Sugere que uma classe de origem depende de um recurso fornecido por uma classe de destino.
+
+- **Responsabilidade**: Registra a participação, a responsabilidade e a ação de indivíduos sobre artefatos.
+
+- **Representação**: Captura a representação ou modelagem dos requisitos em outras linguagens ou formas.
+
+- **Alocado**: Denota que uma classe de origem está relacionada a uma classe de destino que, por sua vez, representa um subsistema.
+
+- **Agregação**: Indica a composição de elementos, mostrando como partes se juntam para formar um todo.
+
+No presente documento, estão os resultados da aplicação deste modelo de rastreabilidade a todos os [requisitos elicitados](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/), garantindo uma cobertura completa e uma visão abrangente das suas origens, classificações e interconexões ao longo do ciclo de desenvolvimento.
+
+<font size="3"><p style="text-align: center">Tabela 1: Modelo da tabela de rastreabilidade</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Item da Tabela de Rastreabilidade</th>
+      <th>Descrição / Conteúdo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Apresenta a especificação textual do requisito em questão.</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Classifica o requisito de acordo com as quatro categorias (Ambiental, Organizacional, Gerencial, Desenvolvimento)</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td>Lista os artefatos de origem ou outros elementos que contribuíram para a elicitação ou refinamento do requisito.</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Forward-from</strong></td>
+      <td>Detalhamento dos vínculos que o requisito possui a artefatos ou processos subsequentes no desenvolvimento.</td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Coluna reservada para anexos visuais ou evidências, se aplicável.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
 ##  Cronograma de Participantes
 
@@ -61,7 +126,7 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir) </p></font>
 
-## Forward From
+## Rastreabilidade Forward From
 
 ### <a name="E01"></a> E01
 
@@ -1319,6 +1384,29 @@
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) </p></font>
 
+## Referências Bibliográficas
+
+> <a name="REF1">1. </a>AYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf. Acesso em: 08 de jun. de 2025
+
+> <a name="REF2">2. </a>TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/toranzo.pdf. Acesso em: 08 de jun. de 2025.
+
+<font size="3"><p style="text-align: center">Figura 1: Foto da referência 1</p></font>
+
+<div align="center">
+  <img src="./../assets/pos-rastreabilidade/referencias/ref1.png" alt="FIGURA 1">
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [AYÃO, LEITE, 2005](https://www-di.inf.puc-rio.br/~julio/rastre.pdf) </p></font>
+
+<font size="3"><p style="text-align: center">Figura 2: Foto da referência 2</p></font>
+
+<div align="center">
+  <img src="./../assets/pos-rastreabilidade/referencias/ref2.png" alt="FIGURA 2">
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [TORANZO, CASTO, MELLO, 2002](http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/toranzo.pdf) </p></font>
+
+
 
 ##  Histórico de Versão
 
@@ -1328,3 +1416,4 @@
 | `1.1`  | 07/06/2025 | Adição das E01 - E10 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)    | [Marcelo Makoto](https://github.com/MM4k)  |
 | `1.2`  | 07/06/2025 | Adição das E11 - E19 | [Marcelo Makoto](https://github.com/MM4k)    | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.3`  | 07/06/2025 | Adição das E20 - E28 | [Danielle Soares](https://github.com/danielle-soaress) |  |
+| `1.4`  | 08/06/2025 | Introdução, Metodologia e Referências  | [Danielle Soares](https://github.com/danielle-soaress) |  |
