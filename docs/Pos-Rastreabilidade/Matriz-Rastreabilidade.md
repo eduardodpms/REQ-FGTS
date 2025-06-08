@@ -42,7 +42,7 @@ A matriz desenvolvida contém 8 colunas, sendo elas:
     </tr>
   </thead>
   <tbody>
-    <tr><td align="center">Danielle Soares</td><td align="center"> - </td><td align="center"> - </td><td align="center"> - </td></tr>
+    <tr><td align="center">Danielle Soares</td><td align="center"> RF03, RF04, RF05, RF11, RF35, RF39, RNF01, RNF02, RNF07 </td><td align="center"> 08/06/2025 </td><td align="center"> 00:02 </td></tr>
     <tr><td align="center">Eduardo de Pina</td><td align="center"> - </td><td align="center"> - </td><td align="center"> - </td></tr>
     <tr><td align="center">Enzo Emir</td><td align="center"> - </td><td align="center"> - </td><td align="center"> - </td></tr>
     <tr><td align="center">Leticia Arisa</td><td align="center"> - </td><td align="center">07/06/2025</td><td align="center">13:15</td></tr>
