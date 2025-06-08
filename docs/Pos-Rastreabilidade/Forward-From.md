@@ -1604,9 +1604,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     <tr>
       <td> Print </td>
       <td>
-        <div align="center">
-          <img src="./../../assets/pos-rastreabilidade/prints/rf27.jpeg" width="100px"/>
-        </div> 
+        <a href="../../../assets/pos-rastrabilidade/prints/rf27.jpg" target="_blank">🖼️ Ver imagem completa</a>
       </td>
     </tr>
   </tbody>
