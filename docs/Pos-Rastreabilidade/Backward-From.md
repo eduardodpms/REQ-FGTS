@@ -22,8 +22,8 @@
   <tbody>
     <tr>
       <td> Danielle Soares </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 07/06/2025 </td>
+      <td> 20:34 </td>
     </tr>
     <tr>
       <td> Eduardo de Pina </td>

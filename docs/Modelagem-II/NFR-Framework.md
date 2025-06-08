@@ -254,6 +254,8 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 
 <font size="3"><p style="text-align: center">Tabela 4: Processo Login</p></font>
 
+<a name="CE01"></a>
+
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
   <tr><th colspan="2">Requisito Não Funcional – RNF02</th></tr>
@@ -272,6 +274,8 @@ A Tabela 3 a seguir lista os Requisitos Não-Funcionais utilizados para a criaç
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) </p></font>
 
 <font size="3"><p style="text-align: center">Tabela 5: Diferentes Funcionalidades</p></font>
+
+<a name="CE02"></a>
 
 <center>
 <table border="1" cellpadding="6" cellspacing="0">
