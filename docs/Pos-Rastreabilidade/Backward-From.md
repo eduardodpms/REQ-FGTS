@@ -2065,6 +2065,415 @@ A metodologia utilizada para construir a matriz de pós-rastreabilidade baseou-s
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual) </p></font>
 
+### <a name="E47"></a> EB47 - Rastreabilidade Backward From do requisito RF02
+
+<font size="3"><p style="text-align: center">Tabela 48: EB47 - Cartão do Requisito Funcional 02</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve oferecer canal de suporte ou chatbot para esclarecer dúvidas</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN04</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/#UC03">Caso de Uso 3</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/#C03">Cenário 3</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L14">L14</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L15">L15</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H19">H19</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se da Técnica de Entrevista <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF>EN04</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> Não implementado </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
+### <a name="E48"></a> EB48 - Rastreabilidade Backward From do requisito RF30
+
+<font size="3"><p style="text-align: center">Tabela 49: EB48 - Cartão do Requisito Funcional 30</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve permitir o ajuste do tamanho das fontes na interface.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST08</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/#UC14">Caso de Uso 14</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/#C14">Cenário 14</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L16">L16</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L17">L17</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L18">L18</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L19">L19</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H20">H20</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se da Técnica de Storytelling <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais>ST08</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> Não implementado </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
+### <a name="E49"></a> EB49 - Rastreabilidade Backward From do requisito RF27
+
+<font size="3"><p style="text-align: center">Tabela 50: EB49 - Cartão do Requisito Funcional 27</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve enviar notificação sobre o andamento do saque.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST02</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST09</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST015</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H21">H21</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se da Técnica de Storytelling <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais>ST03, ST09, ST015</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> - </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
+### <a name="E50"></a> EB50 - Rastreabilidade Backward From do requisito RF28
+
+<font size="3"><p style="text-align: center">Tabela 51: EB50 - Cartão do Requisito Funcional 28</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve permitir a solicitação de saques.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN01</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS03</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST06</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB03</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/">H22</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se das Técnicas de Entrevista, Introspecção, Storytelling e Observação <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF>EN01</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF>IS03</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF>ST06</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-funcionais>OB03</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> - </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
+### <a name="E51"></a> EB51 - Rastreabilidade Backward From do requisito RF31
+
+<font size="3"><p style="text-align: center">Tabela 52: EB51 - Cartão do Requisito Funcional 31</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve permitir a visualização dos dados da conta bancária cadastrada.</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST010</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H23">H23</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se das Técnicas de Entrevista, Introspecção, Storytelling e Observação <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF>ST010</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> - </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
+### <a name="E52"></a> EB52 - Rastreabilidade Backward From do requisito RF42
+
+<font size="3"><p style="text-align: center">Tabela 53: EB52 - Cartão do Requisito Funcional 42</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve permitir o agendamento de saque futuro FGTS</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/#resultados">BS10</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#H24">H24</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se das Técnicas de Brainstorming <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/#requisitos-elicitados>BS10</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> Não implementado </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
+### <a name="E53"></a> EB53 - Rastreabilidade Backward From do requisito RNF21
+
+<font size="3"><p style="text-align: center">Tabela 54: EB53 - Cartão do Requisito Não Funcional 21</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>Os menus devem ser autoexplicativos, com estrutura hierárquica lógica e nomenclatura padronizada</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS19">IS19</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB11">OB11</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se das Técnicas de Introspecção e Observação <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF>IS19</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RNF>OB11</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> - </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
+### <a name="E54"></a> EB54 - Rastreabilidade Backward From do requisito RNF12
+
+<font size="3"><p style="text-align: center">Tabela 55: EB54 - Cartão do Requisito Não Funcional 12</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve proporcionar agilidade ao acessar as funcionalidades</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS24">IS24</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se da Técnica de Introspecção <a href = hhttps://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-nao-funcionais>IS24</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> - </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
+### <a name="E55"></a> EB55 - Rastreabilidade Backward From do requisito RNF19
+
+<font size="3"><p style="text-align: center">Tabela 56: EB55 - Cartão do Requisito Não Funcional 19</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>Saque-aniversário deve atender princípios de acessibilidade</td>
+    </tr>
+    <tr>
+      <td> Categoria </td>
+      <td> Desenvolvimento </td>
+    </tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS24">IS24</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se da Técnica de Entrevista <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF>EN06</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> - </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
 ## Referências Bibliográficas
 
 > <a name="REF1">1. </a>AYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf. Acesso em: 08 de jun. de 2025
@@ -2089,5 +2498,6 @@ A metodologia utilizada para construir a matriz de pós-rastreabilidade baseou-s
 | `1.3`  | 08/06/2025 | Adição das tabelas E20 - E28 |  [Danielle Soares](https://github.com/danielle-soaress)   | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.4`  | 08/06/2025 | Adição das tabelas E29 - E37 |  [Enzo Emir](https://github.com/EnzoEmir)   | [Victor Pontual](https://github.com/VictorPontual) |
 | `1.5`  | 08/06/2025 | Adição das tabelas E38 - E46 |  [Victor Pontual](https://github.com/VictorPontual)   | - |
-| `1.6`  | 08/06/2025 | Adição dos textos de introdução e metodologia |  [Enzo Emir](https://github.com/EnzoEmir)   | - |
+| `1.6`  | 08/06/2025 | Adição dos textos de introdução e metodologia |  [Enzo Emir](https://github.com/EnzoEmir)   | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.7`  | 08/06/2025 | Sumário |  [Danielle Soares](https://github.com/danielle-soaress)  | - |
+| `1.8`  | 08/06/2025 | Adição das tabelas E47 - E55 |  [Maria Eduarda](https://github.com/dudaa28)  | - |
