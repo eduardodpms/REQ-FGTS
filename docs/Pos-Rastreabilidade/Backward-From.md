@@ -4,10 +4,34 @@ O processo de rastreabilidade de requisitos é uma atividade essencial na engenh
 
 Neste documento, serão apresentados os elos ***backward from*** dos requisitos funcionais e não funcionais do sistema FGTS. Essa abordagem demonstrará como os requisitos foram originados e se relacionam com seus artefatos de origem e elicitação. Para isso, a análise e o estabelecimento dessas relações partiram dos cartões de requisitos elaborados ao longo da disciplina, bem como dos registros de técnicas de elicitação e elementos de modelagem (como léxicos, cenários e casos de uso).
 
-
 ## Metodologia
 
-A metodologia utilizada para construir a matriz de pós-rastreabilidade baseou-se em uma abordagem documental e analítica, composta pelas seguintes etapas:
+A metodologia aplicada para o rastreamento de requisitos em sua vertente Backward From no sistema FGTS adota como base a proposta de Toranzo, Castro e Mello (2002) <a href="REF2">2</a>. Assim como especificado na página de [Forward From](https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Forward-From/), essa abordagem demonstra especificamente como cada requisito foi originado e quais artefatos contribuíram para sua concepção e evolução inicial.
+
+**Tipos de Elos**
+
+- **Satisfação:** Dependência de uma classe de origem com uma de destino para satisfação.
+
+- **Recurso:** Dependência de uma classe de origem de um recurso de uma classe de destino.
+
+- **Responsabilidade:** Participação, responsabilidade e ação de indivíduos sobre artefatos.
+
+- **Representação:** Modelagem dos requisitos em outras linguagens ou formas.
+
+- **Alocado:** Relação de uma classe de origem com um subsistema (classe de destino).
+
+- **Agregação:** Composição de elementos, partes formando um todo.
+
+**Classificação das Informações**
+
+- **Ambiental:** Informações do contexto externo (leis, objetivos, padrões).
+
+- **Organizacional:** Informações da organização (missão, regras, processos).
+
+- **Gerencial:** Informações de gestão do projeto (objetivos, tarefas, restrições).
+
+- **Desenvolvimento:** Artefatos do desenvolvimento do sistema (requisitos, diagramas, código).
+
 
 1. **Coleta de artefatos**: foram reunidos os cartões de requisitos funcionais (RF) e requisitos  não funcionais (RNF), registros das técnicas de elicitação (entrevista, introspecção, observação e storytelling) e os elementos de modelagem associados (léxicos, casos de uso, cenários e histórias de usuário, NFR).
 
@@ -1068,7 +1092,7 @@ A metodologia utilizada para construir a matriz de pós-rastreabilidade baseou-s
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> <img src="./../assets/pos-rastreabilidade/prints/rf03.png" width="100px"/> </td>
     </tr>
   </tbody>
 </table>
@@ -1110,7 +1134,7 @@ A metodologia utilizada para construir a matriz de pós-rastreabilidade baseou-s
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> <img src="./../assets/pos-rastreabilidade/prints/rf04.jpeg" width="100px"/> </td>
     </tr>
   </tbody>
 </table>
@@ -1152,7 +1176,7 @@ A metodologia utilizada para construir a matriz de pós-rastreabilidade baseou-s
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> <img src="./../assets/pos-rastreabilidade/prints/rf05.jpeg" width="100px"/> </td>
     </tr>
   </tbody>
 </table>
@@ -1195,7 +1219,7 @@ A metodologia utilizada para construir a matriz de pós-rastreabilidade baseou-s
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> Não implementado </td>
     </tr>
   </tbody>
 </table>
@@ -2069,6 +2093,7 @@ A metodologia utilizada para construir a matriz de pós-rastreabilidade baseou-s
 
 > <a name="REF1">1. </a>AYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf. Acesso em: 08 de jun. de 2025
 
+> <a name="REF2">2. </a>TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/toranzo.pdf. Acesso em: 08 de jun. de 2025.
 
 <font size="3"><p style="text-align: center">Figura 1: Foto da referência 1</p></font>
 
@@ -2078,6 +2103,13 @@ A metodologia utilizada para construir a matriz de pós-rastreabilidade baseou-s
 
 <font size="2"><p style="text-align: center">Fonte: [AYÃO, LEITE, 2005](https://www-di.inf.puc-rio.br/~julio/rastre.pdf) </p></font>
 
+<font size="3"><p style="text-align: center">Figura 2: Foto da referência 2</p></font>
+
+<div align="center">
+  <img src="./../assets/pos-rastreabilidade/referencias/ref2.png" alt="FIGURA 2">
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [TORANZO, CASTO, MELLO, 2002](http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/toranzo.pdf) </p></font>
 
 ##  Histórico de Versão
 
@@ -2091,3 +2123,4 @@ A metodologia utilizada para construir a matriz de pós-rastreabilidade baseou-s
 | `1.5`  | 08/06/2025 | Adição das tabelas E38 - E46 |  [Victor Pontual](https://github.com/VictorPontual)   | - |
 | `1.6`  | 08/06/2025 | Adição dos textos de introdução e metodologia |  [Enzo Emir](https://github.com/EnzoEmir)   | - |
 | `1.7`  | 08/06/2025 | Sumário |  [Danielle Soares](https://github.com/danielle-soaress)  | - |
+| `1.8`  | 08/06/2025 | Prints dos requisitos RF03, RF04, RF05 |  [Danielle Soares](https://github.com/danielle-soaress)  | - |
