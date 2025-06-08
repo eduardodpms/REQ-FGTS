@@ -730,7 +730,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
-### <a name="E13"></a> E13 - Rastrebilidade Forward From do requisito RF14
+### <a name="E13"></a> E13 - Rastrebilidade Forward From do requisito RF24
 
 <font size="3"><p style="text-align: center">Tabela 14: E13 - Cartão do Requisito Funcional 24</p></font>
 
