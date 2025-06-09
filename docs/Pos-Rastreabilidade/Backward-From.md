@@ -2252,7 +2252,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     <tr>
       <td> Print </td>
       <td>
-        <a href="https://drive.google.com/file/d/12wchWUZO20rOlDBzsw6rGqfo6yEdffhp/view?usp=sharing">Imagem do Aplicativo</a>
+        <a href="https://drive.google.com/file/d/1KmliL-cdTE3LAo8VknyWbIcKED0gJvlN/view?usp=sharing">Imagem do Aplicativo</a>
       </td>
     </tr>
   </tbody>
