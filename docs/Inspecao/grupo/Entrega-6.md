@@ -1,9 +1,9 @@
-# Entrega 5
+# Entrega 6
 
 
 ## Introdução
 
-A Entrega 5 tem como objetivo rastrear os requisitos elicitados anteriormente. Para isso, foram feitos o [Forward-From](../../Pos-Rastreabilidade/Forward-From.md) e o [Forward-From](../../Pos-Rastreabilidade/Backward-From.md). Além disso, todos os requisitos foram organizados com suas respectivas informações relevantes na [Matriz de Rastreabilidade](../../Pos-Rastreabilidade/Matriz-Rastreabilidade.md).  Com isso, a equipe concluiu a entrega e avançou para a etapa de [Inspeção do Grupo +1](../../Inspecao/grupo-mais-um/Entrega-3).
+A Entrega 6 tem como objetivo rastrear os requisitos elicitados anteriormente. Para isso, foram feitos o [Forward-From](../../Pos-Rastreabilidade/Forward-From.md) e o [Forward-From](../../Pos-Rastreabilidade/Backward-From.md). Além disso, todos os requisitos foram organizados com suas respectivas informações relevantes na [Matriz de Rastreabilidade](../../Pos-Rastreabilidade/Matriz-Rastreabilidade.md).  Com isso, a equipe concluiu a entrega e avançou para a etapa de [Inspeção do Grupo +1](../../Inspecao/grupo-mais-um/Entrega-3).
 
 
 ## Apresentação
@@ -11,7 +11,7 @@ A Entrega 5 tem como objetivo rastrear os requisitos elicitados anteriormente. P
 
 <p style="text-align: center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wYDj--0eXMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+</p>
 
 
 ## Modelo para Lista de Verificação/Inspeção da Entrega 6
