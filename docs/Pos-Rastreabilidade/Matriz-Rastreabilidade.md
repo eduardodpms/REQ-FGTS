@@ -816,7 +816,7 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
 <font size="3"><p style="text-align: center">Figura 1: Foto referência</p></font>
 
 <div align="center">
-  <img src="./../assets/pos/referencias/ref1M.png" alt="FIGURA 1">
+  <img src="./../assets/referencias/ref1M.png" alt="FIGURA 1">
 </div>
 
 <font size="2"><p style="text-align: center">Fonte: [KLAUS, Pohl; CHRIS, Rupp, 2025](https://aprender3.unb.br/pluginfile.php/3096180/mod_resource/content/2/Rastreabilidade.pdf) </p></font>
