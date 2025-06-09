@@ -39,10 +39,48 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 3. **Documentação e organização**: as informações foram organizadas em tabelas, com hiperlinks para os elementos relacionados hospedados na documentação do projeto. Também foi elaborado um cronograma com a participação dos entrevistados no processo de elicitação.
 
+<font size="3"><p style="text-align: center">Tabela 1: Modelo da tabela de rastreabilidade</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Item da Tabela de Rastreabilidade</th>
+      <th>Descrição / Conteúdo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Descrição do requisito</strong></td>
+      <td>Apresenta a especificação textual do requisito em questão.</td>
+    </tr>
+    <tr>
+      <td><strong>Categoria</strong></td>
+      <td>Classifica o requisito de acordo com as quatro categorias (Ambiental, Organizacional, Gerencial, Desenvolvimento)</td>
+    </tr>
+    <tr>
+      <td><strong>Elementos</strong></td>
+      <td>Lista os artefatos de origem ou outros elementos que contribuíram para a elicitação ou refinamento do requisito.</td>
+    </tr>
+    <tr>
+      <td><strong>Elos Backward-from</strong></td>
+      <td>Origem do requisito.</td>
+    </tr>
+    <tr>
+      <td><strong>Print</strong></td>
+      <td>Coluna reservada para anexos visuais ou evidências, se aplicável.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
+
 
 ##  Cronograma de Participantes
 
-<font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Participantes</p></font>
 
 <div align="center">
 
@@ -150,9 +188,9 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ## Backward From
 
-### <a name="E01"></a> E01 - Rastreabilidade Backward From do requisito RF12
+### <a name="E01"></a> EB01 - Rastreabilidade Backward From do requisito RF12
 
-<font size="3"><p style="text-align: center">Tabela 2: E01 - Cartão do Requisito Funcional 12</p></font>
+<font size="3"><p style="text-align: center">Tabela 3: EB01 - Cartão do Requisito Funcional 12</p></font>
 
 <div align="center">
 
@@ -197,9 +235,9 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 
 
-### <a name="E02"></a> E02 - Rastreabilidade Backward From do requisito RF13
+### <a name="E02"></a> EB02 - Rastreabilidade Backward From do requisito RF13
 
-<font size="3"><p style="text-align: center">Tabela 3: E02 - Cartão do Requisito Funcional 13</p></font>
+<font size="3"><p style="text-align: center">Tabela 4: EB02 - Cartão do Requisito Funcional 13</p></font>
 
 <div align="center">
 
@@ -243,9 +281,9 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 
 
-### <a name="E03"></a> E03 - Rastreabilidade Backward From do requisito RF21
+### <a name="E03"></a> EB03 - Rastreabilidade Backward From do requisito RF21
 
-<font size="3"><p style="text-align: center">Tabela 4: E03 - Cartão do Requisito Funcional 21</p></font>
+<font size="3"><p style="text-align: center">Tabela 5: EB03 - Cartão do Requisito Funcional 21</p></font>
 
 <div align="center">
 
@@ -277,7 +315,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> <img src="./../assets/pos-rastreabilidade/prints/RF21.jpeg" width="100px"/> </td>
     </tr>
   </tbody>
 </table>
@@ -289,9 +327,9 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 
 
-### <a name="E04"></a> E04 - Rastreabilidade Backward From do requisito RF22
+### <a name="E04"></a> EB04 - Rastreabilidade Backward From do requisito RF22
 
-<font size="3"><p style="text-align: center">Tabela 5: E04 - Cartão do Requisito Funcional 22</p></font>
+<font size="3"><p style="text-align: center">Tabela 6: EB04 - Cartão do Requisito Funcional 22</p></font>
 
 <div align="center">
 
@@ -323,7 +361,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> Não implementado </td>
     </tr>
   </tbody>
 </table>
@@ -336,9 +374,9 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 
 
-### <a name="E05"></a> E05 - Rastreabilidade Backward From do requisito RF23
+### <a name="E05"></a> EB05 - Rastreabilidade Backward From do requisito RF23
 
-<font size="3"><p style="text-align: center">Tabela 6: E05 - Cartão do Requisito Funcional 23</p></font>
+<font size="3"><p style="text-align: center">Tabela 7: EB05 - Cartão do Requisito Funcional 23</p></font>
 
 <div align="center">
 
@@ -370,7 +408,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> <img src="./../assets/pos-rastreabilidade/prints/RF23.png" width="100px"/> </td>
     </tr>
   </tbody>
 </table>
@@ -382,9 +420,9 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 
 
-### <a name="E06"></a> E06 - Rastreabilidade Backward From do requisito RF41
+### <a name="E06"></a> EB06 - Rastreabilidade Backward From do requisito RF41
 
-<font size="3"><p style="text-align: center">Tabela 7: E06 - Cartão do Requisito Funcional 41</p></font>
+<font size="3"><p style="text-align: center">Tabela 8: EB06 - Cartão do Requisito Funcional 41</p></font>
 
 <div align="center">
 
@@ -416,7 +454,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> Não implementado </td>
     </tr>
   </tbody>
 </table>
@@ -429,9 +467,9 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 
 
-### <a name="E07"></a> E07 - Rastreabilidade Backward From do requisito RNF05
+### <a name="E07"></a> EB07 - Rastreabilidade Backward From do requisito RNF05
 
-<font size="3"><p style="text-align: center">Tabela 8: E07 - Cartão do Requisito Não Funcional 05</p></font>
+<font size="3"><p style="text-align: center">Tabela 9: EB07 - Cartão do Requisito Não Funcional 05</p></font>
 
 <div align="center">
 
@@ -472,9 +510,9 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 
 
-### <a name="E08"></a> E08 - Rastreabilidade Backward From do requisito RNF16
+### <a name="E08"></a> EB08 - Rastreabilidade Backward From do requisito RNF16
 
-<font size="3"><p style="text-align: center">Tabela 9: E08 - Cartão do Requisito Não Funcional 16</p></font>
+<font size="3"><p style="text-align: center">Tabela 10: EB08 - Cartão do Requisito Não Funcional 16</p></font>
 
 <div align="center">
 
@@ -512,9 +550,9 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </p></font>
 
 
-### <a name="E09"></a> E09 - Rastreabilidade Backward From do requisito RNF17
+### <a name="E09"></a> EB09 - Rastreabilidade Backward From do requisito RNF17
 
-<font size="3"><p style="text-align: center">Tabela 10: E09 - Cartão do Requisito Não Funcional 17</p></font>
+<font size="3"><p style="text-align: center">Tabela 11: EB09 - Cartão do Requisito Não Funcional 17</p></font>
 
 <div align="center">
 
@@ -552,9 +590,9 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </p></font>
 
 
-### <a name="E10"></a> E10 - Rastreabilidade Backward From do requisito RNF22
+### <a name="E10"></a> EB10 - Rastreabilidade Backward From do requisito RNF22
 
-<font size="3"><p style="text-align: center">Tabela 11: E10 - Cartão do Requisito Não Funcional 22</p></font>
+<font size="3"><p style="text-align: center">Tabela 12: EB10 - Cartão do Requisito Não Funcional 22</p></font>
 
 <div align="center">
 
@@ -591,9 +629,9 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 <font size="2"><p style="text-align: center">Fonte: [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </p></font>
 
-### <a name="E11"></a> E11 - Rastreabilidade Backward From do requisito RF15
+### <a name="E11"></a> EB11 - Rastreabilidade Backward From do requisito RF15
 
-<font size="3"><p style="text-align: center">Tabela 12: E11 - Cartão do Requisito Funcional 15</p></font>
+<font size="3"><p style="text-align: center">Tabela 13: EB11 - Cartão do Requisito Funcional 15</p></font>
 
 <div align="center">
 
@@ -636,7 +674,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E12"></a> E12 - Rastreabilidade Backward From do requisito RF16
 
-<font size="3"><p style="text-align: center">Tabela 13: E12 - Cartão do Requisito Funcional 16</p></font>
+<font size="3"><p style="text-align: center">Tabela 14: E12 - Cartão do Requisito Funcional 16</p></font>
 
 <div align="center">
 
@@ -679,7 +717,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E13"></a> E13 - Rastreabilidade Backward From do requisito RF24
 
-<font size="3"><p style="text-align: center">Tabela 14: E13 - Cartão do Requisito Funcional 24</p></font>
+<font size="3"><p style="text-align: center">Tabela 15: E13 - Cartão do Requisito Funcional 24</p></font>
 
 <div align="center">
 
@@ -722,7 +760,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E14"></a> E14 - Rastreabilidade Backward From do requisito RF25
 
-<font size="3"><p style="text-align: center">Tabela 15: E14 - Cartão do Requisito Funcional 25</p></font>
+<font size="3"><p style="text-align: center">Tabela 16: E14 - Cartão do Requisito Funcional 25</p></font>
 
 <div align="center">
 
@@ -765,7 +803,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E15"></a> E15 - Rastreabilidade Backward From do requisito RF26
 
-<font size="3"><p style="text-align: center">Tabela 16: E15 - Cartão do Requisito Funcional 26</p></font>
+<font size="3"><p style="text-align: center">Tabela 17: E15 - Cartão do Requisito Funcional 26</p></font>
 
 <div align="center">
 
@@ -808,7 +846,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E16"></a> E16 - Rastreabilidade Backward From do requisito RF36
 
-<font size="3"><p style="text-align: center">Tabela 17: E16 - Cartão do Requisito Funcional 36</p></font>
+<font size="3"><p style="text-align: center">Tabela 18: E16 - Cartão do Requisito Funcional 36</p></font>
 
 <div align="center">
 
@@ -851,7 +889,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E17"></a> E17 - Rastreabilidade Backward From do requisito RNF06
 
-<font size="3"><p style="text-align: center">Tabela 18: E17 - Cartão do Requisito Não Funcional 06</p></font>
+<font size="3"><p style="text-align: center">Tabela 19: E17 - Cartão do Requisito Não Funcional 06</p></font>
 
 <div align="center">
 
@@ -894,7 +932,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E18"></a> E18 - Rastreabilidade Backward From do requisito RNF11
 
-<font size="3"><p style="text-align: center">Tabela 19: E18 - Cartão do Requisito Não Funcional 11</p></font>
+<font size="3"><p style="text-align: center">Tabela 20: E18 - Cartão do Requisito Não Funcional 11</p></font>
 
 <div align="center">
 
@@ -937,7 +975,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E19"></a> E19 - Rastreabilidade Backward From do requisito RNF18
 
-<font size="3"><p style="text-align: center">Tabela 20: E19 - Cartão do Requisito Não Funcional 18</p></font>
+<font size="3"><p style="text-align: center">Tabela 21: E19 - Cartão do Requisito Não Funcional 18</p></font>
 
 <div align="center">
 
@@ -979,7 +1017,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E20"></a> E20 - Rastreabilidade Backward From do requisito RF11
 
-<font size="3"><p style="text-align: center">Tabela 21: E20 - Cartão do Requisito Funcional 11</p></font>
+<font size="3"><p style="text-align: center">Tabela 22: E20 - Cartão do Requisito Funcional 11</p></font>
 
 <div align="center">
 <table>
@@ -1020,7 +1058,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E21"></a> E21 - Rastreabilidade Backward From do requisito RF35
 
-<font size="3"><p style="text-align: center">Tabela 22: E21 - Cartão do Requisito Funcional 35</p></font>
+<font size="3"><p style="text-align: center">Tabela 23: E21 - Cartão do Requisito Funcional 35</p></font>
 
 <div align="center">
 <table>
@@ -1061,7 +1099,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E22"></a> E22 - Rastreabilidade Backward From do requisito RF03
 
-<font size="3"><p style="text-align: center">Tabela 23: E22 - Cartão do Requisito Funcional 3</p></font>
+<font size="3"><p style="text-align: center">Tabela 24: E22 - Cartão do Requisito Funcional 3</p></font>
 
 <div align="center">
 <table>
@@ -1103,7 +1141,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E23"></a> E23 - Rastreabilidade Backward From do requisito RF04
 
-<font size="3"><p style="text-align: center">Tabela 24: E23 - Cartão do Requisito Funcional 04</p></font>
+<font size="3"><p style="text-align: center">Tabela 25: E23 - Cartão do Requisito Funcional 04</p></font>
 
 <div align="center">
 <table>
@@ -1145,7 +1183,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E24"></a> E24 - Rastreabilidade Backward From do requisito RF05
 
-<font size="3"><p style="text-align: center">Tabela 25: E24 - Cartão do Requisito Funcional 05</p></font>
+<font size="3"><p style="text-align: center">Tabela 26: E24 - Cartão do Requisito Funcional 05</p></font>
 
 <div align="center">
 <table>
@@ -1188,7 +1226,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E25"></a> E25 - Rastreabilidade Backward From do requisito RF39
 
-<font size="3"><p style="text-align: center">Tabela 26: E25 - Cartão do Requisito Funcional 39</p></font>
+<font size="3"><p style="text-align: center">Tabela 27: E25 - Cartão do Requisito Funcional 39</p></font>
 
 <div align="center">
 <table>
@@ -1229,7 +1267,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E26"></a> E26 - Rastreabilidade Backward From do requisito RNF01
 
-<font size="3"><p style="text-align: center">Tabela 27: E26 - Cartão do Requisito Não Funcional 01</p></font>
+<font size="3"><p style="text-align: center">Tabela 28: E26 - Cartão do Requisito Não Funcional 01</p></font>
 
 <div align="center">
 <table>
@@ -1274,7 +1312,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E27"></a> E27 - Rastreabilidade Backward From do requisito RNF02
 
-<font size="3"><p style="text-align: center">Tabela 28: E27 - Cartão do Requisito Não Funcional 02</p></font>
+<font size="3"><p style="text-align: center">Tabela 29: E27 - Cartão do Requisito Não Funcional 02</p></font>
 
 <div align="center">
 <table>
@@ -1311,7 +1349,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E28"></a> E28 - Rastreabilidade Backward From do requisito RNF07
 
-<font size="3"><p style="text-align: center">Tabela 29: E28 - Cartão do Requisito Não Funcional 07</p></font>
+<font size="3"><p style="text-align: center">Tabela 30: E28 - Cartão do Requisito Não Funcional 07</p></font>
 
 <div align="center">
 <table>
@@ -1348,7 +1386,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E29"></a> E29 - Rastreabilidade Backward From do requisito RF08
 
-<font size="3"><p style="text-align: center">Tabela 30: E29 - Cartão do Requisito Funcional 08</p></font>
+<font size="3"><p style="text-align: center">Tabela 31: E29 - Cartão do Requisito Funcional 08</p></font>
 
 <div align="center">
 <table>
@@ -1393,7 +1431,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E30"></a> E30 - Rastreabilidade Backward From do requisito RF38
 
-<font size="3"><p style="text-align: center">Tabela 31: E30 - Cartão do Requisito Funcional 38</p></font>
+<font size="3"><p style="text-align: center">Tabela 32: E30 - Cartão do Requisito Funcional 38</p></font>
 
 <div align="center">
 <table>
@@ -1438,7 +1476,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E31"></a> E31 - Rastreabilidade Backward From do requisito RF01
 
-<font size="3"><p style="text-align: center">Tabela 32: E31 - Cartão do Requisito Funcional 01</p></font>
+<font size="3"><p style="text-align: center">Tabela 33: E31 - Cartão do Requisito Funcional 01</p></font>
 
 <div align="center">
 <table>
@@ -1488,7 +1526,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E32"></a> E32 - Rastreabilidade Backward From do requisito RF17
 
-<font size="3"><p style="text-align: center">Tabela 33: E32 - Cartão do Requisito Funcional 17</p></font>
+<font size="3"><p style="text-align: center">Tabela 34: E32 - Cartão do Requisito Funcional 17</p></font>
 
 <div align="center">
 <table>
@@ -1534,7 +1572,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E33"></a> E33 - Rastreabilidade Backward From do requisito RF19
 
-<font size="3"><p style="text-align: center">Tabela 34: E33 - Cartão do Requisito Funcional 19</p></font>
+<font size="3"><p style="text-align: center">Tabela 35: E33 - Cartão do Requisito Funcional 19</p></font>
 
 <div align="center">
 <table>
@@ -1579,7 +1617,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E34"></a> E34 - Rastreabilidade Backward From do requisito RF20
 
-<font size="3"><p style="text-align: center">Tabela 35: E34 - Cartão do Requisito Funcional 20</p></font>
+<font size="3"><p style="text-align: center">Tabela 36: E34 - Cartão do Requisito Funcional 20</p></font>
 
 <div align="center">
 <table>
@@ -1624,7 +1662,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E35"></a> E35 - Rastreabilidade Backward From do requisito RNF04
 
-<font size="3"><p style="text-align: center">Tabela 36: E35 - Cartão do Requisito Não Funcional 04</p></font>
+<font size="3"><p style="text-align: center">Tabela 37: E35 - Cartão do Requisito Não Funcional 04</p></font>
 
 <div align="center">
 <table>
@@ -1669,7 +1707,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E36"></a> E36 - Rastreabilidade Backward From do requisito RNF09
 
-<font size="3"><p style="text-align: center">Tabela 37: E36 - Cartão do Requisito Não Funcional 09</p></font>
+<font size="3"><p style="text-align: center">Tabela 38: E36 - Cartão do Requisito Não Funcional 09</p></font>
 
 <div align="center">
 <table>
@@ -1714,7 +1752,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E37"></a> E37 - Rastreabilidade Backward From do requisito RNF15
 
-<font size="3"><p style="text-align: center">Tabela 38: E37 - Cartão do Requisito Não Funcional 15</p></font>
+<font size="3"><p style="text-align: center">Tabela 39: E37 - Cartão do Requisito Não Funcional 15</p></font>
 
 <div align="center">
 <table>
@@ -1758,7 +1796,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E38"></a> E38 - Rastreabilidade Backward From do requisito RF09
 
-<font size="3"><p style="text-align: center">Tabela 39: E38 - Cartão do Requisito Funcional 09</p></font>
+<font size="3"><p style="text-align: center">Tabela 40: E38 - Cartão do Requisito Funcional 09</p></font>
 
 <div align="center">
 <table>
@@ -1795,7 +1833,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E39"></a> E39 - Rastreabilidade Backward From do requisito RF10
 
-<font size="3"><p style="text-align: center">Tabela 40: E39 - Cartão do Requisito Funcional 10</p></font>
+<font size="3"><p style="text-align: center">Tabela 41: E39 - Cartão do Requisito Funcional 10</p></font>
 
 <div align="center">
 <table>
@@ -1832,7 +1870,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E40"></a> E40 - Rastreabilidade Backward From do requisito RF32
 
-<font size="3"><p style="text-align: center">Tabela 41: E40 - Cartão do Requisito Funcional 32</p></font>
+<font size="3"><p style="text-align: center">Tabela 42: E40 - Cartão do Requisito Funcional 32</p></font>
 
 <div align="center">
 <table>
@@ -1869,7 +1907,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E41"></a> E41 - Rastreabilidade Backward From do requisito RF33
 
-<font size="3"><p style="text-align: center">Tabela 42: E41 - Cartão do Requisito Funcional 33</p></font>
+<font size="3"><p style="text-align: center">Tabela 43: E41 - Cartão do Requisito Funcional 33</p></font>
 
 <div align="center">
 <table>
@@ -1906,7 +1944,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E42"></a> E42 - Rastreabilidade Backward From do requisito RF34
 
-<font size="3"><p style="text-align: center">Tabela 43: E42 - Cartão do Requisito Funcional 34</p></font>
+<font size="3"><p style="text-align: center">Tabela 44: E42 - Cartão do Requisito Funcional 34</p></font>
 
 <div align="center">
 <table>
@@ -1943,7 +1981,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E43"></a> E43 - Rastreabilidade Backward From do requisito RF40
 
-<font size="3"><p style="text-align: center">Tabela 44: E43 - Cartão do Requisito Funcional 40</p></font>
+<font size="3"><p style="text-align: center">Tabela 45: E43 - Cartão do Requisito Funcional 40</p></font>
 
 <div align="center">
 <table>
@@ -1980,7 +2018,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E44"></a> E44 - Rastreabilidade Backward From do requisito RNF10
 
-<font size="3"><p style="text-align: center">Tabela 45: E44 - Cartão do Requisito Não Funcional 10</p></font>
+<font size="3"><p style="text-align: center">Tabela 46: E44 - Cartão do Requisito Não Funcional 10</p></font>
 
 <div align="center">
 <table>
@@ -2017,7 +2055,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E45"></a> E45 - Rastreabilidade Backward From do requisito RNF13
 
-<font size="3"><p style="text-align: center">Tabela 46: E45 - Cartão do Requisito Não Funcional 13</p></font>
+<font size="3"><p style="text-align: center">Tabela 47: E45 - Cartão do Requisito Não Funcional 13</p></font>
 
 <div align="center">
 <table>
@@ -2054,7 +2092,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E46"></a> E46 - Rastreabilidade Backward From do requisito RNF20
 
-<font size="3"><p style="text-align: center">Tabela 47: E46 - Cartão do Requisito Não Funcional 20</p></font>
+<font size="3"><p style="text-align: center">Tabela 48: E46 - Cartão do Requisito Não Funcional 20</p></font>
 
 <div align="center">
 <table>
@@ -2091,7 +2129,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E47"></a> EB47 - Rastreabilidade Backward From do requisito RF02
 
-<font size="3"><p style="text-align: center">Tabela 48: EB47 - Cartão do Requisito Funcional 02</p></font>
+<font size="3"><p style="text-align: center">Tabela 49: EB47 - Cartão do Requisito Funcional 02</p></font>
 
 <div align="center">
 <table>
@@ -2139,7 +2177,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E48"></a> EB48 - Rastreabilidade Backward From do requisito RF30
 
-<font size="3"><p style="text-align: center">Tabela 49: EB48 - Cartão do Requisito Funcional 30</p></font>
+<font size="3"><p style="text-align: center">Tabela 50: EB48 - Cartão do Requisito Funcional 30</p></font>
 
 <div align="center">
 <table>
@@ -2189,7 +2227,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E49"></a> EB49 - Rastreabilidade Backward From do requisito RF27
 
-<font size="3"><p style="text-align: center">Tabela 50: EB49 - Cartão do Requisito Funcional 27</p></font>
+<font size="3"><p style="text-align: center">Tabela 51: EB49 - Cartão do Requisito Funcional 27</p></font>
 
 <div align="center">
 <table>
@@ -2235,7 +2273,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E50"></a> EB50 - Rastreabilidade Backward From do requisito RF28
 
-<font size="3"><p style="text-align: center">Tabela 51: EB50 - Cartão do Requisito Funcional 28</p></font>
+<font size="3"><p style="text-align: center">Tabela 52: EB50 - Cartão do Requisito Funcional 28</p></font>
 
 <div align="center">
 <table>
@@ -2282,7 +2320,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E51"></a> EB51 - Rastreabilidade Backward From do requisito RF31
 
-<font size="3"><p style="text-align: center">Tabela 52: EB51 - Cartão do Requisito Funcional 31</p></font>
+<font size="3"><p style="text-align: center">Tabela 53: EB51 - Cartão do Requisito Funcional 31</p></font>
 
 <div align="center">
 <table>
@@ -2326,7 +2364,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E52"></a> EB52 - Rastreabilidade Backward From do requisito RF42
 
-<font size="3"><p style="text-align: center">Tabela 53: EB52 - Cartão do Requisito Funcional 42</p></font>
+<font size="3"><p style="text-align: center">Tabela 54: EB52 - Cartão do Requisito Funcional 42</p></font>
 
 <div align="center">
 <table>
@@ -2370,7 +2408,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E53"></a> EB53 - Rastreabilidade Backward From do requisito RNF21
 
-<font size="3"><p style="text-align: center">Tabela 54: EB53 - Cartão do Requisito Não Funcional 21</p></font>
+<font size="3"><p style="text-align: center">Tabela 55: EB53 - Cartão do Requisito Não Funcional 21</p></font>
 
 <div align="center">
 <table>
@@ -2414,7 +2452,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E54"></a> EB54 - Rastreabilidade Backward From do requisito RNF12
 
-<font size="3"><p style="text-align: center">Tabela 55: EB54 - Cartão do Requisito Não Funcional 12</p></font>
+<font size="3"><p style="text-align: center">Tabela 56: EB54 - Cartão do Requisito Não Funcional 12</p></font>
 
 <div align="center">
 <table>
@@ -2457,7 +2495,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 ### <a name="E55"></a> EB55 - Rastreabilidade Backward From do requisito RNF19
 
-<font size="3"><p style="text-align: center">Tabela 56: EB55 - Cartão do Requisito Não Funcional 19</p></font>
+<font size="3"><p style="text-align: center">Tabela 57: EB55 - Cartão do Requisito Não Funcional 19</p></font>
 
 <div align="center">
 <table>
@@ -2533,4 +2571,5 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 | `1.6`  | 08/06/2025 | Adição dos textos de introdução e metodologia |  [Enzo Emir](https://github.com/EnzoEmir)   | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.7`  | 08/06/2025 | Sumário |  [Danielle Soares](https://github.com/danielle-soaress)  | - |
 | `1.8`  | 08/06/2025 | Adição das tabelas E47 - E55 |  [Maria Eduarda](https://github.com/dudaa28)  | [Danielle Soares](https://github.com/danielle-soaress)  |
-| `1.9`  | 08/06/2025 | Prints dos requisitos RF03, RF04, RF05 |  [Danielle Soares](https://github.com/danielle-soaress)  | - |
+| `1.9`  | 08/06/2025 | Prints dos requisitos RF03, RF04, RF05 |  [Danielle Soares](https://github.com/danielle-soaress)  | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `2.0`  | 08/06/2025 | Prints dos requisitos |  [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  | - |
