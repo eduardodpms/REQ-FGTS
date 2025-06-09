@@ -113,7 +113,7 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
         <td align="center">1.0</td>
         <td align="center"><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN05</a></td>
         <td align="center"><a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#historia-15-consulta-ao-saldo-do-fgts">H15</a></td>
-        <td align="center">-</td>
+        <td align="center"><a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Forward-From/#e22-rastrebilidade-forward-from-do-requisito-rf03">Elos Forward-From</a><br><a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Backward-From/#e22-rastreabilidade-backward-from-do-requisito-rf03">Elos Backward-From</a></td>
         <td align="center"><a href = https://github.com/danielle-soaress>Danielle Soares</a></td>
     </tr>
     <tr>
@@ -123,7 +123,7 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
         <td align="center">1.0</td>
         <td align="center"><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST014</a></td>
         <td align="center"> <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#historia-17-disponibilizar-saque-aniversario">H17</a></td>
-        <td align="center">-</td>
+        <td align="center"><a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Forward-From/#e23-rastrebilidade-forward-from-do-requisito-rf04">Elos Forward-From</a><br><a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Backward-From/#e23-rastreabilidade-backward-from-do-requisito-rf04">Elos Backward-From</a></td>
         <td align="center"><a href = https://github.com/danielle-soaress>Danielle Soares</a></td>
     </tr>
     <tr>
@@ -133,7 +133,7 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
         <td align="center">1.0</td>
         <td align="center"><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS01</a></td>
         <td align="center"> <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#historia-16-atualizacao-de-dados-pessoais">H16</a></td>
-        <td align="center">-</td>
+        <td align="center"><a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Forward-From/#e24-rastrebilidade-forward-from-do-requisito-rf05">Elos Forward-From</a><br><a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Backward-From/#e24-rastreabilidade-backward-from-do-requisito-rf05">Elos Backward-From</a></td>
         <td align="center"><a href = https://github.com/danielle-soaress>Danielle Soares</a></td>
     </tr>
     <tr>
@@ -202,10 +202,10 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
         <td>O aplicativo deve fornecer informações sobre saques bloqueados.</td>
         <td align="center">Não</td>
         <td align="center">1.0</td>
-        <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais>IS08</a></td>
-        <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/#C06>Cenário 6</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/#UC06>Caso de Uso 6</a>, <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#l35-bloqueado">L35</a>, <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#historia-13-ver-informacoes-sobre-saques-bloqueados">H13</a></td>
-        <td align="center">-</td>
-        <td align="center"><a href = https://github.com/danielle-soaress>Danielle Soares</a></td>
+        <td align="center"><a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS08</a></td>
+        <td align="center"><a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/#C06">Cenário 6</a>, <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/#UC06">Caso de Uso 6</a>, <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#l35-bloqueado">L35</a>, <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#historia-13-ver-informacoes-sobre-saques-bloqueados">H13</a></td>
+        <td align="center"><a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Forward-From/#e20-rastrebilidade-forward-from-do-requisito-rf11">Elos Forward-From</a><br><a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Backward-From/#e20-rastreabilidade-backward-from-do-requisito-rf11">Elos Backward-From</a></td>
+        <td align="center"><a href = "https://github.com/danielle-soaress">Danielle Soares</a></td>
     </tr>
     <tr>
         <td align="center">RF12</td>
@@ -473,7 +473,7 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
         <td align="center">1.0</td>
         <td align="center"><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS12</a></td>
         <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/#C09>Cenário 9</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/#UC09>Caso de Uso 9</a>, <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#l30-cadastrar">L30</a>, <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#historia-14-cadastro-de-multiplas-contas-bancarias">H14</a></td>
-        <td align="center">-</td>
+        <td align="center"><a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Forward-From/#e21-rastrebilidade-forward-from-do-requisito-rf35">Elos Forward-From</a><br><a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Backward-From/#e21-rastreabilidade-backward-from-do-requisito-rf35">Elos Backward-From</a></td>
         <td align="center"><a href = https://github.com/danielle-soaress>Danielle Soares</a></td>
     </tr>
     <tr>
@@ -527,7 +527,7 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
         <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#l07-saque-pendente">L07</a>,
         <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#l08-saque-cancelado">L08</a>,
         <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#l09-status-visualizado">L09</a>,<a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#historia-18-comentarios-sobre-status-do-saque">H18</a></td>
-        <td align="center">-</td>
+        <td align="center"><a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Forward-From/#e25-rastrebilidade-forward-from-do-requisito-rf39">Elos Forward-From</a><br><a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Backward-From/#e25-rastreabilidade-backward-from-do-requisito-rf39">Elos Backward-From</a></td>
         <td align="center"><a href = https://github.com/danielle-soaress>Danielle Soares</a></td>
     </tr>
     <tr>
@@ -573,7 +573,7 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
     <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RNF">ST04</a>
     </td>
     <td align="center"><a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/EspecificacaoSuplementar/#RNF>Especificação Suplementar</a></td>
-    <td align="center">-</td>
+    <td align="center"><a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Forward-From/#e26-rastrebilidade-forward-from-do-requisito-rnf01">Elos Forward-From</a><br><a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Backward-From/#e26-rastreabilidade-backward-from-do-requisito-rnf01">Elos Backward-From</a></td>
     <td align="center"><a href = https://github.com/danielle-soaress>Danielle Soares</a></td>
 </tr>
 <tr>
@@ -583,7 +583,7 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
     <td align="center">1.0</td>
     <td align="center"><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RNF">EN08</a></td>
     <td align="center"><a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/EspecificacaoSuplementar/#requisitos-nao-funcionais">Especificação Suplementar</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#CE01>Cartão de Especificação 1</a></td>
-    <td align="center">-</td>
+    <td align="center"><a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Forward-From/#e27-rastrebilidade-forward-from-do-requisito-rnf02">Elos Forward-From</a><br><a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Backward-From/#e27-rastreabilidade-backward-from-do-requisito-rnf02">Elos Backward-From</a></td>
     <td align="center"><a href = https://github.com/danielle-soaress>Danielle Soares</a></td>
 </tr>
 <tr>
@@ -640,7 +640,7 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
     <td align="center">1.0</td>
     <td align="center"><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF">IS18</a></td>
     <td align="center"><a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/EspecificacaoSuplementar/#requisitos-nao-funcionais">Especificação Suplementar</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#CE02>Cartão de Especificação 2</a></td>
-    <td align="center">-</td>
+    <td align="center"><a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Forward-From/#e28-rastrebilidade-forward-from-do-requisito-rnf07">Elos Forward-From</a><br><a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Backward-From/#e28-rastreabilidade-backward-from-do-requisito-rnf07">Elos Backward-From</a></td>
     <td align="center"><a href = https://github.com/danielle-soaress>Danielle Soares</a></td>
 </tr>
 <tr>
@@ -837,4 +837,5 @@ A Tabela 2 a seguir mostra a matriz de rastreabilidade desenvolvida.
 |  `1.8`   | 08/06/2025 | Adição dos requisitos: RF06, RF07, RF14, RF18, RF29, RF37, RNF03, RNF08, RNF14 | [Eduardo de Pina](https://github.com/eduardodpms)   | [Marcelo Makoto](https://github.com/MM4k) |
 |  `1.9`   | 08/06/2025 | Ajustes de link | [Eduardo de Pina](https://github.com/eduardodpms)   | [Marcelo Makoto](https://github.com/MM4k) |
 |  `2.0`   | 08/06/2025 | Adição dos elos nos requisitos: RF15, RF16, RF24, RF25, RF26, RF36, RNF06, RNF11, RNF18 | [Marcelo Makoto](https://github.com/MM4k)   | [Maria Eduarda](https://github.com/dudaa28) |
-|  `2.1`   | 08/06/2025 | Adição dos elos nos requisitos: RF02, RF30, RF27, RF28, RF31, RF42, RNF21, RNF12, RNF19 | [Maria Eduarda](https://github.com/dudaa28)   | - |
+|  `2.1`   | 08/06/2025 | Adição dos elos nos requisitos: RF02, RF30, RF27, RF28, RF31, RF42, RNF21, RNF12, RNF19 | [Maria Eduarda](https://github.com/dudaa28)   | [Danielle Soares](https://github.com/danielle-soaress)  |
+|  `2.2`   | 08/06/2025 | Adição dos elos nos requisitos: RF11, RF35, RF39, RF03, RF04, RF05, RNF01, RNF02, RNF07 | [Danielle Soares](https://github.com/danielle-soaress)  | - |
