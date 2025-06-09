@@ -1592,7 +1592,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     <tr>
       <td> Print </td>
       <td>
-        <img src="./../../assets/pos/prints/rf27.jpeg" width="100px"/>
+        <a href="https://drive.google.com/file/d/12wchWUZO20rOlDBzsw6rGqfo6yEdffhp/view?usp=sharing">Imagem do Aplicativo</a>
       </td>
     </tr>
   </tbody>
@@ -1647,7 +1647,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     <tr>
       <td> Print </td>
       <td>
-          <img src="./../../assets/pos/prints/rf28.jpeg" width="100px"/>
+          <a href="https://drive.google.com/file/d/1UDvWOgyAJzlct47trwfCvtkAaw5IWSE7/view?usp=sharing">Imagem do Aplicativo</a>
       </td>
     </tr>
   </tbody>
@@ -1699,7 +1699,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     <tr>
       <td> Print </td>
       <td>
-          <img src="./../../assets/pos/prints/rf31.jpeg" width="100px"/>
+          <a href="https://drive.google.com/file/d/1IF1D8wZGnvOzUFWO-Cg_U1kP9JGdUfzv/view?usp=sharing">Imagem do Aplicativo</a>
       </td>
     </tr>
   </tbody>
@@ -1801,7 +1801,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     <tr>
       <td> Print </td>
       <td>
-          <img src="./../../assets/pos/prints/rnf21.jpeg" width="100px"/>
+          <a href="https://drive.google.com/file/d/1y7qErF92EA3aFvmYPGr-Fi57_IFhURgj/view?usp=sharing">Imagem do Aplicativo</a>
       </td>
     </tr>
   </tbody>
@@ -1852,7 +1852,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     <tr>
       <td> Print </td>
       <td>
-          <img src="./../../assets/pos/prints/rnf12.jpeg" width="100px"/>
+          <a href="https://drive.google.com/file/d/10C4aFqbFM7bJgU84zmOK3oZpXw4eiaek/view?usp=sharing">Imagem do Aplicativo</a>
       </td>
     </tr>
   </tbody>
@@ -1903,7 +1903,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     <tr>
       <td> Print </td>
       <td>
-          <img src="./../../assets/pos/prints/rnf19.jpeg" width="100px"/>
+          <a href="https://drive.google.com/file/d/1HrYP0hJKpPkzUQTGG7LnecnZeeHA4LPD/view?usp=sharing">Imagem do Aplicativo</a>
       </td>
     </tr>
   </tbody>
