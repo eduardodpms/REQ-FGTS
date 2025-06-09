@@ -120,8 +120,8 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Maria Eduarda </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 08/06/2025 </td>
+      <td> 18:26 </td>
     </tr>
     <tr>
       <td> Victor Pontual </td>
@@ -2263,7 +2263,9 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td>
+        <img src="./../../assets/pos-rastreabilidade/prints/rf27.jpeg" width="100px"/>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -2310,7 +2312,9 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td>
+        <img src="./../../assets/pos-rastreabilidade/prints/rf28.jpeg" width="100px"/>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -2354,7 +2358,9 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td>
+        <img src="./../../assets/pos-rastreabilidade/prints/rf31.jpeg" width="100px"/>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -2442,7 +2448,9 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td>
+        <img src="./../../assets/pos-rastreabilidade/prints/rnf21.jpeg" width="100px"/>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -2485,7 +2493,9 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td>
+        <img src="./../../assets/pos-rastreabilidade/prints/rnf12.jpeg" width="100px"/>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -2528,7 +2538,9 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td>
+        <img src="./../../assets/pos-rastreabilidade/prints/rnf19.jpeg" width="100px"/>
+      </td>
     </tr>
   </tbody>
 </table>
@@ -2572,4 +2584,5 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 | `1.7`  | 08/06/2025 | Sumário |  [Danielle Soares](https://github.com/danielle-soaress)  | - |
 | `1.8`  | 08/06/2025 | Adição das tabelas E47 - E55 |  [Maria Eduarda](https://github.com/dudaa28)  | [Danielle Soares](https://github.com/danielle-soaress)  |
 | `1.9`  | 08/06/2025 | Prints dos requisitos RF03, RF04, RF05 |  [Danielle Soares](https://github.com/danielle-soaress)  | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| `2.0`  | 08/06/2025 | Prints dos requisitos |  [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  | - |
+| `2.0`  | 08/06/2025 | Prints dos requisitos |  [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  | [Maria Eduarda](https://github.com/dudaa28) |
+| `2.1`  | 08/06/2025 | Adicionando prints |  [Maria Eduarda](https://github.com/dudaa28)  | - |
