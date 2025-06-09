@@ -9,12 +9,12 @@ A Entrega 6 tem como objetivo rastrear os requisitos elicitados anteriormente. P
 ## Apresentação
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="" title="https://www.youtube.com/embed/psdTh5-MavM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/psdTh5-MavM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
 
 
-## Modelo para Lista de Verificação/Inspeção da Entrega 5
+## Modelo para Lista de Verificação/Inspeção da Entrega 6
 
 
 ### ✅ Itens Gerais
