@@ -1130,7 +1130,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> <img src="./../assets/pos-rastreabilidade/prints/rf03.png" width="100px"/> </td>
+      <td> <a href="https://drive.google.com/file/d/12wchWUZO20rOlDBzsw6rGqfo6yEdffhp/view?usp=sharing">Imagem do Aplicativo</a></td>
     </tr>
   </tbody>
 </table>
@@ -1172,7 +1172,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> <img src="./../assets/pos-rastreabilidade/prints/rf04.jpeg" width="100px"/> </td>
+      <td> <a href="https://drive.google.com/file/d/1SyIaadBo-mpkuuhhekpIBaFgsWhzTgX6/view?usp=sharing">Imagem do Aplicativo</a>  </td>
     </tr>
   </tbody>
 </table>
@@ -1214,7 +1214,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> <img src="./../assets/pos-rastreabilidade/prints/rf05.jpeg" width="100px"/> </td>
+      <td> <a href="https://drive.google.com/file/d/1KawPm5nEOUUhGUfNHtqlrXZysenJF81Y/view?usp=sharing">Imagem do Aplicativo</a></td>
     </tr>
   </tbody>
 </table>

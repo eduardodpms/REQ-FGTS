@@ -322,7 +322,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> <img src="./../assets/pos-rastreabilidade/prints/RF21.jpeg" width="100px"/> </td>
+      <td><img src="../assets/pos/prints/RF21.jpeg" width="100px" height="200px"></td>
     </tr>
   </tbody>
 </table>
@@ -1176,7 +1176,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     <tr>
       <td> Print </td>
       <td>
-        <img src="./../assets/pos-rastreabilidade/prints/rf03.png" width="100px"/>
+        <a href="https://drive.google.com/file/d/12wchWUZO20rOlDBzsw6rGqfo6yEdffhp/view?usp=sharing">Imagem do Aplicativo</a>
       </td>
     </tr>
   </tbody>
@@ -1223,7 +1223,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> <img src="./../assets/pos-rastreabilidade/prints/rf04.jpeg" width="100px"/> </td>
+      <td> <a href="https://drive.google.com/file/d/1SyIaadBo-mpkuuhhekpIBaFgsWhzTgX6/view?usp=sharing">Imagem do Aplicativo</a> </td>
     </tr>
   </tbody>
 </table>
@@ -1269,7 +1269,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> <img src="./../assets/pos-rastreabilidade/prints/rf05.jpeg" width="100px"/>  </td>
+      <td><a href="https://drive.google.com/file/d/1KawPm5nEOUUhGUfNHtqlrXZysenJF81Y/view?usp=sharing">Imagem do Aplicativo</a></td>
     </tr>
   </tbody>
 </table>
