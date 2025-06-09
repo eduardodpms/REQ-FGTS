@@ -749,7 +749,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> <img src="./../assets/pos/prints/rf24.png" width="100px"/> </td>
     </tr>
   </tbody>
 </table>
@@ -792,7 +792,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> <img src="./../assets/pos/prints/rf25.png" width="100px"/> </td>
     </tr>
   </tbody>
 </table>
@@ -835,7 +835,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> <img src="./../assets/pos/prints/rf26.png" width="100px"/> </td>
     </tr>
   </tbody>
 </table>
@@ -878,7 +878,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> <img src="./../assets/pos/prints/rf36.png" width="100px"/> </td>
     </tr>
   </tbody>
 </table>
@@ -919,10 +919,6 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
       Agregação - O requisito originou-se da Técnica de Entrevista <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-4-requisitos-nao-funcionais>EN12</a>
       </td>
     </tr>
-    <tr>
-      <td> Print </td>
-      <td> - </td>
-    </tr>
   </tbody>
 </table>
 
@@ -962,10 +958,6 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
       Agregação - O requisito originou-se da Técnica de Introspecção <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-nao-funcionais>IS23</a>
       </td>
     </tr>
-    <tr>
-      <td> Print </td>
-      <td> - </td>
-    </tr>
   </tbody>
 </table>
 
@@ -1004,10 +996,6 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
       <td> 
       Agregação - O requisito originou-se da Técnica de Storytelling <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais>ST019</a>
       </td>
-    </tr>
-    <tr>
-      <td> Print </td>
-      <td> - </td>
     </tr>
   </tbody>
 </table>

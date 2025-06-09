@@ -768,7 +768,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> <img src="./../assets/pos/prints/rf24.png" width="100px"/> </td>
     </tr>
   </tbody>
 </table>
@@ -814,7 +814,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> <img src="./../assets/pos/prints/rf25.png" width="100px"/> </td>
     </tr>
   </tbody>
 </table>
@@ -861,7 +861,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> <img src="./../assets/pos/prints/rf26.png" width="100px"/> </td>
     </tr>
   </tbody>
 </table>
@@ -904,7 +904,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> <img src="./../assets/pos/prints/rf36.png" width="100px"/> </td>
     </tr>
   </tbody>
 </table>
@@ -947,10 +947,6 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
       Satisfação - O requisito recebeu $0 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/100-Test/#Req>$100</a><br>
       Satisfação - O requisito recebeu prioridade alta na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/Three-Level-Scale/#RF>Three-Level Scale</a><br>
       </td>
-    </tr>
-    <tr>
-      <td> Print </td>
-      <td> - </td>
     </tr>
   </tbody>
 </table>
@@ -995,10 +991,6 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
       Agregação - O requisito é classificado no Épico <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Product-Backlog/#tema-6-seguranca>E13</a>
       </td>
     </tr>
-    <tr>
-      <td> Print </td>
-      <td> - </td>
-    </tr>
   </tbody>
 </table>
 
@@ -1040,10 +1032,6 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
       Satisfação - O requisito recebeu $0 na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/100-Test/#Req>$100</a><br>
       Satisfação - O requisito recebeu prioridade média na técnica <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/Three-Level-Scale/#RF>Three-Level Scale</a><br>
       </td>
-    </tr>
-    <tr>
-      <td> Print </td>
-      <td> - </td>
     </tr>
   </tbody>
 </table>
