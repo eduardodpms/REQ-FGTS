@@ -2591,7 +2591,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Categoria </td>
-      <td> Qualidade </td>
+      <td> Desenvolvimento </td>
     </tr>
     <tr>
       <td> Elementos </td>
@@ -2638,7 +2638,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Categoria </td>
-      <td> Qualidade </td>
+      <td> Desenvolvimento </td>
     </tr>
     <tr>
       <td> Elementos </td>
@@ -2685,7 +2685,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Categoria </td>
-      <td> Qualidade </td>
+      <td> Desenvolvimento </td>
     </tr>
     <tr>
       <td> Elementos </td>
