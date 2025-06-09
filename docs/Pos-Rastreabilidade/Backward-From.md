@@ -142,14 +142,18 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
   <li>RF03 - Rastreabilidade <a href="#E22">E22</a></li>
   <li>RF04 - Rastreabilidade <a href="#E23">E23</a></li>
   <li>RF05 - Rastreabilidade <a href="#E24">E24</a></li>
+  <li>RF06 - Rastreabilidade <a href="#EB56">E56</a></li>
+  <li>RF07 - Rastreabilidade <a href="#EB57">E57</a></li>
   <li>RF09 - Rastreabilidade <a href="#E38">E38</a></li>
   <li>RF10 - Rastreabilidade <a href="#E39">E39</a></li>
   <li>RF11 - Rastreabilidade <a href="#E20">E20</a></li>
   <li>RF12 - Rastreabilidade <a href="#E01">E01</a></li>
   <li>RF13 - Rastreabilidade <a href="#E02">E02</a></li>
+  <li>RF14 - Rastreabilidade <a href="#EB58">E58</a></li>
   <li>RF15 - Rastreabilidade <a href="#E11">E11</a></li>
   <li>RF16 - Rastreabilidade <a href="#E12">E12</a></li>
   <li>RF17 - Rastreabilidade <a href="#E32">E32</a></li>
+  <li>RF18 - Rastreabilidade <a href="#EB59">E59</a></li>
   <li>RF19 - Rastreabilidade <a href="#E33">E33</a></li>
   <li>RF20 - Rastreabilidade <a href="#E34">E34</a></li>
   <li>RF21 - Rastreabilidade <a href="#E03">E03</a></li>
@@ -158,26 +162,30 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
   <li>RF24 - Rastreabilidade <a href="#E13">E13</a></li>
   <li>RF25 - Rastreabilidade <a href="#E14">E14</a></li>
   <li>RF26 - Rastreabilidade <a href="#E15">E15</a></li>
+  <li>RF29 - Rastreabilidade <a href="#EB60">E60</a></li>
   <li>RF32 - Rastreabilidade <a href="#E40">E40</a></li>
   <li>RF33 - Rastreabilidade <a href="#E41">E41</a></li>
   <li>RF34 - Rastreabilidade <a href="#E42">E42</a></li>
   <li>RF35 - Rastreabilidade <a href="#E21">E21</a></li>
   <li>RF36 - Rastreabilidade <a href="#E16">E16</a></li>
+  <li>RF37 - Rastreabilidade <a href="#EB61">E61</a></li>
   <li>RF38 - Rastreabilidade <a href="#E30">E30</a></li>
   <li>RF39 - Rastreabilidade <a href="#E25">E25</a></li>
   <li>RF40 - Rastreabilidade <a href="#E43">E43</a></li>
   <li>RF41 - Rastreabilidade <a href="#E06">E06</a></li>
   <li>RNF01 - Rastreabilidade <a href="#E26">E26</a></li>
   <li>RNF02 - Rastreabilidade <a href="#E27">E27</a></li>
+  <li>RNF03 - Rastreabilidade <a href="#EB62">E62</a></li>
   <li>RNF04 - Rastreabilidade <a href="#E35">E35</a></li>
   <li>RNF05 - Rastreabilidade <a href="#E07">E07</a></li>
   <li>RNF06 - Rastreabilidade <a href="#E17">E17</a></li>
   <li>RNF07 - Rastreabilidade <a href="#E28">E28</a></li>
-  <li>RNF08 - Rastreabilidade <a href="#E29">E29</a></li>
+  <li>RNF08 - Rastreabilidade <a href="#EB63">E63</a></li>
   <li>RNF09 - Rastreabilidade <a href="#E36">E36</a></li>
   <li>RNF10 - Rastreabilidade <a href="#E44">E44</a></li>
   <li>RNF11 - Rastreabilidade <a href="#E18">E18</a></li>
   <li>RNF13 - Rastreabilidade <a href="#E45">E45</a></li>
+  <li>RNF14 - Rastreabilidade <a href="#EB64">E64</a></li>
   <li>RNF15 - Rastreabilidade <a href="#E37">E37</a></li>
   <li>RNF16 - Rastreabilidade <a href="#E08">E08</a></li>
   <li>RNF17 - Rastreabilidade <a href="#E09">E09</a></li>
@@ -1118,7 +1126,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> <a href="https://drive.google.com/file/d/12wchWUZO20rOlDBzsw6rGqfo6yEdffhp/view?usp=sharing">Imagem do Aplicativo</a></td>
+      <a href="https://drive.google.com/file/d/1KmliL-cdTE3LAo8VknyWbIcKED0gJvlN/view?usp=sharing">Imagem do Aplicativo</a>
     </tr>
   </tbody>
 </table>
@@ -1454,7 +1462,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> Não implementado </td>
+      <td> - </td>
     </tr>
   </tbody>
 </table>
@@ -1504,7 +1512,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> Não implementado </td>
+      <td> - </td>
     </tr>
   </tbody>
 </table>
@@ -1549,7 +1557,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> <img src="docs\assets\pos\prints\Ajuda.png" alt="Ajuda" width="500"> </td>
+      <td> - </td>
     </tr>
   </tbody>
 </table>
@@ -1595,7 +1603,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> <img src="docs\assets\pos\prints\Pis.png" alt="Ajuda" width="500"> </td>
+      <td> - </td>
     </tr>
   </tbody>
 </table>
@@ -1640,7 +1648,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> <img src="docs\assets\pos\prints\Segurança.jpg" alt="Ajuda" width="500"> </td>
+      <td> - </td>
     </tr>
   </tbody>
 </table>
@@ -1685,7 +1693,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> Não Implementado </td>
+      <td> - </td>
     </tr>
   </tbody>
 </table>
@@ -1730,7 +1738,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> Não Implementado </td>
+      <td> - </td>
     </tr>
   </tbody>
 </table>
@@ -1774,7 +1782,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> <img src="docs\assets\pos\prints\Clareza.jpg" alt="Ajuda" width="500"> </td>
+      <td> - </td>
     </tr>
   </tbody>
 </table>
@@ -2536,6 +2544,335 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
+### <a name="EB56"></a> EB56 - Rastreabilidade Backward From do requisito RF06
+
+<font size="3"><p style="text-align: center">Tabela 58: EB56 - Cartão do Requisito Funcional 06</p></font>
+
+<div align="center"><table>
+  <thead><tr><th>Item</th><th>Descrição</th></tr></thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O sistema deve permitir a consulta de dados pessoais do usuário.</td>
+    </tr>
+    <tr><td> Categoria </td><td> Desenvolvimento </td></tr>
+    <tr>
+      <td> Elementos </td>
+      <td>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF06</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS02</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais">EN02</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h37">H37</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se das Técnicas de Elicitação Introspecção e Entrevista: <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS02</a> e <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais">EN02</a>.
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> Não implementado </td>
+    </tr>
+  </tbody>
+</table></div>
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
+
+### <a name="EB57"></a> EB57 - Rastreabilidade Backward From do RF07
+
+<font size="3"><p style="text-align: center">Tabela 59: EB57 - Cartão do Requisito Funcional 07</p></font>
+
+<div align="center"><table>
+  <thead><tr><th>Item</th><th>Descrição</th></tr></thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve permitir que o usuário visualize o extrato detalhado de movimentações financeiras.</td>
+    </tr>
+    <tr><td> Categoria </td><td> Desenvolvimento </td></tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF07</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS04</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB04</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h39">H39</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se das Técnicas de Elicitação Introspecção e Observação: <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS04</a> e <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB04</a>.
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> Não implementado </td>
+    </tr>
+  </tbody>
+</table></div>
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
+
+### <a name="EB58"></a> EB58 - Rastreabilidade Backward From do requisito RF14
+
+<font size="3"><p style="text-align: center">Tabela 60: EB58 - Cartão do Requisito Funcional 14</p></font>
+
+<div align="center"><table>
+  <thead><tr><th>Item</th><th>Descrição</th></tr></thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve permitir o cadastro de uma conta bancária.</td>
+    </tr>
+    <tr><td> Categoria </td><td> Desenvolvimento </td></tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF14</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS11</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST05</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB08</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h40">H40</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se da Técnicas de Elicitação Introspecção, Storytelling e Observação: <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS11</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST05</a> e <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB08</a>.
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> Não implementado </td>
+    </tr>
+  </tbody>
+</table></div>
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
+
+### <a name="EB59"></a> EB59 - Rastreabilidade Backward From do requisito RF18
+
+<font size="3"><p style="text-align: center">Tabela 61: EB59 - Cartão do Requisito Funcional 18</p></font>
+
+<div align="center"><table>
+  <thead><tr><th>Item</th><th>Descrição</th></tr></thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve conter uma seção de ajuda com orientações sobre o uso do aplicativo.</td>
+    </tr>
+    <tr><td> Categoria </td><td> Desenvolvimento </td></tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF18</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN02</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/#caso-de-uso-12-is16">Caso de Uso 12</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/#cenario-12-secao-de-ajuda-com-explicacoes-relacionadas-ao-app">Cenário 12</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#l42-acessar-ajuda">L42</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#l43-procurar-duvida">L43</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h41">H41</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se da Técnica de Elicitação Entrevista: <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN02</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> Não implementado </td>
+    </tr>
+  </tbody>
+</table></div>
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
+
+
+### <a name="EB60"></a> EB60 - Rastreabilidade Backward From do requisito RF29
+
+<font size="3"><p style="text-align: center">Tabela 62: EB60 - Cartão do Requisito Funcional 29</p></font>
+
+<div align="center"><table>
+  <thead><tr><th>Item</th><th>Descrição</th></tr></thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve disponibilizar um guia interativo para orientar o usuário durante o processo.</td>
+    </tr>
+    <tr><td> Categoria </td><td> Desenvolvimento </td></tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF29</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST07</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/#caso-de-uso-13-st07">Caso de Uso 13</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/#cenario-13-guia-interativo-para-orientacao-sobre-o-uso-do-aplicativo">Cenário 13</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#l44-requerer-guia">L44</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#l45-seguir-guia">L45</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h42">H42</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se da Técnica de Elicitação Storytelling: <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST07</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> Não implementado </td>
+    </tr>
+  </tbody>
+</table></div>
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
+
+### <a name="EB61"></a> EB61 - Rastreabilidade Backward From do requisito RF37
+
+<font size="3"><p style="text-align: center">Tabela 63: EB61 - Cartão do Requisito Funcional 37</p></font>
+
+<div align="center"><table>
+  <thead><tr><th>Item</th><th>Descrição</th></tr></thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O aplicativo deve permitir que o usuário consulte seu saldo disponível para saque.</td>
+    </tr>
+    <tr><td> Categoria </td><td> Desenvolvimento </td></tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF37</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB04</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h38">H38</a> 
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se da Técnica de Elicitação Observação: <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB04</a>.
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> Não implementado </td>
+    </tr>
+  </tbody>
+</table></div>
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
+
+### <a name="EB62"></a> EB53 - Rastreabilidade Backward From do requisito RNF03
+
+<font size="3"><p style="text-align: center">Tabela 64: EB62 - Cartão do Requisito Não Funcional 03</p></font>
+
+<div align="center"><table>
+  <thead><tr><th>Item</th><th>Descrição</th></tr></thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>O sistema deve apresentar informações de forma transparente e confiável.</td>
+    </tr>
+    <tr><td> Categoria </td><td> Desenvolvimento </td></tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-nao-funcionais">RNF03</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN09</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/EspecificacaoSuplementar/#requisitos-nao-funcionais">Especificação Suplementar</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#CE10">Cartão de Especificação 10</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se da Técnica de Elicitação Entrevista: <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN09</a>.
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> Não implementado </td>
+    </tr>
+  </tbody>
+</table></div>
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
+
+### <a name="EB63"></a> EB63 - Rastreabilidade Backward From do requisito RNF08
+
+<font size="3"><p style="text-align: center">Tabela 65: EB63 - Cartão do Requisito Não Funcional 08</p></font>
+
+<div align="center"><table>
+  <thead><tr><th>Item</th><th>Descrição</th></tr></thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>Os menus devem fornecer informações não repetidas.</td>
+    </tr>
+    <tr><td> Categoria </td><td> Desenvolvimento </td></tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-nao-funcionais">RNF08</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS19</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/EspecificacaoSuplementar/#requisitos-nao-funcionais">Especificação Suplementar</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#CE11">Cartão de Especificação 11</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se da Técnica de Elicitação Introspecção: <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS19</a>.
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> Não implementado </td>
+    </tr>
+  </tbody>
+</table></div>
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
+
+### <a name="EB64"></a> EB64 - Rastreabilidade Backward From do requisito RNF14
+
+<font size="3"><p style="text-align: center">Tabela 66: EB64 - Cartão do Requisito Não Funcional 14</p></font>
+
+<div align="center"><table>
+  <thead><tr><th>Item</th><th>Descrição</th></tr></thead>
+  <tbody>
+    <tr>
+      <td> Descrição do requisito </td>
+      <td>A aplicação deve exibir notificações ou notícias úteis de forma acessível.</td>
+    </tr>
+    <tr><td> Categoria </td><td> Desenvolvimento </td></tr>
+    <tr>
+      <td> Elementos </td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-nao-funcionais">RNF14</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-nao-funcionais">OB12</a>.
+      </td>
+    </tr>
+    <tr>
+      <td> Elos Backward-from </td>
+      <td> 
+      Agregação - O requisito originou-se da Técnica de Elicitação Observação: <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-nao-funcionais">OB12</a>
+      </td>
+    </tr>
+    <tr>
+      <td> Print </td>
+      <td> Não implementado </td>
+    </tr>
+  </tbody>
+</table></div>
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
+
 ## Referências Bibliográficas
 
 > <a name="REF1">1. </a>AYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf. Acesso em: 08 de jun. de 2025
@@ -2573,4 +2910,5 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 | `1.8`  | 08/06/2025 | Adição das tabelas EB47 - EB55 |  [Maria Eduarda](https://github.com/dudaa28)  | [Danielle Soares](https://github.com/danielle-soaress)  |
 | `1.9`  | 08/06/2025 | Prints dos requisitos RF03, RF04, RF05 |  [Danielle Soares](https://github.com/danielle-soaress)  | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `2.0`  | 08/06/2025 | Prints dos requisitos |  [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  | [Maria Eduarda](https://github.com/dudaa28) |
-| `2.1`  | 08/06/2025 | Adicionando prints |  [Maria Eduarda](https://github.com/dudaa28)  | - |
+| `2.1`  | 08/06/2025 | Adicionando prints |  [Maria Eduarda](https://github.com/dudaa28)  | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `2.2`  | 08/06/2025 | Adição das tabelas EB56 - EB64 |  [Eduardo de Pina](https://github.com/eduardodpms) | - |
