@@ -1,15 +1,15 @@
-# Entrega 5
+# Entrega 6
 
 
 ## Introdução
 
-A Entrega 5 tem como objetivo rastrear os requisitos elicitados anteriormente. Para isso, foram feitos o [Forward-From](../../Pos-Rastreabilidade/Forward-From.md) e o [Forward-From](../../Pos-Rastreabilidade/Backward-From.md). Além disso, todos os requisitos foram organizados com suas respectivas informações relevantes na [Matriz de Rastreabilidade](../../Pos-Rastreabilidade/Matriz-Rastreabilidade.md).  Com isso, a equipe concluiu a entrega e avançou para a etapa de [Inspeção do Grupo +1](../../Inspecao/grupo-mais-um/Entrega-3).
+A Entrega 6 tem como objetivo rastrear os requisitos elicitados anteriormente. Para isso, foram feitos o [Forward-From](../../Pos-Rastreabilidade/Forward-From.md) e o [Backward-From](../../Pos-Rastreabilidade/Backward-From.md). Além disso, todos os requisitos foram organizados com suas respectivas informações relevantes na [Matriz de Rastreabilidade](../../Pos-Rastreabilidade/Matriz-Rastreabilidade.md).  Com isso, a equipe concluiu a entrega e avançou para a etapa de [Inspeção do Grupo +1](../../Inspecao/grupo-mais-um/Entrega-3).
 
 
 ## Apresentação
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="" title="https://www.youtube.com/embed/psdTh5-MavM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
 
@@ -83,5 +83,6 @@ A Entrega 5 tem como objetivo rastrear os requisitos elicitados anteriormente. P
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0`  | 08/06/2025 | Criação do documento | [Marcelo Makoto](https://github.com/MM4k) | - |
+| `1.0`  | 08/06/2025 | Criação do documento | [Marcelo Makoto](https://github.com/MM4k) | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.1`  | 08/06/2025 | Video da apresentação | [Maria Eduarda](https://github.com/dudaa28) | - |
 
