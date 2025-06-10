@@ -100,8 +100,8 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Eduardo de Pina </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 08/06/2025 </td>
+      <td> 17:30 </td>
     </tr>
     <tr>
       <td> Enzo Emir </td>

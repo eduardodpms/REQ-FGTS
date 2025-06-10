@@ -3,7 +3,7 @@
 
 ## Introdução
 
-A Entrega 6 tem como objetivo rastrear os requisitos elicitados anteriormente. Para isso, foram feitos o [Forward-From](../../Pos-Rastreabilidade/Forward-From.md) e o [Backward-From](../../Pos-Rastreabilidade/Backward-From.md). Além disso, todos os requisitos foram organizados com suas respectivas informações relevantes na [Matriz de Rastreabilidade](../../Pos-Rastreabilidade/Matriz-Rastreabilidade.md).  Com isso, a equipe concluiu a entrega e avançou para a etapa de [Inspeção do Grupo +1](../../Inspecao/grupo-mais-um/Entrega-3).
+A Entrega 6 tem como objetivo rastrear os requisitos elicitados anteriormente. Para isso, foram feitos o [Forward-From](../../Pos-Rastreabilidade/Forward-From.md) e o [Backward-From](../../Pos-Rastreabilidade/Backward-From.md). Além disso, todos os requisitos foram organizados com suas respectivas informações relevantes na [Matriz de Rastreabilidade](../../Pos-Rastreabilidade/Matriz-Rastreabilidade.md).  Com isso, a equipe concluiu a entrega e avançou para a etapa de [Inspeção do Grupo +1](../../Inspecao/grupo-mais-um/Entrega-6).
 
 
 ## Apresentação
@@ -84,5 +84,5 @@ A Entrega 6 tem como objetivo rastrear os requisitos elicitados anteriormente. P
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0`  | 08/06/2025 | Criação do documento | [Marcelo Makoto](https://github.com/MM4k) | [Maria Eduarda](https://github.com/dudaa28) |
-| `1.1`  | 08/06/2025 | Video da apresentação | [Maria Eduarda](https://github.com/dudaa28) | - |
+| `1.1`  | 08/06/2025 | Video da apresentação | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
 

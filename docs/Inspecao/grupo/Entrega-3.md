@@ -17,7 +17,7 @@ A Entrega 3 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 ---
 
 
-## Modelo para Lista de Verificação/Inspeção da Entrega 3
+## Lista de Verificação/Inspeção da Entrega 3
 
 
 ### ✅ Itens Gerais

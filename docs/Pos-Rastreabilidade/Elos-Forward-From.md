@@ -93,8 +93,8 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Eduardo de Pina </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 08/06/2025 </td>
+      <td> 16:30 </td>
     </tr>
     <tr>
       <td> Enzo Emir </td>

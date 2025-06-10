@@ -3,7 +3,7 @@
 
 ## Introdução
 
-A Entrega 4 tem como objetivo modelar os requisitos elicitados anteriormente. Para isso, foram criadas as [Histórias de Usuário](../../Modelagem-Agil/HistoriasDeUsuario), que foram validadas e organizadas no [Backlog](../../Modelagem-Agil/Backlog). Além disso, foi utilizado o [NFRFramework](../../Modelagem-Agil/NFRFramework) para os requisitos não-funcionais.  Com isso, a equipe concluiu a entrega e avançou para a etapa de [Inspeção do Grupo +1](../../Inspecao/grupo-mais-um/Entrega-3).
+A Entrega 4 tem como objetivo modelar os requisitos elicitados anteriormente. Para isso, foram criadas as [Histórias de Usuário](../../Modelagem-Agil/HistoriasDeUsuario), que foram validadas e organizadas no [Backlog](../../Modelagem-Agil/Backlog). Além disso, foi utilizado o [NFRFramework](../../Modelagem-Agil/NFRFramework) para os requisitos não-funcionais.  Com isso, a equipe concluiu a entrega e avançou para a etapa de [Inspeção do Grupo +1](../../Inspecao/grupo-mais-um/Entrega-4).
 
 
 ## Apresentação
@@ -87,5 +87,5 @@ A Entrega 4 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0`  | 01/06/2025 | Criação do documento | [Marcelo Makoto](https://github.com/MM4k) | [Maria Eduarda](https://github.com/dudaa28) |
-| `1.1`  | 01/06/2025 | Adicionando video entrega 4 | [Maria Eduarda](https://github.com/dudaa28) | - |
+| `1.1`  | 01/06/2025 | Adicionando video entrega 4 | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
 

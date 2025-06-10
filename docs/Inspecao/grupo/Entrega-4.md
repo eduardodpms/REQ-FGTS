@@ -21,7 +21,7 @@ A Entrega 4 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 ---
 
 
-## Modelo para Lista de Verificação/Inspeção da Entrega 4
+## Lista de Verificação/Inspeção da Entrega 4
 
 
 ### ✅ Itens Gerais
@@ -143,4 +143,4 @@ A Entrega 4 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0`  | 01/06/2025 | Criação do documento | [Marcelo Makoto](https://github.com/MM4k) | [Maria Eduarda](https://github.com/dudaa28) |
 | `1.1`  | 01/06/2025 | Documento verificado | [Maria Eduarda](https://github.com/dudaa28) | [Victor Pontual](https://github.com/VictorPontual) |
-| `1.2`  | 01/06/2025 | adição dos videos | [Victor Pontual](https://github.com/VictorPontual) | - |
+| `1.2`  | 01/06/2025 | adição dos videos | [Victor Pontual](https://github.com/VictorPontual) | [Eduardo de Pina](https://github.com/eduardodpms) |
