@@ -119,7 +119,7 @@ nav:
     - Histórias de Usuário: Modelagem-II/Historias-De-Usuario.md
     - Product Backlog: Modelagem-II/Product-Backlog.md
   - Pós-Rastreabilidade:
-    - Forward-From: Pos-Rastreabilidade/Forward-From.md
-    - Backward-From: Pos-Rastreabilidade/Backward-From.md
-    - Matriz de Rastreabilidade: Pos-Rastreabilidade/Matriz-Rastreabilidade.md
+    - Matriz de Rastreabilidade: Pos-Rastreabilidade/Matriz-de-Rastreabilidade.md
+    - Elos Forward-From: Pos-Rastreabilidade/Elos-Forward-From.md
+    - Elos Backward-From: Pos-Rastreabilidade/Elos-Backward-From.md
     
