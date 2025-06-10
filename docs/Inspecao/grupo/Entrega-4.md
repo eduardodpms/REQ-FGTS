@@ -3,7 +3,7 @@
 
 ## Introdução
 
-A Entrega 4 tem como objetivo modelar os requisitos elicitados anteriormente. Para isso, foram criadas as [Histórias de Usuário](../../Modelagem-Agil/HistoriasDeUsuario), que foram validadas e organizadas no [Backlog](../../Modelagem-Agil/Backlog). Além disso, foi utilizado o [NFRFramework](../../Modelagem-Agil/NFRFramework) para os requisitos não-funcionais.  Com isso, a equipe concluiu a entrega e avançou para a etapa de [Inspeção do Grupo +1](../../Inspecao/grupo-mais-um/Entrega-3).
+Aqui está definida a inspeção da entrega 4 do nosso grupo, cujo projeto aborda o app *FGTS*. A análise contemplou os principais tópicos definidos para a entrega 4, como NFR Framework, Histórias de Usuário e Product Backlog. O modelo de lista de verificação utilizado está definido em [Entrega 4](../../../Entregas/Entrega-4), e foi construído com a participação de todos os membros do grupo 07.
 
 
 ## Apresentação

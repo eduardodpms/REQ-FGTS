@@ -3,7 +3,7 @@
 
 ## Introdução
 
-A Entrega 3 tem como objetivo modelar os requisitos elicitados anteriormente. Para isso, foram desenvolvidos os [cenários](../../Modelagem/Cenarios), o [diagrama de casos de uso](../../Modelagem/Diagrama), os [léxicos](../../Modelagem/Lexicos) e a [especificação suplementar](../../Modelagem/EspecificacaoSuplementar).  Com isso, a equipe concluiu a entrega e avançou para a etapa de [Inspeção do Grupo +1](../../Inspecao/grupo-mais-um/Entrega-3).
+Aqui está definida a inspeção da entrega 3 do nosso grupo, cujo projeto aborda o app *FGTS*. A análise contemplou os principais tópicos definidos para a entrega 3, como Cenários, Lxicos, Casos de Uso e Especificação Suplementar. O modelo de lista de verificação utilizado está definido em [Entrega 3](../../../Entregas/Entrega-3), e foi construído com a participação de todos os membros do grupo 07.
 
 
 ## Apresentação

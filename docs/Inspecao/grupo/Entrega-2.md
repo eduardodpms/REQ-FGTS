@@ -3,7 +3,7 @@
 
 ## Introdução
 
-Aqui está definida a inspeção da entrega 2 do nosso grupo, cujo projeto aborda, o app *FGTS*. A análise contemplou os principais tópicos definidos para a entrega 2, como a qualidade do processo de elicitação e documentação de requisitos, etapa de priorrização de requisitos e a definição clara do perfil e das personas. O modelo de lista de verificação utilizado está definido em [Entrega 2](../../../Entregas/Entrega-2), e foi construído com a participação de todos os membros do grupo 07.
+Aqui está definida a inspeção da entrega 2 do nosso grupo, cujo projeto aborda o app *FGTS*. A análise contemplou os principais tópicos definidos para a entrega 2, como a qualidade do processo de elicitação e documentação de requisitos, etapa de priorrização de requisitos e a definição clara do perfil e das personas. O modelo de lista de verificação utilizado está definido em [Entrega 2](../../../Entregas/Entrega-2), e foi construído com a participação de todos os membros do grupo 07.
 
 
 ## Lista de Inspeção do Grupo 

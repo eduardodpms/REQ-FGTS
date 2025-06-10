@@ -3,7 +3,7 @@
 
 ## Introdução
 
-A Entrega 6 tem como objetivo rastrear os requisitos elicitados anteriormente. Para isso, foram feitos o [Forward-From](../../Pos-Rastreabilidade/Forward-From.md) e o [Forward-From](../../Pos-Rastreabilidade/Backward-From.md). Além disso, todos os requisitos foram organizados com suas respectivas informações relevantes na [Matriz de Rastreabilidade](../../Pos-Rastreabilidade/Matriz-Rastreabilidade.md).  Com isso, a equipe concluiu a entrega e avançou para a etapa de [Inspeção do Grupo +1](../../Inspecao/grupo-mais-um/Entrega-6).
+Aqui está definida a inspeção da entrega 6 do nosso grupo, cujo projeto aborda o app *FGTS*. A análise contemplou os principais tópicos definidos para a entrega 6, como Matriz de Rastreabilidade, Elos Forward-From e Elos Backward-From. O modelo de lista de verificação utilizado está definido em [Entrega 6](../../../Entregas/Entrega-6), e foi construído com a participação de todos os membros do grupo 07.
 
 
 ## Apresentação
