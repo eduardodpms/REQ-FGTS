@@ -44,8 +44,10 @@ Os artefatos previstos, associados a cada entrega, estão listados a seguir com 
 2. [Elicitação de Requisitos 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Perfil-de-Usuario/)
 3. [Modelagem de Requisitos I 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/)
 4. [Modelagem de Requisitos II (Ágil) 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/)
-5. [Pós-Rastreabilidade 🔗]()
-6. [Análise de Requisitos 🔗]()
+5. [Análise de Requisitos 🔗]()
+6. [Pós-Rastreabilidade 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Matriz-Rastreabilidade/)
+
+***Obs.:** A entrega **6** foi definida, na organização da disciplina, para ser realizada antes da entrega **5**.*
 
 <br>
 
@@ -65,3 +67,4 @@ Os artefatos previstos, associados a cada entrega, estão listados a seguir com 
 | **Entrega** `2` | *Elicitação de Requisitos* | `Perfil de Usuário`, `Personas`, `Técnicas de Elicitação` e `Técnicas de Priorização` | 04/05/2025 | [[LINK]](https://youtu.be/MWnO37Rvfqc) | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | [Eduardo](https://github.com/eduardodpms) |
 | **Entrega** `3` | *Modelagem de Requisitos I* | `Casos de Uso`, `Cenários`, `Léxicos` e `Especificação Suplementar` | 18/05/2025 | [[LINK]](https://youtu.be/6DFnkU2cEqs) | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k) |
 | **Entrega** `4` | *Modelagem de Requisitos II (Ágil)* | `NFR Framework`, `Histórias de Usuário` e `Product Backlog` | 01/06/2025 | [[LINK]](https://youtu.be/M228uKxFDQE) | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |
+| **Entrega** `6` | *Pós-Rastreabilidade* | `Matriz de Rastreabilidade`, `Elos Forward-From` e `Elos Backward-From` | 08/06/2025 | [[LINK]](https://youtu.be/psdTh5-MavM) | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | [Danielle](https://github.com/danielle-soaress), [Maria](https://github.com/dudaa28) |
