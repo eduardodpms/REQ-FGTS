@@ -205,13 +205,25 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 
 | **Atividade** | **Período de Desenvolvimento** | **Responsáveis** | **Período de Revisão** | **Revisores** |
 |:-:|:-:|:-:|:-:|:-:|
-| Backward-form | Início: 03/06 <br> Fim: 04/06 | [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa) | Início: 04/06 <br> Fim: 05/06 | [Eduardo](https://github.com/eduardodpms), [Victor](https://github.com/VictorPontual) |
-| Forward-form | Início: 05/06 <br> Fim: 06/06 | [Danielle](https://github.com/danielle-soaress), [Maria](https://github.com/dudaa28) | Início: 06/06 <br> Fim: 07/06 | [Enzo](https://github.com/EnzoEmir), [Marcelo](https://github.com/MM4k) |
+| Backward-from | Início: 03/06 <br> Fim: 04/06 | [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa) | Início: 04/06 <br> Fim: 05/06 | [Eduardo](https://github.com/eduardodpms), [Victor](https://github.com/VictorPontual) |
+| Forward-from | Início: 05/06 <br> Fim: 06/06 | [Danielle](https://github.com/danielle-soaress), [Maria](https://github.com/dudaa28) | Início: 06/06 <br> Fim: 07/06 | [Enzo](https://github.com/EnzoEmir), [Marcelo](https://github.com/MM4k) |
 | Matriz Geral | Início: 07/06 <br> Fim: 08/06 | [Eduardo](https://github.com/eduardodpms), [Marcelo](https://github.com/MM4k), [Victor](https://github.com/VictorPontual) | Início: 08/06 <br> Fim: 08/06 | [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Maria](https://github.com/dudaa28) |
 | Gravação da Apresentação | Início: 08/06 <br> Fim: 09/06 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 09/06 <br> Fim: 10/06 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |
 
 
 ### Entregue 📬
+
+A tabela a seguir mostra o que foi *entregue* no contexto do cronograma das atividades da Entrega 6.
+
+<p style="text-align: center; font-size: 16px;">Tabela 11: <i>Planejamento do Projeto</i></p>
+
+| **Atividade** | **Período de Desenvolvimento** | **Responsáveis** | **Período de Revisão** | **Revisores** |
+|:-:|:-:|:-:|:-:|:-:|
+| Backward-from | Início: 06/06 <br> Fim: 08/06 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 08/06 <br> Fim: 08/06 | [Eduardo](https://github.com/eduardodpms), [Victor](https://github.com/VictorPontual) |
+| Forward-from | Início: 05/06 <br> Fim: 08/06 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 08/06 <br> Fim: 08/06 | [Enzo](https://github.com/EnzoEmir), [Marcelo](https://github.com/MM4k) |
+| Matriz de Rastreabilidade | Início: 04/06 <br> Fim: 07/06 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 08/06 <br> Fim: 08/06 | [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Maria](https://github.com/dudaa28) |
+| Gravação da Apresentação | Início: 08/06 <br> Fim: 08/06 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 08/06 <br> Fim: 08/06 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |
+
 
 
 <br>
