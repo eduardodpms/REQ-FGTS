@@ -81,10 +81,12 @@ nav:
   - Inspeção:
     - Introdução: Inspecao/Introducao.md
     - Entrega 1:
+      - Monitora: Inspecao/Entrega-1/Monitora.md
       - Grupo -1: Inspecao/Entrega-1/Grupo-menos-1.md
       - Grupo: Inspecao/Entrega-1/Grupo.md
       - Grupo +1: Inspecao/Entrega-1/Grupo-mais-1.md
     - Entrega 2:
+      - Monitora: Inspecao/Entrega-2/Monitora.md
       - Grupo -1: Inspecao/Entrega-2/Grupo-menos-1.md
       - Grupo: Inspecao/Entrega-2/Grupo.md
       - Grupo +1: Inspecao/Entrega-2/Grupo-mais-1.md
