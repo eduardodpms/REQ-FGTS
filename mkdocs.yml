@@ -79,18 +79,21 @@ nav:
     - Entrega 4: Entregas/Entrega-4.md
     - Entrega 6: Entregas/Entrega-6.md
   - Inspeção:
-    - Grupo:
-      - Entrega 1: Inspecao/grupo/Entrega-1.md
-      - Entrega 2: Inspecao/grupo/Entrega-2.md
-      - Entrega 3: Inspecao/grupo/Entrega-3.md
-      - Entrega 4: Inspecao/grupo/Entrega-4.md
-      - Entrega 6: Inspecao/grupo/Entrega-6.md
-    - Grupo +1:
-      - Entrega 1: Inspecao/grupo-mais-um/Entrega-1.md
-      - Entrega 2: Inspecao/grupo-mais-um/Entrega-2.md
-      - Entrega 3: Inspecao/grupo-mais-um/Entrega-3.md
-      - Entrega 4: Inspecao/grupo-mais-um/Entrega-4.md
-      - Entrega 6: Inspecao/grupo-mais-um/Entrega-6.md
+    - Entrega 1:
+      - Grupo: Inspecao/Entrega-1/Grupo.md
+      - Grupo +1: Inspecao/Entrega-1/Grupo-mais-1.md
+    - Entrega 2:
+      - Grupo: Inspecao/Entrega-2/Grupo.md
+      - Grupo +1: Inspecao/Entrega-2/Grupo-mais-1.md
+    - Entrega 3:
+      - Grupo: Inspecao/Entrega-3/Grupo.md
+      - Grupo +1: Inspecao/Entrega-3/Grupo-mais-1.md
+    - Entrega 4:
+      - Grupo: Inspecao/Entrega-4/Grupo.md
+      - Grupo +1: Inspecao/Entrega-4/Grupo-mais-1.md
+    - Entrega 6:
+      - Grupo: Inspecao/Entrega-6/Grupo.md
+      - Grupo +1: Inspecao/Entrega-6/Grupo-mais-1.md
   - Pré-Rastreabilidade:
     - Rich Picute: Pre-Rastreabilidade/Rich-Picture.md
   - Elicitação:
