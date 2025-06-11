@@ -79,6 +79,7 @@ nav:
     - Entrega 4: Entregas/Entrega-4.md
     - Entrega 6: Entregas/Entrega-6.md
   - Inspeção:
+    - Introdução: Inspecao/Introducao.md
     - Entrega 1:
       - Grupo -1: Inspecao/Entrega-1/Grupo-menos-1.md
       - Grupo: Inspecao/Entrega-1/Grupo.md
@@ -127,7 +128,7 @@ nav:
     - Histórias de Usuário: Modelagem-II/Historias-De-Usuario.md
     - Product Backlog: Modelagem-II/Product-Backlog.md
   - Pós-Rastreabilidade:
-    - Matriz de Rastreabilidade: Pos-Rastreabilidade/Matriz-de-Rastreabilidade.md
     - Elos Forward-From: Pos-Rastreabilidade/Elos-Forward-From.md
     - Elos Backward-From: Pos-Rastreabilidade/Elos-Backward-From.md
+    - Matriz de Rastreabilidade: Pos-Rastreabilidade/Matriz-de-Rastreabilidade.md
     
