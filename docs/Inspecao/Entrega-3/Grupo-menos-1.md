@@ -1,9 +1,12 @@
-# Introdução 
-<p align="justify">
-Esta página apresenta um checklist relacionado a Entrega 03 do Grupo 07 (FGTS). O objetivo foi analisar e revisar a entrega, com base em critérios técnicos e boas práticas de documentação de requisitos. 
-</p>
+# Inspeção do Grupo -1 - Entrega 3
 
-## Participantes da inspeção: 
+## Introdução
+
+Esta página contém a avaliação do grupo -1 ([*Grupo 06 - Receita Federal*](https://github.com/Requisitos-de-Software/2025.1-ReceitaFederal)) sobre a [*entrega 3*](https://requisitos-de-software.github.io/2025.1-FGTS/Entregas/Entrega-3/) do nosso grupo, com base em lista de verificação própria. O documento é adaptado da página de inspeções do próprio *grupo 06*, em [*Inspeção do grupo 7*](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/inspecao/entrega03/inspecao-grupo7-3/).
+
+## Inspeção da Entrega 3
+
+### Participantes da inspeção: 
 
 - ✅ [Andre Lopes](https://github.com/andrewslopes)
 - ✅ [Diassis](https://github.com/Diaxiz)
@@ -14,9 +17,9 @@ Esta página apresenta um checklist relacionado a Entrega 03 do Grupo 07 (FGTS).
 - ✅ [Thales Germano](https://github.com/thalesgvl)
 
 
-## Checklist Grupo 07 - Entrega 03
+### Checklist Grupo 07 - Entrega 03
 
-### Tabela 1: Checklist para a entrega 3 - Grupo 07 (FGTS)  
+#### Tabela 1: Checklist para a entrega 3 - Grupo 07 (FGTS)  
 
 | Nº | O GitHub Pages possui? | Sim/Não/Incompleto | Data e hora da avaliação |
 |----|-------------------------|:------------------:|:------------------------:|
@@ -44,7 +47,7 @@ Esta página apresenta um checklist relacionado a Entrega 03 do Grupo 07 (FGTS).
 
 <font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 
-## Video da reunião de avaliação do grupo 7
+### Video da reunião de avaliação do grupo 7
 
 <iframe width="600" height="315"
         src="https://www.youtube.com/embed/UOYmraWZnn4" 
@@ -52,7 +55,8 @@ Esta página apresenta um checklist relacionado a Entrega 03 do Grupo 07 (FGTS).
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
         allowfullscreen>
 </iframe>
-## Referências Bibliográficas 
+
+### Referências Bibliográficas 
 
 > <a>1.</a> SALES, André Barros de. - Lista de Verificação - Disponivel em: [https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifificac%CC%A7a%CC%83o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf](https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifificac%CC%A7a%CC%83o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf)
 >
@@ -61,10 +65,20 @@ Esta página apresenta um checklist relacionado a Entrega 03 do Grupo 07 (FGTS).
 > <a>3.</a> Pressman, R. S. (2010). Engenharia de Software, 7ª ed.
 >
 
+---
 
-## Histórico de versões
+### Histórico de versões (documento original)
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 19/05/2025 | Mudança da localização da inspeção da entrega 03 - grupo 7 | [Thales Germano](https://github.com/thalesgvl) | [Jose Eduardo](https://github.com/jevprado)|
 
 
+
+---
+
+## Histórico de Versão da Cópia do Documento
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: |
+| `1.0` | 10/06/2025 | Criação do documento | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.1` | 11/06/2025 | Adicionando layout próprio | [Eduardo de Pina](https://github.com/eduardodpms) | - |

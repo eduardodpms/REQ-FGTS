@@ -1,9 +1,12 @@
-# Introdução 
-<p align="justify">
-Esta página apresenta um checklist relacionado a Entrega 02 do Grupo 07 (FGTS). O objetivo foi analisar e revisar a entrega, com base em critérios técnicos e boas práticas de documentação de requisitos. 
-</p>
+# Inspeção do Grupo -1 - Entrega 2
 
-## Participantes da inspeção: 
+## Introdução
+
+Esta página contém a avaliação do grupo -1 ([*Grupo 06 - Receita Federal*](https://github.com/Requisitos-de-Software/2025.1-ReceitaFederal)) sobre a [*entrega 2*](https://requisitos-de-software.github.io/2025.1-FGTS/Entregas/Entrega-2/) do nosso grupo, com base em lista de verificação própria. O documento é adaptado da página de inspeções do próprio *grupo 06*, em [*Inspeção do grupo 7*](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/inspecao/entrega02/inspecao-grupo7-2/).
+
+## Inspeção da Entrega 2
+
+### Participantes da inspeção: 
 
 - ✅ [Andre Lopes](https://github.com/andrewslopes)
 - ✅ [Diassis](https://github.com/Diaxiz)
@@ -14,9 +17,9 @@ Esta página apresenta um checklist relacionado a Entrega 02 do Grupo 07 (FGTS).
 - ✅ [Thales Germano](https://github.com/thalesgvl)
 
 
-## Checklist Grupo 07 - Entrega 02
+### Checklist Grupo 07 - Entrega 02
 
-### Tabela 1: Checklist para a entrega 2 - Grupo 07 (FGTS)  
+#### Tabela 1: Checklist para a entrega 2 - Grupo 07 (FGTS)  
 
 | Nº | O git-pages possui? | Sim/Não/Incompleto |  Data e hora da avaliação |
 | :------ | :------------------ | :----------------: | :-------------------------------:|
@@ -31,7 +34,7 @@ Esta página apresenta um checklist relacionado a Entrega 02 do Grupo 07 (FGTS).
 <font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 
 
-### Tabela 2: Personas e Storytelling - Grupo 07 (FGTS)
+#### Tabela 2: Personas e Storytelling - Grupo 07 (FGTS)
 | Nº | O git-pages possui? | Sim/Não/Incompleto |  Data e hora da avaliação |
 | :------ | :------------------ | :----------------: | :-------------------------------:|
 | 1 |   As personas possuem nome fictício e características próprias (ex: idade, gênero, profissão e etc.)?      |    Sim            | 05/05 - 21:40 |
@@ -43,7 +46,7 @@ Esta página apresenta um checklist relacionado a Entrega 02 do Grupo 07 (FGTS).
 
 <font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 
-### Tabela 3: Entrevistas - Grupo 07 (FGTS)
+#### Tabela 3: Entrevistas - Grupo 07 (FGTS)
 
 | Nº | O git-pages possui? | Sim/Não/Incompleto |  Data e hora da avaliação |
 | :------ | :------------------ | :----------------: | :-------------------------------:|
@@ -55,7 +58,7 @@ Esta página apresenta um checklist relacionado a Entrega 02 do Grupo 07 (FGTS).
 <font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 
 
-### Tabela 4: Introspecção - Grupo 07 (FGTS)
+#### Tabela 4: Introspecção - Grupo 07 (FGTS)
 | Nº | O git-pages possui? | Sim/Não/Incompleto |  Data e hora da avaliação |
 | :------ | :------------------ | :----------------: | :-------------------------------:|
 | 1 |  A introspecção foi aplicada de forma individual por membros da equipe?	      | Sim | 05/05 - 21:48 |
@@ -65,7 +68,7 @@ Esta página apresenta um checklist relacionado a Entrega 02 do Grupo 07 (FGTS).
 
 <font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 
-### Tabela 5: Observação - Grupo 07 (FGTS)
+#### Tabela 5: Observação - Grupo 07 (FGTS)
 
 | Nº | O git-pages possui? | Sim/Não/Incompleto |  Data e hora da avaliação |
 | :------ | :------------------ | :----------------: | :-------------------------------:|
@@ -75,7 +78,7 @@ Esta página apresenta um checklist relacionado a Entrega 02 do Grupo 07 (FGTS).
 
 <font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 
-### Tabela 6: $100 - Grupo 07 (FGTS)
+#### Tabela 6: $100 - Grupo 07 (FGTS)
 | Nº | O git-pages possui? | Sim/Não/Incompleto | Data e hora da avaliação |
 | :------ | :------------------ | :----------------: | :-------------------------------:|
 | 1 | Existe planilha ou quadro em que cada stakeholder recebeu exatamente 100 pontospara distribuir?      |       Sim        |05/05 - 21:54  |
@@ -84,7 +87,7 @@ Esta página apresenta um checklist relacionado a Entrega 02 do Grupo 07 (FGTS).
 
 <font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 
-### Tabela 7: Three-Level Scale - Grupo 07 (FGTS)
+#### Tabela 7: Three-Level Scale - Grupo 07 (FGTS)
 | Nº | O git-pages possui? | Sim/Não/Incompleto |  Data e hora da avaliação |
 | :------ | :------------------ | :----------------: | :-------------------------------:|
 | 1 |  Planilha ou quadro com três colunas (Alta / Média / Baixa) criado e salvo.     |  Sim             | 05/05 - 21:58 |
@@ -92,7 +95,7 @@ Esta página apresenta um checklist relacionado a Entrega 02 do Grupo 07 (FGTS).
 
 <font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 
-### Tabela 8: First In First Out - Grupo 07 (FGTS)
+#### Tabela 8: First In First Out - Grupo 07 (FGTS)
 | Nº | O git-pages possui? | Sim/Não/Incompleto |  Data e hora da avaliação |
 | :------ | :------------------ | :----------------: | :-------------------------------:|
 | 1 | 	A documentação identifica claramente as tarefas mais importantes (prioritárias)?    |    Sim           | 05/05 - 22:00  |
@@ -103,7 +106,7 @@ Esta página apresenta um checklist relacionado a Entrega 02 do Grupo 07 (FGTS).
 <font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 
 
-### Tabela 9: In or out - Grupo 07 (FGTS)
+#### Tabela 9: In or out - Grupo 07 (FGTS)
 | Nº | O git-pages possui? | Sim/Não/Incompleto | Data e hora da avaliação |
 | :------ | :------------------ | :----------------: | :-------------------------------:|
 |1 | 	A documentação define claramente o que está incluído no escopo do projeto (IN)?    |  Sim             | 05/05 - 22:05 |
@@ -112,7 +115,7 @@ Esta página apresenta um checklist relacionado a Entrega 02 do Grupo 07 (FGTS).
 
 <font size="3"><p style="text-align: center">Fonte: [Grupo 06](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/#membros-da-equipe), 2025.</p></font>
 
-## Video da reunião de avaliação do grupo 7
+### Video da reunião de avaliação do grupo 7
 
 <iframe width="600" height="315"
         src="https://www.youtube.com/embed/3jT-OxBc7ps" 
@@ -121,7 +124,7 @@ Esta página apresenta um checklist relacionado a Entrega 02 do Grupo 07 (FGTS).
         allowfullscreen>
 </iframe>
 
-## Referências Bibliográficas 
+### Referências Bibliográficas 
 
 > <a>1.</a> SALES, André Barros de. - Lista de Verificação - Disponivel em: [https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifificac%CC%A7a%CC%83o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf](https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifificac%CC%A7a%CC%83o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf)
 >
@@ -130,10 +133,19 @@ Esta página apresenta um checklist relacionado a Entrega 02 do Grupo 07 (FGTS).
 > <a>3.</a> Pressman, R. S. (2010). Engenharia de Software, 7ª ed.
 >
 
+---
 
-## Histórico de versões
+### Histórico de versões (documento original)
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 `1.0` | 18/05/2025 | Mudança da localização da inspeção da entrega 02 - grupo 7 | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) | 
 
 
+---
+
+## Histórico de Versão da Cópia do Documento
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: |
+| `1.0` | 10/06/2025 | Criação do documento | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.1` | 11/06/2025 | Adicionando layout próprio | [Eduardo de Pina](https://github.com/eduardodpms) | - |

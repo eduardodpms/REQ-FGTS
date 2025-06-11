@@ -1,11 +1,12 @@
-# Inspeção do grupo 7
+# Inspeção do Grupo -1 - Entrega 1
 
-## Introdução 
-<p align="justify">
-Página de inspeção relacionada a Entrega 01 do Grupo 07 (e-titulo). O objetivo foi analisar e revisar a entrega, com base em critérios técnicos e boas práticas de documentação de requisitos. 
-</p>
+## Introdução
 
-## Participantes da inspeção: 
+Esta página contém a avaliação do grupo -1 ([*Grupo 06 - Receita Federal*](https://github.com/Requisitos-de-Software/2025.1-ReceitaFederal)) sobre a [*entrega 1*](https://requisitos-de-software.github.io/2025.1-FGTS/Entregas/Entrega-1/) do nosso grupo, com base em lista de verificação própria. O documento é adaptado da página de inspeções do próprio *grupo 06*, em [*Inspeção do grupo 7*](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/inspecao/entrega01/inspecao-grupo7/).
+
+## Inspeção da Entrega 1
+
+### Participantes da inspeção: 
 
 - ❌ [Andre Lopes](https://github.com/andrewslopes)
 - ✅ [Diassis](https://github.com/Diaxiz)
@@ -15,9 +16,9 @@ Página de inspeção relacionada a Entrega 01 do Grupo 07 (e-titulo). O objetiv
 - ❌ [Marco Marques](https://github.com/marcomarquesdc)
 - ✅ [Thales Germano](https://github.com/thalesgvl)
 
-## Checklist Grupo 07 - Entrega 01
+### Checklist Grupo 07 - Entrega 01
 
-### Tabela 1: Checklist para a entrega 1 - Grupo 07 (e-titulo)
+#### Tabela 1: Checklist para a entrega 1 - Grupo 07 (e-titulo)
 
 | O git-pages possui? | Sim/Não/Incompleto | Versão, Data e hora da avaliação |
 | :------------------ | :----------------: | :-------------------------------: |
@@ -41,7 +42,7 @@ Página de inspeção relacionada a Entrega 01 do Grupo 07 (e-titulo). O objetiv
 | 18 - Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo. Referência bibliográfica da fonte: *Introducing Rich Pictures - Rich Picture Drawing Guidelines. CTEC2402 - Software Development Project* | Sim | 1.0 - 14/04/2025 20:47 |
 | 19 - Cada integrante da equipe deve elaborar ao menos um item de conteúdo da disciplina com referência bibliográfica da fonte e foto do texto da referência. | Sim  | 1.2 - 14/04/2025 20:50  |
 
-## Video da reunião de avaliação do grupo 06+1
+### Video da reunião de avaliação do grupo 06+1
 
 <iframe width="600" height="315"
         src="https://www.youtube.com/embed/I8k1vmiceo4"
@@ -51,14 +52,26 @@ Página de inspeção relacionada a Entrega 01 do Grupo 07 (e-titulo). O objetiv
 </iframe>
 
 
-## Referências Bibliográficas 
+### Referências Bibliográficas 
 
 > <a>1.</a> SALES, André Barros de. - Lista de Verificação - Disponivel em: [https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifificac%CC%A7a%CC%83o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf](https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifificac%CC%A7a%CC%83o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf)
 >
 
+---
 
-## Histórico de versões
+### Histórico de versões (documento original)
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
 1.0 | 14/04/2025 | Criação do documento de checklist | [Diassis](https://github.com/Diaxiz), [João Pedro](https://github.com/JpRodrigues2), [Julia Massuda](https://github.com/JuliaReis18) e [Thales Germano](https://github.com/thalesgvl) | [Jose Eduardo](https://github.com/jevprado) |
 1.1 | 15/04/2025 | Adicionado gravação do vídeo  |[Jose Eduardo](https://github.com/jevprado) | [Julia Massuda](https://github.com/JuliaReis18) |
+
+
+
+---
+
+## Histórico de Versão da Cópia do Documento
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: |
+| `1.0` | 10/06/2025 | Criação do documento | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.1` | 11/06/2025 | Adicionando layout próprio | [Eduardo de Pina](https://github.com/eduardodpms) | - |

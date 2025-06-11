@@ -1,8 +1,12 @@
-# Introdução
+# Inspeção do Grupo -1 - Entrega 6
 
-Este checklist foi elaborado com base na literatura especializada em rastreabilidade de requisitos. O objetivo é verificar se o artefato de rastreabilidade do projeto está em conformidade com os princípios do método Forward e quanto à matriz de rastreabilidade, abordando aspectos como tipos de elos utilizados, uso de requisitos, referências a modelos teóricos e clareza na identificação dos elementos rastreados.
+## Introdução
 
-## Tabela 1: Itens da Lista de Verificação da Matriz de Rasteabilidade
+Esta página contém a avaliação do grupo -1 ([*Grupo 06 - Receita Federal*](https://github.com/Requisitos-de-Software/2025.1-ReceitaFederal)) sobre a [*entrega 6*](https://requisitos-de-software.github.io/2025.1-FGTS/Entregas/Entrega-6/) do nosso grupo, com base em lista de verificação própria. O documento é adaptado da página de inspeções do próprio *grupo 06*, em [*Inspeção do grupo 7*](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/inspecao/entrega05/inspecao-grupo7-5/).
+
+## Inspeção da Entrega 6
+
+### Tabela 1: Itens da Lista de Verificação da Matriz de Rasteabilidade
 
 | ID  | Item  | Conforme/Não Conforme |
 |-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
@@ -21,7 +25,7 @@ Este checklist foi elaborado com base na literatura especializada em rastreabili
 
 
 
-## Tabela 2: Itens da Lista de Verificação pós-rastreabilidade
+### Tabela 2: Itens da Lista de Verificação pós-rastreabilidade
 
 | ID  | Item | Conforme/Não Conforme |
 |-----|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
@@ -36,7 +40,7 @@ Este checklist foi elaborado com base na literatura especializada em rastreabili
 
 <p align="center"><strong>Tabela 2:</strong> Itens da Lista de Verificação pós-rastreabilidade — Fonte: <a href="https://github.com/thalesgvl">Thales Germano</a></p>
 
-## Gravação 
+### Gravação 
 
 
 <iframe width="600" height="315" 
@@ -48,7 +52,7 @@ Este checklist foi elaborado com base na literatura especializada em rastreabili
 </iframe>
 
 
-## Referências Bibliográficas
+### Referências Bibliográficas
 
 > <a id="anchor_1" href="#REF1">1.</a> SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf.
 
@@ -59,8 +63,20 @@ Este checklist foi elaborado com base na literatura especializada em rastreabili
 
 > <a id="FTF2Ref" href="#FTF3"></a> POHL, K. Requirements Engineering Fundamentals, 2nd Edition. [s.l.] Rocky Nook, Inc., 2016. 
 
+---
 
-## Histórico de versões
-Versão |   Data  | Descrição | Autor(es) | Revisor(es)
------- | ---- | ------ | ---------- | ----------
-`1.0` | 09/06/2025 | Criação da lista de verificação da Entrega 5 | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) | 
+### Histórico de versões (documento original)
+|Versão |   Data  | Descrição | Autor(es) | Revisor(es)|
+|------ | ---- | ------ | ---------- | ----------|
+|`1.0` | 09/06/2025 | Criação da lista de verificação da Entrega 5 | [Jose Eduardo](https://github.com/jevprado) | [Diassis](https://github.com/Diaxiz) | 
+
+
+
+---
+
+## Histórico de Versão da Cópia do Documento
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: |
+| `1.0` | 10/06/2025 | Criação do documento | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.1` | 11/06/2025 | Adicionando layout próprio | [Eduardo de Pina](https://github.com/eduardodpms) | - |

@@ -1,8 +1,12 @@
-## 1. Lista de Verificação dos Entregáveis
+# Inspeção do Grupo -1 - Entrega 4
 
-Esta é uma lista de verificação com critérios para serem observados na *quarta entrega: *Modelagem de Requisitos: Ágil (Histórias de Usuário, Backlogs, NFR Framework)
+## Introdução
 
-### 1.1 Itens da Lista de Verificação
+Esta página contém a avaliação do grupo -1 ([*Grupo 06 - Receita Federal*](https://github.com/Requisitos-de-Software/2025.1-ReceitaFederal)) sobre a [*entrega 4*](https://requisitos-de-software.github.io/2025.1-FGTS/Entregas/Entrega-4/) do nosso grupo, com base em lista de verificação própria. O documento é adaptado da página de inspeções do próprio *grupo 06*, em [*Inspeção do grupo 7*](https://requisitos-de-software.github.io/2025.1-ReceitaFederal/inspecao/entrega04/inspecao-grupo7-4/).
+
+## Inspeção da Entrega 4
+
+### Itens da Lista de Verificação
 
 <font size="3"><p style="text-align: center">Tabela 1: Itens da Lista de Verificação</p></font>
 
@@ -33,7 +37,7 @@ Esta é uma lista de verificação com critérios para serem observados na *quar
 
 ---
 
-## Video da reunião de avaliação do grupo 6
+### Video da reunião de avaliação do grupo 6
 
 <iframe width="600" height="315" 
         src="https://www.youtube.com/embed/mdkK5eVJFPs" 
@@ -43,12 +47,9 @@ Esta é uma lista de verificação com critérios para serem observados na *quar
         referrerpolicy="strict-origin-when-cross-origin" 
         allowfullscreen>
 </iframe>
-## 2. Bibliografia
 
 
-## 2. Bibliografia
-
-### 2.1 Referências da Lista de Verificação
+### Bibliografia
 
 <font size="3"><p style="text-align: center">Tabela 2: Referências da Lista de Verificação</p></font>
 
@@ -61,10 +62,20 @@ Esta é uma lista de verificação com critérios para serem observados na *quar
 
 ---
 
-## 3. Histórico de Versões
+### Histórico de Versões (documento original)
 
 <font size="3"><p style="text-align: center">Tabela 3: Histórico de Versões</p></font>
 
 | Versão | Descrição | Autor | Data | Revisor |
 |--------|-----------|--------|------|---------|
 | 1.0 | Criação da lista de verificação da Entrega 4 | [Diassis](https://github.com/Diaxiz) | 01/06/2025 | [José Eduardo](https://github.com/jevprado) |
+
+
+---
+
+## Histórico de Versão da Cópia do Documento
+
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| :-: | :-: | :-: | :-: | :-: |
+| `1.0` | 10/06/2025 | Criação do documento | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.1` | 11/06/2025 | Adicionando layout próprio | [Eduardo de Pina](https://github.com/eduardodpms) | - |
