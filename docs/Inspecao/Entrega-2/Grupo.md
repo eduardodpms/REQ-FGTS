@@ -1,4 +1,4 @@
-# Inspeção do Grupo (Entrega 2)
+# Auto-Inspeção do Grupo (Entrega 2)
 
 
 ## Introdução

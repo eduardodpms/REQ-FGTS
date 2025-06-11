@@ -1,4 +1,4 @@
-# Inspeção do Grupo -1 - Entrega 4
+# Inspeção do Grupo -1 (Entrega 4)
 
 ## Introdução
 

@@ -1,4 +1,4 @@
-# Entrega 6
+# Auto-Inspeção do Grupo (Entrega 6)
 
 
 ## Introdução
