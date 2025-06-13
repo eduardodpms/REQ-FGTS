@@ -1417,7 +1417,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> Não Implementado </td>
     </tr>
   </tbody>
 </table>
@@ -1462,7 +1462,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> Não Implementado </td>
     </tr>
   </tbody>
 </table>
@@ -1512,7 +1512,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> Não Implementado </td>
     </tr>
   </tbody>
 </table>
@@ -1557,7 +1557,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> <img src="docs/assets/pos/prints/Ajuda.png" alt="Ajuda" width="500"> </td>
     </tr>
   </tbody>
 </table>
@@ -1603,7 +1603,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> <img src="docs/assets/pos/prints/Pis.png" alt="PIS" width="500"> </td>
     </tr>
   </tbody>
 </table>
@@ -1648,7 +1648,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> <img src="docs/assets/pos/prints/Segurança.jpg" alt="Ajuda" width="500"> </td>
     </tr>
   </tbody>
 </table>
@@ -1693,7 +1693,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> Não Implementado </td>
     </tr>
   </tbody>
 </table>
@@ -1738,7 +1738,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> Não Implementado </td>
     </tr>
   </tbody>
 </table>
@@ -1782,7 +1782,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> - </td>
+      <td> <img src="docs/assets/pos/prints/Clareza.jpg" alt="Clareza" width="500"> </td>
     </tr>
   </tbody>
 </table>
