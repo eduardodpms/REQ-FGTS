@@ -776,7 +776,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> <img src="./../assets/pos/prints/rf24.png" width="100px"/> </td>
+      <td> <img src="../../assets/pos/prints/rf24.PNG" width="100px"/> </td>
     </tr>
   </tbody>
 </table>
@@ -822,7 +822,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> <img src="./../assets/pos/prints/rf25.png" width="100px"/> </td>
+      <td> <img src="../../assets/pos/prints/rf25.PNG" width="100px"/> </td>
     </tr>
   </tbody>
 </table>
@@ -869,7 +869,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> <img src="./../assets/pos/prints/rf26.png" width="100px"/> </td>
+      <td> <img src="../../assets/pos/prints/rf26.PNG" width="100px"/> </td>
     </tr>
   </tbody>
 </table>
@@ -912,7 +912,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> <img src="./../assets/pos/prints/rf36.png" width="100px"/> </td>
+      <td> <img src="../../assets/pos/prints/rf36.PNG" width="100px"/> </td>
     </tr>
   </tbody>
 </table>
