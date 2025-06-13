@@ -1172,7 +1172,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     <tr>
       <td> Print </td>
       <td>
-        <td> <img src="../../assets/pos/prints/rf03.png" alt="rf03" width="100"> </td>
+        <img src="../../assets/pos/prints/rf03.png" alt="rf03" width="100">
       </td>
     </tr>
   </tbody>
