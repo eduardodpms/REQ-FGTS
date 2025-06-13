@@ -757,7 +757,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> <img src="../../assets/pos/prints/rf24.png" width="100px"/> </td>
+      <td> <img src="../../assets/pos/prints/rf24.PNG" width="100px"/> </td>
     </tr>
   </tbody>
 </table>
@@ -800,7 +800,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> <img src="../../assets/pos/prints/rf25.png" width="100px"/> </td>
+      <td> <img src="../../assets/pos/prints/rf25.PNG" width="100px"/> </td>
     </tr>
   </tbody>
 </table>
@@ -843,7 +843,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> <img src="../../assets/pos/prints/rf26.png" width="100px"/> </td>
+      <td> <img src="../../assets/pos/prints/rf26.PNG" width="100px"/> </td>
     </tr>
   </tbody>
 </table>
@@ -886,7 +886,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> <img src="../../assets/pos/prints/rf36.png" width="100px"/> </td>
+      <td> <img src="../../assets/pos/prints/rf36.PNG" width="100px"/> </td>
     </tr>
   </tbody>
 </table>
@@ -2882,7 +2882,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 <font size="3"><p style="text-align: center">Figura 1: Foto da referência 1</p></font>
 
 <div align="center">
-  <img src="./../assets/pos/referencias/ref1.png" alt="FIGURA 1">
+  <img src="../../assets/pos/referencias/ref1.png" alt="FIGURA 1">
 </div>
 
 <font size="2"><p style="text-align: center">Fonte: [AYÃO, LEITE, 2005](https://www-di.inf.puc-rio.br/~julio/rastre.pdf) </p></font>
@@ -2890,7 +2890,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 <font size="3"><p style="text-align: center">Figura 2: Foto da referência 2</p></font>
 
 <div align="center">
-  <img src="./../assets/pos/referencias/ref2.png" alt="FIGURA 2">
+  <img src="../../assets/pos/referencias/ref2.png" alt="FIGURA 2">
 </div>
 
 <font size="2"><p style="text-align: center">Fonte: [TORANZO, CASTO, MELLO, 2002](http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/toranzo.pdf) </p></font>
@@ -2911,4 +2911,5 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 | `1.9`  | 08/06/2025 | Prints dos requisitos RF03, RF04, RF05 |  [Danielle Soares](https://github.com/danielle-soaress)  | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `2.0`  | 08/06/2025 | Prints dos requisitos |  [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  | [Maria Eduarda](https://github.com/dudaa28) |
 | `2.1`  | 08/06/2025 | Adicionando prints |  [Maria Eduarda](https://github.com/dudaa28)  | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `2.2`  | 08/06/2025 | Adição das tabelas EB56 - EB64 |  [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `2.2`  | 08/06/2025 | Adição das tabelas EB56 - EB64 |  [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `2.3`  | 13/06/2025 | Arrumando links das imagens |  [Enzo Emir](https://github.com/EnzoEmir) | - |
