@@ -1126,7 +1126,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <a href="https://drive.google.com/file/d/1KmliL-cdTE3LAo8VknyWbIcKED0gJvlN/view?usp=sharing">Imagem do Aplicativo</a>
+      <td><img src="../assets/pos/prints/rf03.png" alt="RF21" width="100"></td>
     </tr>
   </tbody>
 </table>
@@ -1168,7 +1168,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> <a href="https://drive.google.com/file/d/1SyIaadBo-mpkuuhhekpIBaFgsWhzTgX6/view?usp=sharing">Imagem do Aplicativo</a>  </td>
+      <td><img src="../assets/pos/prints/rf04.jpeg" alt="RF21" width="100"></td>
     </tr>
   </tbody>
 </table>
@@ -1210,7 +1210,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> <a href="https://drive.google.com/file/d/1KawPm5nEOUUhGUfNHtqlrXZysenJF81Y/view?usp=sharing">Imagem do Aplicativo</a></td>
+      <td><img src="../assets/pos/prints/rf05.jpeg" alt="RF21" width="100"></td>
     </tr>
   </tbody>
 </table>
@@ -2906,10 +2906,10 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 | `1.4`  | 08/06/2025 | Adição das tabelas EB29 - EB37 |  [Enzo Emir](https://github.com/EnzoEmir)   | [Victor Pontual](https://github.com/VictorPontual) |
 | `1.5`  | 08/06/2025 | Adição das tabelas EB38 - EB46 |  [Victor Pontual](https://github.com/VictorPontual)   | [Danielle Soares](https://github.com/danielle-soaress)  |
 | `1.6`  | 08/06/2025 | Adição dos textos de introdução e metodologia |  [Enzo Emir](https://github.com/EnzoEmir)   | [Danielle Soares](https://github.com/danielle-soaress) |
-| `1.7`  | 08/06/2025 | Sumário |  [Danielle Soares](https://github.com/danielle-soaress)  | - |
+| `1.7`  | 08/06/2025 | Sumário |  [Danielle Soares](https://github.com/danielle-soaress)  | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.8`  | 08/06/2025 | Adição das tabelas EB47 - EB55 |  [Maria Eduarda](https://github.com/dudaa28)  | [Danielle Soares](https://github.com/danielle-soaress)  |
 | `1.9`  | 08/06/2025 | Prints dos requisitos RF03, RF04, RF05 |  [Danielle Soares](https://github.com/danielle-soaress)  | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `2.0`  | 08/06/2025 | Prints dos requisitos |  [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  | [Maria Eduarda](https://github.com/dudaa28) |
 | `2.1`  | 08/06/2025 | Adicionando prints |  [Maria Eduarda](https://github.com/dudaa28)  | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `2.2`  | 08/06/2025 | Adição das tabelas EB56 - EB64 |  [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir) |
-| `2.3`  | 13/06/2025 | Arrumando links das imagens |  [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `2.3`  | 13/06/2025 | Arrumando links das imagens |  [Enzo Emir](https://github.com/EnzoEmir) | [Danielle Soares](https://github.com/danielle-soaress) |

@@ -330,7 +330,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td><img src="../../assets/pos/prints/RF21.jpeg" alt="RF21" width="500"> <br> <a href="https://drive.google.com/drive/folders/1o_RqQ4odSH91H1hIYdRohfDFAy7YZPVf?usp=sharing">Imagem do Aplicativo</a></td>
+      <td><img src="../../assets/pos/prints/RF21.jpeg" alt="RF21" width="500"> <br> <a href="https://drive.google.com/drive/folders/1o_RqQ4odSH91H1hIYdRohfDFAy7YZPVf?usp=sharing"></td>
     </tr>
   </tbody>
 </table>
@@ -424,7 +424,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> <img src="../../assets/pos/prints/RF23.png" alt="RF23" width="500"> <br> <a href="https://drive.google.com/drive/folders/1n7_w4KNa4kdBqEJe-WdbAH4gfrY-Qljr?usp=sharing">Imagem do Aplicativo</a><</td>
+      <td> <img src="../../assets/pos/prints/RF23.png" alt="RF23" width="500"> <br> <a href="https://drive.google.com/drive/folders/1n7_w4KNa4kdBqEJe-WdbAH4gfrY-Qljr?usp=sharing"></td>
     </tr>
   </tbody>
 </table>
@@ -1172,7 +1172,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     <tr>
       <td> Print </td>
       <td>
-        <a href="https://drive.google.com/file/d/12wchWUZO20rOlDBzsw6rGqfo6yEdffhp/view?usp=sharing">Imagem do Aplicativo</a>
+        <td> <img src="../../assets/pos/prints/rf03.png" alt="rf03" width="100"> </td>
       </td>
     </tr>
   </tbody>
@@ -1219,7 +1219,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> <a href="https://drive.google.com/file/d/1SyIaadBo-mpkuuhhekpIBaFgsWhzTgX6/view?usp=sharing">Imagem do Aplicativo</a> </td>
+      <td> <img src="../../assets/pos/prints/rf04.jpeg" alt="rf04" width="100"> </td>
     </tr>
   </tbody>
 </table>
@@ -1265,7 +1265,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td><a href="https://drive.google.com/file/d/1KawPm5nEOUUhGUfNHtqlrXZysenJF81Y/view?usp=sharing">Imagem do Aplicativo</a></td>
+      <td> <img src="../../assets/pos/prints/rf05.jpeg" alt="rf05" width="100"> </td>
     </tr>
   </tbody>
 </table>
