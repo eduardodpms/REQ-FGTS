@@ -330,7 +330,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td><img src="../assets/pos/prints/RF21.jpeg" width="100px" height="200px"> <br> <a href="https://drive.google.com/drive/folders/1o_RqQ4odSH91H1hIYdRohfDFAy7YZPVf?usp=sharing">Imagem do Aplicativo</a></td>
+      <td><img src="../../assets/pos/prints/RF21.jpeg" alt="RF21" width="500"> <br> <a href="https://drive.google.com/drive/folders/1o_RqQ4odSH91H1hIYdRohfDFAy7YZPVf?usp=sharing">Imagem do Aplicativo</a></td>
     </tr>
   </tbody>
 </table>
@@ -424,7 +424,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> <img src="./../assets/pos/prints/RF23.png" width="100px"/> <br> <a href="https://drive.google.com/drive/folders/1n7_w4KNa4kdBqEJe-WdbAH4gfrY-Qljr?usp=sharing">Imagem do Aplicativo</a> </td>
+      <td> <img src="../../assets/pos/prints/RF23.png" alt="RF23" width="500"> <br> <a href="https://drive.google.com/drive/folders/1n7_w4KNa4kdBqEJe-WdbAH4gfrY-Qljr?usp=sharing">Imagem do Aplicativo</a><</td>
     </tr>
   </tbody>
 </table>
