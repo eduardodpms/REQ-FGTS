@@ -137,7 +137,7 @@ Legenda das Tabelas 3 e 4:
 
 | Versão | Data       | Descrição                                      | Autor(es)   | Revisor(es) |
 |:------:|:----------:|:-----------------------------------------------|:------------|:-----------:|
-|  `1.0`   | 30/05/2025 | Introdução, Metodologia, Participantes e Requisitos elicitados  | [Danielle Soares](https://github.com/danielle-soaress)   | - |
+|  `1.0`   | 30/05/2025 | Introdução, Metodologia, Participantes e Requisitos elicitados  | [Danielle Soares](https://github.com/danielle-soaress)   | [Enzo Emir](https://github.com/EnzoEmir) |
 |  `1.1`   | 30/05/2025 | Vídeo da elicitação  | [Danielle Soares](https://github.com/danielle-soaress)   | [Maria Eduarda](https://github.com/dudaa28) |
 |  `1.2`   | 30/05/2025 | Vídeo da elicitação  | [Danielle Soares](https://github.com/danielle-soaress)   | [Maria Eduarda](https://github.com/dudaa28) |
 
