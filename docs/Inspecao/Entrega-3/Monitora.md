@@ -132,7 +132,7 @@ Observações:
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 17/06/2025 | Criação do documento com base na avaliação entregue no dia 16/06 | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.0` | 17/06/2025 | Criação do documento com base na avaliação entregue no dia 16/06 | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
  
 
  

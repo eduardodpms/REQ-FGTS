@@ -153,7 +153,7 @@ Essa tabela foi preenchida no dia 17/04, após a apresentação e sofreu algumas
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 11/06/2025 | Criação do documento com base na avaliação entregue no dia 06/05 | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.0` | 11/06/2025 | Criação do documento com base na avaliação entregue no dia 06/05 | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
 
 
 
