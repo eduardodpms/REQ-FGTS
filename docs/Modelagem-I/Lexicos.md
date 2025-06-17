@@ -16,7 +16,7 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
 <center>
 
 | Tipo    | Noção                                                                       | Impacto                                                                                  |
-| ------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- 
+| :-----: | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- 
 | Verbo   | Quem realiza, quando acontece e quais os procedimentos envolvidos.          | Quais os reflexos da ação no ambiente (outras ações que devem ocorrer) e quais os novos estados decorrentes    |
 | Objeto  | Definir o objeto e identificar os outros objetos com os quais se relaciona. | Ações que podem ser aplicadas ao objeto.                                                 |
 | Estado  | O que significa e quais ações levaram a esse estado.                        | Identificar outros estados e ações que podem ocorrer a partir do estado que se descreve. |
@@ -154,42 +154,46 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
 **Requisito IS12:**
 
 - [L30 – Cadastrar](#l30-cadastrar)
+- [L31 – Conta Bancária](#l31-conta-bancaria)
+- [L32 – Instituições Financeiras](#l32-instituicoes-financeiras)
 
 **Requisito IS09:**
 
-- [L31 – Exibir Informações Detalhadas](#l31-exibir-informacoes-detalhadas)
-- [L32 – Informações Detalhadas](#l32-informacoes-detalhadas)
-- [L33 – Histórico de Movimentações Financeiras](#l33-historico-de-movimentacoes-financeiras)
+- [L33 – Exibir Informações Detalhadas](#l33-exibir-informacoes-detalhadas)
+- [L34 – Informações Detalhadas](#l34-informacoes-detalhadas)
+- [L35 – Histórico de Movimentações Financeiras](#l35-historico-de-movimentacoes-financeiras)
 
 **Requisito IS10:**
 
-- [L34 – Filtrar](#l34-filtrar)
+- [L36 – Filtrar](#l36-filtrar)
+- [L37 – Cadastrar](#l37-bloqueado)
+- [L38 – Cadastrar](#l38-informacoes)
 
 **Requisito IS08:**
 
-- [L35 – Bloqueado](#l35-bloqueado)
+- [L39 – Bloqueado](#l39-motivo-do-bloqueio)
 
 **Requisito IS13:**
 
-- [L36 – Chat](#l36-chat)
-- [L37 – Assistente Virtual](#l37-assistente-virtual)
-- [L38 – Mensagem](#l38-mensagem)
+- [L40 – Chat](#l40-chat)
+- [L41 – Assistente Virtual](#l41-assistente-virtual)
+- [L42 – Mensagem](#l42-mensagem)
 
 **Requisito IS14:**
 
-- [L39 – Buscar](#l39-buscar)
-- [L40 – Campo de Busca](#l40-campo-de-busca)
-- [L41 – Termo de Pesquisa](#l41-termo-de-pesquisa)
+- [L43 – Buscar](#l43-buscar)
+- [L44 – Campo de Busca](#l44-campo-de-busca)
+- [L45 – Termo de Pesquisa](#l45-termo-de-pesquisa)
 
 **Requisito IS16:**
 
-- [L42 – Acessar Ajuda](#l42-acessar-ajuda)
-- [L43 – Procurar Dúvida](#l43-procurar-duvida)
+- [L46 – Acessar Ajuda](#l46-acessar-ajuda)
+- [L47 – Procurar Dúvida](#l47-procurar-duvida)
 
 **Requisito ST07:**
 
-- [L44 – Requerer Guia](#l44-requerer-guia)
-- [L45 – Seguir Guia](#l45-seguir-guia)
+- [L48 – Requerer Guia](#l48-requerer-guia)
+- [L49 – Seguir Guia](#l49-seguir-guia)
 
 ---
 
@@ -634,7 +638,7 @@ O léxico L20 utiliza o requisito funcional IS06 (O sistema deve permitir que o 
 <font size="3"><p style="text-align: center">Tabela 23: Léxico 20 – Cancelar Solicitação (L20)</p></font>
 
 | L20           | Descrição                                                                                                                                                                     |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :-----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **Termo**     | Cancelar Solicitação                                                                                                                                                          |
 | **Tipo**      | Verbo                                                                                                                                                                         |
 | **Impacto**   | Permite que o usuário interrompa uma solicitação de saque ativa, evitando que ela seja processada ou liberada.                                                                |
@@ -651,7 +655,7 @@ O léxico L21 utiliza o requisito funcional IS06 (O sistema deve permitir que o 
 <font size="3"><p style="text-align: center">Tabela 24: Léxico 21 – Solicitação de Saque (L21)</p></font>
 
 | L21           | Descrição                                                                                                      |
-| ------------- | -------------------------------------------------------------------------------------------------------------- |
+| :----------: | :-----------------------------------------------------------------------------------------------------: |
 | **Termo**     | Solicitação de Saque                                                                                           |
 | **Tipo**      | Objeto                                                                                                         |
 | **Impacto**   | Representa o pedido formal do usuário para saque de valores do FGTS.                                           |
@@ -668,7 +672,7 @@ O léxico L22 utiliza o requisito funcional IS06 (O sistema deve permitir que o 
 <font size="3"><p style="text-align: center">Tabela 25: Léxico 22 – Confirmação de Cancelamento (L22)</p></font>
 
 | L22           | Descrição                                                                                                                         |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| :----------: | :---------------------------------------------------------------------------------------------------------------: |
 | **Termo**     | Confirmação de Cancelamento                                                                                                       |
 | **Tipo**      | Objeto                                                                                                                            |
 | **Impacto**   | Garante que o usuário valide sua intenção de cancelar a solicitação de saque, evitando cancelamentos acidentais.                  |
@@ -686,7 +690,7 @@ O léxico L23 utiliza o requisito funcional IS06 (O sistema deve permitir que o 
 <font size="3"><p style="text-align: center">Tabela 26: Léxico 23 – Solicitação Ativa (L23)</p></font>
 
 | L23           | Descrição                                                                                                           |
-| ------------- | ------------------------------------------------------------------------------------------------------------------- |
+| :----------: | :--------------------------------------------------------------------------------------------------------------: |
 | **Termo**     | Solicitação Ativa                                                                                                   |
 | **Tipo**      | Estado                                                                                                              |
 | **Impacto**   | Indica que a solicitação de saque está vigente e pode ser modificada ou cancelada pelo usuário.                     |
@@ -703,7 +707,7 @@ O léxico L24 utiliza o requisito funcional IS06 (O sistema deve permitir que o 
 <font size="3"><p style="text-align: center">Tabela 27: Léxico 24 – Solicitação Cancelada (L24)</p></font>
 
 | L24           | Descrição                                                                                              |
-| ------------- | ------------------------------------------------------------------------------------------------------ |
+| :-----------: | :-------------------------------------------------------------------------------------------------: |
 | **Termo**     | Solicitação Cancelada                                                                                  |
 | **Tipo**      | Estado                                                                                                 |
 | **Impacto**   | Indica que a solicitação de saque foi anulada e não será processada pelo sistema.                      |
@@ -720,7 +724,7 @@ O léxico L25 utiliza o requisito funcional IS06 (O sistema deve permitir que o 
 <font size="3"><p style="text-align: center">Tabela 28: Léxico 25 – Solicitação Processada (L25)</p></font>
 
 | L25           | Descrição                                                                                                              |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| :-----------: |:------------------------------------------------------------------------------------------------------------------: |
 | **Termo**     | Solicitação Processada                                                                                                 |
 | **Tipo**      | Estado                                                                                                                 |
 | **Impacto**   | Indica que a solicitação de saque foi analisada e concluída pelo sistema, não podendo mais ser cancelada pelo usuário. |
@@ -743,7 +747,7 @@ O léxico L26 utiliza o requisito funcional IS07 (O aplicativo deve permitir o f
 <font size="3"><p style="text-align: center">Tabela 29: Léxico 26 – Filtrar Saques por Tipo (L26)</p></font>
 
 | L26           | Descrição                                                                                                                                 |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| :---------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
 | **Termo**     | Filtrar Saques por Tipo                                                                                                                   |
 | **Tipo**      | Verbo                                                                                                                                     |
 | **Impacto**   | Permite que o usuário restrinja a visualização dos saques exibidos no histórico com base no tipo (ex.: aniversário, doença, falecimento). |
@@ -761,7 +765,7 @@ O léxico L27 utiliza o requisito funcional IS07 (O aplicativo deve permitir o f
 <font size="3"><p style="text-align: center">Tabela 30: Léxico 27 – Lista de Saques (L27)</p></font>
 
 | L27           | Descrição                                                                                                                              |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| :-------------: | :------------------------------------------------------------------------------------------------------------------------------: |
 | **Termo**     | Lista de Saques                                                                                                                        |
 | **Tipo**      | Objeto                                                                                                                                 |
 | **Impacto**   | Representa o conjunto de registros das solicitações de saque do usuário, possibilitando a consulta e gerenciamento dessas informações. |
@@ -779,7 +783,7 @@ O léxico L28 utiliza o requisito funcional IS07 (O aplicativo deve permitir o f
 <font size="3"><p style="text-align: center">Tabela 31: Léxico 28 – Filtro de Tipo (L28)</p></font>
 
 | L28           | Descrição                                                                                                                           |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| :------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
 | **Termo**     | Filtro de Tipo                                                                                                                      |
 | **Tipo**      | Objeto                                                                                                                              |
 | **Impacto**   | Permite segmentar ou restringir a visualização da lista de saques com base no tipo selecionado pelo usuário.                        |
@@ -796,7 +800,7 @@ O léxico L29 utiliza o requisito funcional IS07 (O aplicativo deve permitir o f
 <font size="3"><p style="text-align: center">Tabela 32: Léxico 29 – Lista Filtrada (L29)</p></font>
 
 | L29           | Descrição                                                                                                                      |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| :-------------: |:------------------------------------------------------------------------------------------------------------------------------: |
 | **Termo**     | Lista Filtrada                                                                                                                 |
 | **Tipo**      | Estado                                                                                                                         |
 | **Impacto**   | Representa o estado em que a lista de saques exibe somente os registros que correspondem aos critérios de filtro aplicados.    |
@@ -812,9 +816,9 @@ O léxico L29 utiliza o requisito funcional IS07 (O aplicativo deve permitir o f
 
 ## Requisito IS12
 
----
-
 ### L30: Cadastrar
+
+<a name="L30"></a> 
 
 O léxico L30 utiliza o requisito funcional IS12 (O aplicativo deve permitir o cadastro de mais de uma conta bancária de diferentes instituições financeiras). Esse léxico é detalhado na tabela abaixo:
 
@@ -823,7 +827,7 @@ O léxico L30 utiliza o requisito funcional IS12 (O aplicativo deve permitir o c
 <center>
 
 | L30       | Descrição                                                 |
-| :-:       | :-:                                                       |
+| :-:       | :---:                                                      |
 | **Termo** | Cadastrar                                                 |
 | **Tipo**  | Verbo                                                     |
 | **Impacto** | <p>Permite que informações sejam registradas no sistema.</p><p>O sistema pode utilizar as informações registradas em funcionalidades futuras.</p><p>O usuário pode acessar as informações registradas posteriormente.</p> |
@@ -835,21 +839,67 @@ O léxico L30 utiliza o requisito funcional IS12 (O aplicativo deve permitir o c
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
+### L31: Conta Bancária
+
+<a name="L31"></a> 
+
+O léxico L31 utiliza o requisito funcional IS12 (O aplicativo deve permitir o cadastro de mais de uma conta bancária de diferentes instituições financeiras). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 34: Léxico 31 – Conta Bancária (L31)</p></font>
+
+<center>
+
+| L31             | Descrição                                                                                                  |
+| :-------------: | :--------------------------------------------------------------------------------------------------------: |
+| **Termo**       | Conta Bancária                                                                                             |
+| **Tipo**        | Substantivo                                                                                                |
+| **Impacto**     | <p>Permite armazenar e identificar os dados financeiros inseridos pelo usuário.</p><p>É usada como base para funcionalidades como consulta de saldo, registro de transações e exibição de extratos.</p><p>Viabiliza o controle financeiro personalizado dentro do aplicativo.</p> |
+| **Noção**       | <p>Conjunto de dados que representam uma conta financeira pessoal vinculada a uma instituição bancária, como número da conta, agência, tipo de conta e nome do banco.</p> |
+| **Sinônimos**   | <p>Conta, Conta Financeira</p>                                                                              |
+| **Autor**       | [Danielle Soares](https://github.com/danielle-soaress)                                                     |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
+
+### L32: Instituições Financeiras
+
+<a name="L32"></a> 
+
+O léxico L32 está relacionado ao requisito funcional IS12 (O aplicativo deve permitir o cadastro de mais de uma conta bancária de diferentes instituições financeiras). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 35: Léxico 32 – Instituições Financeiras (L32)</p></font>
+
+<center>
+
+| L32               | Descrição                                                                                                             |
+| :---------------: | :-------------------------------------------------------------------------------------------------------------------: |
+| **Termo**         | Instituições Financeiras                                                                                             |
+| **Tipo**          | Objeto                                                                                                                |
+| **Impacto**       | <p>Permite a categorização e associação correta das contas bancárias registradas no sistema.</p><p>Garante compatibilidade com funcionalidades relacionadas a transações, extratos e identificação da origem dos dados financeiros.</p> |
+| **Noção**         | <p>Entidades autorizadas a operar no sistema financeiro nacional, como bancos, cooperativas de crédito, fintechs e instituições de pagamento.</p> |
+| **Sinônimos**     | <p>Banco, Entidade Financeira</p>                                                                                     |
+| **Autor**         | [Danielle Soares](https://github.com/danielle-soaress)                                                               |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
+
 ---
 
 ## Requisito IS09
 
 ---
 
-### <a name="L31"></a> L31: Exibir informações detalhadas
+### <a name="L33"></a> L33: Exibir informações detalhadas
 
-O L31, apresentado na tabela 34, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
+O L33, apresentado na tabela 36, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
 
-<font size="3"><p style="text-align: center">Tabela 34: Léxico 31 – Exibir informações detalhadas (L31)</p></font>
+<font size="3"><p style="text-align: center">Tabela 36: Léxico 33 – Exibir informações detalhadas (L31)</p></font>
 
 <center>
 
-| L31 | Descrição | 
+| L33 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Exibir informações detalhadas | 
 | **Tipo** | Verbo | 
@@ -864,16 +914,16 @@ O L31, apresentado na tabela 34, utiliza o seguinte requisito não implementado:
 
 ---
 
-### <a name="L32"></a> L32: Informações detalhadas
+### <a name="L34"></a> L34: Informações detalhadas
 
-O L32, apresentado na tabela 35, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
+O L34, apresentado na tabela 37, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
 
 
-<font size="3"><p style="text-align: center">Tabela 35: Léxico 32 – Informações detalhadas (L32)</p></font>
+<font size="3"><p style="text-align: center">Tabela 37: Léxico 34 – Informações detalhadas (L32)</p></font>
 
 <center>
 
-| L32 | Descrição | 
+| L34 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Informações detalhadas | 
 | **Tipo** | Objeto | 
@@ -888,15 +938,15 @@ O L32, apresentado na tabela 35, utiliza o seguinte requisito não implementado:
 
 ---
 
-### <a name="L33"></a> L33: Histórico de movimentações financeiras
+### <a name="L35"></a> L35: Histórico de movimentações financeiras
 
-O L33, apresentado na tabela 36, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
+O L35, apresentado na tabela 38, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
 
-<font size="3"><p style="text-align: center">Tabela 36: Léxico 33 – Histórico de movimentações financeiras (L33)</p></font>
+<font size="3"><p style="text-align: center">Tabela 38: Léxico 35 – Histórico de movimentações financeiras (L33)</p></font>
 
 <center>
 
-| L33 | Descrição | 
+| L35 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Histórico de movimentações financeiras | 
 | **Tipo** | Objeto | 
@@ -915,16 +965,16 @@ O L33, apresentado na tabela 36, utiliza o seguinte requisito não implementado:
 
 ---
 
-### <a name="L34"></a> L34: Filtrar
+### <a name="L36"></a> L36: Filtrar
 
 <center>
 
-O L34, apresentado na tabela 37, utiliza o seguinte requisito não implementado: O aplicativo deve permitir o filtro do extrato por data (mês e ano) 
+O L36, apresentado na tabela 39, utiliza o seguinte requisito não implementado: O aplicativo deve permitir o filtro do extrato por data (mês e ano) 
 (<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS10</a>)
 
-<font size="3"><p style="text-align: center">Tabela 37: Léxico 34 – Filtrar (L34)</p></font>
+<font size="3"><p style="text-align: center">Tabela 39: Léxico 36 – Filtrar (L36)</p></font>
 
-| L34 | Descrição | 
+| L36 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Filtrar | 
 | **Tipo** | Verbo | 
@@ -941,17 +991,17 @@ O L34, apresentado na tabela 37, utiliza o seguinte requisito não implementado:
 
 ## Requisito IS08
 
----
+<a name="L37"></a> 
 
-### L35: Bloqueado
+### L37: Bloqueado
 
-O léxico L35 utiliza o requisito funcional IS08 (O aplicativo deve fornecer informações sobre saques bloqueados e os motivos do bloqueio). Esse léxico é detalhado na tabela abaixo:
+O léxico L37 utiliza o requisito funcional IS08 (O aplicativo deve fornecer informações sobre saques bloqueados e os motivos do bloqueio). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela 38: Léxico 35 – Bloqueado (L35)</p></font>
+<font size="3"><p style="text-align: center">Tabela 40: Léxico 37 – Bloqueado (L37)</p></font>
 
 <center>
 
-| L35       | Descrição                                                 |
+| L37       | Descrição                                                 |
 | :-:       | :-:                                                       |
 | **Termo** | Bloqueado                                                |
 | **Tipo**  | Estado                                                   |
@@ -964,21 +1014,67 @@ O léxico L35 utiliza o requisito funcional IS08 (O aplicativo deve fornecer inf
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
 
+<a name="L38"></a> 
+
+### L38: Informações
+
+O léxico L38 utiliza o requisito funcional IS08 (O aplicativo deve fornecer informações sobre saques bloqueados). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 41: Léxico 38 – Informações (L38)</p></font>
+
+<center>
+
+| L38       | Descrição                                                                                                   |
+| :-------: | :---------------------------------------------------------------------------------------------------------: |
+| **Termo** | Informações                                                                                                 |
+| **Tipo**  | Objeto                                                                                                      |
+| **Impacto** | <p>Permite ao usuário compreender o estado atual de funcionalidades ou recursos do sistema.</p><p>Contribui para a transparência e usabilidade da aplicação.</p> |
+| **Noção** | <p>Conjunto de dados ou mensagens fornecidos ao usuário, com o objetivo de esclarecer ações, estados ou restrições no sistema.</p> |
+| **Sinônimos** | <p>Dados, Detalhes, Notificações</p>                                                                     |
+| **Autor** | [Danielle Soares](https://github.com/danielle-soaress)                                                     |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
+
+---
+<a name="L39"></a> 
+
+### L39: Motivo do Bloqueio
+
+O léxico L39 utiliza o requisito funcional IS08 (O aplicativo deve fornecer informações sobre saques bloqueados e os motivos do bloqueio). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 42: Léxico 39 – Motivo do Bloqueio (L39)</p></font>
+
+<center>
+
+| L38       | Descrição                                                                                                   |
+| :-------: | :---------------------------------------------------------------------------------------------------------: |
+| **Termo** | Motivo do Bloqueio                                                                                          |
+| **Tipo**  | Objeto                                                                                                      |
+| **Impacto** | <p>Justifica ao usuário a razão de uma restrição ou impedimento no sistema.</p><p>Ajuda na tomada de decisões ou na resolução de pendências.</p> |
+| **Noção** | <p>Explicação fornecida pelo sistema sobre a razão de uma funcionalidade (como o saque) estar bloqueada.</p> |
+| **Sinônimos** | <p>Justificativa, Razão, Causa</p>                                                                       |
+| **Autor** | [Danielle Soares](https://github.com/danielle-soaress)                                                     |
+
+</center>
+
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
+
+
 ---
 
 ## Requisito IS13
 
----
+### <a name="L40"></a> L40: Chat
 
-### L36: Chat
+O léxico L40 utiliza o requisito funcional não implementado IS13 (O aplicativo deve permitir que o usuário entre em contato com um assistente via chat). Esse léxico é detalhado na tabela abaixo:
 
-O léxico L36 utiliza o requisito funcional não implementado IS13 (O aplicativo deve permitir que o usuário entre em contato com um assistente via chat). Esse léxico é detalhado na tabela abaixo:
-
-<font size="3"><p style="text-align: center">Tabela 39: Léxico 36 – Chat (L36)</p></font>
+<font size="3"><p style="text-align: center">Tabela 43: Léxico 40 – Chat (L40)</p></font>
 
 <center>
 
-| L36 | Descrição | 
+| L40 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Chat | 
 | **Tipo** | Objeto | 
@@ -993,15 +1089,15 @@ O léxico L36 utiliza o requisito funcional não implementado IS13 (O aplicativo
 
 ---
 
-### L37: Assistente Virtual
+### <a name="L41"></a> L41: Assistente Virtual
 
-O léxico L37 utiliza o requisito funcional não implementado IS13 (O aplicativo deve permitir que o usuário entre em contato com um assistente via chat). Esse léxico é detalhado na tabela abaixo:
+O léxico L41 utiliza o requisito funcional não implementado IS13 (O aplicativo deve permitir que o usuário entre em contato com um assistente via chat). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela 40: Léxico 37 – Assistente Virtual (L37)</p></font>
+<font size="3"><p style="text-align: center">Tabela 44: Léxico 41 – Assistente Virtual (L41)</p></font>
 
 <center>
 
-| L37 | Descrição | 
+| L41 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Assistente Virtual | 
 | **Tipo** | Objeto | 
@@ -1016,15 +1112,15 @@ O léxico L37 utiliza o requisito funcional não implementado IS13 (O aplicativo
 
 ---
 
-### L38: Mensagem
+### <a name="L42"></a> L42: Mensagem
 
-O léxico L38 utiliza o requisito funcional não implementado IS13 (O aplicativo deve permitir que o usuário entre em contato com um assistente via chat). Esse léxico é detalhado na tabela abaixo:
+O léxico L42 utiliza o requisito funcional não implementado IS13 (O aplicativo deve permitir que o usuário entre em contato com um assistente via chat). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela 41: Léxico 38 – Mensagem (L38)</p></font>
+<font size="3"><p style="text-align: center">Tabela 45: Léxico 42 – Mensagem (L42)</p></font>
 
 <center>
 
-| L38 | Descrição | 
+| L42 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Mensagem | 
 | **Tipo** | Objeto | 
@@ -1041,17 +1137,17 @@ O léxico L38 utiliza o requisito funcional não implementado IS13 (O aplicativo
 
 ## Requisito IS14
 
----
 
-### L39: Buscar
 
-O léxico L39 utiliza o requisito funcional não implementado IS14 (O aplicativo deve disponibilizar um campo de busca para facilitar a localização de funcionalidades). Esse léxico é detalhado na tabela abaixo:
+### <a name="L43"></a> L43: Buscar
 
-<font size="3"><p style="text-align: center">Tabela 42: Léxico 39 – Buscar (L39)</p></font>
+O léxico L43 utiliza o requisito funcional não implementado IS14 (O aplicativo deve disponibilizar um campo de busca para facilitar a localização de funcionalidades). Esse léxico é detalhado na tabela abaixo:
+
+<font size="3"><p style="text-align: center">Tabela 46: Léxico 43 – Buscar (L43)</p></font>
 
 <center>
 
-| L39 | Descrição | 
+| L43 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Buscar | 
 | **Tipo** | Verbo | 
@@ -1066,15 +1162,15 @@ O léxico L39 utiliza o requisito funcional não implementado IS14 (O aplicativo
 
 ---
 
-### L40: Campo de Busca
+### <a name="L44"></a> L44: Campo de Busca
 
-O léxico L40 utiliza o requisito funcional não implementado IS14 (O aplicativo deve disponibilizar um campo de busca para facilitar a localização de funcionalidades). Esse léxico é detalhado na tabela abaixo:
+O léxico L44 utiliza o requisito funcional não implementado IS14 (O aplicativo deve disponibilizar um campo de busca para facilitar a localização de funcionalidades). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela 43: Léxico 40 – Campo de Busca (L40)</p></font>
+<font size="3"><p style="text-align: center">Tabela 47: Léxico 44 – Campo de Busca (L44)</p></font>
 
 <center>
 
-| L40 | Descrição | 
+| L44 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Campo de Busca | 
 | **Tipo** | Objeto | 
@@ -1089,15 +1185,15 @@ O léxico L40 utiliza o requisito funcional não implementado IS14 (O aplicativo
 
 ---
 
-### L41: Termo de Pesquisa
+### <a name="L45"></a> L45: Termo de Pesquisa
 
-O léxico L41 utiliza o requisito funcional não implementado IS14 (O aplicativo deve disponibilizar um campo de busca para facilitar a localização de funcionalidades). Esse léxico é detalhado na tabela abaixo:
+O léxico L45 utiliza o requisito funcional não implementado IS14 (O aplicativo deve disponibilizar um campo de busca para facilitar a localização de funcionalidades). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela 44: Léxico 41 – Termo de Pesquisa (L41)</p></font>
+<font size="3"><p style="text-align: center">Tabela 48: Léxico 45 – Termo de Pesquisa (L45)</p></font>
 
 <center>
 
-| L41 | Descrição | 
+| L45 | Descrição | 
 | :-:       | :-:            |
 | **Termo** | Termo de Pesquisa | 
 | **Tipo** | Objeto | 
@@ -1116,13 +1212,13 @@ O léxico L41 utiliza o requisito funcional não implementado IS14 (O aplicativo
 
 ---
 
-### L42: Acessar Ajuda
+### <a name="L46"></a> L46: Acessar Ajuda
 
-O léxico L42 utiliza o requisito funcional não implementado IS16 (O aplicativo deve conter uma seção de ajuda com orientações sobre o uso do aplicativo). Esse léxico é detalhado na tabela abaixo:
+O léxico L46 utiliza o requisito funcional não implementado IS16 (O aplicativo deve conter uma seção de ajuda com orientações sobre o uso do aplicativo). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela 45: Léxico 42 – Acessar Ajuda</p></font>
+<font size="3"><p style="text-align: center">Tabela 49: Léxico 46 – Acessar Ajuda</p></font>
 
-| L42 | Descrição | 
+| L46 | Descrição | 
 | :-: | :-: |
 | **Termo** | Acessar Ajuda | 
 | **Tipo** | Verbo | 
@@ -1135,13 +1231,13 @@ O léxico L42 utiliza o requisito funcional não implementado IS16 (O aplicativo
 
 ---
 
-### L43 - Procurar Dúvida
+### <a name="L47"></a> L47 - Procurar Dúvida
 
-O léxico L43 utiliza o requisito funcional não implementado IS16 (O aplicativo deve conter uma seção de ajuda com orientações sobre o uso do aplicativo). Esse léxico é detalhado na tabela abaixo:
+O léxico L47 utiliza o requisito funcional não implementado IS16 (O aplicativo deve conter uma seção de ajuda com orientações sobre o uso do aplicativo). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela 46: Léxico 43 – Procurar Dúvida</p></font>
+<font size="3"><p style="text-align: center">Tabela 50: Léxico 47 – Procurar Dúvida</p></font>
 
-| L43 | Descrição | 
+| L47 | Descrição | 
 | :-: | :-: |
 | **Termo** | Procurar Dúvida | 
 | **Tipo** | Verbo | 
@@ -1158,13 +1254,13 @@ O léxico L43 utiliza o requisito funcional não implementado IS16 (O aplicativo
 
 ---
 
-### L44: Requerer Guia
+### <a name="L48"></a> L48: Requerer Guia
 
-O léxico L44 utiliza o requisito funcional não implementado ST07 (O aplicativo deve disponibilizar um guia interativo para orientar o usuário durante o processo). Esse léxico é detalhado na tabela abaixo:
+O léxico L48 utiliza o requisito funcional não implementado ST07 (O aplicativo deve disponibilizar um guia interativo para orientar o usuário durante o processo). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela 47: Léxico 44 – Requerer Guia</p></font>
+<font size="3"><p style="text-align: center">Tabela 51: Léxico 48 – Requerer Guia</p></font>
 
-| L44 | Descrição | 
+| L48 | Descrição | 
 | :-: | :-: |
 | **Termo** | Requerer Guia | 
 | **Tipo** | Verbo | 
@@ -1175,13 +1271,13 @@ O léxico L44 utiliza o requisito funcional não implementado ST07 (O aplicativo
 
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
-### L45: Seguir Guia
+### <a name="L49"></a> L49: Seguir Guia
 
-O léxico L45 utiliza o requisito funcional não implementado ST07 (O aplicativo deve disponibilizar um guia interativo para orientar o usuário durante o processo). Esse léxico é detalhado na tabela abaixo:
+O léxico L49 utiliza o requisito funcional não implementado ST07 (O aplicativo deve disponibilizar um guia interativo para orientar o usuário durante o processo). Esse léxico é detalhado na tabela abaixo:
 
-<font size="3"><p style="text-align: center">Tabela 48: Léxico 45 – Seguir Guia</p></font>
+<font size="3"><p style="text-align: center">Tabela 52: Léxico 49 – Seguir Guia</p></font>
 
-| L45 | Descrição | 
+| L49 | Descrição | 
 | :-: | :-: |
 | **Termo** | Seguir Guia | 
 | **Tipo** | Verbo | 
@@ -1217,3 +1313,5 @@ O léxico L45 utiliza o requisito funcional não implementado ST07 (O aplicativo
 | `2.1` | 18/05/2025 | Adição de léxicos referentes aos requisitos faltantes | [Eduardo de Pina](https://github.com/eduardodpms) | [Marcelo Makoto](https://github.com/MM4k) |
 | `2.2` | 18/05/2025 | Mudança de estilo da página | [Marcelo Makoto](https://github.com/MM4k) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `2.3` | 18/05/2025 | Adicionando Hyper Links | [Enzo Emir](https://github.com/EnzoEmir) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `2.4` | 17/06/2025 | Adicionando L31, L32, L38 E L39 | [Danielle Soares](https://github.com/danielle-soaress)  | --- |
+| `2.5` | 17/06/2025 | Corrigindo links da página | [Danielle Soares](https://github.com/danielle-soaress)  | --- |
