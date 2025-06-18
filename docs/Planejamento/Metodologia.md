@@ -64,11 +64,9 @@ Esse ciclo será repetido até a finalização do projeto, sempre respeitando as
 Estando disponível essa metodologia usada em um modelo de cronograma do planejamento de entregas no [roadmap do Figma](https://www.figma.com/board/xSSxSQVfdcaUxAc1tFFIGa/MAPEAMENTO-REQUISITOS--Grupo-07-?node-id=0-1&p=f&t=N8YBHnmxADRwqMQq-0).
 
 
-
 ## Bibliografia
 
 > <a id="SCRUM2" href="#TEC2">3.</a> RUNRUN.IT. *Metodologia Scrum: entenda o que é e como aplicar*. Disponível em: <<https://blog.runrun.it/metodologia-scrum/>>. Acesso em: 01/05/2025.
-
 
 
 ## Histórico de Versões 📅
