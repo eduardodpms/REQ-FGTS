@@ -23,6 +23,7 @@ Para garantir uma melhor organização, comunicação e produção de artefatos 
 | ![Logo do Google Docs](../assets/ferramentas/gdocs.png) | Google Docs | Criação e edição de tabelas e arquivos.<a id="anchor_9" href="#FRM9">^11^</a>
 | ![Logo do ChatGPT](../assets/ferramentas/chatgpt.png) | ChatGPT | Criação de imagens falsas para as personas.<a id="anchor_12" href="#FRM10">^12^</a> |
 | ![Logo do CapCut](../assets/ferramentas/capcut.png) | CapCut | Edição de vídeos.<a id="anchor_13" href="#FRM11">^13^</a> |
+| ![Logo do diagrams.net](../assets/ferramentas/diagrams-net.png) | Diagrams.net | Criação de diagramas, fluxogramas e esquemas visuais. <a id="anchor_13" href="#FRM12">^14^</a> |
 
 
 
@@ -54,6 +55,8 @@ Para garantir uma melhor organização, comunicação e produção de artefatos 
 >
 ><a id="FRM13" href="#anchor_13">13.</a> CapCut. Disponível em: https://www.capcut.com. Acesso em: 13 de abr. de 2025.
 >
+><a id="FRM14" href="#anchor_13">14.</a> Diagrams.net. Disponível em: https://app.diagrams.net/. Acesso em: 18 de jun. de 2025.
+>
 
 <br>
 
@@ -63,3 +66,4 @@ Para garantir uma melhor organização, comunicação e produção de artefatos 
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 12/04/2025 | Criação da página de ferramentas | [Victor Pontual](https://github.com/VictorPontual) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.1` | 12/04/2025 | Adição de ferramentas (CapCut) | [Eduardo de Pina](https://github.com/eduardodpms) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.2` | 18/06/2025 | Adição de ferramentas (Diagrams.net) | [Danielle Soares](https://github.com/danielle-soaress) | -- |
