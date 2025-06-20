@@ -38,6 +38,7 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
 | **Impacto** |  | 
 | **Noção** |  | 
 | **Sinônimos** |  | 
+| **Conexões** |  |
 | **Autor** |  | 
 
 </center>
@@ -216,6 +217,7 @@ O léxico L01 utiliza o requisito funcional EN02 (O sistema deve permitir que o 
 | **Impacto** | - Permite ao usuário acompanhar o andamento do processo de saque.<br> - Oferece clareza sobre a situação atual por meio de comentários explicativos.<br> - Melhora a transparência e reduz a necessidade de contato com o suporte. |  
 | **Noção** | Ação de verificar, dentro do aplicativo, a situação atual de um pedido de saque, incluindo o status e uma descrição explicativa. |  
 | **Sinônimos** | Verificar andamento, Acompanhar processo |  
+| **Conexões** | [L02](#l02-status-do-saque), [L03](#l03-comentário-explicativo), [L04](#l04-saque-em-análise), [L05](#l05-saque-aprovado), [L06](#l06-saque-efetuado), [L07](#l07-saque-pendente), [L08](#l08-saque-cancelado), [L09](#l09-status-visualizado) |  
 | **Autor** | [Enzo Emir](https://github.com/EnzoEmir) |  
 
 </center>
@@ -239,6 +241,7 @@ O léxico L02 utiliza o requisito funcional EN02 (O sistema deve permitir que o 
 | **Impacto** | - Representa a etapa atual do processo de saque.<br> - Permite ao usuário compreender a situação da solicitação.<br> - Pode influenciar ações do usuário, como aguardar, cancelar ou buscar suporte. |  
 | **Noção** | Informação exibida no aplicativo que mostra em que estágio o pedido de saque se encontra (ex: Em análise, Aprovado, Efetuado). |  
 | **Sinônimos** | Situação do Saque, Etapa do Processo |  
+| **Conexões** | [L01](#l01-consultar-status), [L03](#l03-comentário-explicativo), [L04](#l04-saque-em-análise), [L05](#l05-saque-aprovado), [L06](#l06-saque-efetuado), [L07](#l07-saque-pendente), [L08](#l08-saque-cancelado), [L09](#l09-status-visualizado), [L12](#l12-notificação) |  
 | **Autor** | [Enzo Emir](https://github.com/EnzoEmir) |  
 
 </center>
@@ -262,6 +265,7 @@ O léxico L03 utiliza o requisito funcional EN02 (O sistema deve permitir que o 
 | **Impacto** | - Ajuda o usuário a entender o significado do status atual do saque.<br> - Reduz dúvidas e melhora a experiência do usuário.<br> - Pode ser atualizado dinamicamente pelo sistema. |  
 | **Noção** | Texto exibido junto ao status do saque para explicar sua situação de forma acessível e clara. |  
 | **Sinônimos** | Explicação, Descrição do Status |  
+| **Conexões** | [L01](#l01-consultar-status), [L02](#l02-status-do-saque), [L04](#l04-saque-em-análise), [L05](#l05-saque-aprovado), [L06](#l06-saque-efetuado), [L07](#l07-saque-pendente), [L08](#l08-saque-cancelado), [L09](#l09-status-visualizado) |  
 | **Autor** | [Enzo Emir](https://github.com/EnzoEmir) |  
 
 </center>
@@ -285,6 +289,7 @@ O léxico L04 utiliza o requisito funcional EN02 (O sistema deve permitir que o 
 | **Impacto** | - Indica que o pedido de saque foi recebido e está sendo avaliado.<br> - Sinaliza ao usuário que nenhuma ação adicional é necessária no momento.<br> - Pode ser acompanhado de um comentário explicativo. |  
 | **Noção** | Estado inicial do processo de saque após a solicitação pelo usuário, durante o qual o sistema verifica a elegibilidade. |  
 | **Sinônimos** | Em Avaliação, Aguardando Aprovação |  
+| **Conexões** | [L02](#l02-status-do-saque), [L03](#l03-comentário-explicativo) |  
 | **Autor** | [Enzo Emir](https://github.com/EnzoEmir) |  
 
 </center>
@@ -301,6 +306,7 @@ O léxico L05 utiliza o requisito funcional EN02 (O sistema deve permitir que o 
 
 <center>
 
+
 | L05 | Descrição |  
 | :-:       | :-:            |  
 | **Termo** | Saque Aprovado |  
@@ -308,6 +314,7 @@ O léxico L05 utiliza o requisito funcional EN02 (O sistema deve permitir que o 
 | **Impacto** | - Informa que o pedido de saque foi aceito pelo sistema.<br> - Gera expectativa de liberação dos valores.<br> - Pode disparar notificações e atualizações no sistema. |  
 | **Noção** | Estado do pedido que indica que a solicitação passou na análise e será processada. |  
 | **Sinônimos** | Liberação Autorizada, Solicitação Aprovada |  
+| **Conexões** | [L02](#l02-status-do-saque), [L03](#l03-comentário-explicativo), [L12](#l12-notificação) |  
 | **Autor** | [Enzo Emir](https://github.com/EnzoEmir) |  
 
 </center>
@@ -331,7 +338,8 @@ O léxico L06 utiliza o requisito funcional EN02 (O sistema deve permitir que o 
 | **Impacto** | - Informa ao usuário que o valor foi efetivamente transferido.<br> - Representa o encerramento do fluxo de saque.<br> - Garante segurança e rastreabilidade do processo. |  
 | **Noção** | Estado final do processo de saque, quando os valores foram transferidos para a conta informada. |  
 | **Sinônimos** | Valor Transferido, Saque Realizado |  
-| **Autor** | [Enzo Emir](https://github.com/EnzoEmir) |  
+| **Conexões** | [L02](#l02-status-do-saque), [L03](#l03-comentário-explicativo), [L12](#l12-notificação) |  
+| **Autor** | [Enzo Emir](https://github.com/EnzoEmir) |   
 
 </center>
 
@@ -354,6 +362,7 @@ O léxico L07 utiliza o requisito funcional EN02 (O sistema deve permitir que o 
 | **Impacto** | - Indica que alguma ação ainda precisa ser realizada.<br> - Pode depender do usuário ou de uma etapa interna do sistema.<br> - Ajuda a identificar bloqueios no processo. |  
 | **Noção** | Estado intermediário que sinaliza que o saque está aguardando um passo adicional para prosseguir. |  
 | **Sinônimos** | Aguardando Ação, Em Espera |  
+| **Conexões** | [L02](#l02-status-do-saque), [L03](#l03-comentário-explicativo), [L12](#l12-notificação), [L21](#l21-solicitação-de-saque), [L23](#l23-solicitação-ativa), [L24](#l24-solicitação-cancelada), [L25](#l25-solicitação-processada) |  
 | **Autor** | [Enzo Emir](https://github.com/EnzoEmir) |  
 
 </center>
@@ -377,6 +386,7 @@ O léxico L08 utiliza o requisito funcional EN02 (O sistema deve permitir que o 
 | **Impacto** | - Informa que o pedido de saque foi encerrado sem sucesso.<br> - Pode ocorrer por decisão do usuário ou por falha na análise.<br> - Permite a solicitação de um novo saque. |  
 | **Noção** | Estado que indica a interrupção do processo de saque, impedindo a liberação do valor. |  
 | **Sinônimos** | Solicitação Anulada, Pedido Cancelado |  
+| **Conexões** | [L02](#l02-status-do-saque), [L03](#l03-comentário-explicativo), [L12](#l12-notificação), [L20](#l20-cancelar-solicitação), [L21](#l21-solicitação-de-saque),[L22](#l22-confirmação-de-cancelamento) [L24](#l24-solicitação-cancelada) |  
 | **Autor** | [Enzo Emir](https://github.com/EnzoEmir) |  
 
 </center>
@@ -400,7 +410,8 @@ O léxico L09 utiliza o requisito funcional EN02 (O sistema deve permitir que o 
 | **Impacto** | - Confirma que o usuário acessou a tela de acompanhamento do saque.<br> - Permite que o sistema registre interações para fins de rastreamento.<br> - Pode ser usado para avaliar usabilidade e engajamento. |  
 | **Noção** | Estado do sistema após a exibição da informação de status e comentário ao usuário. |  
 | **Sinônimos** | Informações Acessadas, Tela Visualizada |  
-| **Autor** | [Enzo Emir](https://github.com/EnzoEmir) |  
+| **Conexões** | [L01](#l01-consultar-status), [L02](#l02-status-do-saque), [L03](#l03-comentário-explicativo) |  
+| **Autor** | [Enzo Emir](https://github.com/EnzoEmir) | 
 
 </center>
 
@@ -427,7 +438,8 @@ O léxico L10 utiliza o requisito funcional EN03 (O sistema deve permitir que o 
 | **Impacto** | - Permite ao usuário saber quando o valor do saque estará disponível.<br> - Aumenta a previsibilidade e a confiança no processo.<br> - Pode ser acessado via notificações ou diretamente pelo aplicativo. |  
 | **Noção** | Ação realizada pelo usuário para acessar a estimativa de data de liberação dos valores solicitados para saque. |  
 | **Sinônimos** | Consultar Previsão, Ver Data Estimada |  
-| **Autor** | [Enzo Emir](https://github.com/EnzoEmir) |  
+| **Conexões** | [L11](#l11-data-prevista), [L12](#l12-notificação), [L13](#l13-data-visualizada) |  
+| **Autor** | [Enzo Emir](https://github.com/EnzoEmir) |   
 
 </center>
 
@@ -443,6 +455,8 @@ O léxico L11 utiliza o requisito funcional EN03 (O sistema deve permitir que o 
 
 <center>
 
+### L11: Data Prevista
+
 | L11 | Descrição |  
 | :-:       | :-:            |  
 | **Termo** | Data Prevista |  
@@ -450,6 +464,7 @@ O léxico L11 utiliza o requisito funcional EN03 (O sistema deve permitir que o 
 | **Impacto** | - Informa ao usuário o momento estimado para a liberação do valor.<br> - Pode ser alterada conforme o andamento do processo.<br> - Serve de base para a geração de notificações. |  
 | **Noção** | Informação exibida no aplicativo que representa a estimativa de quando o valor estará disponível. |  
 | **Sinônimos** | Previsão, Estimativa de Liberação |  
+| **Conexões** | [L10](#l10-visualizar-data-prevista), [L12](#l12-notificação), [L13](#l13-data-visualizada) |  
 | **Autor** | [Enzo Emir](https://github.com/EnzoEmir) |  
 
 </center>
@@ -466,6 +481,7 @@ O léxico L12 utiliza o requisito funcional EN03 (O sistema deve permitir que o 
 
 <center>
 
+
 | L12 | Descrição |  
 | :-:       | :-:            |  
 | **Termo** | Notificação |  
@@ -473,7 +489,8 @@ O léxico L12 utiliza o requisito funcional EN03 (O sistema deve permitir que o 
 | **Impacto** | - Comunica ao usuário sobre mudanças importantes no processo.<br> - Garante que o usuário seja informado de forma proativa.<br> - Pode envolver status de saque ou alteração na data prevista. |  
 | **Noção** | Mensagem gerada automaticamente pelo sistema para alertar o usuário sobre eventos relevantes, como atualização de status ou previsão. |  
 | **Sinônimos** | Alerta, Aviso, Mensagem do Sistema |  
-| **Autor** | [Enzo Emir](https://github.com/EnzoEmir) |  
+| **Conexões** | [L02](#l02-status-do-saque), [L05](#l05-saque-aprovado), [L06](#l06-saque-efetuado), [L07](#l07-saque-pendente), [L08](#l08-saque-cancelado), [L10](#l10-visualizar-data-prevista), [L11](#l11-data-prevista), [L13](#l13-data-visualizada), [L39](#l39-motivo-do-bloqueio) |  
+| **Autor** | [Enzo Emir](https://github.com/EnzoEmir) | 
 
 </center>
 
@@ -489,6 +506,7 @@ O léxico L13 utiliza o requisito funcional EN03 (O sistema deve permitir que o 
 
 <center>
 
+
 | L13 | Descrição |  
 | :-:       | :-:            |  
 | **Termo** | Data Visualizada |  
@@ -496,7 +514,8 @@ O léxico L13 utiliza o requisito funcional EN03 (O sistema deve permitir que o 
 | **Impacto** | - Confirma que o usuário visualizou a informação da previsão.<br> - Pode ser registrado para fins analíticos ou de usabilidade.<br> - Sinaliza que o sistema cumpriu sua função de comunicação. |  
 | **Noção** | Estado do sistema após o usuário acessar a previsão de liberação dos valores no aplicativo. |  
 | **Sinônimos** | Previsão Acessada, Data Consultada |  
-| **Autor** | [Enzo Emir](https://github.com/EnzoEmir) |  
+| **Conexões** | [L10](#l10-visualizar-data-prevista), [L11](#l11-data-prevista) |  
+| **Autor** | [Enzo Emir](https://github.com/EnzoEmir) | 
 
 </center>
 
@@ -1313,5 +1332,6 @@ O léxico L49 utiliza o requisito funcional não implementado ST07 (O aplicativo
 | `2.1` | 18/05/2025 | Adição de léxicos referentes aos requisitos faltantes | [Eduardo de Pina](https://github.com/eduardodpms) | [Marcelo Makoto](https://github.com/MM4k) |
 | `2.2` | 18/05/2025 | Mudança de estilo da página | [Marcelo Makoto](https://github.com/MM4k) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `2.3` | 18/05/2025 | Adicionando Hyper Links | [Enzo Emir](https://github.com/EnzoEmir) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `2.4` | 17/06/2025 | Adicionando L31, L32, L38 E L39 | [Danielle Soares](https://github.com/danielle-soaress)  | --- |
-| `2.5` | 17/06/2025 | Corrigindo links da página | [Danielle Soares](https://github.com/danielle-soaress)  | --- |
+| `2.4` | 17/06/2025 | Adicionando L31, L32, L38 E L39 | [Danielle Soares](https://github.com/danielle-soaress)  | [Enzo Emir](https://github.com/EnzoEmir) |
+| `2.5` | 17/06/2025 | Corrigindo links da página | [Danielle Soares](https://github.com/danielle-soaress)  | [Enzo Emir](https://github.com/EnzoEmir) |
+| `2.6` | 20/06/2025 | Adicionando Hiperlinks entre os lexicos L01-L13 | [Enzo Emir](https://github.com/EnzoEmir) | --- |
