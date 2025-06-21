@@ -112,7 +112,7 @@ Para fins experimentais e complementares, foi utilizada a ferramenta de Intelig�
 
 
 <figure style="text-align: center;">
-    <p style="font-size: 16px;">Figura 5: <i>Perfil de usuário gerado pelo ChatGPT</i></p>
+    <p style="font-size: 16px;">Figura 8: <i>Perfil de usuário gerado pelo ChatGPT</i></p>
     <img src="../../assets/perfil-de-usuario/perfil-gpt.png" style="max-width: 100%;">
     <figcaption>
         <p style="text-align: center; font-size: 16px;">Fonte: <i>OPENAI. ChatGPT. Perfil de usuário geral para o aplicativo FGTS. Disponível em: https://chat.openai.com. Acesso em: 2 maio 2025.</i><a id="anchor_3" href="#REF3">^3^</a></p>
@@ -123,6 +123,8 @@ Para fins experimentais e complementares, foi utilizada a ferramenta de Intelig�
 ## Definição do Perfil
 
 Após análise dos resultados obtidos nos métodos desenvolvidos para definição de perfil de usuário, foi montada a lista a seguir, a qual generaliza as características de um usuário "padrão":
+
+<font size="3"><p style="text-align: center">Tabela 1: Perfil de Usuário</p></font>
 
 |Atributo|Descrição|
 |:---|:---|
@@ -136,6 +138,10 @@ Após análise dos resultados obtidos nos métodos desenvolvidos para definiçã
 |**Experiência**| Intermediário (usa tecnologia com autonomia básica, entende o necessário para o cotidiano)|
 |**Atitude frente à tecnologia**|Neutro ou tecnófilo moderado (uso funcional, com valorização de segurança)|
 |**Tarefas Primárias**|Consultar informações relativas ao FGTS (como saldo/extratos) e realizar/consultar saques|
+
+<font size="3"><p style="text-align: center">Fonte: 
+    <a href="https://github.com/danielle-soaress">Danielle Soares</a>, <a href="https://github.com/eduardodpms">Eduardo de Pina</a>, <a href="https://github.com/MM4k">Marcelo Makoto</a>
+</p></font>
 
 
 <br>
@@ -162,3 +168,4 @@ Após análise dos resultados obtidos nos métodos desenvolvidos para definiçã
 | `1.1` | 02/05/2025 | Adição do Experimento com IA | [Marcelo Makoto](https://github.com/MM4k) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.2` | 03/05/2025 | Organização dos elementos e adição de etapa | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
 | `1.3` | 20/06/2025 | Atualização da tabela de perfil de usuário e aprimoramento do texto | [Danielle Soares](https://github.com/danielle-soaress) | --- |
+| `1.4` | 21/06/2025 | Corrigindo numeração e fonte das imagens e tabelas | [Danielle Soares](https://github.com/danielle-soaress) | --- |
