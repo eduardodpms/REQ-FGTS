@@ -126,138 +126,138 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 
 | Item | Referências | Avaliação | Observação |
 | :---- | :---- | :---: | :---: |
-| ***07:*** O perfil do usuário especifica características demográficas, como idade, gênero, nível de instrução e outras características relevantes? [(5)](#RF5) | ***![][image1]*** | \- | \- |
-| ***08:*** O perfil do usuário especifica características comportamentais, como nível de experiência e atitudes em relação à tecnologia (tecnófilos/tecnófobos)? [(5)](#RF5) | ***![][image2]*** |  |  |
-| ***09:*** O perfil de usuário especifica as tarefas primárias dos usuários? [(5)](#RF5) | ***![][image3]*** |  |  |
-| ***09:*** Os dados utilizados para construir o perfil de usuário foram obtidos por meio de estudos, como entrevistas, questionários ou observação? [(5)](#RF5) | ***![][image4]*** | \- | \- |
-| ***10:*** Ao final, os usuários foram categorizados em grupos com base em suas semelhanças, considerando a porcentagem em cada faixa? [(5)](#RF5) | ***![][image5]*** | \- | \- |
+| ***01:*** O perfil do usuário especifica características demográficas, como idade, gênero, nível de instrução e outras características relevantes? [(5)](#RF5) | ***![][image1]*** | \- | \- |
+| ***02:*** O perfil do usuário especifica características comportamentais, como nível de experiência e atitudes em relação à tecnologia (tecnófilos/tecnófobos)? [(5)](#RF5) | ***![][image2]*** |  |  |
+| ***03:*** O perfil de usuário especifica as tarefas primárias dos usuários? [(5)](#RF5) | ***![][image3]*** |  |  |
+| ***04:*** Os dados utilizados para construir o perfil de usuário foram obtidos por meio de estudos, como entrevistas, questionários ou observação? [(5)](#RF5) | ***![][image4]*** | \- | \- |
+| ***05:*** Ao final, os usuários foram categorizados em grupos com base em suas semelhanças, considerando a porcentagem em cada faixa? [(5)](#RF5) | ***![][image5]*** | \- | \- |
 
 ### ✅ Personas
 
 | Item | Referências | Avaliação | Observação |
 | :---- | :---- | :---: | :---: |
-| ***07:*** A persona recebeu um nome completo, idade e outros dados demográficos representativos? [(5)](#RF5) | ***![][image6]*** | \- | \- |
-| ***08:*** Uma foto foi adicionada ao perfil da persona para torná-la mais realista e memorável? [(5)](#RF5) | ***![][image7]*** | \- | \- |
-| ***09:*** Foi definido o status da persona (primária, secundária, stakeholder ou antiusuário)? [(5)](#RF5) | ***![][image8]*** | \- | \- |
-| ***10:*** As principais tarefas realizadas pela persona foram levantadas? [(5)](#RF5) | ***![][image9]*** | \- | \- |
-| ***11:*** Os relacionamentos da persona foram identificados? [(5)](#RF5) | ***![][image10]*** | \- | \- |
-| ***12:*** Os requisitos da persona foram definidos com base em suas necessidades reais? [(5)](#RF5) | ***![][image11]*** | \- | \- |
-| ***13:*** Existe ao menos uma persona primária claramente identificada como foco principal do design? [(5)](#RF5) | ***![][image12]*** | \- | \- |
-| ***14:*** Existem antipersonas definidas para deixar claro quem não é o foco do projeto? [(5)](#RF5) | ***![][image13]*** | \- | \- |
+| ***01:*** A persona recebeu um nome completo, idade e outros dados demográficos representativos? [(5)](#RF5) | ***![][image6]*** | \- | \- |
+| ***02:*** Uma foto foi adicionada ao perfil da persona para torná-la mais realista e memorável? [(5)](#RF5) | ***![][image7]*** | \- | \- |
+| ***03:*** Foi definido o status da persona (primária, secundária, stakeholder ou antiusuário)? [(5)](#RF5) | ***![][image8]*** | \- | \- |
+| ***04:*** As principais tarefas realizadas pela persona foram levantadas? [(5)](#RF5) | ***![][image9]*** | \- | \- |
+| ***05:*** Os relacionamentos da persona foram identificados? [(5)](#RF5) | ***![][image10]*** | \- | \- |
+| ***06:*** Os requisitos da persona foram definidos com base em suas necessidades reais? [(5)](#RF5) | ***![][image11]*** | \- | \- |
+| ***07:*** Existe ao menos uma persona primária claramente identificada como foco principal do design? [(5)](#RF5) | ***![][image12]*** | \- | \- |
+| ***08:*** Existem antipersonas definidas para deixar claro quem não é o foco do projeto? [(5)](#RF5) | ***![][image13]*** | \- | \- |
 
 ### ✅ Brainstorming
 
 | Item | Referências | Avaliação | Observação |
 | :---- | :---- | :---: | :---: |
-| ***07:*** Existe um cronograma com data para realização da elicitação de requisito? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***08:*** O local de realização da elicitação foi especificado? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***09:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***10:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? [(1)](#RF1) | ***![][image15]*** | \- | \- |
-| ***11:*** Foram feitas gravações e registros formais das atividades de elicitação? [(1)](#RF1) | ***![][image16]*** | \- | \- |
-| ***12:*** É possível identificar a participação e interação de todos os participantes da técnica? [(3)](#RF3) | ***![][image17]*** |  |  |
-| ***13:*** Os participantes da técnica estão reunidos em um mesmo ambiente? [(3)](#RF3) | ***![][image18]*** |  |  |
+| ***01:*** Existe um cronograma com data para realização da elicitação de requisito? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***02:*** O local de realização da elicitação foi especificado? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***03:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***04:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? [(1)](#RF1) | ***![][image15]*** | \- | \- |
+| ***05:*** Foram feitas gravações e registros formais das atividades de elicitação? [(1)](#RF1) | ***![][image16]*** | \- | \- |
+| ***06:*** É possível identificar a participação e interação de todos os participantes da técnica? [(3)](#RF3) | ***![][image17]*** |  |  |
+| ***07:*** Os participantes da técnica estão reunidos em um mesmo ambiente? [(3)](#RF3) | ***![][image18]*** |  |  |
 
 ### ✅ Introspecção
 
 | Item | Referências | Avaliação | Observação |
 | :---- | :---- | :---: | :---: |
-| ***07:*** Existe um cronograma com data para realização da elicitação de requisito? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***08:*** O local de realização da elicitação foi especificado? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***09:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***10:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? [(1)](#RF1) | ***![][image15]*** | \- | \- |
-| ***11:*** Foram feitas gravações e registros formais das atividades de elicitação? [(1)](#RF1) | ***![][image16]*** | \- | \- |
-| ***12:*** Os participantes conduziram a técnica de maneira imersiva, adequando-se à atuação real dos interessados? [(3)](#RF3) | ***![][image19]*** |  |  |
-| ***13:*** Durante a imersão, buscou-se entender quais propriedades o sistema deve possuir para que seja um sucesso? [(3)](#RF3) | ***![][image20]*** |  |  |
+| ***01:*** Existe um cronograma com data para realização da elicitação de requisito? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***02:*** O local de realização da elicitação foi especificado? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***03:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***04:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? [(1)](#RF1) | ***![][image15]*** | \- | \- |
+| ***05:*** Foram feitas gravações e registros formais das atividades de elicitação? [(1)](#RF1) | ***![][image16]*** | \- | \- |
+| ***06:*** Os participantes conduziram a técnica de maneira imersiva, adequando-se à atuação real dos interessados? [(3)](#RF3) | ***![][image19]*** |  |  |
+| ***07:*** Durante a imersão, buscou-se entender quais propriedades o sistema deve possuir para que seja um sucesso? [(3)](#RF3) | ***![][image20]*** |  |  |
 
 ### ✅ Entrevista
 
 | Item | Referências | Avaliação | Observação |
 | :---- | :---- | :---: | :---: |
-| ***07:*** Existe um cronograma com data para realização da elicitação de requisito? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***08:*** O local de realização da elicitação foi especificado? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***09:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***10:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? [(1)](#RF1) | ***![][image15]*** | \- | \- |
-| ***11:*** Foram feitas gravações e registros formais das atividades de elicitação? [(1)](#RF1) | ***![][image16]*** | \- | \- |
-| ***12:*** O objetivo da entrevista está claro? [(2)](#RF2) | ***![][image21]*** | \- | \- |
-| ***13:***  O roteiro de questões e as informações que se desejam buscar estão identificados? [(2)](#RF2) | ***![][image22]*** | \- | \- |
-| ***14:*** As perguntas estão bem elaboradas de forma que possam ser classificadas em abertas (resposta livre) ou fechadas (respostas curtas e diretas)? [(2)](#RF2) | ***![][image23]*** | \- | \- |
-| ***15:*** Os aspectos importantes da entrevista foram registrados? [(2)](#RF2) | ***![][image24]*** |  |  |
+| ***01:*** Existe um cronograma com data para realização da elicitação de requisito? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***02:*** O local de realização da elicitação foi especificado? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***03:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***04:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? [(1)](#RF1) | ***![][image15]*** | \- | \- |
+| ***05:*** Foram feitas gravações e registros formais das atividades de elicitação? [(1)](#RF1) | ***![][image16]*** | \- | \- |
+| ***06:*** O objetivo da entrevista está claro? [(2)](#RF2) | ***![][image21]*** | \- | \- |
+| ***07:***  O roteiro de questões e as informações que se desejam buscar estão identificados? [(2)](#RF2) | ***![][image22]*** | \- | \- |
+| ***08:*** As perguntas estão bem elaboradas de forma que possam ser classificadas em abertas (resposta livre) ou fechadas (respostas curtas e diretas)? [(2)](#RF2) | ***![][image23]*** | \- | \- |
+| ***09:*** Os aspectos importantes da entrevista foram registrados? [(2)](#RF2) | ***![][image24]*** |  |  |
 
 ### ✅ Observação
 
 | Item | Referências | Avaliação | Observação |
 | :---- | :---- | :---: | :---: |
-| ***07:*** Existe um cronograma com data para realização da elicitação de requisito? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***08:*** O local de realização da elicitação foi especificado? [(1)](#RF1) | ***![][image25]*** | \- | \- |
-| ***09:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? [(1)](#RF1) | ***![][image26]*** | \- | \- |
-| ***10:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? [(1)](#RF1) | ***![][image15]*** | \- | \- |
-| ***11:*** Foram feitas gravações e registros formais das atividades de elicitação? [(1)](#RF1) | ***![][image16]*** | \- | \- |
-| ***12:*** O observador tomou notas das tarefas em execução? [(2)](#RF2) | ***![][image27]*** | \- | \- |
-| ***13:*** As pessoas a serem observadas estão claramente identificadas? [(2)](#RF2) | ***![][image28]*** | \- | \- |
-| ***14:*** O tipo de postura do observador (ativa ou passiva) foi definida? [(2)](#RF2) | ***![][image29]*** | \- | \- |
+| ***01:*** Existe um cronograma com data para realização da elicitação de requisito? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***02:*** O local de realização da elicitação foi especificado? [(1)](#RF1) | ***![][image25]*** | \- | \- |
+| ***03:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? [(1)](#RF1) | ***![][image26]*** | \- | \- |
+| ***04:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? [(1)](#RF1) | ***![][image15]*** | \- | \- |
+| ***05:*** Foram feitas gravações e registros formais das atividades de elicitação? [(1)](#RF1) | ***![][image16]*** | \- | \- |
+| ***06:*** O observador tomou notas das tarefas em execução? [(2)](#RF2) | ***![][image27]*** | \- | \- |
+| ***07:*** As pessoas a serem observadas estão claramente identificadas? [(2)](#RF2) | ***![][image28]*** | \- | \- |
+| ***08:*** O tipo de postura do observador (ativa ou passiva) foi definida? [(2)](#RF2) | ***![][image29]*** | \- | \- |
 
 ### ✅ Storytelling
 
 | Item | Referências | Avaliação | Observação |
 | :---- | :---- | :---: | :---: |
-| ***07:*** Existe um cronograma com data para realização da elicitação de requisito? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***08:*** O local de realização da elicitação foi especificado? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***09:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***10:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? [(1)](#RF1) | ***![][image15]*** | \- | \- |
-| ***11:*** Foram feitas gravações e registros formais das atividades de elicitação? [(1)](#RF1) | ***![][image16]*** | \- | \- |
-| ***12:*** As histórias narradas são relacionadas ao contexto do aplicativo? [(3)](#RF3) | ***![][image30]*** | \- | \- |
-| ***13:*** Foi utilizada uma linguagem adequada ao contexto das histórias? [(3)](#RF3) | ***![][image31]*** | \- | \- |
-| ***14:*** A técnica se baseia na utilização de histórias em grupos de pessoas? [(3)](#RF3) | ***![][image32]*** | \- | \- |
+| ***01:*** Existe um cronograma com data para realização da elicitação de requisito? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***02:*** O local de realização da elicitação foi especificado? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***03:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***04:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? [(1)](#RF1) | ***![][image15]*** | \- | \- |
+| ***05:*** Foram feitas gravações e registros formais das atividades de elicitação? [(1)](#RF1) | ***![][image16]*** | \- | \- |
+| ***06:*** As histórias narradas são relacionadas ao contexto do aplicativo? [(3)](#RF3) | ***![][image30]*** | \- | \- |
+| ***07:*** Foi utilizada uma linguagem adequada ao contexto das histórias? [(3)](#RF3) | ***![][image31]*** | \- | \- |
+| ***08:*** A técnica se baseia na utilização de histórias em grupos de pessoas? [(3)](#RF3) | ***![][image32]*** | \- | \- |
 
 ### ✅ First Things First
 
 | Item | Referências | Avaliação | Observação |
 | :---- | :---- | :---: | :---: |
-| ***07:*** Existe um cronograma com data para realização da priorização dos requisitos? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***08:*** O local para a priorização foi definido? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***09:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***10:*** Foi feita uma lista de todos os requisitos a serem priorizados em uma planilha antes do início da técnica? [(3)](#RF3) | ***![][image33]*** | \- | \- |
-| ***11:*** Determinou-se uma escala de prioridade para ser aplicada (ex: 1-9)? [(3)](#RF3) | ***![][image34]*** | \- | \- |
-| ***12:*** Há uma coluna que representa o valor total da prioridade de cada requisito? [(3)](#RF3) | ***![][image35]*** | \- | \- |
-| ***13:*** A lista foi ordenada de maneira crescente/decrescente de prioridade? [(3)](#RF3) | ***![][image36]*** | \- | \- |
-| ***14:*** É possível identificar claramente quais requisitos com maior/menor prioridade? [(3)](#RF3) | ***![][image37]*** | \- | \- |
+| ***01:*** Existe um cronograma com data para realização da priorização dos requisitos? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***02:*** O local para a priorização foi definido? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***03:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***04:*** Foi feita uma lista de todos os requisitos a serem priorizados em uma planilha antes do início da técnica? [(3)](#RF3) | ***![][image33]*** | \- | \- |
+| ***05:*** Determinou-se uma escala de prioridade para ser aplicada (ex: 1-9)? [(3)](#RF3) | ***![][image34]*** | \- | \- |
+| ***06:*** Há uma coluna que representa o valor total da prioridade de cada requisito? [(3)](#RF3) | ***![][image35]*** | \- | \- |
+| ***07:*** A lista foi ordenada de maneira crescente/decrescente de prioridade? [(3)](#RF3) | ***![][image36]*** | \- | \- |
+| ***08:*** É possível identificar claramente quais requisitos com maior/menor prioridade? [(3)](#RF3) | ***![][image37]*** | \- | \- |
 
 ### ✅ In or Out
 
 | Item | Referências | Avaliação | Observação |
 | :---- | :---- | :---: | :---: |
-| ***07:*** Existe um cronograma com data para realização da priorização dos requisitos? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***08:*** O local para a priorização foi definido? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***09:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***09:*** A prioridade de cada requisito foi decidida de forma binária (In/Out) ? [(4)](#RF4) | ***![][image38]*** | \- | \- |
-| ***09:*** Houve participação de stakeholders? [(4)](#RF4) | ***![][image39]*** | \- | \- |
-| ***09:*** Todos os requisitos a serem priorizados foram reunidos em uma lista? [(4)](#RF4) | ***![][image40]*** | \- | \- |
-| ***09:*** É possível identificar claramente quais requisitos possuem maior/menor prioridade? [(4)](#RF4) | ***![][image41]*** | \- | \- |
+| ***01:*** Existe um cronograma com data para realização da priorização dos requisitos? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***02:*** O local para a priorização foi definido? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***03:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***04:*** A prioridade de cada requisito foi decidida de forma binária (In/Out) ? [(4)](#RF4) | ***![][image38]*** | \- | \- |
+| ***05:*** Houve participação de stakeholders? [(4)](#RF4) | ***![][image39]*** | \- | \- |
+| ***06:*** Todos os requisitos a serem priorizados foram reunidos em uma lista? [(4)](#RF4) | ***![][image40]*** | \- | \- |
+| ***07:*** É possível identificar claramente quais requisitos possuem maior/menor prioridade? [(4)](#RF4) | ***![][image41]*** | \- | \- |
 
 ### ✅ Three-Level Scale
 
 | Item | Referências | Avaliação | Observação |
 | :---- | :---- | :---: | :---: |
-| ***07:*** Existe um cronograma com data para realização da priorização dos requisitos? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***08:*** O local para a priorização foi definido? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***09:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***09:*** Foi utilizada uma escala de priorização que permite identificar prioridades alta, média e baixa? [(4)](#RF4) | ***![][image42]*** |  |  |
-| ***09:*** Caso aplicável, as interdependências entre requisitos foram consideradas? [(4)](#RF4) | ***![][image43]*** |  |  |
+| ***01:*** Existe um cronograma com data para realização da priorização dos requisitos? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***02:*** O local para a priorização foi definido? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***03:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***04:*** Foi utilizada uma escala de priorização que permite identificar prioridades alta, média e baixa? [(4)](#RF4) | ***![][image42]*** |  |  |
+| ***05:*** Caso aplicável, as interdependências entre requisitos foram consideradas? [(4)](#RF4) | ***![][image43]*** |  |  |
 
 ### ✅ $100 Test
 
 | Item | Referências | Avaliação | Observação |
 | :---- | :---- | :---: | :---: |
-| ***07:*** Existe um cronograma com data para realização da priorização dos requisitos? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***08:*** O local para a priorização foi definido? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***09:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***10:*** As técnicas MoSCoW e/ou 100$ só foram usadas após outras duas técnicas? [(1)](#RF1) | ***![][image15]*** | \- | \- |
-| ***11:*** Cada participante possui $100 para aplicar durante a priorização? [(4)](#RF4) | ***![][image44]*** | \- | \- |
-| ***12:*** O peso atribuído aos requisitos reflete adequadamente sua importância, com os mais críticos recebendo maior ponderação e os menos críticos, menor? [(4)](#RF4) | ***![][image45]*** | \- | \- |
-| ***13:*** Os pesos foram distribuidos de forma que nenhum requisito recebeu a prioridade máxima ($100)? [(4)](#RF4) | ***![][image46]*** | \- | \- |
-| ***14:*** Os resultados da priorização foram reunidos em uma tabela? [(4)](#RF4) | ***![][image47]*** | \- | \- |
-| ***15:*** É possível identificar claramente a prioridade total de cada requisito? [(4)](#RF4) | ***![][image47]*** | \- | \- |
-| ***16:*** É possível identificar claramente quais requisitos tem prioridade maior/menor? [(4)](#RF4) | ***![][image47]*** | \- | \- |
+| ***01:*** Existe um cronograma com data para realização da priorização dos requisitos? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***02:*** O local para a priorização foi definido? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***03:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona? [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***04:*** As técnicas MoSCoW e/ou 100$ só foram usadas após outras duas técnicas? [(1)](#RF1) | ***![][image15]*** | \- | \- |
+| ***05:*** Cada participante possui $100 para aplicar durante a priorização? [(4)](#RF4) | ***![][image44]*** | \- | \- |
+| ***06:*** O peso atribuído aos requisitos reflete adequadamente sua importância, com os mais críticos recebendo maior ponderação e os menos críticos, menor? [(4)](#RF4) | ***![][image45]*** | \- | \- |
+| ***07:*** Os pesos foram distribuidos de forma que nenhum requisito recebeu a prioridade máxima ($100)? [(4)](#RF4) | ***![][image46]*** | \- | \- |
+| ***08:*** Os resultados da priorização foram reunidos em uma tabela? [(4)](#RF4) | ***![][image47]*** | \- | \- |
+| ***09:*** É possível identificar claramente a prioridade total de cada requisito? [(4)](#RF4) | ***![][image47]*** | \- | \- |
+| ***10:*** É possível identificar claramente quais requisitos tem prioridade maior/menor? [(4)](#RF4) | ***![][image47]*** | \- | \- |
 
 
 ## Referências Bibliográficas
@@ -266,7 +266,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 
 > <a id="RF2">2.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de requisitos: software orientado ao negócio. Rio de Janeiro, RJ: Brasport, 2016.
 
-> <a id="RF3">3.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07: apresentação de slides. Universidade de Brasília Campus Gama, [s.d.]. Disponível em: https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 21 jun. 2025.
+> <a id="RF3">3.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 07: Apresentação de Slides. Universidade de Brasília Campus Gama, [s.d.]. Disponível em: https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 21 jun. 2025.
 
 > <a id="RF4">4.</a> WIEGERS, Karl; BEATTY, Joy. Software requirements: third edition. Redmond, WA: Microsoft Press, 2013.
 
@@ -280,6 +280,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | `1.3` | 20/06/2025 | Atualização da tabela de participantes | [Danielle Soares](https://github.com/danielle-soaress) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.4` | 21/06/2025 | Adição de Listas de Verificação | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.5` | 21/06/2025 | Referências e prints das referências | [Danielle Soares](https://github.com/danielle-soaress) | - |
+| `1.6` | 21/06/2025 | Corrigindo numeração das tabelas | [Danielle Soares](https://github.com/danielle-soaress) | - |
 
 
 [image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAI4AAAAJCAYAAADkSBRoAAACgUlEQVR4XmP4PwpGARmAAc56n0ZV3NdqiSFGFKaSW7as9MAQ+/wk8f+Lm7EY4rhwdKjK/7vnI1DEPF1kMdSB8MdHCRhiIMzHywZnv7odhyFPLv77NhVDjC4YCuAJR1GeFywxucv6PwMDw//5Ux3givds8P7f3WQB5/95g+roY7v8wXRPM0INCJ/eFwhnXzgcDDYXXa+6qsD/Dw8T/s/st4WIgQBU7terFDC9ar4Lih4QXjzTEYUPct+bu5gRA7MXmx5CGKYvwFvhv6GeCJgtIcYFdxcMg+RgCRI5nEB+iw1XRVE7od0KnMhAfq4pMYKHu42FBJjeu9EHRT02DLILOQOA3ARjL5/r/P/qiVAw29JU/D87OzOK3oXTHVAS3dkDQWCan48NRd2tM+H/Z/RB4qQ4Rw8RdlBAsxKHbIzHLTCPkIPXLnLFEBts+Mx+SCRSC5ubiGGIUYyhAJFwRsEoIAFQr8ShE1ixYgW6EFng379/KHwjIyMU/mABV65cQReiK9DQ0EAXAgN4wuHkYPn/8hai3jyyww/ORm74ger95FgNnAkHJP/8+XMwOyYm5j8nJydcDgR27dqFwkcGIL07d+6E852dnZFkIYGILeEcOHAATAcHB6PJYAcPHz4E06qqqmA6MzPz/8GDB+HyR48e/a+pqQlm19TUwMX//PnzX0FBAcz28fGBi4MAMzMzmAbpbW9vR5GDgTNnzvz/+PEjipiMjMx/T09PFDFQOAQEBPw/f/48iriysjIKf/PmzXD26dOnkWQg7r53797/wsLC/3///oWL//z5E8MN4LYcEli8eDGYBoUBLOGA/I4MhlyJM9KAubk5utCgAKNtnFFAFgAA0u4crogsvDMAAAAASUVORK5CYII=>

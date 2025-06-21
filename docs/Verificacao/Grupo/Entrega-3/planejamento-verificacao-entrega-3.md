@@ -81,59 +81,71 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 
 ### ✅ Itens Gerais
 
-| Item | Avaliação | Observação |
-| :---- | :---: | :---: |
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? | - | - |
-| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | - | - |
-| ***03:*** As tabelas e imagens apresentam legenda e fonte? | - | - |
-| ***04:*** O artefato apresenta uma introdução? | - | - |
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | - | - |
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | - | - |
+| Item | Referência | Avaliação | Observação |
+| :---- | :---: | :---: | :---: |
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(1)](#RF1)| ![][image1] | \- | \- |
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(1)](#RF1)| ![][image2] | \- | \- |
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(1)](#RF1)| ![][image3] | \- | \- |
+| ***04:*** O artefato apresenta uma introdução? [(1)](#RF1)| ![][image4] | \- | \- |
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(1)](#RF1)|  | \- | \- |
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(1)](#RF1)| ![][image5] | \- | \- |
 
 ### ✅ Casos de Uso
 
-| Item | Avaliação | Observação |
-| :---- | :---: | :---: |
-| ***07:*** No diagrama de caso de uso, o ator principal está posicionado do lado esquerdo do sistema? | - | - |
-| ***08:*** No diagrama de caso de uso, o ator secundário está posicionado do lado direito do sistema? | - | - |
-| ***09:*** No diagrama de caso de uso, os atores estão posicionados fora da caixa que representa o sistema? | - | - |
-| ***10:*** O diagrama de caso de uso contém pelo menos um caso de uso que utiliza pontos de extensão? | - | - |
-| ***11:*** Houve participação do cliente na validação do diagrama de caso de uso? | - | - |
-| ***12:*** No diagrama de casos de uso, todos os atores estão relacionados com pelo menos um caso de uso? | - | - |
-| ***13:*** No diagrama de casos de uso, todos os casos de uso estão posicionados dentro da caixa que representa o sistema? | - | - |
+| Item | Referências | Avaliação | Observação |
+| :---- | ----- | :---: | :---: |
+| ***01:*** No diagrama de caso de uso, o ator principal está posicionado do lado esquerdo do sistema? [(1)](#RF1)  | ![][image1] | \- | \- |
+| ***02:*** No diagrama de caso de uso, o ator secundário está posicionado do lado direito do sistema? [(4)](#RF4) | [Link do Vídeo](https://youtu.be/ab6eDdwS3rA?si=vkyR2hj9ZQ9W1gaM&t=230) | \- | \- |
+| ***03:*** No diagrama de caso de uso, os atores estão posicionados fora da caixa que representa o sistema? [(1)](#RF1)  | ![][image2] | \- | \- |
+| ***04:*** O diagrama de caso de uso contém pelo menos um caso de uso que utiliza pontos de extensão? [(1)](#RF1)  | ![][image3] | \- | \- |
+| ***05:*** Houve participação do cliente na validação do diagrama de caso de uso? [(1)](#RF1)  | ![][image4] | \- | \- |
+| ***06:*** No diagrama de casos de uso, todos os atores estão relacionados com pelo menos um caso de uso? [(4)](#RF4)| [Link do Vídeo](https://youtu.be/ab6eDdwS3rA?si=xsOyiXR84KKnVJud&t=255) | \- | \- |
+| ***07:*** No diagrama de casos de uso, todos os casos de uso estão posicionados dentro da caixa que representa o sistema? [(4)](#RF4)| [Link do Vídeo](https://youtu.be/ab6eDdwS3rA?si=fEZ-z0ITIVDAZNAg&t=257) | \- | \- |
 
 ### ✅ Cenários
 
-| Item | Avaliação | Observação |
-| :---- | :---: | :---: |
-| ***07:*** Os cenários possuem títulos, metas/objetivo, contexto, atores, recursos, exceção e episódios? | - | - |
-| ***08:*** Há a identificação clara do ambiente ou contexto da situação que motiva os objetivos e ações do cenário? | - | - |
-| ***09:*** Os cenários descrevem claramente o comportamento e as experiências dos atores envolvidos? | - | - |
-| ***10:*** Cada cenário possui um objetivo principal claramente definido? | - | - |
-| ***11:*** Os cenários incluem pelo menos um ator principal? | - | - |
-| ***12:*** Cada cenário possui um título que descreve brevemente a situação apresentada? | - | - |
+| Item | Referências | Avaliação | Observação |
+| :---- | :---- | :---: | :---: |
+| ***01:*** Os cenários possui título? [(3)](#RF3) | ***![][image5]*** | \- | \- |
+| ***02:*** Há a identificação clara do ambiente ou contexto da situação que motiva os objetivos e ações do cenário? [(3)](#RF3) | ***![][image6]*** | \- | \- |
+| ***03:*** Os cenários descrevem claramente o comportamento e as experiências dos atores envolvidos? [(3)](#RF3) | ***![][image7]*** | \- | \- |
+| ***04:*** Cada cenário possui um objetivo principal claramente definido? [(3)](#RF3) | ***![][image8]*** | \- | \- |
+| ***05:*** Os cenários incluem pelo menos um ator principal? [(3)](#RF3) | ***![][image9]*** | \- | \- |
+| ***06:*** Cada cenário possui um contexto que descreve o estado inicial com suas pré condições, local e tempo? [(3)](#RF3) | ***![][image10]*** | \- | \- |
+| ***07:*** Os cenários possuem episódios? [(3)](#RF3) | ***![][image11]*** | \- | \- |
+| ***08:*** Os cenários identificam os recursos (objetos passivos com os quais lidam os atores)? [(3)](#RF3) | ***![][image12]*** | \- | \- |
 
 ### ✅ Léxicos
 
-| Item | Avaliação | Observação |
-| :---- | :---: | :---: |
-| ***07:*** Os léxicos possuem ligações entre si por meio de hiperlinks? | - | - |
-| ***08:*** Os léxicos estão classificados adequadamente como verbo, objeto ou estado? | - | - |
-| ***09:*** Os léxicos descrevem o impacto do símbolo na aplicação, ou o impacto da aplicação sobre o termo? | - | - |
-| ***10:*** Cada léxico apresenta claramente a noção do termo? | - | - |
+| Item | Referências | Avaliação | Observação |
+| :---- | :---- | :---: | :---: |
+| ***01:*** Os léxicos possuem ligações entre si por meio de hiperlinks? [(1)](#RF1) | ***![][image13]*** | \- | \- |
+| ***02:*** Os léxicos estão classificados adequadamente como verbo, objeto ou estado?  [(1)](#RF1) | ***![][image14]*** | \- | \- |
+| ***03:*** Os léxicos descrevem o impacto do símbolo na aplicação, ou o impacto da aplicação sobre o termo? [(2)](#RF2) | ***![][image15]*** | \- | \- |
+| ***04:*** Cada léxico apresenta claramente a noção do termo? [(2)](#RF2) | ***![][image16]*** | \- | \- |
+| ***05:*** Cada léxico tem zero ou mais sinônimos? [(2)](#RF2) | ***![][image17]*** | \- | \- |
+| ***06:***  Cada léxico tem um ou mais noções? [(2)](#RF2) | ***![][image18]*** | \- | \- |
+| ***07:***  Cada léxico tem um ou mais impactos? [(2)](#RF2) | ***![][image18]*** | \- | \- |
+| ***08:*** Há definição de usuário nos léxicos? [(1)](#RF1)  | ***![][image19]*** | \- | \- |
 
 ### ✅ Especificação suplementar
 
-| Item | Avaliação | Observação |
-| :---- | :---: | :---: |
-| ***07:*** A especificação suplementar segue o modelo FURPS+? | - | - |
-| ***08:*** A especificação suplementar define requisitos de tempo de resposta na seção de desempenho? | - | - |
-| ***09:*** A especificação suplementar define os ambientes ou plataformas de execução do aplicativo? | - | - |
-| ***10:*** Na especificação suplementar todos os requisitos não funcionais são testáveis/verificáveis? | - | - ||
+| Item | Referências | Avaliação | Observação |
+| :---- | :---- | :---: | :---: |
+| ***01:*** A especificação suplementar segue o modelo FURPS+? [(1)](#RF1) | ***![][image20]*** | \- | \- |
+| ***02:*** A especificação suplementar define requisitos de tempo de resposta na seção de desempenho?  [(1)](#RF1) | ***![][image21]*** | \- | \- |
+| ***03:*** A especificação suplementar define os ambientes ou plataformas de execução do aplicativo?  [(1)](#RF1) | ***![][image22]*** | \- | \- |
+| ***04:*** Na especificação suplementar todos os requisitos não funcionais são testáveis/verificáveis?  [(1)](#RF1) | ***![][image23]*** | \- | \- |
 
 ## Referências Bibliográficas
 
-> <a id="REF1">1.</a> 
+> <a id="RF1">1.</a> SALES, André Barros. Sugestão inicial da Lista de Verificação para algumas entregas do projeto. [S. l.: s. n.]. Disponível em: https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifica%C3%A7%C3%A3o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf. Acesso em: 17 jun. 2025.
+
+> <a id="RF2">2.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10: Apresentação de Slides. Universidade de Brasília Campus Gama, [s.d.]. Disponível em: https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf. Acesso em: 21 jun. 2025.
+
+> <a id="RF3">3.</a> BERGMANN, Ulf. Cenários. In: _______. Evolução de cenários através de um mecanismo de rastreamento baseado em transformações. 2003. p. 47-52. Tese (Doutorado em Informática) – Pontifícia Universidade Católica do Rio de Janeiro, Rio de Janeiro, 2003. Disponível em: https://www-di.inf.puc-rio.br/~julio/bnncap3.pdf. Acesso em: 21 jun. 2025.
+
+> <a id="RF4">4.</a> Videoaula da Lucidchart - Diagrama de caso de uso UML. Disponível em: https://youtu.be/ab6eDdwS3rA?si=kvIS2E8Gh2IKmWFB Acesso em: 18 maio 2025.
 
 ## Histórico de Versões 📅
 
@@ -143,3 +155,4 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | `1.1` | 20/06/2025 | Adição de Introdução, Metodologia e Cronograma de Participantes | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.2` | 20/06/2025 | Adição de Artefatos Verificados e Resultados | [Marcelo Makoto](https://github.com/MM4k) | - |
 | `1.3` | 21/06/2025 | Adição de Listas de Verificação | [Marcelo Makoto](https://github.com/MM4k) | - |
+| `1.4` | 21/06/2025 | Referências e prints das listas de verificação | [Danielle Soares](https://github.com/danielle-soaress) | - |
