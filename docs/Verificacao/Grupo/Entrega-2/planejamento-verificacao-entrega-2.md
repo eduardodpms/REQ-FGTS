@@ -107,6 +107,127 @@ Os resultados das verificações de cada artefato podem ser visualizados nas pá
 - <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/verificacao-three-level-scale/>Verificação Three-Level Scale</a>
 - <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/verificacao-100-test/>Verificação $100 Test</a>
 
+## Listas de Verificação
+
+As listas de verificação foram elaboradas levando em consideração as atividades realizadas no desenvolvimento dos artefatos e os padrões especificados para cada um deles. As listas de verificação foram separadas para cada artefato, sendo que a lista de verificação Geral estará presente em todas as etapas de verificação.
+
+### ✅ Itens Gerais
+
+| Item | Avaliação | Observação |
+| :---- | :---: | :---: |
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? | - | - |
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | - | - |
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? | - | - |
+| ***04:*** O artefato apresenta uma introdução? | - | - |
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | - | - |
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | - | - |
+
+### ✅ Perfil de Usuário
+
+| Item | Avaliação | Observação |
+|-|:-:|:-:|
+| ***07:*** O perfil do usuário especifica características demográficas e comportamentais, como idade, nível de experiência e atitudes em relação à tecnologia? | - | - |
+| ***09:*** Os dados utilizados para construir o perfil de usuário foram obtidos por meio de estudos, como entrevistas, questionários ou observação?| - | - |
+| ***10:*** Ao final, os usuários foram categorizados em grupos com base em suas semelhanças, considerando a porcentagem em cada faixa?| - | - |
+
+
+### ✅ Personas
+
+| Item | Avaliação | Observação |
+|-|:-:|:-:|
+| ***07:*** A persona recebeu um nome completo, idade e outros dados demográficos representativos?| - | - |
+| ***08:*** Uma foto foi adicionada ao perfil da persona para torná-la mais realista e memorável?| - | - |
+| ***09:*** Foi definido o status da persona (primária, secundária, stakeholder ou antiusuário)?| - | - |
+| ***10:*** As principais tarefas realizadas pela persona foram levantadas?| - | - |
+| ***11:*** Os relacionamentos da persona foram identificados?| - | - |
+| ***12:*** Os requisitos da persona foram definidos com base em suas necessidades reais?| - | - |
+| ***13:*** Existe ao menos uma persona primária claramente identificada como foco principal do design?| - | - |
+| ***14:*** Existem antipersonas definidas para deixar claro quem não é o foco do projeto?| - | - |
+
+
+### ✅ Brainstorming
+
+| Item | Avaliação | Observação |
+|-|:-:|:-:|
+| ***07:*** Existe um cronograma com data para realização da elicitação de requisito? | - | - |
+| ***08:*** O local de realização da elicitação foi especificado? | - | - |
+| ***09:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? | - | - |
+| ***10:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? | - | - |
+| ***11:*** Foram feitas gravações e registros formais das atividades de elicitação? | - | - |
+
+### ✅ Introspecção
+
+| Item | Avaliação | Observação |
+|-|:-:|:-:|
+| ***07:*** Existe um cronograma com data para realização da elicitação de requisito? | - | - |
+| ***08:*** O local de realização da elicitação foi especificado? | - | - |
+| ***09:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? | - | - |
+| ***10:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? | - | - |
+| ***11:*** Foram feitas gravações e registros formais das atividades de elicitação? | - | - |
+
+### ✅ Entrevista
+
+| Item | Avaliação | Observação |
+|-|:-:|:-:|
+| ***07:*** Existe um cronograma com data para realização da elicitação de requisito? | - | - |
+| ***08:*** O local de realização da elicitação foi especificado? | - | - |
+| ***09:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? | - | - |
+| ***10:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? | - | - |
+| ***11:*** Foram feitas gravações e registros formais das atividades de elicitação? | - | - |
+
+### ✅ Observação
+
+| Item | Avaliação | Observação |
+|-|:-:|:-:|
+| ***07:*** Existe um cronograma com data para realização da elicitação de requisito? | - | - |
+| ***08:*** O local de realização da elicitação foi especificado? | - | - |
+| ***09:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? | - | - |
+| ***10:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? | - | - |
+| ***11:*** Foram feitas gravações e registros formais das atividades de elicitação? | - | - |
+
+### ✅ Storytelling
+
+| Item | Avaliação | Observação |
+|-|:-:|:-:|
+| ***07:*** Existe um cronograma com data para realização da elicitação de requisito? | - | - |
+| ***08:*** O local de realização da elicitação foi especificado? | - | - |
+| ***09:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? | - | - |
+| ***10:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? | - | - |
+| ***11:*** Foram feitas gravações e registros formais das atividades de elicitação? | - | - |
+
+### ✅ First Things First
+
+| Item | Avaliação | Observação |
+|-|:-:|:-:|
+| ***07:*** Existe um cronograma com data para realização da priorização dos requisitos?| - | - |
+| ***08:*** O local para a priorização foi definido?| - | - |
+| ***09:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona?| - | - |
+
+### ✅ In or Out
+
+| Item | Avaliação | Observação |
+|-|:-:|:-:|
+| ***07:*** Existe um cronograma com data para realização da priorização dos requisitos?| - | - |
+| ***08:*** O local para a priorização foi definido?| - | - |
+| ***09:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona?| - | - |
+
+### ✅ Three-Level Scale
+
+| Item | Avaliação | Observação |
+|-|:-:|:-:|
+| ***07:*** Existe um cronograma com data para realização da priorização dos requisitos?| - | - |
+| ***08:*** O local para a priorização foi definido?| - | - |
+| ***09:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona?| - | - |
+
+### ✅ $100 Test
+
+| Item | Avaliação | Observação |
+|-|:-:|:-:|
+| ***07:*** Existe um cronograma com data para realização da priorização dos requisitos?| - | - |
+| ***08:*** O local para a priorização foi definido?| - | - |
+| ***09:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona?| - | - |
+| ***10:*** As técnicas MoSCoW e/ou 100$ só foram usadas após outras duas técnicas?| - | - |
+
 ## Referências Bibliográficas
 
 > <a id="REF1">1.</a> 
@@ -118,4 +239,5 @@ Os resultados das verificações de cada artefato podem ser visualizados nas pá
 | `1.0` | 20/06/2025 | Criação da Página | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.1` | 20/06/2025 | Adição de Introdução, Metodologia e Cronograma de Participantes | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.2` | 20/06/2025 | Adição de Artefatos Verificados e Resultados | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
-| `1.3` | 20/06/2025 | Atualização da tabela de participantes | [Danielle Soares](https://github.com/danielle-soaress) | - |
+| `1.3` | 20/06/2025 | Atualização da tabela de participantes | [Danielle Soares](https://github.com/danielle-soaress) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.4` | 21/06/2025 | Adição de Listas de Verificação | [Marcelo Makoto](https://github.com/MM4k) | - |

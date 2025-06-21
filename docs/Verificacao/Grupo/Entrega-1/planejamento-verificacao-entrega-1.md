@@ -55,7 +55,26 @@ Os resultados das verificações de cada artefato podem ser visualizados nas pá
 
 As listas de verificação foram elaboradas levando em consideração as atividades realizadas no desenvolvimento dos artefatos e os padrões especificados para cada um deles. As listas de verificação foram separadas para cada artefato, sendo que a lista de verificação Geral estará presente em todas as etapas de verificação.
 
+### ✅ Itens Gerais
 
+| Item | Avaliação | Observação |
+| :---- | :---: | :---: |
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? | - | - |
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | - | - |
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? | - | - |
+| ***04:*** O artefato apresenta uma introdução? | - | - |
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | - | - |
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | - | - |
+
+### ✅ Rich Picture
+
+| Item | Avaliação | Observação |
+| :---- | :---: | :---: |
+| ***07:*** O Rich Picture representa todos os atores envolvidos no sistema? | - | - |
+| ***08:*** Os fluxos de informação entre os elementos estão ilustrados? | - | - |
+| ***09:*** As principais operações do sistema estão representadas? | - | - |
+| ***10:*** Os limites do sistema estão claramente indicados? | - | - |
+| ***11:*** O Rich Picture foi validado com a equipe ou stakeholders? | - | - |
 
 ## Referências Bibliográficas
 
@@ -68,3 +87,4 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | `1.0` | 20/06/2025 | Criação da Página | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.1` | 20/06/2025 | Adição de Introdução, Metodologia e Cronograma de Participantes | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.2` | 20/06/2025 | Adição de Artefatos Verificados e Resultados | [Marcelo Makoto](https://github.com/MM4k) | - |
+| `1.3` | 21/06/2025 | Adição de Listas de Verificação | [Marcelo Makoto](https://github.com/MM4k) | - |
