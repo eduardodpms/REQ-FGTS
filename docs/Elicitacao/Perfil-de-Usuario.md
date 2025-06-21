@@ -29,6 +29,33 @@ Além disso, após investigação em portais de notícia relevantes, foi possív
 
 <br>
 
+<font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Data</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Marcelo Makoto </td>
+      <td> 02/05/2025 </td>
+    </tr>
+    <tr>
+      <td> Eduardo de Pina </td>
+      <td> 02/05/2025 </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
 ## Estudo de Semelhança 📊
 
 Esse método de definição consiste na seleção de uma categoria de plataformas que trouxessem um público-alvo semelhante, a princípio, ao *FGTS*. Nesse sentido, verifica-se que o app em questão foi desenvolvido, de forma resumida, para trabalhadores brasileiros. Assim, aplicativos bancários são uma opção de alternativa para uma análise dos usuários, uma vez que trazem uma proposta similar e que possuem uma gama de dados públicos sobre seus usuários.
@@ -167,5 +194,6 @@ Após análise dos resultados obtidos nos métodos desenvolvidos para definiçã
 | `1.0` | 02/05/2025 | Criação da página de Perfil de Usuário | [Eduardo de Pina](https://github.com/eduardodpms), [Marcelo Makoto](https://github.com/MM4k) | [Maria Eduarda](https://github.com/dudaa28) |
 | `1.1` | 02/05/2025 | Adição do Experimento com IA | [Marcelo Makoto](https://github.com/MM4k) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.2` | 03/05/2025 | Organização dos elementos e adição de etapa | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
-| `1.3` | 20/06/2025 | Atualização da tabela de perfil de usuário e aprimoramento do texto | [Danielle Soares](https://github.com/danielle-soaress) | --- |
-| `1.4` | 21/06/2025 | Corrigindo numeração e fonte das imagens e tabelas | [Danielle Soares](https://github.com/danielle-soaress) | --- |
+| `1.3` | 20/06/2025 | Atualização da tabela de perfil de usuário e aprimoramento do texto | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.4` | 21/06/2025 | Corrigindo numeração e fonte das imagens e tabelas | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.5` | 21/06/2025 | Adicionando tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | - |
