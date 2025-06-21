@@ -59,24 +59,24 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 
 | Item | Referência | Avaliação | Observação |
 | :---- | :---: | :---: | :---: |
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? | ![][image1] | \- | \- |
-| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | ![][image2] | \- | \- |
-| ***03:*** As tabelas e imagens apresentam legenda e fonte? | ![][image3] | \- | \- |
-| ***04:*** O artefato apresenta uma introdução? | ![][image4] | \- | \- |
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? |  | \- | \- |
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | ![][image5] | \- | \- |
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(2)](#RP2)| ![][image1] | \- | \- |
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(2)](#RP2)| ![][image2] | \- | \- |
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(2)](#RP2)| ![][image3] | \- | \- |
+| ***04:*** O artefato apresenta uma introdução? [(2)](#RP2)| ![][image4] | \- | \- |
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(2)](#RP2)|  | \- | \- |
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(2)](#RP2)| ![][image5] | \- | \- |
 
 ### ✅ Rich Picture
 
 | Item | Referência | Avaliação | Observação |
 | :---- | :---: | :---: | :---: |
-| ***07:*** O Rich Picture representa todos os atores envolvidos no sistema? | ![][image6] | \- | \- |
-| ***08:*** Os fluxos de informação entre os elementos estão ilustrados? | ![][image7] | \- | \- |
-| ***09:*** As principais operações do sistema estão representadas? | ![][image8] | \- | \- |
-| ***10:*** Os limites do sistema estão claramente indicados? | ![][image9] | \- | \- |
-| **11:** Os armazenamentos de dados (tabelas) estão representados adequadamente?*| ![][image10] |  |  |
-| ***12:*** O Rich Picture foi validado com a equipe ou stakeholders? | ![][image11] | \- | \- |
-| ***13:*** O artefato possui uma legenda explicando os símbolos utilizados no diagrama? | ![][image12] |  |  |
+| ***07:*** O Rich Picture representa todos os atores envolvidos no sistema? [(1)](#RP1)| ![][image6] | \- | \- |
+| ***08:*** Os fluxos de informação entre os elementos estão ilustrados? [(1)](#RP1)| ![][image7] | \- | \- |
+| ***09:*** As principais operações do sistema estão representadas? [(1)](#RP1)| ![][image8] | \- | \- |
+| ***10:*** Os limites do sistema estão claramente indicados? [(1)](#RP1)| ![][image9] | \- | \- |
+| **11:** Os armazenamentos de dados (tabelas) estão representados adequadamente? [(1)](#RP1)| ![][image10] |  |  |
+| ***12:*** O Rich Picture foi validado com a equipe ou stakeholders? [(2)](#RP2)| ![][image11] | \- | \- |
+| ***13:*** O artefato possui uma legenda explicando os símbolos utilizados no diagrama? [(2)](#RP2)| ![][image12] |  |  |
 
 ## Referências Bibliográficas
 
