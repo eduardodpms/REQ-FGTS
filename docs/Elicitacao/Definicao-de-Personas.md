@@ -10,7 +10,7 @@ Uma persona, conforme apresentado por Barbosa et al. (2021)<a id="anchor_1" href
 
 ## Metodologia
 
-Foram criadas cinco personas (duas primárias, duas secundárias e uma antipersona), a fim de abranger as características de diferentes tipos de usuários que utilizam o sistema. Cada persona possui campos como identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas. Para a criação dessas personas, foi utilizado como base o perfil de usuário geral definido em [Perfil de Usuário](../Perfil-de-Usuario). Todas as imagens das personas foram geradas por meio da ferramenta de inteligência artificial *ChatGPT*</i><a id="anchor_2" href="#REF2">^2^</a>, para garantir unicidade dos personagens.
+O elenco é composto por cinco personas (duas primárias, duas secundárias e uma antipersona). Essa quantidade de personas é ideal para que o elenco represente os principais grupos de usuários sem diminuir os benefícios dessa técnica por conta de uma quantidade maior de personas. Cada persona possui campos como identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas. Para a criação dessas personas, foi utilizado como base o perfil de usuário geral definido em [Perfil de Usuário](../Perfil-de-Usuario). Todas as imagens das personas foram geradas por meio da ferramenta de inteligência artificial *ChatGPT*</i><a id="anchor_2" href="#REF2">^2^</a>, para garantir unicidade dos personagens.
 
 ## Participantes
 
@@ -173,5 +173,6 @@ Foram criadas cinco personas (duas primárias, duas secundárias e uma antiperso
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 02/05/2025 | Criação da página de Personas | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.1` | 03/05/2025 | Atualização de textos e detalhes | [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir) |
-| `1.2` | 21/06/2025 | Adicionando tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | - |
-| `1.3`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | - |
+| `1.2` | 21/06/2025 | Adicionando tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.3`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.4`  | 21/06/2025 | Adição de informações da quantidade de personas no elenco | [Marcelo Makoto](https://github.com/MM4k) | - |
