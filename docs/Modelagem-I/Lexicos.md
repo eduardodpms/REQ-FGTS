@@ -923,8 +923,9 @@ O L33, apresentado na tabela 36, utiliza o seguinte requisito não implementado:
 | **Termo** | Exibir informações detalhadas | 
 | **Tipo** | Verbo | 
 | **Impacto** |  O sistema consulta o banco de dados para recuperar os registros relacionados à movimentação financeira selecionada. <br> O sistema abre uma nova aba que apresenta as informações detalhadas.  | 
-| **Noção** | Tarefa realizada pelo sistema. <br> Acontece quando o usuário seleciona uma transação no histórico de movimentações financeiras. <br> Sistema verifica se os dados das movimentações financeiras estão registrados. | 
+| **Noção** | Tarefa realizada pelo sistema. <br> Acontece quando o usuário seleciona uma transação no [histórico de movimentações financeiras](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L35). <br> Sistema verifica se os dados das movimentações financeiras estão registrados. | 
 | **Sinônimos** | Mostrar informações detalhada | 
+|**Conexões**| [L35](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L35)|
 | **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | 
 
 </center>
@@ -946,9 +947,10 @@ O L34, apresentado na tabela 37, utiliza o seguinte requisito não implementado:
 | :-:       | :-:            |
 | **Termo** | Informações detalhadas | 
 | **Tipo** | Objeto | 
-| **Impacto** | Podem ser exibidas ao usuário, armazenadas e consultadas. | 
-| **Noção** | Conjunto de dados de uma movimentação financeira. <br> São consultadas no histórico de movimentações financeiras. | 
+| **Impacto** | Podem ser [exibidas](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L33) ao usuário, armazenadas e consultadas. | 
+| **Noção** | Conjunto de dados de uma movimentação financeira. <br> São consultadas no [histórico de movimentações financeiras](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L35). | 
 | **Sinônimos** | Dados específicos <br> informações completas | 
+|**Conexões**| [L33](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L33), [L35](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L35)|
 | **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | 
 
 </center>
@@ -969,9 +971,10 @@ O L35, apresentado na tabela 38, utiliza o seguinte requisito não implementado:
 | :-:       | :-:            |
 | **Termo** | Histórico de movimentações financeiras | 
 | **Tipo** | Objeto | 
-| **Impacto** | Podem ser exibidas ao usuário, consultado e filtrado por data. | 
-| **Noção** | Registros de movimentações financeiras realizadas pelo usuário ao longo do tempo. <br> Pode exibir informações detalhadas das movimentações financeiras. | 
+| **Impacto** | Podem ser exibidas ao usuário, consultado e [filtrado por data](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L36). | 
+| **Noção** | Registros de movimentações financeiras realizadas pelo usuário ao longo do tempo. <br> Pode [exibir informações detalhadas](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L33) das movimentações financeiras. | 
 | **Sinônimos** | Extrato, Registro de transações, Lista de movimentações. | 
+|**Conexões**| [L33](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L33), [L36](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L36)|
 | **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | 
 
 </center>
@@ -997,9 +1000,10 @@ O L36, apresentado na tabela 39, utiliza o seguinte requisito não implementado:
 | :-:       | :-:            |
 | **Termo** | Filtrar | 
 | **Tipo** | Verbo | 
-| **Impacto** | Permite que o usuário restrinja as movimentações exibidas no histórico de movimentações financeiras com base na data(mês e ano). | 
+| **Impacto** | Permite que o usuário restrinja as movimentações exibidas no [histórico de movimentações financeiras](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L35) com base na data(mês e ano). | 
 | **Noção** | Tarefa realizada pelo usuário. <br> Acontece quando o usuário seleciona uma data(mês e ano) específico. <br> sistema valida a data selecionada. | 
 | **Sinônimos** | Aplicar, Buscar | 
+|**Conexões**| [L35](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L35)|
 | **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | 
 
 </center>
@@ -1334,4 +1338,5 @@ O léxico L49 utiliza o requisito funcional não implementado ST07 (O aplicativo
 | `2.3` | 18/05/2025 | Adicionando Hyper Links | [Enzo Emir](https://github.com/EnzoEmir) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `2.4` | 17/06/2025 | Adicionando L31, L32, L38 E L39 | [Danielle Soares](https://github.com/danielle-soaress)  | [Enzo Emir](https://github.com/EnzoEmir) |
 | `2.5` | 17/06/2025 | Corrigindo links da página | [Danielle Soares](https://github.com/danielle-soaress)  | [Enzo Emir](https://github.com/EnzoEmir) |
-| `2.6` | 20/06/2025 | Adicionando Hiperlinks entre os lexicos L01-L13 | [Enzo Emir](https://github.com/EnzoEmir) | --- |
+| `2.6` | 20/06/2025 | Adicionando Hiperlinks entre os lexicos L01-L13 | [Enzo Emir](https://github.com/EnzoEmir) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `2.7` | 21/06/2025 | Adicionando Hiperlinks entre os lexicos L033-L36 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | --- |
