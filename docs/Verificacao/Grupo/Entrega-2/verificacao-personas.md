@@ -42,10 +42,10 @@ Nesta etapa a integrante [Maria Eduarda](https://github.com/dudaa28), será resp
       <td> 03:08 </td>
     </tr>
     <tr>
-      <td> - </td>
+      <td> Danielle </td>
       <td> Revisor </td>
-      <td> - /06/2025 </td>
-      <td> - </td>
+      <td> 21/06/2025 </td>
+      <td> 18:00 </td>
     </tr>
   </tbody>
 </table>
@@ -65,28 +65,52 @@ A tabela abaixo, apresenta a inspeção  da Lista de Verificação do artefado P
 | Item | Avaliação | Observação |
 | :---- | :---: | :---: |
 | **Geral** |
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? | - | - |
-| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | - | - |
-| ***03:*** As tabelas e imagens apresentam legenda e fonte? | - | - |
-| ***04:*** O artefato apresenta uma introdução? | - | - |
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | - | - |
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | - | - |
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? | Sim | - |
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | Sim | - |
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? | Não | Tabelas nao apresentam Fonte |
+| ***04:*** O artefato apresenta uma introdução? | Sim | - |
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Sim | - |
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Sim | - |
 | **Personas** |
 | Item | Avaliação | Observação |
-| ***07:*** A persona recebeu um nome completo, idade e outros dados demográficos representativos?| - | - |
-| ***08:*** Uma foto foi adicionada ao perfil da persona para torná-la mais realista e memorável?| - | - |
-| ***09:*** Foi definido o status da persona (primária, secundária, stakeholder ou antiusuário)?| - | - |
-| ***10:*** As principais tarefas realizadas pela persona foram levantadas?| - | - |
-| ***11:*** Os relacionamentos da persona foram identificados?| - | - |
-| ***12:*** Os requisitos da persona foram definidos com base em suas necessidades reais?| - | - |
-| ***13:*** Existe ao menos uma persona primária claramente identificada como foco principal do design?| - | - |
-| ***14:*** Existem antipersonas definidas para deixar claro quem não é o foco do projeto?| - | - |
+| ***07:*** A persona recebeu um nome completo, idade e outros dados demográficos representativos?| Sim | - |
+| ***08:*** Uma foto foi adicionada ao perfil da persona para torná-la mais realista e memorável?| Sim | - |
+| ***09:*** Foi definido o status da persona (primária, secundária, stakeholder ou antiusuário)?| Sim | - |
+| ***10:*** As principais tarefas realizadas pela persona foram levantadas?| Sim | - |
+| ***11:*** Os relacionamentos da persona foram identificados?| Sim | - |
+| ***12:*** Os requisitos da persona foram definidos com base em suas necessidades reais?| Sim | - |
+| ***13:*** Existe ao menos uma persona primária claramente identificada como foco principal do design?| Sim | - |
+| ***14:*** Existem antipersonas definidas para deixar claro quem não é o foco do projeto?| Sim | - |
 
 ## Análise de Resultados
 
+### ID - 03: As tabelas e imagens apresentam legenda e fonte?
+
+Foi apresentado as Tabelas e Imagens do artefato, e foi observado que as **Tabelas** não apresentam fonte.
+
 ## Correção
 
+Ajustar o artefato para atender ao critério **ID - 03**, referente à presença de legenda e fonte em tabelas e imagens.
+
+- **Tabelas**: Adicionar fontes aos dados apresentados.
+
+<details> <summary><strong>Observação</strong></summary>
+
+Versão atualizada atende aos requisitos de clareza e rastreabilidade.
+
+
+</details>
+
+
 ## Acompanhamento
+
+Foi realizada uma inspeção no artefato *Personas* com base na técnica de Fagan. A maior parte dos itens foi considerada conforme, incluindo referências bibliográficas, histórico de versões, introdução, linguagem formal, coerência entre texto e gráficos, e todos os critérios referentes às personas.
+
+A única **não conformidade** identificada foi no item **03**, referente à ausência de **fontes nas tabelas**. As imagens estão legendadas corretamente, mas as tabelas não indicam a origem dos dados apresentados.
+
+Recomenda-se a **inclusão imediata das fontes** nas tabelas para garantir a rastreabilidade e a conformidade com os requisitos de documentação.
+
+O artefato permanece em acompanhamento até que essa correção seja implementada.
 
 ## Referências Bibliográficas
 
@@ -101,4 +125,5 @@ A tabela abaixo, apresenta a inspeção  da Lista de Verificação do artefado P
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 21/06/2025 | Criação do documento | [Maria Eduarda](https://github.com/dudaa28) | - |
 | `1.1` | 21/06/2025 | Atualização do documento | [Maria Eduarda](https://github.com/dudaa28) | - |
+| `1.2` | 21/06/2025 | Adicionando Inspeção do requisito | [Maria Eduarda](https://github.com/dudaa28) | - |
 
