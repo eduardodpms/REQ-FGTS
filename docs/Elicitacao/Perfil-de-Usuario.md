@@ -33,9 +33,11 @@ Além disso, após investigação em portais de notícia relevantes, foi possív
 
 Esse método de definição consiste na seleção de uma categoria de plataformas que trouxessem um público-alvo semelhante, a princípio, ao *FGTS*. Nesse sentido, verifica-se que o app em questão foi desenvolvido, de forma resumida, para trabalhadores brasileiros. Assim, aplicativos bancários são uma opção de alternativa para uma análise dos usuários, uma vez que trazem uma proposta similar e que possuem uma gama de dados públicos sobre seus usuários.
 
-No TCC “As transformações digitais das instituições financeiras e sua influência na redefinição do papel das agências como canal de serviços: perfil dos usuários”<a id="anchor_2" href="#REF2">^2^</a>, de Nycolli Bussolo Mendes, foi realizado um questionário sistemático que tem como objetivo analisar o perfil dos usuários que utilizam instituições financeiras de forma digital e física.
+No TCC “As transformações digitais das instituições financeiras e sua influência na redefinição do papel das agências como canal de serviços: perfil dos usuários”<a id="anchor_2" href="#REF2">^2^</a>, de Nycolli Bussolo Mendes, foi realizado um questionário sistemático que tem como objetivo analisar o perfil dos usuários que utilizam instituições financeiras de forma digital e física. 
 
-Desse modo, foi possível assimilar o público-alvo do aplicativo *FGTS* com os respondentes do questionário realizado sobre os usuários de instituições bancárias sendo, assim, viável determinar o perfil de usuário com pessoas reais. O questionário contou com 183 participantes e os resultados pertinentes à esse desenvolvimento estão apresentados nas tabelas a seguir: 
+Os resultados do estudo de Nycolli Bussolo corroboram e aprofundam a premissa de que há uma assimilaridade do público-alvo do aplicativo FGTS com os respondentes do questionário realizado sobre os usuários de instituições bancárias. A pesquisa confirmou uma forte preferência por plataformas digitais para tarefas rotineiras, como consultar saldo e extratos – funcionalidades que compõem o app FGTS. O estudo destaca, por exemplo, que "consultar saldo e extratos", possuem maior utilização nos canais digitais impulsionado pela "necessidade de imediatismo das pessoas" e pela capacidade de "realizar essas transações onde estiverem", sem precisar ir a uma agência física <a id="anchor_2" href="#REF2">^2^</a>. Além disso, o estudo revelou que os canais digitais atendem um vasto espectro da população brasileira que possui certa afinidade com o meio digital.
+
+O questionário contou com 183 participantes e os resultados pertinentes à esse desenvolvimento estão apresentados nas tabelas a seguir: 
 
 <br>
 
@@ -77,6 +79,31 @@ Desse modo, foi possível assimilar o público-alvo do aplicativo *FGTS* com os 
     </figcaption>
 </figure>
 
+
+<figure style="text-align: center;">
+    <p style="font-size: 16px;">Figura 5: <i>Conta em Instituição Financeira</i></p>
+    <img src="../../assets/perfil-de-usuario/tcc/conta-banco.png" style="max-width: 100%;">
+    <figcaption>
+        <p style="font-size: 16px;">Fonte: Mendes (2020), TCC em Ciências Econômicas – UFSC</p>
+    </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+    <p style="font-size: 16px;">Figura 6: <i>Especificação das Contas Bancárias</i></p>
+    <img src="../../assets/perfil-de-usuario/tcc/conta-banco-ic.png" style="max-width: 100%;">
+    <figcaption>
+        <p style="font-size: 16px;">Fonte: Mendes (2020), TCC em Ciências Econômicas – UFSC</p>
+    </figcaption>
+</figure>
+
+<figure style="text-align: center;">
+    <p style="font-size: 16px;">Figura 7: <i>Canais mais utilizados</i></p>
+    <img src="../../assets/perfil-de-usuario/tcc/canal.png" style="max-width: 100%;">
+    <figcaption>
+        <p style="font-size: 16px;">Fonte: Mendes (2020), TCC em Ciências Econômicas – UFSC</p>
+    </figcaption>
+</figure>
+
 <br>
 
 ## Análise com IA 💾
@@ -93,20 +120,22 @@ Para fins experimentais e complementares, foi utilizada a ferramenta de Intelig�
 </figure>
 
 
-## Conclusão
+## Definição do Perfil
 
 Após análise dos resultados obtidos nos métodos desenvolvidos para definição de perfil de usuário, foi montada a lista a seguir, a qual generaliza as características de um usuário "padrão":
 
-| Atributo | Descrição |
-|-|-|
-| Idade | 24-55 anos |
-| Sexo | Indistinto |
-| Região | Todas as regiões do Brasil |
-| Escolaridade | Ensino médio ou superior completo |
-| Educação Digital | Básica ou mediana |
-| Renda | 1 a 6 salários mínimos |
-| Ocupação | Trabalhador com carteira assinada, doméstico, temporário, intermitente ou avulso |
-| Objetivo(s) | Consultar informações relativas ao *FGTS* e realizar saques |
+|Atributo|Descrição|
+|:---|:---|
+|**Idade**|Adultos dos 24 a 55 anos|
+|**Sexo**|Indistinto|
+|**Região**|Todo o Brasil|
+|**Escolaridade**|Ensino médio ou superior|
+|**Educação Digital**|Básica ou mediana|
+|**Renda**|1-6 salários mínimos|
+|**Ocupação**|Trabalhador CLT, doméstico, temporário, intermitente ou avulso|
+|**Experiência**| Intermediário (usa tecnologia com autonomia básica, entende o necessário para o cotidiano)|
+|**Atitude frente à tecnologia**|Neutro ou tecnófilo moderado (uso funcional, com valorização de segurança)|
+|**Tarefas Primárias**|Consultar informações relativas ao FGTS (como saldo/extratos) e realizar/consultar saques|
 
 
 <br>
@@ -132,3 +161,4 @@ Após análise dos resultados obtidos nos métodos desenvolvidos para definiçã
 | `1.0` | 02/05/2025 | Criação da página de Perfil de Usuário | [Eduardo de Pina](https://github.com/eduardodpms), [Marcelo Makoto](https://github.com/MM4k) | [Maria Eduarda](https://github.com/dudaa28) |
 | `1.1` | 02/05/2025 | Adição do Experimento com IA | [Marcelo Makoto](https://github.com/MM4k) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.2` | 03/05/2025 | Organização dos elementos e adição de etapa | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.3` | 20/06/2025 | Atualização da tabela de perfil de usuário e aprimoramento do texto | [Danielle Soares](https://github.com/danielle-soaress) | --- |
