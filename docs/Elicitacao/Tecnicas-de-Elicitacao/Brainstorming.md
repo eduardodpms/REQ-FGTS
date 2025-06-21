@@ -137,7 +137,7 @@ Legenda das Tabelas 3 e 4:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7E00fdLN2S4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
-## Referências
+## Referências Bibliográficas
 
 > <a id="ref1"> 1.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. *Engenharia de Requisitos: software orientado ao negócio*. Brasport, 2016.  
 

@@ -498,7 +498,7 @@ No contexto do app FGTS, uma pós-condição para o caso de uso **Visualizar Dat
 
 ><a id="BIB2" href="#anchor_2">2.</a> Lucid Software. *Diagrama de caso de uso UML: o que é, como fazer e exemplos*. Lucidchart, 2025. Disponível em: [https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml](https://www.lucidchart.com/pages/pt/diagrama-de-caso-de-uso-uml). Acesso em: 18 de maio de 2025.
 
-## Referências
+## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_3">1.</a> SERRANO, Milene; SERRANO, Maurício. *Requisitos – Aula 13*. UnB, 2025. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf). Acesso em: 17 de maio de 2025.
 

@@ -142,7 +142,7 @@ A seguir, os requisitos elicitados foram organizados em duas categorias: funcion
 
 <a href="../../../assets/Entrevista.pdf" target="_blank">📄 Ver documento completo</a>
 
-## Bibliografia
+## Referências Bibliográficas
 
 > 1.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. *Engenharia de Requisitos: software orientado ao negócio*. Brasport, 2016.  
 

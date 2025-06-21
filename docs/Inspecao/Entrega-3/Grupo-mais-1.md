@@ -79,6 +79,11 @@ O modelo de lista de verificação utilizado está definido em [Entrega 3](../..
 | ***27:*** Na especificação suplementar todos os requisitos não funcionais são testáveis/verificáveis? 1\. | [Maria](https://github.com/dudaa28) | Incompleto | Não Identificado na própria página, não sendo algo direto e sim passando por cada página de Elicitação | \- | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Victor](https://github.com/VictorPontual) | 19/05/2025 20:16 |
 
 
+## Bibliografia
+
+> <a id="REF1" href="#anchor_1">1.</a> VICTÓRIA, Ana; et al. Requisitos de Software - 2025.1- e-GDF. Disponível em: https://requisitos-de-software.github.io/2025.1-e-GDF/. Acesso em: 19 mai. 2025.
+
+
 <br>
 
 ## Histórico de Versões 📅

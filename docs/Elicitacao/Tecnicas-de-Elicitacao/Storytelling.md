@@ -166,6 +166,9 @@ Ao abrir o app, Antônio logo percebeu uma dificuldade: as letras eram pequenas.
 
 > 1.</a> REQUISITOS DE SOFTWARE. *Aplicativo – Lichess (2022.2)*. Disponível em: <<https://requisitos-de-software.github.io/2022.2-Lichess/elicitacao/storytelling/>>. Acesso em: 03/05/2025.
 
+
+## Referências Bibliográficas
+
 > <a id="REF1" href="#anchor_1">2.</a> SERRANO, Milene; SERRANO, Maurício. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponícel em: <<https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf>>. Acesso em: 03/05/2025.
 
 

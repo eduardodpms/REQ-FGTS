@@ -97,6 +97,11 @@ O modelo de lista de verificação utilizado está definido em [Entrega 2](../..
 | ***33:*** Foram utilizadas no mínimo quatro técnicas de priorização (ex.: MoSCoW, 100$, ROI, QFD, etc.)? | [Marcelo](https://github.com/MM4k) | Sim | --- | ![][image24] | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | 05/05/2025 \ 21:26 |
 | ***34:*** As técnicas MoSCoW e/ou 100$ só foram usadas após outras duas técnicas? | [Marcelo](https://github.com/MM4k) | Sim | --- | ![][image25] | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | 05/05/2025 \ 21:27 |
 
+
+## Bibliografia
+
+> <a id="REF1" href="#anchor_1">1.</a> VICTÓRIA, Ana; et al. Requisitos de Software - 2025.1- e-GDF. Disponível em: https://requisitos-de-software.github.io/2025.1-e-GDF/. Acesso em: 04 mai. 2025.
+
 <br>
 
 ## Histórico de Versões 📅

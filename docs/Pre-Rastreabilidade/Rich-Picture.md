@@ -53,7 +53,7 @@ A seguir, a Figura 1 mostra o Rich Picture desenvolvido para o aplicativo do FGT
     Figura 2: Legenda do Rich Picture (Fonte: Danielle Soares, 2025)
 </div>
 
-## Referências
+## Referências Bibliográficas
 
 > <a id="RP1" href="#TEC1">1.</a> MONK, Andrew; HOWARD, Steve. The Rich Picture: A Tool for Reasoning About Work Context. 1998.  Disponível em: <<https://ics.uci.edu/~wscacchi/Software-Process/Readings/RichPicture.pdf>>. Acesso em: 12/04/2025.
 

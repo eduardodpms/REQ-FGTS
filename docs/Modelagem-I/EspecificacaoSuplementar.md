@@ -4,13 +4,13 @@
 
 Este documento apresenta a **Especificação Suplementar** do aplicativo FGTS, com o objetivo de complementar os requisitos funcionais previamente definidos. Aqui são detalhados os **requisitos não funcionais**, **restrições**, **regras de negócio** e **padrões técnicos** que devem ser observados durante o desenvolvimento do sistema. 
 
-O conteúdo está estruturado conforme o modelo **FURPS+**, utilizado para organizar e classificar os requisitos de qualidade de software.
+O conteúdo está estruturado conforme o modelo **FURPS+**, utilizado para organizar e classificar os requisitos de qualidade de software <a id="RP1" href="#TEC1">1.</a>.
 
 ---
 
 ## Metodologia
 
-A elaboração da especificação suplementar seguiu os seguintes passos:
+A elaboração da especificação suplementar seguiu os seguintes passos <a id="RP1" href="#TEC1">1.</a>:
 
 1. **Levantamento dos Requisitos Não Funcionais** por meio da análise dos objetivos do sistema e padrões de qualidade esperados.
 2. **Classificação dos Requisitos** segundo o modelo FURPS+, que contempla: Funcionalidade, Usabilidade, Confiabilidade, Desempenho, Suporte e extensões (como restrições e interfaces).
@@ -78,7 +78,7 @@ A elaboração da especificação suplementar seguiu os seguintes passos:
 
 ## Modelo
 
-Este documento segue o modelo **FURPS+**, organizando os requisitos de software em categorias:
+Este documento segue o modelo **FURPS+**, organizando os requisitos de software em categorias <a id="RP1" href="#TEC1">1.</a>:
 
 - **F (Functionality):** Funcionalidades e regras de negócio
 - **U (Usability):** Usabilidade e acessibilidade
@@ -107,7 +107,7 @@ Este documento segue o modelo **FURPS+**, organizando os requisitos de software 
 
 ## Bibliografia
 
-> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. UnB, 2025. Disponível em: <[https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf)>. Acesso em: 18 de maio 2025. p. 27–30.
+> <a id="RP1" href="#TEC1">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. UnB, 2025. Disponível em: <[https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf)>. Acesso em: 18 de maio 2025. p. 27–30.
 
 
 

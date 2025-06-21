@@ -15,49 +15,56 @@ Aqui está definida a inspeção da entrega 1 do nosso grupo, no que tange ao ap
 
 | Item | Autor(es) | Avaliação | Observação | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| ***01:*** Os membros da equipe foram definidos? | [Danielle](https://github.com/danielle-soaress) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 01:58 |
-| ***02:*** Os papéis e responsabilidades de cada membro estão claros? | [Danielle](https://github.com/danielle-soaress) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 01:59 |
-| ***03:*** A forma de comunicação entre os membros foi estabelecida? | [Danielle](https://github.com/danielle-soaress) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 01:59 |
-| ***04:*** Há encontros periódicos agendados para acompanhamento do progresso da equipe? | [Eduardo](https://github.com/eduardodpms) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:04 |
+| ***01:*** Os membros da equipe foram definidos? [(2)](#RP2)| [Danielle](https://github.com/danielle-soaress) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 01:58 |
+| ***02:*** Os papéis e responsabilidades de cada membro estão claros? [(2)](#RP2)| [Danielle](https://github.com/danielle-soaress) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 01:59 |
+| ***03:*** A forma de comunicação entre os membros foi estabelecida? [(2)](#RP2)| [Danielle](https://github.com/danielle-soaress) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 01:59 |
+| ***04:*** Há encontros periódicos agendados para acompanhamento do progresso da equipe? [(2)](#RP2)| [Eduardo](https://github.com/eduardodpms) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:04 |
 
 
 ### ✅ App Selecionado para o Projeto
 
 | Item | Autor(es) | Avaliação | Observação | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| ***05:*** O aplicativo foi claramente escolhido e justificado? | [Eduardo](https://github.com/eduardodpms) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:04 |
-| ***06:*** As funcionalidades principais do app estão listadas? | [Eduardo](https://github.com/eduardodpms) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:05 |
-| ***07:*** O público-alvo do app está identificado? | [Enzo](https://github.com/EnzoEmir) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:06 |
+| ***05:*** O aplicativo foi claramente escolhido e justificado? [(2)](#RP2)| [Eduardo](https://github.com/eduardodpms) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:04 |
+| ***06:*** As funcionalidades principais do app estão listadas? [(2)](#RP2)| [Eduardo](https://github.com/eduardodpms) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:05 |
+| ***07:*** O público-alvo do app está identificado? [(2)](#RP2)| [Enzo](https://github.com/EnzoEmir) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:06 |
 
 
 ### ✅ Ferramentas do Projeto
 
 | Item | Autor(es) | Avaliação | Observação | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| ***08:*** As ferramentas de desenvolvimento foram selecionadas? | [Enzo](https://github.com/EnzoEmir) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:08 |
-| ***09:*** Ferramentas de versionamento (ex: Git) estão definidas? | [Enzo](https://github.com/EnzoEmir) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:09 |
-| ***10:*** Ferramentas de comunicação e organização (ex: Trello, Discord) foram escolhidas? | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:09 |
-| ***11:*** Há uma estratégia definida para backup e recuperação das informações do projeto?  | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:09 |
+| ***08:*** As ferramentas de desenvolvimento foram selecionadas? [(2)](#RP2)| [Enzo](https://github.com/EnzoEmir) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:08 |
+| ***09:*** Ferramentas de versionamento (ex: Git) estão definidas? [(2)](#RP2)| [Enzo](https://github.com/EnzoEmir) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:09 |
+| ***10:*** Ferramentas de comunicação e organização (ex: Trello, Discord) foram escolhidas? [(2)](#RP2)| [Leticia](https://github.com/Leticia-Arisa-K-Higa) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:09 |
+| ***11:*** Há uma estratégia definida para backup e recuperação das informações do projeto?  [(2)](#RP2)| [Leticia](https://github.com/Leticia-Arisa-K-Higa) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:09 |
 
 ### ✅ Cronograma das Atividades
 
 | Item | Autor(es) | Avaliação | Observação | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| ***12:*** As atividades do projeto estão listadas e descritas? | [Leticia](https://github.com/Leticia-Arisa-K-Higa) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:13 |
-| ***13:*** Cada atividade tem uma estimativa de duração? | [Marcelo](https://github.com/MM4k) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:15 |
-| ***14:*** As datas de início e fim do projeto estão definidas? | [Marcelo](https://github.com/MM4k) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:15 |
-| ***15:*** As dependências entre atividades foram consideradas? | [Marcelo](https://github.com/MM4k) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:16 |
-| ***16:*** O cronograma está sendo acompanhado e atualizado? | [Maria](https://github.com/dudaa28) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:17 |
+| ***12:*** As atividades do projeto estão listadas e descritas? [(2)](#RP2)| [Leticia](https://github.com/Leticia-Arisa-K-Higa) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:13 |
+| ***13:*** Cada atividade tem uma estimativa de duração? [(2)](#RP2)| [Marcelo](https://github.com/MM4k) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:15 |
+| ***14:*** As datas de início e fim do projeto estão definidas? [(2)](#RP2)| [Marcelo](https://github.com/MM4k) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:15 |
+| ***15:*** As dependências entre atividades foram consideradas? [(2)](#RP2)| [Marcelo](https://github.com/MM4k) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:16 |
+| ***16:*** O cronograma está sendo acompanhado e atualizado? [(2)](#RP2)| [Maria](https://github.com/dudaa28) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:17 |
 
 ### ✅ Rich Picture
 
 | Item | Autor(es) | Avaliação | Observação | Avaliador(es) | Data e Hora |
 |-|:-:|:-:|:-:|:-:|:-:|
-| ***17:*** O Rich Picture representa todos os atores envolvidos no sistema? | [Maria](https://github.com/dudaa28) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:18 |
-| ***18:*** Os fluxos de informação entre os elementos estão ilustrados? | [Maria](https://github.com/dudaa28) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:20 |
-| ***19:*** As principais operações do sistema estão representadas? | [Victor](https://github.com/VictorPontual) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:20 |
-| ***20:*** Os limites do sistema estão claramente indicados? | [Victor](https://github.com/VictorPontual) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:21 |
-| ***21:*** O Rich Picture foi validado com a equipe ou stakeholders? | [Victor](https://github.com/VictorPontual) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:21 |
+| ***17:*** O Rich Picture representa todos os atores envolvidos no sistema? [(1)](#RP1)| [Maria](https://github.com/dudaa28) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:18 |
+| ***18:*** Os fluxos de informação entre os elementos estão ilustrados? [(1)](#RP1)| [Maria](https://github.com/dudaa28) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:20 |
+| ***19:*** As principais operações do sistema estão representadas? [(1)](#RP1)| [Victor](https://github.com/VictorPontual) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:20 |
+| ***20:*** Os limites do sistema estão claramente indicados? [(1)](#RP1)| [Victor](https://github.com/VictorPontual) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:21 |
+| ***21:*** O Rich Picture foi validado com a equipe ou stakeholders? [(2)](#RP2)| [Victor](https://github.com/VictorPontual) | Sim | --- | [Eduardo](https://github.com/eduardodpms) | 07/05/2025 \ 02:21 |
+
+
+## Referências Bibliográficas
+
+> <a id="RP1" href="#TEC1">1.</a> CTEC2402 Software Development Project. Introducing Rich Pictures. [S. l.: s. n.]. Disponível em: https://aprender3.unb.br/pluginfile.php/3096055/mod_resource/content/2/1_5145791542719414573.pdf. Acesso em: 17 jun. 2025.
+
+> <a id="RP2" href="#TEC2">2.</a> SALES, André Barros. Sugestão inicial da Lista de Verificação para algumas entregas do projeto. [S. l.: s. n.]. Disponível em: https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifica%C3%A7%C3%A3o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf. Acesso em: 17 jun. 2025.
 
 
 <br>

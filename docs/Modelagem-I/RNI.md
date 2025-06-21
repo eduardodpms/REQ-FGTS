@@ -44,6 +44,10 @@ Esta seção apresenta os requisitos funcionais e não funcionais que ainda **n�
 
 ---
 
+## Bibliografia
+
+> <a id="REF1" href="#anchor_1">1.</a> SOARES, Danielle; et al. Requisitos de Software - 2025.1-FGTS. Disponível em: https://requisitos-de-software.github.io/2025.1-FGTS/. Acesso em: 24 mai. 2025.
+
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |

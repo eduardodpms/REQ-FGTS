@@ -77,6 +77,10 @@ O modelo de lista de verificação utilizado está definido em [Entrega 1](../..
 | ***20:*** Os limites do sistema estão claramente indicados? | [Victor](https://github.com/VictorPontual) | Sim | --- | ![][image25] | [Victor](https://github.com/VictorPontual) | 14/04/2025 \ 19:19 |
 | ***21:*** O Rich Picture foi validado com a equipe ou stakeholders? | [Victor](https://github.com/VictorPontual) | Sim | --- | ![][image26] | [Victor](https://github.com/VictorPontual) | 14/04/2025 \ 19:19 |
 
+## Bibliografia
+
+> <a id="REF1" href="#anchor_1">1.</a> VICTÓRIA, Ana; et al. Requisitos de Software - 2025.1- e-GDF. Disponível em: https://requisitos-de-software.github.io/2025.1-e-GDF/. Acesso em: 14 abr. 2025.
+
 <br>
 
 ## Histórico de Versões 📅

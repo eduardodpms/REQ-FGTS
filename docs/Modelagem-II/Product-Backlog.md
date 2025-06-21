@@ -613,7 +613,7 @@ Validação dos Backlogs 01-12 e 31-42 presentes no vídeo a seguir:
 </p>
 ---
 
-##  Referências
+##  Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a>  PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
 

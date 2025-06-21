@@ -164,6 +164,11 @@ Essa página tem como objetivo compilar todos os requisitos elicitados com a uti
 | RNF22  | 1.0 | A aplicação deve estar em conformidade com diretrizes de acessibilidade, garantindo acesso a pessoas com deficiência visual, auditiva ou motora | [IS20](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF)| Testável |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 
+## Bibliografia
+
+> <a id="REF1" href="#anchor_1">1.</a> SOARES, Danielle; et al. Requisitos de Software - 2025.1-FGTS. Disponível em: https://requisitos-de-software.github.io/2025.1-FGTS/. Acesso em: 24 abr. 2025.
+
+
 <br>
 
 ## Histórico de Versões 📅
