@@ -91,7 +91,7 @@ Dessa forma, para essa entrega, foi construído um [perfil de usuário](../../El
 
 <br>
 
-## Referências
+## Referências Bibliográficas
 
 > <a id="anchor_1" href="#anchor_1">1.</a> BARBOSA, Simone D. J. et al. Interação Humano-Computador e Experiência do Usuário. [S.l.]: Autopublicação, 2021.
 

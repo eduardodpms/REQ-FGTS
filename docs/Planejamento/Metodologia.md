@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Para condução deste projeto, será utilizada a metodologia ágil **SCRUM**, um framework de desenvolvimento iterativo e incremental amplamente adotado na engenharia de software. O SCRUM organiza o trabalho em ciclos curtos chamados *Sprints*, permitindo entregas contínuas e frequentes de valor ao produto. 
+Para condução deste projeto, será utilizada a metodologia ágil **SCRUM**, um framework de desenvolvimento iterativo e incremental amplamente adotado na engenharia de software. O SCRUM organiza o trabalho em ciclos curtos chamados *Sprints*, permitindo entregas contínuas e frequentes de valor ao produto<a id="SCRUM1" href="#TEC1">^1^</a>. 
 
 Essa abordagem favorece a adaptação a mudanças de requisitos ao longo do projeto, promove a colaboração entre os membros da equipe e facilita o acompanhamento do progresso por meio de reuniões regulares e artefatos bem definidos.
 
@@ -66,7 +66,7 @@ Estando disponível essa metodologia usada em um modelo de cronograma do planeja
 
 ## Bibliografia
 
-> <a id="SCRUM2" href="#TEC2">3.</a> RUNRUN.IT. *Metodologia Scrum: entenda o que é e como aplicar*. Disponível em: <<https://blog.runrun.it/metodologia-scrum/>>. Acesso em: 01/05/2025.
+> <a id="SCRUM1" href="#TEC1">1.</a> RUNRUN.IT. *Metodologia Scrum: entenda o que é e como aplicar*. Disponível em: <<https://blog.runrun.it/metodologia-scrum/>>. Acesso em: 01/05/2025.
 
 
 ## Histórico de Versões 📅

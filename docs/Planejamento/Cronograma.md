@@ -230,11 +230,11 @@ A tabela a seguir mostra o que foi *entregue* no contexto do cronograma das ativ
 
 ## Bibliografia
 
-> <a id="CRONO1" href="#TEC3">3.</a> REQUISITOS DE SOFTWARE. *Cronograma – Bilheteria Digital (2023.1)*. Disponível em: <<https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/>>. Acesso em: 12/04/2025.
+> <a id="CRONO1" href="#TEC3"></a> REQUISITOS DE SOFTWARE. *Cronograma – Bilheteria Digital (2023.1)*. Disponível em: <<https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/>>. Acesso em: 12/04/2025.
 
-> <a id="CRONO3" href="#TEC5">5.</a> GRUPO GRASSHOPPER. *Cronograma de Planejamento - 2022.2*. Disponível em: <<https://requisitos-de-software.github.io/2022.2-Grasshopper/planejamento/cronograma/>>. Acesso em: 12/04/2025.
+> <a id="CRONO3" href="#TEC5"></a> GRUPO GRASSHOPPER. *Cronograma de Planejamento - 2022.2*. Disponível em: <<https://requisitos-de-software.github.io/2022.2-Grasshopper/planejamento/cronograma/>>. Acesso em: 12/04/2025.
 
-> <a id="CRONO2" href="#TEC4">4.</a> UNIVERSIDADE DE BRASÍLIA. *FGA0303 - Engenharia de Requisitos T03/2024.1*. Disponível em: <<https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf>>. Acesso em: 12/04/2025.
+> <a id="CRONO2" href="#TEC4"></a> UNIVERSIDADE DE BRASÍLIA. *FGA0303 - Engenharia de Requisitos T03/2024.1*. Disponível em: <<https://aprender3.unb.br/pluginfile.php/3095981/mod_resource/content/57/FGA0303-T03.pdf>>. Acesso em: 12/04/2025.
 
 <br>
 

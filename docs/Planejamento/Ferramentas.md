@@ -27,7 +27,7 @@ Para garantir uma melhor organização, comunicação e produção de artefatos 
 
 
 
-## Bibliografia
+## Referências Bibliográficas
 
 ><a id="FRM1" href="#anchor_1">1.</a> GitHub. Disponível em: https://docs.github.com/pt. Acesso em: 12 de abr. de 2025.
 >

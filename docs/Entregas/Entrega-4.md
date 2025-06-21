@@ -65,7 +65,7 @@ A Entrega 4 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 
 <br>
 
-## Bibliografia
+## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> SALES, André Barros de. Sugestão inicial de Lista de Verificação para algumas entregas do projeto. Requisitos de Software. Brasília: Universidade de Brasília, 2025. Disponível em: https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifificação%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf. Acesso em: 01 junho 2025.
 

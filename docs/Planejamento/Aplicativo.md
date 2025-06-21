@@ -60,7 +60,7 @@ Com o objetivo de verificar a vibilidade legal do desenvolvimento do projeto, de
 
 <br>
 
-## Bibliografia
+## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> REQUISITOS DE SOFTWARE. *Aplicativo – Bilheteria Digital (2023.1)*. Disponível em: <<https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital/blob/main/docs/planejamento/aplicativo.md/>>. Acesso em: 10/04/2025.
 
@@ -69,6 +69,8 @@ Com o objetivo de verificar a vibilidade legal do desenvolvimento do projeto, de
 > <a id="REF3" href="#anchor_3">3.</a> Aplicativo FGTS. Disponível em: <<https://play.google.com/store/apps/details?id=br.gov.caixa.fgts.trabalhador&hl=pt_BR&pli=1>>. Acesso em: 01/05/2025.
 
 > <a id="REF4" href="#anchor_4">4.</a> Site e-Título. Disponível em <<https://www.tse.jus.br/servicos-eleitorais/servicos/aplicativo-e-titulo>>. Acesso em: 10/04/2025.
+
+## Bibliografia
 
 > Aplicativo e-Título. Disponível em: <<https://play.google.com/store/apps/details?id=br.jus.tse.eleitoral.etitulo&hl=pt_BR>>. Acesso em: 10/04/2025.
 
