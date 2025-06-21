@@ -140,12 +140,31 @@ nav:
     - Grupo:
       - Entrega 1:
         - Planejamento de Verificação - Entrega 1: Verificacao/Grupo/Entrega-1/planejamento-verificacao-entrega-1.md
+        - Rich Picture: Verificacao/Grupo/Entrega-1/verificacao-rich-picture.md
       - Entrega 2:
         - Planejamento de Verificação - Entrega 2: Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2.md
+        - Perfil de Usuário: Verificacao/Grupo/Entrega-2/verificacao-perfil-de-usuario.md
+        - Personas: Verificacao/Grupo/Entrega-2/verificacao-personas.md
+        - Brainstorming: Verificacao/Grupo/Entrega-2/verificacao-brainstorming.md
+        - Introspecção: Verificacao/Grupo/Entrega-2/verificacao-introspeccao.md
+        - Entrevista: Verificacao/Grupo/Entrega-2/verificacao-entrevista.md
+        - Observação: Verificacao/Grupo/Entrega-2/verificacao-observacao.md
+        - Storytelling: Verificacao/Grupo/Entrega-2/verificacao-storytelling.md
+        - First Things First: Verificacao/Grupo/Entrega-2/verificacao-first-things-first.md
+        - In or Out: Verificacao/Grupo/Entrega-2/verificacao-in-or-out.md
+        - Three-Level Scale: Verificacao/Grupo/Entrega-2/verificacao-three-level-scale.md
+        - $100 Test: Verificacao/Grupo/Entrega-2/verificacao-100-test.md
       - Entrega 3:
         - Planejamento de Verificação - Entrega 3: Verificacao/Grupo/Entrega-3/planejamento-verificacao-entrega-3.md
+        - Casos de Uso: Verificacao/Grupo/Entrega-3/verificacao-casos-de-uso.md
+        - Cenários: Verificacao/Grupo/Entrega-3/verificacao-cenarios.md
+        - Léxicos: Verificacao/Grupo/Entrega-3/verificacao-lexicos.md
+        - Especificação Suplementar: Verificacao/Grupo/Entrega-3/verificacao-especificacao-suplementar.md
       - Entrega 4:
         - Planejamento de Verificação - Entrega 4: Verificacao/Grupo/Entrega-4/planejamento-verificacao-entrega-4.md
+        - NFR Framework: Verificacao/Grupo/Entrega-4/verificacao-nfr-framework.md
+        - Backlog: Verificacao/Grupo/Entrega-4/verificacao-backlog.md
+        - Histórias de Usuário: Verificacao/Grupo/Entrega-4/verificacao-historias-de-usuario.md
   - Validação:
     - Prototipação: Validacao/Prototipacao.md
     - Comprovação Informal: Validacao/Comprovacao.md
