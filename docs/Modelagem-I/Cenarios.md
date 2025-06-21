@@ -44,7 +44,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
     </tr>
     <tr>
       <td> Leticia Arisa </td>
-      <td> 16/05 </td>
+      <td> 16/05/2025 </td>
       <td> 23:50 </td>
     </tr>
     <tr>
