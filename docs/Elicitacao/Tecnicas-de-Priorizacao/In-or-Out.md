@@ -16,32 +16,38 @@ Caso a resposta fosse afirmativa para qualquer um dos pontos acima, o requisito 
 
 Requisitos classificados como **OUT** foram justificados com base em sua não essencialidade ou por se tratarem de melhorias de experiência, que podem ser postergadas.
 
+## Participantes
+
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
 <div align="center">
-
 <table>
   <thead>
     <tr>
       <th>Nome</th>
       <th>Data</th>
+      <th>Hora</th>
+      <th>Local</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td> Enzo Emir </td>
       <td> 04/05/2025 </td>
+      <td> 19:00 </td>
+      <td> Discord </td>
     </tr>
     <tr>
       <td> Victor Pontual </td>
       <td> 04/05/2025 </td>
+      <td> 16:00 </td>
+      <td> Discord </td>
     </tr>
   </tbody>
 </table>
-
 </div>
 
-<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
 ## Requisitos priorizados
 
@@ -135,4 +141,5 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |:-:|:-:|:-:|:-:|:-:|
 | `1.0` | 04/05/2025 | Criação da priorização In or Out | [Enzo Emir](https://github.com/EnzoEmir), [Victor Pontual](https://github.com/VictorPontual) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| `1.1` | 21/06/2025 | Adicionando tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `1.1` | 21/06/2025 | Adicionando tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.2`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | - |

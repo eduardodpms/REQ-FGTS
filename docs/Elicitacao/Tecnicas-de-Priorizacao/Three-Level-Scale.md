@@ -24,32 +24,38 @@ A partir da combinação desses critérios, os requisitos foram classificados da
 
 Dessa maneira, os requisitos podem ser priorizados de maneira relativamente fácil e rápido, tornando a técnica de priorização Three-Level Scale eficiente.
 
+## Participantes
+
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
 <div align="center">
-
 <table>
   <thead>
     <tr>
       <th>Nome</th>
       <th>Data</th>
+      <th>Hora</th>
+      <th>Local</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td> Marcelo Makoto </td>
-      <td> 04/05/2025 </td>
+      <td> 03/05/2025 </td>
+      <td> 14:00 </td>
+      <td> Microsoft Teams </td>
     </tr>
     <tr>
       <td> Victor Pontual </td>
-      <td> 04/05/2025 </td>
+      <td> 03/05/2025 </td>
+      <td> 14:00 </td>
+      <td> Microsoft Teams </td>
     </tr>
   </tbody>
 </table>
-
 </div>
 
-<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
 ## Requisitos priorizados
 **Legendas:**
@@ -149,4 +155,5 @@ Dessa maneira, os requisitos podem ser priorizados de maneira relativamente fác
 | `1.1`  | 04/05/2025 | Correções de texto | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.2`  | 04/05/2025 | Priorização dos requisitos | [Marcelo Makoto](https://github.com/MM4k), [Victor Pontual](https://github.com/VictorPontual) | [Maria Eduardo](https://github.com/dudaa28) |
 | `1.3`  | 04/05/2025 | Correções de texto | [Marcelo Makoto](https://github.com/MM4k) | [Maria Eduarda](https://github.com/dudaa28) |
-| `1.4` | 21/06/2025 | Adicionando tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `1.4` | 21/06/2025 | Adicionando tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.5`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | - |

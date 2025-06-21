@@ -4,6 +4,69 @@
 
 Essa página tem como objetivo compilar todos os requisitos elicitados com a utilização de técnicas como Entrevista, Introspecção, Observação e Storytelling. Os requisitos serão divididos em duas tabelas, a primeira sendo para requisitos fuincionais e a segunda para requisitos não-funcionais.
 
+## Participantes
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Data</th>
+      <th>Hora</th>
+      <th>Local</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Danielle Soares </td>
+      <td> 04/05/2025 </td>
+      <td> - </td>
+      <td> Discord </td>
+    </tr>
+    <tr>
+      <td> Eduardo de Pina </td>
+      <td> 04/05/2025 </td>
+      <td> - </td>
+      <td> Discord </td>
+    </tr>
+    <tr>
+      <td> Enzo Emir </td>
+      <td> 04/05/2025 </td>
+      <td> - </td>
+      <td> Discord </td>
+    </tr>
+    <tr>
+      <td> Leticia Arisa </td>
+      <td> 04/05/2025 </td>
+      <td> - </td>
+      <td> Discord </td>
+    </tr>
+    <tr>
+      <td> Marcelo Makoto </td>
+      <td> 04/05/2025 </td>
+      <td> - </td>
+      <td> Discord </td>
+    </tr>
+    <tr>
+      <td> Maria Eduarda </td>
+      <td> 04/05/2025 </td>
+      <td> - </td>
+      <td> Discord </td>
+    </tr>
+    <tr>
+      <td> Victor Pontual </td>
+      <td> 04/05/2025 </td>
+      <td> - </td>
+      <td> Discord </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
 ### <a name="RF"></a> Requisitos funcionais
 **Legendas:**
 
@@ -116,4 +179,5 @@ Essa página tem como objetivo compilar todos os requisitos elicitados com a uti
 | `1.6`  | 30/05/2025 | Aprimoramento das descrições dos requisitos | [Danielle Soares](https://github.com/danielle-soaress) |  [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.7`  | 31/05/2025 | Atualizando links de rastreabilidade | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.8`  | 20/06/2025 | Adicionando Testabilidade dos requisitos | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `1.9`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | - |
 

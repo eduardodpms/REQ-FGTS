@@ -18,6 +18,8 @@ A técnica dos 100 dólares é um método de priorização que simula a alocaç�
       <th>Nome</th>
       <th>Função</th>
       <th>Data</th>
+      <th>Hora</th>
+      <th>Local</th>
     </tr>
   </thead>
   <tbody>
@@ -25,16 +27,22 @@ A técnica dos 100 dólares é um método de priorização que simula a alocaç�
       <td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
       <td>Mediador</td>
       <td>04/05/2025</td>
+      <td>17:00</td>
+      <td>Discord</td>
     </tr>
     <tr>
       <td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
       <td>Mediador</td>
       <td>04/05/2025</td>
+      <td>17:00</td>
+      <td>Discord</td>
     </tr>
     <tr>
       <td><span style="color: orange;">Maria Eduarda</span></td>
       <td>Equipe/Usuária</td>
       <td>04/05/2025</td>
+      <td>17:00</td>
+      <td>Discord</td>
     </tr>
   </tbody>
 </table>
@@ -146,4 +154,5 @@ A técnica foi aplicada de forma individual, sendo que cada participante aplicou
 | `1.1` | 04/05/2025 | Atualização do Documento | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.2` | 04/05/2025 | Correção de link | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.3` | 08/06/2025 | Correção de formatação md | [Eduardo de Pina](https://github.com/eduardodpms) | - |
-| `1.4` | 21/06/2025 | Adicionando data na tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `1.4` | 21/06/2025 | Adicionando data na tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.5`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | - |

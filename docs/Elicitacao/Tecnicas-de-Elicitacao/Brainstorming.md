@@ -24,6 +24,7 @@ Como apoio visual e organizacional, foi utilizado um arquivo compartilhado na fe
       <th>Nome</th>
       <th>Data</th>
       <th>Hora</th>
+      <th>Local</th>
     </tr>
   </thead>
   <tbody>
@@ -31,36 +32,43 @@ Como apoio visual e organizacional, foi utilizado um arquivo compartilhado na fe
       <td> Danielle Soares </td>
       <td> 30/05/2025 </td>
       <td> 23:10 </td>
+      <td> Discord </td>
     </tr>
     <tr>
       <td> Eduardo de Pina </td>
       <td> 30/05/2025 </td>
       <td> 23:10 </td>
+      <td> Discord </td>
     </tr>
     <tr>
       <td> Enzo Emir </td>
       <td> 30/05/2025 </td>
       <td> 23:10   </td>
+      <td> Discord </td>
     </tr>
     <tr>
       <td> Leticia Arisa </td>
       <td> 30/05/2025 </td>
       <td> 23:10 </td>
+      <td> Discord </td>
     </tr>
     <tr>
       <td> Marcelo Makoto </td>
       <td> 30/05/2025 </td>
       <td> 23:10 </td>
+      <td> Discord </td>
     </tr>
     <tr>
       <td> Maria Eduarda </td>
       <td> 30/05/2025 </td>
       <td> 23:10 </td>
+      <td> Discord </td>
     </tr>
     <tr>
       <td> Victor Pontual </td>
       <td> 30/05/2025 </td>
       <td> 23:10 </td>
+      <td> Discord </td>
     </tr>
   </tbody>
 </table>
@@ -140,4 +148,5 @@ Legenda das Tabelas 3 e 4:
 |  `1.0`   | 30/05/2025 | Introdução, Metodologia, Participantes e Requisitos elicitados  | [Danielle Soares](https://github.com/danielle-soaress)   | [Enzo Emir](https://github.com/EnzoEmir) |
 |  `1.1`   | 30/05/2025 | Vídeo da elicitação  | [Danielle Soares](https://github.com/danielle-soaress)   | [Maria Eduarda](https://github.com/dudaa28) |
 |  `1.2`   | 30/05/2025 | Vídeo da elicitação  | [Danielle Soares](https://github.com/danielle-soaress)   | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.3`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | - |
 

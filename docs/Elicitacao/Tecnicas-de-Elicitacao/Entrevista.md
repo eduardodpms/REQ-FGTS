@@ -24,7 +24,7 @@ A entrevista foi aplicada por **Enzo Emir e Eduardo de Pina**, com perguntas org
   </thead>
   <tbody>
     <tr>
-      <td>Entrevistado 1 (anônimo)</td>
+      <td>Entrevistado 1: Vicente</td>
       <td>03/05/2025</td>
       <td>17:30</td>
     </tr>
@@ -34,7 +34,7 @@ A entrevista foi aplicada por **Enzo Emir e Eduardo de Pina**, com perguntas org
       <td>17:30</td>
     </tr>
     <tr>
-      <td>Entrevistado 2 (anônimo)</td>
+      <td>Entrevistado 2: Nildete da Silva</td>
       <td>04/05/2025</td>
       <td>15:00</td>
     </tr>
@@ -50,6 +50,14 @@ A entrevista foi aplicada por **Enzo Emir e Eduardo de Pina**, com perguntas org
 
 
 <p style="text-align: center; font-size: 16px;">Fonte: <i>Enzo Emir e Eduardo de Pina</i></p>
+
+</details> <details> <summary><strong> O Porque da Participação</strong></summary>
+
+A participação do entrevistado 1 (Vicente) e da entrevistada 2 (Nildete), ambos usuários-chave, foi de importância fundamental para o processo de elicitação de requisitos. Como especialistas em suas próprias rotinas e desafios diários, eles trouxeram à tona as necessidades reais e as dores do negócio que o sistema precisa resolver. Essa perspectiva direta permitiu não apenas identificar funcionalidades essenciais, mas também compreender os requisitos não funcionais críticos para a usabilidade e aceitação da solução.
+
+O envolvimento deles é vital porque garante que o software seja construído com base em informações precisas e no uso prático, evitando suposições e desenvolvimentos desalinhados com a realidade. Ao validar ideias e fornecer feedback desde as etapas iniciais, Vicente e Nildete contribuíram diretamente para reduzir retrabalhos futuros e minimizar o risco de entregar um produto que não atenda às expectativas. Em suma, a presença deles na entrevista assegurou que o projeto se mantenha focado em criar uma solução verdadeiramente útil e eficaz para seus futuros usuários.
+
+</details>
 
 ## Requisitos Elicitados
 
@@ -150,3 +158,4 @@ A seguir, os requisitos elicitados foram organizados em duas categorias: funcion
 | `1.3`  | 06/05/2025 | Correção da formatação dos requisitos elicitados. | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.4` | 17/05/2025 | Adição de âncoras | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.5`  | 17/05/2025 | Corrigindo bug nas tabelas | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `1.6`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | - |

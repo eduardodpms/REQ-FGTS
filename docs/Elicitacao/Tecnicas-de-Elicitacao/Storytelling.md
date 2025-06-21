@@ -14,6 +14,7 @@ Para realizar a elicitação de requisitos, uma das técnicas utilizadas foi o s
       <th>Nome</th>
       <th>Data</th>
       <th>Hora</th>
+      <th>Local</th>
     </tr>
   </thead>
   <tbody>
@@ -21,31 +22,37 @@ Para realizar a elicitação de requisitos, uma das técnicas utilizadas foi o s
       <td>Leticia Arisa</td>
       <td>03/05/2023</td>
       <td>14:40</td>
+      <td>Microsoft Teams</td>
     </tr>
     <tr>
       <td>Marcelo Makoto</td>
       <td>03/05/2023</td>
       <td>14:40</td>
+      <td>Microsoft Teams</td>
     </tr>
     <tr>
       <td>Lucas Almeida (Persona)</td>
       <td>03/05/2023</td>
       <td>14:40</td>
+      <td>Microsoft Teams</td>
     </tr>
     <tr>
       <td>Beatriz Fernandes (Persona)</td>
       <td>03/05/2023</td>
       <td>14:40</td>
+      <td>Microsoft Teams</td>
     </tr>
     <tr>
       <td>Patrícia Nogueira (Persona)</td>
       <td>03/05/2023</td>
       <td>14:40</td>
+      <td>Microsoft Teams</td>
     </tr>
     <tr>
       <td>Antônio Ribeiro (Persona)</td>
       <td>03/05/2023</td>
       <td>14:40</td>
+      <td>Microsoft Teams</td>
     </tr>
   </tbody>
 </table>

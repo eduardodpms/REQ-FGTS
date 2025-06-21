@@ -12,7 +12,42 @@ A sessão de observação foi conduzida por Eduardo de Pina, com base em uma gra
 
 Durante a análise da gravação, Victor Pontual foi responsável por registrar os requisitos elicitados a partir do comportamento da usuária. A sessão ocorreu no dia 04 de maio de 2025 e teve duração aproximada de 30 minutos.
 
-<font size="3"><p style="text-align: center">Tabela 1: Detalhes da Observação</p></font>
+<font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
+
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Data</th>
+      <th>Hora</th>
+      <th>Local</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Eduardo de Pina</td>
+      <td>04/05/2023</td>
+      <td>17:00</td>
+      <td>Discord</td>
+    </tr>
+    <tr>
+      <td>Victor Pontual</td>
+      <td>04/05/2023</td>
+      <td>18:40</td>
+      <td>Discord</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+
+<p style="text-align: center; font-size: 16px;">Fonte: <i>Maria Eduarda</i></p>
+
+<font size="3"><p style="text-align: center">Tabela 2: Detalhes da Observação</p></font>
 
 <div align="center">
 
@@ -22,6 +57,7 @@ Durante a análise da gravação, Victor Pontual foi responsável por registrar 
       <th>Nome da Usuária Observada</th>
       <th>Data</th>
       <th>Hora</th>
+      <th>Local</th>
       <th>Observador</th>
       <th>Anotador de Requisitos</th>
       <th>Meio de Observação</th>
@@ -32,6 +68,7 @@ Durante a análise da gravação, Victor Pontual foi responsável por registrar 
       <td>Maria Eduarda</td>
       <td>04/05/2025</td>
       <td>14:26</td>
+      <td>Discord</td>
       <td>Eduardo de Pina</td>
       <td>Victor Pontual</td>
       <td>Gravação de Interação</td>

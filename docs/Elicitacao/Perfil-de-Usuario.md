@@ -8,6 +8,36 @@ De acordo com Barbosa et al. (2021)<a id="anchor_1" href="#REF1">^1^</a>, o perf
 
 A definição do perfil de usuário pelo time se deu por meio de três etapas principais, descritas nos tópicos a seguir. A [Investigação Online](#investigação-online) consistiu na pesquisa por descrições de padrões de usuário em sites do Governo. Alternativamente, na etapa de [Estudo de Semelhança](#estudo-baseado-em-semelhança), o time optou por coletar dados de perfil dos usuários em plataformas com público-alvo semelhante ao público do aplicativo *FGTS*, expostos em uma pesquisa de TCC. Por fim, em [Análise com IA](#experimento-com-ia), obteve-se uma visão sobre os perfis de usuário gerada por uma ferramenta de Inteligência Artificial. Com a utilização dos 3 métodos para definição do perfil de usuário, foi montado o perfil geral para o aplicativo *FGTS*, descrito em [Conclusão](#conclusão).
 
+## Participantes
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
+
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Data</th>
+      <th>Hora</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Eduardo de Pina </td>
+      <td> 02/05/2025 </td>
+      <td> 17:10 </td>
+    </tr>
+    <tr>
+      <td> Marcelo Makoto </td>
+      <td> 02/05/2025 </td>
+      <td> 19:00 </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms) </p></font>
+
 <br>
 
 ## Investigação Online 💻
@@ -196,4 +226,5 @@ Após análise dos resultados obtidos nos métodos desenvolvidos para definiçã
 | `1.2` | 03/05/2025 | Organização dos elementos e adição de etapa | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
 | `1.3` | 20/06/2025 | Atualização da tabela de perfil de usuário e aprimoramento do texto | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.4` | 21/06/2025 | Corrigindo numeração e fonte das imagens e tabelas | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
-| `1.5` | 21/06/2025 | Adicionando tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `1.5` | 21/06/2025 | Adicionando tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.6`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | - |

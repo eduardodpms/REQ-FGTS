@@ -53,6 +53,7 @@ A técnica de priorização **First Things First** segue um processo no qual é 
       <th>Função</th>
       <th>Data</th>
       <th>Hora</th>
+      <th>Local</th>
     </tr>
   </thead>
   <tbody>
@@ -61,6 +62,7 @@ A técnica de priorização **First Things First** segue um processo no qual é 
       <td>Desenvolvedor</td>
       <td>04/05/2025</td>
       <td>18:00</td>
+      <td>Discord</td>
       <td></td>
     </tr>
     <tr>
@@ -68,18 +70,21 @@ A técnica de priorização **First Things First** segue um processo no qual é 
       <td>Desenvolvedor</td>
       <td>04/05/2025</td>
       <td>18:00</td>
+      <td>Discord</td>
     </tr>
     <tr>
       <td><span style="color: orange;">Arthur</span></td>
       <td>Usuário</td>
       <td>04/05/2025</td>
       <td>18:00</td>
+      <td>Discord</td>
     </tr>
     <tr>
       <td><span style="color: orange;">João</span></td>
       <td>Usuário</td>
       <td>04/05/2025</td>
       <td>18:00</td>
+      <td>Discord</td>
     </tr>
   </tbody>
 </table>
@@ -125,3 +130,4 @@ Legenda:
 | `1.0` | 03/05/2025 | Criação da aba First Things First | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Enzo Emir](https://github.com/EnzoEmir) | [Danielle](https://github.com/danielle-soaress) |
 | `1.1` | 03/05/2025 | Correção de erros de formatação e gramática | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.2` | 07/05/2025 | Adição da tabela dos participantes | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.3`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | - |

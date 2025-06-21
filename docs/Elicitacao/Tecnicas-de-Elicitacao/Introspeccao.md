@@ -24,6 +24,7 @@ O processo de introspecção foi realizado individualmente pelas integrantes Mar
       <th>Nome</th>
       <th>Data</th>
       <th>Hora</th>
+      <th>Local</th>
     </tr>
   </thead>
   <tbody>
@@ -31,11 +32,13 @@ O processo de introspecção foi realizado individualmente pelas integrantes Mar
       <td>Danielle</td>
       <td>03/05/2023</td>
       <td>14:30</td>
+      <td>Microsoft Teams</td>
     </tr>
     <tr>
       <td>Maria Eduarda</td>
       <td>03/05/2023</td>
       <td>14:30</td>
+      <td>Microsoft Teams</td>
     </tr>
   </tbody>
 </table>
