@@ -41,6 +41,12 @@ Nesta etapa a integrante [Maria Eduarda](https://github.com/dudaa28), será resp
       <td> 21/06/2025 </td>
       <td> 03:08 </td>
     </tr>
+    <tr>
+      <td> - </td>
+      <td> Revisor </td>
+      <td> - /06/2025 </td>
+      <td> - </td>
+    </tr>
   </tbody>
 </table>
 
@@ -86,12 +92,13 @@ A tabela abaixo, apresenta a inspeção  da Lista de Verificação do artefado P
 
 > <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
-> <a id="REF2" href="#anchor_2">2.</a> Serrano, M.; Serrano, M. (2025). *Requisitos – Aula 23*. Universidade de Brasília. Disponível em: <https://aprender3.unb.br/pluginfile.php/3096017/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf>. Acesso em: 21 jun. 2025.
+> <a id="REF2" href="#anchor_2">2.</a> Serrano, M.; Serrano, M. (2025). *Requisitos – Aula 23*. Universidade de Brasília. Disponível em:<https://aprender3.unb.br/pluginfile.php/3096017/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf>. Acesso em: 21 jun. 2025.
 
 
 ## Histórico de Versões 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 21/06/2025 | Criação do documento | [Maria Eduarda](https://github.com/dudaa28) | -|
+| `1.0` | 21/06/2025 | Criação do documento | [Maria Eduarda](https://github.com/dudaa28) | - |
+| `1.1` | 21/06/2025 | Atualização do documento | [Maria Eduarda](https://github.com/dudaa28) | - |
 
