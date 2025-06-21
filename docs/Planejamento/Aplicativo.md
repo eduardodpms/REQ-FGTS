@@ -34,7 +34,7 @@ As motivações foram as seguintes:
 
 ## FGTS
 
-O [*FGTS*](https://play.google.com/store/apps/details?id=br.gov.caixa.fgts.trabalhador&hl=pt_BR&pli=1) é o aplicativo oficial do Fundo de Garantia do Tempo de Serviço, desenvolvido pela [Caixa Econômica Federal](https://www.caixa.gov.br/Paginas/home-caixa.aspx). Disponível gratuitamente para smartphones (Android e IOS), ele permite que o trabalhador acompanhe o saldo das contas do FGTS, consulte os depósitos realizados pelo empregador, imprima seus extratos e escolha entre as opções de saque, como o Saque-aniversário. Além disso, o app oferece funcionalidades como solicitação de saques por instituições financeiras e atualização de endereço. <a id="anchor_2" href="#ref2">^2^</a>
+O [*FGTS*](https://play.google.com/store/apps/details?id=br.gov.caixa.fgts.trabalhador&hl=pt_BR&pli=1) é o aplicativo oficial do Fundo de Garantia do Tempo de Serviço, desenvolvido pela [Caixa Econômica Federal](https://www.caixa.gov.br/Paginas/home-caixa.aspx). Disponível gratuitamente para smartphones nas plataformas Android (Play Store) e IOS (App Store), ele permite que o trabalhador acompanhe o saldo das contas do FGTS, consulte os depósitos realizados pelo empregador, imprima seus extratos e escolha entre as opções de saque, como o Saque-aniversário. Além disso, o app oferece funcionalidades como solicitação de saques por instituições financeiras e atualização de endereço. <a id="anchor_2" href="#ref2">^2^</a>
 
 ### Funcionalidades
 
@@ -84,3 +84,4 @@ Com o objetivo de verificar a vibilidade legal do desenvolvimento do projeto, de
 | `1.3` | 13/04/2025 | Modificação do texto | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.4` | 02/05/2025 | Modificação do Aplicativo | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.5` | 02/05/2025 | Visualização dos termos de uso e adição de paths | [Eduardo de Pina](https://github.com/eduardodpms) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.6` | 21/06/2025 | Adição de plataformas disponíveis | [Marcelo Makoto](https://github.com/MM4k) | - |
