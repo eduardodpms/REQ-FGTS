@@ -12,6 +12,34 @@ Uma persona, conforme apresentado por Barbosa et al. (2021)<a id="anchor_1" href
 
 Foram criadas cinco personas (duas primárias, duas secundárias e uma antipersona), a fim de abranger as características de diferentes tipos de usuários que utilizam o sistema. Cada persona possui campos como identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas. Para a criação dessas personas, foi utilizado como base o perfil de usuário geral definido em [Perfil de Usuário](../Perfil-de-Usuario). Todas as imagens das personas foram geradas por meio da ferramenta de inteligência artificial *ChatGPT*</i><a id="anchor_2" href="#REF2">^2^</a>, para garantir unicidade dos personagens.
 
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Data</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Marcelo Makoto </td>
+      <td> 02/05/2025 </td>
+    </tr>
+    <tr>
+      <td> Eduardo de Pina </td>
+      <td> 03/05/2025 </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
 ## Personas Primárias
 
 <figure style="text-align: center;">
@@ -143,3 +171,4 @@ Foram criadas cinco personas (duas primárias, duas secundárias e uma antiperso
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 02/05/2025 | Criação da página de Personas | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.1` | 03/05/2025 | Atualização de textos e detalhes | [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.2` | 21/06/2025 | Adicionando tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | - |
