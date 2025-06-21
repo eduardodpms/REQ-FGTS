@@ -79,6 +79,6 @@ A metodologia utilizada na etapa de Verificação segue o Método de Inspeção 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 20/06/2025 | Criação da Página | [Danielle Soares](https://github.com/danielle-soaress) | - |
-| `1.1` | 21/06/2025 | Introdução, Métodologia e Participantes | [Danielle Soares](https://github.com/danielle-soaress) | - |
-| `1.2` | 21/06/2025 | Atualização da tabela | [Danielle Soares](https://github.com/danielle-soaress) | - |
+| `1.0` | 20/06/2025 | Criação da Página | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.1` | 21/06/2025 | Introdução, Métodologia e Participantes | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.2` | 21/06/2025 | Atualização da tabela | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
