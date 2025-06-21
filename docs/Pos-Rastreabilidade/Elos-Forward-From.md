@@ -2774,7 +2774,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> Não implementado </td>
+      <td> <img src="../../assets/pos/prints/rf06.jpg" alt="RF06" width="500"></td>
     </tr>
   </tbody>
 </table>
@@ -2830,7 +2830,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> Não implementado </td>
+      <td> <img src="../../assets/pos/prints/rf07.jpg" alt="RF07" width="500"></td>
     </tr>
   </tbody>
 </table>
@@ -2888,7 +2888,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> Não implementado </td>
+      <td> <img src="../../assets/pos/prints/rf14.jpg" alt="RF14" width="500"></td>
     </tr>
   </tbody>
 </table>
@@ -3052,7 +3052,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> Não implementado </td>
+      <td> <img src="../../assets/pos/prints/rf37.png" alt="RF37" width="500"></td>
     </tr>
   </tbody>
 </table>
@@ -3215,7 +3215,10 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> Não implementado </td>
+      <td>
+        <img src="../../assets/pos/prints/rnf14_1.jpg" alt="RNF14_1" width="500"><br>
+        <img src="../../assets/pos/prints/rnf14_2.jpg" alt="RNF14_2" width="500">
+      </td>
     </tr>
   </tbody>
 </table>
@@ -3264,4 +3267,5 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
 | `2.0`  | 08/06/2025 | Prints dos requisitos RF27, RF28, RF31, RNF21, RNF12, RNF19 |  [Maria Eduarda](https://github.com/dudaa28)  | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `2.1`  | 08/06/2025 | Prints dos requisitos |  [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `2.2`  | 08/06/2025 | Adição das EF56 - EF64 | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress)  |
-| `2.3`  | 17/06/2025 | Correção dos links dos léxicos |[Danielle Soares](https://github.com/danielle-soaress) | - |
+| `2.3`  | 17/06/2025 | Correção dos links dos léxicos |[Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `2.4`  | 21/06/2025 | Adição de prints faltantes | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
