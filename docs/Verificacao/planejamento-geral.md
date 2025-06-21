@@ -38,31 +38,31 @@ A metodologia utilizada na etapa de Verificação segue o Método de Inspeção 
   <tbody>
     <tr>
       <td>Danielle</td>
-      <td>Página de verificação Observação (Entrega 2), Página de verificação Storytelling (Entrega 2), Página de verificação NFR Framework (Entrega 4)</td>
+      <td>Verificação da técnica de Observação (Entrega 2), Verificação da técnica de Storytelling (Entrega 2), Verificação do NFR Framework (Entrega 4)</td>
     </tr>
     <tr>
       <td>Eduardo</td>
-      <td>Página de verificação do Rich Picture (Entrega 1), Página de verificação First Things First (Entrega 2), Página de verificação Cenários (Entrega 3)</td>
+      <td>Verificação do Rich Picture (Entrega 1), Verificação da técnica de First Things First (Entrega 2), Verificação dos Cenários (Entrega 3)</td>
     </tr>
     <tr>
       <td>Enzo</td>
-      <td>Página de verificação do Perfil de Usuário (Entrega 2), Página de verificação In or Out (Entrega 2), Página de verificação Backlog (Entrega 4)</td>
+      <td>Verificação do Perfil de Usuário (Entrega 2), Verificação da técnica de In or Out (Entrega 2), Verificação do Backlog (Entrega 4)</td>
     </tr>
     <tr>
       <td>Leticia</td>
-      <td>Página de verificação Storytelling (Entrega 2), Página de verificação Three-Level Scale (Entrega 2), Página de verificação Casos de uso (Entrega 3)</td>
+      <td>Verificação da técnica de Storytelling (Entrega 2), Verificação da técnica de Three-Level Scale (Entrega 2), Verificação dos Casos de uso (Entrega 3)</td>
     </tr>
     <tr>
       <td>Marcelo</td>
-      <td>Planejamento da verificação das entregas, Página de verificação $100 Test (Entrega 2), Página de verificação Histórias de Usuário (Entrega 4)</td>
+      <td>Planejamento da verificação das entregas, Verificação da técnica de $100 Test (Entrega 2), Verificação das Histórias de Usuário (Entrega 4)</td>
     </tr>
     <tr>
       <td>Maria Eduarda</td>
-      <td>Página de verificação de Personas (Entrega 2), Página de verificação Brainstorming (Entrega 2), Página de verificação Léxicos (Entrega 3)</td>
+      <td>Verificação de Personas (Entrega 2), Verificação Brainstorming (Entrega 2), Verificação Léxicos (Entrega 3)</td>
     </tr>
     <tr>
       <td>Victor</td>
-      <td>Página de verificação Introspecção (Entrega 2), Página de verificação Entrevista (Entrega 2), Página de verificação Especificação Suplementar (Entrega 3)</td>
+      <td>Verificação da técnica de Introspecção (Entrega 2), Verificação da técnica de Entrevista (Entrega 2), Verificação da Especificação Suplementar (Entrega 3)</td>
     </tr>
   </tbody>
 </table>
