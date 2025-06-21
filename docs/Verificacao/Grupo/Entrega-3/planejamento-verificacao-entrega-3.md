@@ -60,6 +60,7 @@ A metodologia utilizada na etapa de verificação é o método de inspeção de 
 ## Artefatos Verificados
 
 Os artefatos da Entrega 3 verificados foram:
+
 - <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/>Casos de uso</a>
 - <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/>Cenários</a>
 - <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/>Léxicos</a>
@@ -68,6 +69,7 @@ Os artefatos da Entrega 3 verificados foram:
 ## Resultados
 
 Os resultados das verificações de cada artefato podem ser visualizados nas páginas abaixo:
+
 - <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-3/verificacao-casos-de-uso/>Verificação Casos de uso</a>
 - <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-3/verificacao-cenarios/>Verificação Cenários</a>
 - <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-3/verificacao-lexicos/>Verificação Léxicos</a>

@@ -78,6 +78,7 @@ A metodologia utilizada na etapa de verificação é o método de inspeção de 
 ## Artefatos Verificados
 
 Os artefatos da Entrega 2 verificados foram:
+
 - <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Perfil-de-Usuario/>Perfil de Usuário</a>
 - <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Definicao-de-Personas/>Personas</a>
 - <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/>Brainstorming</a>
@@ -93,6 +94,7 @@ Os artefatos da Entrega 2 verificados foram:
 ## Resultados
 
 Os resultados das verificações de cada artefato podem ser visualizados nas páginas abaixo:
+
 - <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/verificacao-perfil-de-usuario/>Verificação Perfil de Usuário</a>
 - <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/verificacao-personas/>Verificação Personas</a>
 - <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/verificacao-brainstorming/>Verificação Brainstorming</a>

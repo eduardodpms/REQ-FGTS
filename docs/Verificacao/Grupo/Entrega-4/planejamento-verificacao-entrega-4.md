@@ -54,6 +54,7 @@ A metodologia utilizada na etapa de verificação é o método de inspeção de 
 ## Artefatos Verificados
 
 Os artefatos da Entrega 4 verificados foram:
+
 - <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/>NFR Framework</a>
 - <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Product-Backlog/>Backlog</a>
 - <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/>Histórias de Usuário</a>
@@ -61,6 +62,7 @@ Os artefatos da Entrega 4 verificados foram:
 ## Resultados
 
 Os resultados das verificações de cada artefato podem ser visualizados nas páginas abaixo:
+
 - <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-4/verificacao-nfr-framework/>Verificação NFR Framework</a>
 - <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-4/verificacao-backlog/>Verificação Backlog</a>
 - <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-4/verificacao-historias-de-usuario/>Verificação Histórias de Usuário</a>
