@@ -48,7 +48,7 @@ A metodologia utilizada na etapa de verificação é o método de inspeção de 
       <td> Leticia Arisa </td>
       <td> - </td>
       <td> - </td>
-      <td> Three-Level Scale </td>
+      <td> Storytelling, Three-Level Scale </td>
     </tr>
     <tr>
       <td> Marcelo Makoto </td>
@@ -117,4 +117,5 @@ Os resultados das verificações de cada artefato podem ser visualizados nas pá
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 20/06/2025 | Criação da Página | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.1` | 20/06/2025 | Adição de Introdução, Metodologia e Cronograma de Participantes | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
-| `1.2` | 20/06/2025 | Adição de Artefatos Verificados e Resultados | [Marcelo Makoto](https://github.com/MM4k) | - |
+| `1.2` | 20/06/2025 | Adição de Artefatos Verificados e Resultados | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.2` | 20/06/2025 | Atualização da tabela de participantes | [Danielle Soares](https://github.com/danielle-soaress) | - |
