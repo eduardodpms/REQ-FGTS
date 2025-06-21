@@ -55,7 +55,7 @@ Dessa maneira, os requisitos podem ser priorizados de maneira relativamente fác
 </table>
 </div>
 
-<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir), [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
 ## Requisitos priorizados
 **Legendas:**

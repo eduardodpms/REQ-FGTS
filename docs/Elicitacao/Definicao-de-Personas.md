@@ -40,7 +40,7 @@ O elenco é composto por cinco personas (duas primárias, duas secundárias e um
 </table>
 </div>
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir), [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
 ## Personas Primárias
 

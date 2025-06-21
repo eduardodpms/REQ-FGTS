@@ -47,7 +47,7 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
 </table>
 </div>
 
-<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir), [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
 ## Requisitos priorizados
 

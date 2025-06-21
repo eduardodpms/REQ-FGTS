@@ -36,7 +36,7 @@ A definição do perfil de usuário pelo time se deu por meio de três etapas pr
 </table>
 </div>
 
-<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir), [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
 <br>
 
