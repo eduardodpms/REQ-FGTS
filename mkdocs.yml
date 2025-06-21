@@ -136,6 +136,7 @@ nav:
     - Elos Backward-From: Pos-Rastreabilidade/Elos-Backward-From.md
     - Matriz de Rastreabilidade: Pos-Rastreabilidade/Matriz-de-Rastreabilidade.md
   - Verificação:
+    - Planejamento Geral: Verificacao/planejamento-geral.md
     - Grupo:
       - Entrega 1:
         - Planejamento de Verificação - Entrega 1: Verificacao/Grupo/Entrega-1/planejamento-verificacao-entrega-1.md
@@ -147,4 +148,5 @@ nav:
         - Planejamento de Verificação - Entrega 4: Verificacao/Grupo/Entrega-4/planejamento-verificacao-entrega-4.md
   - Validação:
     - Prototipação: Validacao/Prototipacao.md
+    - Comprovação Informal: Validacao/Comprovacao.md
     

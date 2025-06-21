@@ -53,4 +53,4 @@ Os artefatos desenvolvidos estão listados a seguir, com seus respectivos links 
 | `1.2` | 11/04/2025 | Atualização do texto e da aparência | [Eduardo de Pina](https://github.com/eduardodpms) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.3` | 01/05/2025 | Modificação do texto | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.4` | 02/05/2025 | Atualização da aparência das tabelas | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `1.5` | 30/05/2025 | Ajuste nos textos e adição de tópico de artefatos | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.5` | 30/05/2025 | Ajuste nos textos e adição de tópico de artefatos | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
