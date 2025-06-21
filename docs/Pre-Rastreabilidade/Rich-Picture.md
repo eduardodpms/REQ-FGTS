@@ -8,6 +8,33 @@ Rich Picture <a id="TEC1" href="#RP1">^1^</a> é uma técnica visual utilizada n
 
 Para a elaboração deste artefato, foi realizado um estudo do ambiente do aplicativo E-Título, com testes e análises de suas funcionalidades. A síntese foi representada por meio de um rich picture, elaborado com a ferramenta Figma, juntamente com sua respectiva legenda.
 
+<font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Data</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Danielle Soares </td>
+      <td> 03/05/2025 </td>
+    </tr>
+    <tr>
+      <td> Maria Eduarda </td>
+      <td> 03/05/2025 </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
 ## Resultados
 
 A seguir, a Figura 1 mostra o Rich Picture desenvolvido para o aplicativo do FGTS. A Figura 2 corresponde à legenda do Rich Picture.
@@ -38,3 +65,4 @@ A seguir, a Figura 1 mostra o Rich Picture desenvolvido para o aplicativo do FGT
 | `1.0` | 12/04/2025 | Metodologias e Ferramentas, Resultados e Referências | [Danielle Soares](https://github.com/danielle-soaress) | [Victor Pontual](https://github.com/VictorPontual) |
 | `1.1` | 03/05/2025 | Atualização do Rich Picture | [Danielle Soares](https://github.com/danielle-soaress), [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.2` | 03/05/2025 | Atualização da Legenda | [Danielle Soares](https://github.com/danielle-soaress), [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `1.3` | 21/06/2025 | Adicionando tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | - |
