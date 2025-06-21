@@ -51,6 +51,22 @@ A metodologia utilizada na etapa de verificação é o método de inspeção de 
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
+## Artefatos Verificados
+
+Os artefatos da Entrega 4 verificados foram:
+
+- <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/>NFR Framework</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Product-Backlog/>Backlog</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/>Histórias de Usuário</a>
+
+## Resultados
+
+Os resultados das verificações de cada artefato podem ser visualizados nas páginas abaixo:
+
+- <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-4/verificacao-nfr-framework/>Verificação NFR Framework</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-4/verificacao-backlog/>Verificação Backlog</a>
+- <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-4/verificacao-historias-de-usuario/>Verificação Histórias de Usuário</a>
+
 ## Referências Bibliográficas
 
 > <a id="REF1">1.</a> 
@@ -61,3 +77,4 @@ A metodologia utilizada na etapa de verificação é o método de inspeção de 
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 20/06/2025 | Criação da Página | [Marcelo Makoto](https://github.com/MM4k) | - |
 | `1.1` | 20/06/2025 | Adição de Introdução, Metodologia e Cronograma de Participantes | [Marcelo Makoto](https://github.com/MM4k) | - |
+| `1.2` | 20/06/2025 | Adição de Artefatos Verificados e Resultados | [Marcelo Makoto](https://github.com/MM4k) | - |

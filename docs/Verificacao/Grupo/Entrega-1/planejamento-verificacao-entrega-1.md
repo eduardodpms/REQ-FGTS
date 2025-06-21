@@ -39,6 +39,24 @@ A metodologia utilizada na etapa de verificação é o método de inspeção de 
 
 <font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
+## Artefatos Verificados
+
+Os artefatos da Entrega 1 verificados foram:
+
+- <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Pre-Rastreabilidade/Rich-Picture/>Rich Picture</a>
+
+## Resultados
+
+Os resultados das verificações de cada artefato podem ser visualizados nas páginas abaixo:
+
+- <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-1/verificacao-rich-picture/>Verificação Rich Picture</a>
+
+## Listas de Verificação
+
+As listas de verificação foram elaboradas levando em consideração as atividades realizadas no desenvolvimento dos artefatos e os padrões especificados para cada um deles. As listas de verificação foram separadas para cada artefato, sendo que a lista de verificação Geral estará presente em todas as etapas de verificação.
+
+
+
 ## Referências Bibliográficas
 
 > <a id="REF1">1.</a> 
@@ -49,3 +67,4 @@ A metodologia utilizada na etapa de verificação é o método de inspeção de 
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 20/06/2025 | Criação da Página | [Marcelo Makoto](https://github.com/MM4k) | - |
 | `1.1` | 20/06/2025 | Adição de Introdução, Metodologia e Cronograma de Participantes | [Marcelo Makoto](https://github.com/MM4k) | - |
+| `1.2` | 20/06/2025 | Adição de Artefatos Verificados e Resultados | [Marcelo Makoto](https://github.com/MM4k) | - |
