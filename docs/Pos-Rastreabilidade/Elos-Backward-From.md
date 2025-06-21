@@ -2901,17 +2901,17 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 
 <font size="3"><p style="text-align: center">Figura 1: Foto da referência 1</p></font>
 
-<div align="center">
+<figure style="text-align: center;">
   <img src="../../assets/pos/referencias/ref1.png" alt="FIGURA 1" width="500">
-</div>
+</figure>
 
 <font size="2"><p style="text-align: center">Fonte: [AYÃO, LEITE, 2005](https://www-di.inf.puc-rio.br/~julio/rastre.pdf) </p></font>
 
 <font size="3"><p style="text-align: center">Figura 2: Foto da referência 2</p></font>
 
-<div align="center">
+<figure style="text-align: center;">
   <img src="../../assets/pos/referencias/ref2.png" alt="FIGURA 2" width="500">
-</div>
+</figure>
 
 <font size="2"><p style="text-align: center">Fonte: [TORANZO, CASTO, MELLO, 2002](http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/toranzo.pdf) </p></font>
 
