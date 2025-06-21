@@ -18,36 +18,44 @@ Com as histórias devidamente documentadas, o PO procedeu à sua priorização s
         <tr>
         <th>Participante</th>
         <th>Função</th>
+        <th>Histórias</th>
         </tr>
     </thead>
     <tbody>
         <tr>
         <td>Danielle Soares</td>
         <td>Produtor do Backlog</td>
+        <td>H13-H18</td>
         </tr>
         <tr>
         <td>Eduardo de Pina</td>
         <td>Produtor do Backlog</td>
+        <td>H37-H42</td>
         </tr>
         <tr>
         <td>Enzo Emir</td>
         <td>Produtor do Backlog</td>
+        <td>H01-H06</td>
         </tr>
         <tr>
         <td>Leticia Arisa</td>
         <td>Produtor do Backlog</td>
+        <td>H25-H30</td>
         </tr>
         <tr>
         <td>Marcelo Makoto</td>
         <td>Produtor do Backlog</td>
+        <td>H07-H12</td>
         </tr>
         <tr>
         <td>Maria Eduarda</td>
         <td>Produtor do Backlog</td>
+        <td>H19-H24</td>
         </tr>
         <tr>
         <td>Victor Pontual</td>
         <td>Produtor do Backlog</td>
+        <td>H31-H36</td>
         </tr>
     </tbody>
     </table>
@@ -638,4 +646,5 @@ Validação dos Backlogs 01-12 e 31-42 presentes no vídeo a seguir:
 | `1.8`   | 01/06/2025 | Adicionando histórias 37-42 | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
 | `1.9`   | 01/06/2025 | Adicionando video Validação | [Maria Eduarda](https://github.com/dudaa28) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `2.0`   | 01/06/2025 | Foto referência | [Maria Eduarda](https://github.com/dudaa28) | [Victor Pontual](https://github.com/VictorPontual) |
-| `2.1`    | 04/06/2025 | Correção de links | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `2.1`    | 04/06/2025 | Correção de links | [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `2.2`    | 21/06/2025 | Adicionando as historias feitas por cada participante | [Enzo Emir](https://github.com/EnzoEmir) | - |
