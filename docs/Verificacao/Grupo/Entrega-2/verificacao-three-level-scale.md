@@ -58,6 +58,10 @@ Nesta etapa a integrante [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa
 
 A tabela abaixo, apresenta a inspeção da Lista de Verificação do artefato Three-Level Scale realizada pelo avaliador, conforme as checklists definidas no [Planejamento](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/).
 
+###**Itens Gerais**
+
+<font size="3"><p style="text-align: center">Tabela 2: Itens gerais</p></font>
+
 | Item | Avaliação | Observação |
 | :---- | :---: | :---: |
 | **Geral** |
@@ -67,14 +71,27 @@ A tabela abaixo, apresenta a inspeção da Lista de Verificação do artefato Th
 | ***04:*** O artefato apresenta uma introdução? | Sim | - |
 | ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Sim | - |
 | ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Sim | - |
+
+<font size="3"><p style="text-align: center">Autora: 
+    <a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a>
+</p></font>
+
+###**Three-Level Scale**
+
+<font size="3"><p style="text-align: center">Tabela 3: Itens sobre Casos de Uso</p></font>
+
+| Item | Avaliação | Observação |
+| :---- | :---: | :---: |
 | **Three-Level Scale** |
-| Item | Referências | Avaliação | Observação |
-| :---- | :---- | :---: | :---: |
-| ***07:*** Existe um cronograma com data para realização da priorização dos requisitos?  | Sim | Não se trata exatamente de um cronograma, mas há uma tabela que informa os participantes, a data, o horário e o local de realização da priorização. |
-| ***08:*** O local para a priorização foi definido? | Sim | - |
-| ***09:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona? | Não | Essa técnica de priorização não foi desenvolvida com usuários ou personas. |
-| ***10:*** Foi utilizada uma escala de priorização que permite identificar prioridades alta, média e baixa? | Sim | - |
-| ***11:*** Caso aplicável, as interdependências entre requisitos foram consideradas? | Sim | - |
+| ***01:*** Existe um cronograma com data para realização da priorização dos requisitos?  | Sim | Não se trata exatamente de um cronograma, mas há uma tabela que informa os participantes, a data, o horário e o local de realização da priorização. |
+| ***02:*** O local para a priorização foi definido? | Sim | - |
+| ***03:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona? | Não | Essa técnica de priorização não foi desenvolvida com usuários ou personas. |
+| ***04:*** Foi utilizada uma escala de priorização que permite identificar prioridades alta, média e baixa? | Sim | - |
+| ***05:*** Caso aplicável, as interdependências entre requisitos foram consideradas? | Sim | - |
+
+<font size="3"><p style="text-align: center">Autora: 
+    <a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a>
+</p></font>
 
 
 ## Análise de Resultados
