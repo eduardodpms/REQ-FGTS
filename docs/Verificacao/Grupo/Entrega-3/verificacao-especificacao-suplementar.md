@@ -39,7 +39,7 @@ Nesta verificação, o integrante **Victor Pontual** atuou como avaliador, enqua
 
 ## Inspeção
 
-### ✅ Itens Gerais
+###  **Itens Gerais**
 
 | Item | Avaliação | Observação                                                             | Print                                                                                                                                           |
 | ---- | --------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -52,38 +52,45 @@ Nesta verificação, o integrante **Victor Pontual** atuou como avaliador, enqua
 
 ---
 
-### ✅ Itens Específicos sobre a Especificação Suplementar
+### **Itens Específicos sobre a Especificação Suplementar**
 
 | Item | Avaliação | Observação                                                               | Print                                                                                                                                             |
 | ---- | --------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 01   | Sim       | O documento segue a estrutura baseada no modelo FURPS+.                  | [Coerência](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/coerencia.png?raw=true)               |
+| 01   | Sim       | O documento segue a estrutura baseada no modelo FURPS+.                  | ![Coerência](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/coerencia.png?raw=true)               |
 | 02   | Sim       | Há definição de requisitos de tempo de resposta na seção de desempenho.  | ![Desempenho](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/desempenho.png?raw=true)       |
 | 03   | Não      | Foram definidos os ambientes e plataformas de execução do aplicativo.    |           |
 | 04   | não       | Todos os requisitos não funcionais descritos são testáveis/verificáveis. | ![Testabilidade](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/testabilidade.png?raw=true) |
 
----
-
 ## Análise de Resultados
 
-Durante a verificação do artefato **Especificação Suplementar**, **não foram encontradas não conformidades**. O documento atende de maneira satisfatória a todos os critérios avaliados, apresentando estrutura adequada, linguagem formal, referências consistentes e categorização correta dos requisitos segundo o modelo FURPS+.
+Durante a verificação da **Especificação Suplementar**, foram identificadas **duas não conformidades principais**:
 
-Destaca-se positivamente a clareza na descrição dos requisitos de desempenho, ambientes e testabilidade.
+* **Item 03:** O documento não traz uma descrição clara dos **ambientes e plataformas de execução** (ex: sistema operacional, navegadores suportados, dispositivos compatíveis).
 
----
+* **Item 04:** Alguns **requisitos não funcionais** apresentados não estão formulados de maneira **testável ou verificável**, o que dificulta sua validação futura.
+
+Apesar dessas pendências, o artefato apresenta pontos positivos como boa estrutura, uso correto do modelo **FURPS+**, além de clareza na seção de desempenho.
+
 
 ## Correção Recomendada
 
-Não há correções necessárias. O artefato encontra-se **em total conformidade** com os critérios estabelecidos na checklist de verificação.
+Para garantir a conformidade total com a checklist, recomenda-se:
 
----
+1. **Incluir uma seção dedicada aos ambientes e plataformas de execução**, informando de forma explícita quais dispositivos, sistemas ou navegadores o software deve suportar.
+
+2. **Reformular os requisitos não funcionais que não são testáveis**, utilizando padrões de redação que permitam medições claras (exemplo: tempo máximo de resposta em segundos, limites de uso de memória, padrões de segurança, etc).
+
+
+
+
 
 ## Acompanhamento
 
-A verificação foi conduzida por **Victor Pontual** e revisada por **Enzo Emir**. O documento está **aprovado para as próximas etapas** do projeto, não havendo pendências a serem resolvidas.
+A verificação foi realizada por **Victor Pontual** e revisada por **Enzo Emir**.
 
-Esse resultado reforça a importância de manter o rigor técnico na documentação de requisitos não funcionais, garantindo que aspectos como desempenho, usabilidade e compatibilidade estejam devidamente documentados desde as primeiras fases do ciclo de desenvolvimento.
+O artefato **permanecerá em acompanhamento até que as correções sugeridas sejam implementadas**. Após a atualização, uma **nova rodada de verificação** deverá ser conduzida para assegurar que os itens não conformes foram devidamente resolvidos.
 
----
+Essa etapa reforça a importância de tratar com atenção requisitos não funcionais, especialmente no que diz respeito à sua **testabilidade e ambiente de execução**, garantindo maior segurança e rastreabilidade para as fases seguintes do projeto.
 
 ## Referências Bibliográficas
 
