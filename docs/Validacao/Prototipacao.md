@@ -25,8 +25,8 @@ Foi realizada a prototipação de todos os requisitos que ainda não haviam sido
     <tr>
       <td> Danielle Soares </td>
       <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais>RF11</a> - O aplicativo deve fornecer informações sobre saques bloqueados <br> <a href = "https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF35</a> - O aplicativo deve permitir o cadastro de mais de uma conta bancária de diferentes instituições financeiras <br> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais>RF39</a> - O aplicativo deve possuir comentários detalhados sobre cada status do saque </td>
-      <td> --- </td>
-      <td> --- </td>
+      <td> 13/06/2025 </td>
+      <td> 19:25 </td>
     </tr>
     <tr>
       <td> Eduardo de Pina </td>
@@ -212,4 +212,5 @@ Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/SRSL805B
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 18/06/2025 | Criação da Página, Introdução e Referências | [Danielle Soares](https://github.com/danielle-soaress) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| `1.1` | 21/06/2025 | Adição da seção metodologia | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | --- |
+| `1.1` | 21/06/2025 | Adição da seção metodologia | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.2` | 21/06/2025 | Adicionando data/hora de participação | [Danielle Soares](https://github.com/danielle-soaress) | --- |

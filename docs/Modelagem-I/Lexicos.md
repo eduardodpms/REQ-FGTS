@@ -167,12 +167,12 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
 **Requisito IS10:**
 
 - [L36 – Filtrar](#l36-filtrar)
-- [L37 – Cadastrar](#l37-bloqueado)
-- [L38 – Cadastrar](#l38-informacoes)
 
 **Requisito IS08:**
 
-- [L39 – Bloqueado](#l39-motivo-do-bloqueio)
+- [L37 – Bloqueado](#l37-bloqueado)
+- [L38 – Informações](#l38-informacoes)
+- [L39 – Motivo do Bloqueio](#l39-motivo-do-bloqueio)
 
 **Requisito IS13:**
 
@@ -1344,4 +1344,5 @@ O léxico L49 utiliza o requisito funcional não implementado ST07 (O aplicativo
 | `2.5` | 17/06/2025 | Corrigindo links da página | [Danielle Soares](https://github.com/danielle-soaress)  | [Enzo Emir](https://github.com/EnzoEmir) |
 | `2.6` | 20/06/2025 | Adicionando Hiperlinks entre os lexicos L01-L13 | [Enzo Emir](https://github.com/EnzoEmir) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `2.7` | 21/06/2025 | Adicionando Hiperlinks entre os lexicos L033-L36 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | --- |
-| `2.8` | 21/06/2025 | Adicionando Hiperlinks entre os lexicos L37-39 e L30-32 | [Danielle Soares](https://github.com/danielle-soaress) | --- |
+| `2.8` | 22/06/2025 | Adicionando Hiperlinks entre os lexicos L37-39 e L30-32 | [Danielle Soares](https://github.com/danielle-soaress) | --- |
+| `2.9` | 22/06/2025 | Correção do Sumário | [Danielle Soares](https://github.com/danielle-soaress) | --- |
