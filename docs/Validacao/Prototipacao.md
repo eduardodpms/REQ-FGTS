@@ -75,9 +75,9 @@ Após a finalização dos protótipos, foram realizadas duas validações presen
 
 A seguir, apresenta-se o protótipo utilizado nas validações 1 e 2.
 
-Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/SRSL805B8XtROwtoeEKP5q/REQ---FGTS?node-id=34-6&p=f&t=KXi3H0izMlnAaKl8-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=34%3A6" target="blanket">clique aqui</a>.
+Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/SRSL805B8XtROwtoeEKP5q/REQ---FGTS?node-id=34-6&p=f&t=s6PmOIMii83T9UoB-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=34%3A6" target="blanket">clique aqui</a>.
 
-<p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="800" src="https://www.figma.com/proto/SRSL805B8XtROwtoeEKP5q/REQ---FGTS?node-id=34-6&p=f&t=uM0viNNhklkJt4Gp-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=34%3A6" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/SRSL805B8XtROwtoeEKP5q/REQ---FGTS?node-id=34-6&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=34%3A6&embed-host=share" allowfullscreen></iframe></p>
 
 ## Validação 1
 
@@ -239,4 +239,4 @@ Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/SRSL805B
 | `1.3` | 22/06/2025 | Adicionando data/hora de participação | [Enzo Emir](https://github.com/EnzoEmir) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)|
 | `1.4` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.5` | 22/06/2025 | Adicionando data/hora de participação | [Marcelo Makoto](https://github.com/MM4k) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `1.6` | 22/06/2025 | Adicionando segunda validação | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.6` | 22/06/2025 | Adicionando segunda validação | [Eduardo de Pina](https://github.com/eduardodpms) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
