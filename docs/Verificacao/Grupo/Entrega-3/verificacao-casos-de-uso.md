@@ -41,10 +41,10 @@ Nesta etapa a integrante [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa
       <td> 00:42 </td>
     </tr>
     <tr>
-      <td> --- </td>
+      <td> Marcelo Makoto </td>
       <td> Revisor </td>
       <td> 22/06/2025 </td>
-      <td> --- </td>
+      <td> 01:21 </td>
     </tr>
   </tbody>
 </table>
@@ -121,4 +121,5 @@ O artefato *Casos de Uso* está considerado **aprovado**, com todos os itens da 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 21/06/2025 | Criação do documento | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
+| `1.0` | 21/06/2025 | Criação do documento | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.1` | 22/06/2025 | Adição de revisor | [Marcelo Makoto](https://github.com/MM4k) | - |
