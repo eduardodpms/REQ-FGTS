@@ -37,8 +37,8 @@ Foi realizada a prototipação de todos os requisitos que ainda não haviam sido
     <tr>
       <td> Enzo Emir </td>
       <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rf08">RF08</a> - O aplicativo deve exibir os status atualizados do saque. <br> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rf38">RF38</a> - O aplicativo deve notificar o usuário sobre o status do saque solicitado. <br> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rf01">RF01</a> - O aplicativo deve informar claramente as datas previstas para liberação de valores. </td>
-      <td> --- </td>
-      <td> --- </td>
+      <td> 14/06/2025 </td>
+      <td> 12:47 </td>
     </tr>
     <tr>
       <td> Leticia Arisa </td>
@@ -213,4 +213,5 @@ Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/SRSL805B
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 18/06/2025 | Criação da Página, Introdução e Referências | [Danielle Soares](https://github.com/danielle-soaress) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.1` | 21/06/2025 | Adição da seção metodologia | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Danielle Soares](https://github.com/danielle-soaress) |
-| `1.2` | 21/06/2025 | Adicionando data/hora de participação | [Danielle Soares](https://github.com/danielle-soaress) | --- |
+| `1.2` | 21/06/2025 | Adicionando data/hora de participação | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.2` | 21/06/2025 | Adicionando data/hora de participação | [Enzo Emir](https://github.com/EnzoEmir) | --- |
