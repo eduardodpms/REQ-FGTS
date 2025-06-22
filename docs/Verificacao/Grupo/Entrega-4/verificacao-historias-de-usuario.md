@@ -38,7 +38,7 @@ Nesta etapa o integrante [Marcelo Makoto](https://github.com/MM4k), será respon
       <td> Marcelo Makoto </td>
       <td> Avaliador </td>
       <td> 22/06/2025 </td>
-      <td> - </td>
+      <td> 01:12 </td>
     </tr>
     <tr>
       <td> - </td>
