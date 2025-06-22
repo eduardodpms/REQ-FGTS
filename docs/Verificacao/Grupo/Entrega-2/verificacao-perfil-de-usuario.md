@@ -50,24 +50,24 @@ A verificação foi realizada com base na checklist definida no [Planejamento de
 
 ### Itens Gerais
 
-| Item | Avaliação | Observação |
-|----|---------|-----------|
-| **01:** O artefato apresenta uma bibliografia/referência bibliográfica? | Sim | - |
-| **02:** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | Sim | - |
-| **03:** As tabelas e imagens apresentam legenda e fonte? | Sim | - |
-| **04:** O artefato apresenta uma introdução? | Sim | - |
-| **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Sim | - |
-| **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Sim | - |
+| Item | Avaliação | Observação | Print |
+|----|---------|-----------| --------|
+| **01:** O artefato apresenta uma bibliografia/referência bibliográfica? | Sim | - | <img src="../../assets/Verificacao/ref_perf.png" alt="Ref" width="500">|
+| **02:** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | Sim | - |<img src="../../assets/Verificacao/hist_perf.png" alt="Hist" width="500">|
+| **03:** As tabelas e imagens apresentam legenda e fonte? | Sim | - |<img src="../../assets/Verificacao/fonte_perf.png" alt="Fonte" width="500">|
+| **04:** O artefato apresenta uma introdução? | Sim | - |<img src="../../assets/Verificacao/intro_perf.png" alt="Intro" width="500">|
+| **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Sim | - |<img src="../../assets/Verificacao/intro_perf.png" alt="Formal" width="500">|
+| **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Sim | - |<img src="../../assets/Verificacao/fonte_perf.png" alt="Coerencia" width="500">|
 
 ### Perfil de Usuário
 
-| Item | Avaliação | Observação |
-|----|---------|-----------|
-| **01:** O perfil do usuário especifica características demográficas, como idade, gênero, nível de instrução e outras características relevantes? | Sim | - |
-| **02:** O perfil do usuário especifica características comportamentais, como nível de experiência e atitudes em relação à tecnologia (tecnófilos/tecnófobos)? | Sim | - |
-| **03:** O perfil de usuário especifica as tarefas primárias dos usuários? | Sim | - |
-| **04:** Os dados utilizados para construir o perfil de usuário foram obtidos por meio de estudos, como entrevistas, questionários ou observação? | Não | Apenas fontes secundárias foram utilizadas (sites, TCCs, IA). |
-| **05:** Ao final, os usuários foram categorizados em grupos com base em suas semelhanças, considerando a porcentagem em cada faixa? | Sim | - |
+| Item | Avaliação | Observação | Print |
+|----|---------|-----------|-------|
+| **01:** O perfil do usuário especifica características demográficas, como idade, gênero, nível de instrução e outras características relevantes? | Sim | - |<img src="../../assets/Verificacao/perf_us.png" alt="Perf_Us" width="500">|
+| **02:** O perfil do usuário especifica características comportamentais, como nível de experiência e atitudes em relação à tecnologia (tecnófilos/tecnófobos)? | Sim | - |<img src="../../assets/Verificacao/perf_us.png" alt="Perf_Us" width="500">|
+| **03:** O perfil de usuário especifica as tarefas primárias dos usuários? | Sim | - |<img src="../../assets/Verificacao/perf_us.png" alt="Perf_Us" width="500">|
+| **04:** Os dados utilizados para construir o perfil de usuário foram obtidos por meio de estudos, como entrevistas, questionários ou observação? | Não | Apenas fontes secundárias foram utilizadas (sites, TCCs, IA). |<img src="../../assets/Verificacao/metodo_per.png" alt="Perf_Us" width="500">|
+| **05:** Ao final, os usuários foram categorizados em grupos com base em suas semelhanças, considerando a porcentagem em cada faixa? | Sim | - |<img src="../../assets/Verificacao/perf_us.png" alt="Perf_Us" width="500">|
 
 ## Análise de Resultados
 
@@ -98,3 +98,4 @@ O artefato *Perfil de Usuário* segue **em acompanhamento**, com a pendência id
 | Versão | Data       | Descrição                       | Autor(es)         | Revisor(es)   |
 |:-----: | :--------: | :----------------------------- | :--------------- | :----------- |
 | 1.0    | 21/06/2025 | Criação do documento de verificação | [Enzo Emir](https://github.com/EnzoEmir) |  |
+| 1.1    | 22/06/2025 | Adição dos prints | [Enzo Emir](https://github.com/EnzoEmir) |  |
