@@ -14,7 +14,7 @@ A organização da seção de inspeções se deu após um processo de separaçã
 
 As inspeções passivas são aquelas realizadas por terceiros sobre a entrega do nosso grupo. Ou seja, indicam como os avaliadores classificaram os artefatos de cada entrega do *grupo 7*. Por isso, seguem seus próprios modelos de lista de verificação. As inspeções *passivas* são:
 
-- **Inspeção da Monitora**: Referente à avaliação da *monitora* responsável pelo *grupo 7*, com base na lista de verificação do professor;
+- **Inspeção da Monitora**: Referente à avaliação da *monitora* responsável pelo *grupo 7*, com base na lista de verificação do professor. *Obs:* conforme definido em sala pelo professor, a *monitora* só fará inspeções das entregas 1, 2 e 3;
 - **Inspeção do Grupo -1**: Referente à avaliação do grupo -1 ([*Grupo 6 - Receita Federal*](https://github.com/Requisitos-de-Software/2025.1-ReceitaFederal)) sobre a entrega do nosso grupo, com base em lista de verificação própria.
 
 ### - Inspeções *Ativas*
@@ -142,7 +142,7 @@ Aqui, apresenta-se uma tabela para navegação rápida entre os conteúdos da se
       </td>
     </tr>
     <tr>
-      <td rowspan="4", style="text-align: center; vertical-align: middle;">
+      <td rowspan="3", style="text-align: center; vertical-align: middle;">
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Entregas/Entrega-4/">
           <span style="font-size: 20px;">Entrega 4</span>
         </a>
@@ -151,14 +151,9 @@ Aqui, apresenta-se uma tabela para navegação rápida entre os conteúdos da se
           <i>Modelagem de Requisitos II<br>(Ágil)</i>
         </a>
       </td>
-      <td rowspan="2", style="text-align: center; vertical-align: middle;">
+      <td rowspan="1", style="text-align: center; vertical-align: middle;">
         <span style="color: blue;">Inspeção Passiva</span>
       </td>
-      <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-4/Monitora/">Inspeção da Monitora</a>
-      </td>
-    </tr>
-    <tr>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-4/Grupo-menos-1/">Inspeção do Grupo -1</a>
       </td>
@@ -175,7 +170,7 @@ Aqui, apresenta-se uma tabela para navegação rápida entre os conteúdos da se
       </td>
     </tr>
     <tr>
-      <td rowspan="4", style="text-align: center; vertical-align: middle;">
+      <td rowspan="3", style="text-align: center; vertical-align: middle;">
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Entregas/Entrega-5/">
           <span style="font-size: 20px;">Entrega 5</span>
         </a>
@@ -184,14 +179,9 @@ Aqui, apresenta-se uma tabela para navegação rápida entre os conteúdos da se
           <i>Análise de Requisitos</i>
         </a>
       </td>
-      <td rowspan="2", style="text-align: center; vertical-align: middle;">
+      <td rowspan="1", style="text-align: center; vertical-align: middle;">
         <span style="color: blue;">Inspeção Passiva</span>
       </td>
-      <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-5/Monitora/">Inspeção da Monitora</a>
-      </td>
-    </tr>
-    <tr>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-5/Grupo-menos-1/">Inspeção do Grupo -1</a>
       </td>
@@ -208,7 +198,7 @@ Aqui, apresenta-se uma tabela para navegação rápida entre os conteúdos da se
       </td>
     </tr>
     <tr>
-      <td rowspan="4", style="text-align: center; vertical-align: middle;">
+      <td rowspan="3", style="text-align: center; vertical-align: middle;">
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Entregas/Entrega-6/">
           <span style="font-size: 20px;">Entrega 6</span>
         </a>
@@ -217,14 +207,9 @@ Aqui, apresenta-se uma tabela para navegação rápida entre os conteúdos da se
           <i>Pós-Rastreabilidade</i>
         </a>
       </td>
-      <td rowspan="2", style="text-align: center; vertical-align: middle;">
+      <td rowspan="1", style="text-align: center; vertical-align: middle;">
         <span style="color: blue;">Inspeção Passiva</span>
       </td>
-      <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-6/Monitora/">Inspeção da Monitora</a>
-      </td>
-    </tr>
-    <tr>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-6/Grupo-menos-1/">Inspeção do Grupo -1</a>
       </td>
@@ -253,3 +238,4 @@ Aqui, apresenta-se uma tabela para navegação rápida entre os conteúdos da se
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 10/06/2025 | Criação do documento | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.1` | 22/06/2025 | Ajuste das inspeções da monitora | [Eduardo de Pina](https://github.com/eduardodpms) | - |
