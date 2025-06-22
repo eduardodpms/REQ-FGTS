@@ -66,7 +66,7 @@ O resultado da verificação ficou organizado nas seguintes categorias:
 | Item | Avaliação | Observação                                                                 | Print         |
 | ---- | --------- | -------------------------------------------------------------------------- | ------------- |
 | 01   | Sim       | O artefato contém referências bibliográficas adequadas.                    | ![Bibliografia](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Introspeccao/bibliografia_into.png?raw=true) |
-| 02   | Sim       | Existe um histórico de versões, com identificador, descrição e autoria.    | ![Fonte](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Introspeccao/fonte_intro.png?raw=true) |
+| 02   | Sim       | Existe um histórico de versões, com identificador, descrição e autoria.    | ![Fonte](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Introspeccao/versoes_intro.png?raw=true) |
 | 03   | Sim       | As tabelas presentes no documento apresentam a fonte dos dados.        | ![Tabela](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Introspeccao/coerencia_intro.png?raw=true) |
 | 04   | Sim       | Há uma introdução que contextualiza o artefato.                            | ![Introdução](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Introspeccao/introducao_intro.png?raw=true) |
 | 05   | Sim       | O texto adota linguagem formal e adequada ao contexto técnico.             | ![Introdução](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Introspeccao/introducao_intro.png?raw=true) |
