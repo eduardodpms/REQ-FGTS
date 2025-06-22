@@ -87,7 +87,7 @@ Esse resultado reforça a importância de manter o rigor técnico na documentaç
 
 ## Referências Bibliográficas
 
-> <a id="RF1">\[1]</a> SERRANO, Milene; SERRANO, Maurício. Plano de Ensino FIHC 2023. Brasília: Universidade de Brasília, 2023. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096086/mod\_resource/content/2/Requisitos%20-%20Aula%2007.pdf](https://aprender3.unb.br/pluginfile.php/3096086/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf). Acesso em: 22/06/2025.
+> <a id="RP1" href="#TEC1">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 13. UnB, 2025. Disponível em: <[https://aprender3.unb.br/pluginfile.php/3096118/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf](https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf)>. Acesso em: 18 de maio 2025. p. 27–30.
 
 ---
 
