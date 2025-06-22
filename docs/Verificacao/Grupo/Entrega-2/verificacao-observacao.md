@@ -78,7 +78,7 @@ As tabelas abaixo, apresentam a inspeção  da Lista de Verificação da técnic
 
 ### Observação
 
-<a id="T2"></a>
+<a id="T3"></a>
 
 | Item | Avaliação | Observação | Print |
 | :---- | :---: | :---: | :---: |
@@ -97,19 +97,19 @@ As tabelas abaixo, apresentam a inspeção  da Lista de Verificação da técnic
 
 ## Análise de Resultados
 
-#### Item 03 da Lista de Observação [(2)](#T2): "O cronograma e local foram definidos em conjunto com o cliente e/ou persona?"
+#### Item 03 da Lista de Observação [(3)](#T3): "O cronograma e local foram definidos em conjunto com o cliente e/ou persona?"
 
 - Foi observado que, na versão analisada do documento, não foi especificado se o cronograma e local foram definidos em conjunto com o cliente.
 
-#### Item 08 da Lista de Observação [(2)](#T2): "O tipo de postura do observador (ativa ou passiva) foi definida?"
+#### Item 08 da Lista de Observação [(3)](#T3): "O tipo de postura do observador (ativa ou passiva) foi definida?"
 
 - Foi observado que, na versão analisada do documento, o tipo de postura do observador não foi explicitamente defida.
 
 ## Correções
 
-- O artefato foi ajustado para atender ao critério **08** da lista sobre Observação <a href="#T2"> (2)</a>, referente ao tipo de postura (ativa/passiva) dos observadores durante a aplicação da técnica de elicitação.
+- O artefato foi ajustado para atender ao critério **08** da lista sobre Observação <a href="#T3"> (3)</a>, referente ao tipo de postura (ativa/passiva) dos observadores durante a aplicação da técnica de elicitação.
 
-- Ainda não foi feita a correção do artefato para atender o critério **03** da lista sobre Observação <a href="#T2"> (2)</a>.
+- Ainda não foi feita a correção do artefato para atender o critério **03** da lista sobre Observação <a href="#T3"> (3)</a>.
 
 <details> <summary><strong>Observação</strong></summary>
 
@@ -122,7 +122,7 @@ A versão atualizada ainda não atende aos requisitos de clareza e rastreabilida
 
 Foi realizada a inspeção no artefato da ténica de *Observação* com base na técnica de Fagan. A maior parte dos itens foi considerada conforme, incluindo referências bibliográficas, histórico de versões, introdução, linguagem formal, coerência entre texto e gráficos, e todos os critérios referentes às personas.
 
-As únicas **não conformidades** identificadas foram nos itens **03** **08** da tabela <a href="#T2"> (2)</a>, relacionados, respectivamente, à especificação do cronograma juntamente ao cliente e a definição do tipo de postura do observador durante a aplicação da técnica.
+As únicas **não conformidades** identificadas foram nos itens **03** e **08** da tabela <a href="#T3"> (3)</a>, relacionados, respectivamente, à especificação do cronograma juntamente ao cliente e a definição do tipo de postura do observador durante a aplicação da técnica.
 
 Houve a correção do item **08**, porém o item **03** não foi corrigido. Recomenda-se a **inclusão imediata da especificação relacionada a definição do cronograma juntamente ao cliente** para garantir a clareza das informações e a conformidade com os requisitos de documentação.
 
@@ -143,6 +143,7 @@ O artefato permanece em acompanhamento até que essa correção seja implementad
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 21/06/2025 | Criação do documento | [Danielle Soares](https://github.com/danielle-soaress) | - |
+| `1.1` | 21/06/2025 | Correções no texto | [Danielle Soares](https://github.com/danielle-soaress) | - |
 
 
 [image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAI4AAAAbCAYAAACqVrf4AAACnUlEQVR4Xu2YT49pMRjG56vwBSwls/ZFfAfMhKUgQshIsBMhEjOxtbYSdlYSFlhYCAtBiD8hnTxN3qbnXO6M3htzue8vadr3Oe1pe85D2/MkGMaAJ7vAMN+BjcMYwcZhjGDjMEawcRgjLMaZTqd6eDX5fN4uMQ+KxTgOh0M4nU5dEm632xL3+33h8XhkebPZKD2bzSrjNBoNpTOPyZf/OC8vL5bY5/OJ5+dnWdaN43K5lHG8Xq/SmcfEaI+Ty+XsEvOfYWQchmHjMEawcRgj2DiMEVcbZzKZWGK/3y/G47HMCRzHESMtl0uldzody0kM7c5B9+p2u7Yrl0Eb1NfHQf0j//j40GoLsVgsRK/XUzHGfGk8dvQ+vsvv2qRSKUscjUYtMbB/I4tEIqLZbFo0U4bDoV36kquNA3BsRxqNRpZvNqfTSeak1Wo1dQ2QiQKBgCzjReEeYDabqXpoDxMgoc5+vxfhcPiXB6zz/v4u6+OB6oajPjG21WqldDI3GYZyMp9ueJSDwaCK8S0L6C8TbRBTO/25ENVqVc4FiYwOMC99jpjD6+uraocY99bNBw0/RBqrPt5yuazKiURC9luv15UG0FepVBLxeFz2DVqtluw/FArJ8aMPfd46Rsb5V0in03bpLliv13bpj9GNcwvu2jjMz8HGYYy4aJxMJiMKhYJcH7HOFYtFqWNdxvqLzSXWRuxXQDKZlDmtiaQPBgO1Nm+3W3kde4l2uy01gPWU+kFd1AMoz+dzcTwe1TWd3W4nrzO356xxYIjD4SBfJhJArm86Y7GY2lQBvUxUKhVVhlnQhso4EdAGEvnb25uqi9MO3Q+GxAYO0DpOMYzD/AxnjfO3sf9TMPfPTYzDPB5sHMYINg5jBBuHMYKNwxjxCfjmBLs1HxpQAAAAAElFTkSuQmCC>
