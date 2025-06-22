@@ -852,6 +852,7 @@ O léxico L30 utiliza o requisito funcional IS12 (O aplicativo deve permitir o c
 | **Impacto** | <p>Permite que informações sejam registradas no sistema.</p><p>O sistema pode utilizar as informações registradas em funcionalidades futuras.</p><p>O usuário pode acessar as informações registradas posteriormente.</p> |
 | **Noção** | <p>Ação do usuário de inserir dados ou informações no sistema para identificação, armazenamento e uso posterior.</p> |
 | **Sinônimos** | <p>Registrar, Inserir, Adicionar</p>                   |
+| **Conexões** | [L31](#L31), [L32](#L32) |  
 | **Autor** | [Danielle Soares](https://github.com/danielle-soaress)  |
 
 </center>
@@ -875,6 +876,7 @@ O léxico L31 utiliza o requisito funcional IS12 (O aplicativo deve permitir o c
 | **Impacto**     | <p>Permite armazenar e identificar os dados financeiros inseridos pelo usuário.</p><p>É usada como base para funcionalidades como consulta de saldo, registro de transações e exibição de extratos.</p><p>Viabiliza o controle financeiro personalizado dentro do aplicativo.</p> |
 | **Noção**       | <p>Conjunto de dados que representam uma conta financeira pessoal vinculada a uma instituição bancária, como número da conta, agência, tipo de conta e nome do banco.</p> |
 | **Sinônimos**   | <p>Conta, Conta Financeira</p>                                                                              |
+| **Conexões** | [L30](#L30), [L32](#L32) |  
 | **Autor**       | [Danielle Soares](https://github.com/danielle-soaress)                                                     |
 
 </center>
@@ -898,6 +900,7 @@ O léxico L32 está relacionado ao requisito funcional IS12 (O aplicativo deve p
 | **Impacto**       | <p>Permite a categorização e associação correta das contas bancárias registradas no sistema.</p><p>Garante compatibilidade com funcionalidades relacionadas a transações, extratos e identificação da origem dos dados financeiros.</p> |
 | **Noção**         | <p>Entidades autorizadas a operar no sistema financeiro nacional, como bancos, cooperativas de crédito, fintechs e instituições de pagamento.</p> |
 | **Sinônimos**     | <p>Banco, Entidade Financeira</p>                                                                                     |
+| **Conexões** | [L30](#L30), [L31](#L31) |  
 | **Autor**         | [Danielle Soares](https://github.com/danielle-soaress)                                                               |
 
 </center>
@@ -908,7 +911,6 @@ O léxico L32 está relacionado ao requisito funcional IS12 (O aplicativo deve p
 
 ## Requisito IS09
 
----
 
 ### <a name="L33"></a> L33: Exibir informações detalhadas
 
@@ -985,7 +987,6 @@ O L35, apresentado na tabela 38, utiliza o seguinte requisito não implementado:
 
 ## Requisito IS10
 
----
 
 ### <a name="L36"></a> L36: Filtrar
 
@@ -1030,6 +1031,7 @@ O léxico L37 utiliza o requisito funcional IS08 (O aplicativo deve fornecer inf
 | **Tipo**  | Estado                                                   |
 | **Impacto** | <p>A ação ou operação (ex: saque) não pode ser realizada até que o bloqueio seja removido.</p><p>Pode afetar a disponibilidade de recursos ao usuário.</p> |
 | **Noção** | <p>Situação em que um recurso ou função está temporariamente indisponível para uso devido a restrições, impedimentos legais, administrativos ou técnicos.</p> |
+| **Conexões** | [L02](#l02-status-do-saque), [L38](#L38), [L39](#L39) |  
 | **Sinônimos** | <p>Restrito, Suspenso, Inativo</p>                     |
 | **Autor** | [Danielle Soares](https://github.com/danielle-soaress)  |
 
@@ -1054,6 +1056,7 @@ O léxico L38 utiliza o requisito funcional IS08 (O aplicativo deve fornecer inf
 | **Impacto** | <p>Permite ao usuário compreender o estado atual de funcionalidades ou recursos do sistema.</p><p>Contribui para a transparência e usabilidade da aplicação.</p> |
 | **Noção** | <p>Conjunto de dados ou mensagens fornecidos ao usuário, com o objetivo de esclarecer ações, estados ou restrições no sistema.</p> |
 | **Sinônimos** | <p>Dados, Detalhes, Notificações</p>                                                                     |
+| **Conexões** | [L37](#L37), [L38](#L38), [L39](#L39) |  
 | **Autor** | [Danielle Soares](https://github.com/danielle-soaress)                                                     |
 
 </center>
@@ -1078,6 +1081,7 @@ O léxico L39 utiliza o requisito funcional IS08 (O aplicativo deve fornecer inf
 | **Impacto** | <p>Justifica ao usuário a razão de uma restrição ou impedimento no sistema.</p><p>Ajuda na tomada de decisões ou na resolução de pendências.</p> |
 | **Noção** | <p>Explicação fornecida pelo sistema sobre a razão de uma funcionalidade (como o saque) estar bloqueada.</p> |
 | **Sinônimos** | <p>Justificativa, Razão, Causa</p>                                                                       |
+| **Conexões** | [L03](#l03-comentario-explicativo), [L37](#L37), [L38](#L38) |  
 | **Autor** | [Danielle Soares](https://github.com/danielle-soaress)                                                     |
 
 </center>
@@ -1340,3 +1344,4 @@ O léxico L49 utiliza o requisito funcional não implementado ST07 (O aplicativo
 | `2.5` | 17/06/2025 | Corrigindo links da página | [Danielle Soares](https://github.com/danielle-soaress)  | [Enzo Emir](https://github.com/EnzoEmir) |
 | `2.6` | 20/06/2025 | Adicionando Hiperlinks entre os lexicos L01-L13 | [Enzo Emir](https://github.com/EnzoEmir) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `2.7` | 21/06/2025 | Adicionando Hiperlinks entre os lexicos L033-L36 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | --- |
+| `2.8` | 21/06/2025 | Adicionando Hiperlinks entre os lexicos L37-39 e L30-32 | [Danielle Soares](https://github.com/danielle-soaress) | --- |
