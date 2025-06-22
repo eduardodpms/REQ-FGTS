@@ -77,7 +77,7 @@ As tabelas abaixo apresentam a inspeção da Lista de Verificação da técnica 
 
 ### $100 Test
 
-<font size="3"><p style="text-align: center">Tabela 3: Itens sobre Observação</p></font>
+<font size="3"><p style="text-align: center">Tabela 3: Itens sobre $100 Test</p></font>
 
 <a id="T3"></a>
 
