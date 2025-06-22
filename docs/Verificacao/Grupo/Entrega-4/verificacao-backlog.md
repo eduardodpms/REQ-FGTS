@@ -8,11 +8,11 @@ O conteúdo foi analisado com base nas orientações apresentadas na obra **Enge
 
 ## Objetivo
 
-Este documento tem como objetivo relatar os resultados da verificação realizada sobre o artefato [Backlog](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Backlog/), na versão 2.2, datada de 21/06/2025, referente à Etapa 2 do [Grupo FGTS](https://github.com/Requisitos-de-Software/2025.1-FGTS).
+Este documento tem como objetivo relatar os resultados da verificação realizada sobre o artefato [Backlog](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Product-Backlog/), na versão 2.2, datada de 22/06/2025, referente à Etapa 4 do [Grupo FGTS](https://github.com/Requisitos-de-Software/2025.1-FGTS).
 
 ## Metodologia
 
-A verificação foi realizada com base na checklist definida no [Planejamento de Verificação da Entrega 2](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/). Para cada item da lista, o avaliador marcou **Sim**, **Não** ou **Incompleto**, além de incluir observações quando necessário.
+A verificação foi realizada com base na checklist definida no [Planejamento de Verificação da Entrega 4](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-4/planejamento-verificacao-entrega-4/). Para cada item da lista, o avaliador marcou **Sim**, **Não** ou **Incompleto**, além de incluir observações quando necessário.
 
 ## Cronograma e Participantes
 
