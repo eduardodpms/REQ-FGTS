@@ -86,36 +86,36 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 
 | Item | Referência | Avaliação | Observação |
 | :---- | :---: | :---: | :---: |
-| ***19:*** Foi utilizado o SIG (Softgoal Interdependency Graph)? | ![][image15] | | |
-| ***20:*** Foram definidos os tipos de SIG? | ![][image16] | | |
-| ***21:*** Foram definidos os estilos dos tipos de SIG? (Ex: nuvens claras, nuvens com linhas grossas, nuvens com linhas tracejadas) | ![][image16] | | |
-| ***22:*** As interdependências dos softgoals foram classificadas? | ![][image17] | | |
-| ***23:*** Foram definidos os tipos de contribuições dos softgoals? | ![][image18] | | |
-| ***24:*** Foram definidos os rótulos utilizados para indicar a propagação dos impactos de um softgoal ou interdependência do SIG? | ![][image19] | | |
-| ***25:*** Foram identificados os principais requisitos não-funcionais (softgoals) no contexto do aplicativo? | ![][image20] | | |
-| ***26:*** Foram utilizados Cartões de Especificação? | ![][image21] | | |
+| ***19:*** Foi utilizado o SIG (Softgoal Interdependency Graph)? [(2)](#REF2)| ![][image15] | | |
+| ***20:*** Foram definidos os tipos de SIG? [(2)](#REF2)| ![][image16] | | |
+| ***21:*** Foram definidos os estilos dos tipos de SIG? (Ex: nuvens claras, nuvens com linhas grossas, nuvens com linhas tracejadas) [(2)](#REF2)| ![][image16] | | |
+| ***22:*** As interdependências dos softgoals foram classificadas? [(2)](#REF2)| ![][image17] | | |
+| ***23:*** Foram definidos os tipos de contribuições dos softgoals? [(2)](#REF2)| ![][image18] | | |
+| ***24:*** Foram definidos os rótulos utilizados para indicar a propagação dos impactos de um softgoal ou interdependência do SIG? [(2)](#REF2)| ![][image19] | | |
+| ***25:*** Foram identificados os principais requisitos não-funcionais (softgoals) no contexto do aplicativo? [(2)](#REF2)| ![][image20] | | |
+| ***26:*** Foram utilizados Cartões de Especificação? [(2)](#REF2)| ![][image21] | | |
 
 ### ✅ Backlog
 
 | Item | Referência | Avaliação | Observação |
 | :---- | :---: | :---: | :---: |
-| ***14:*** O backlog possui épicos e temas bem definidos e descritos? | ![][image13] | | |
+| ***14:*** O backlog possui épicos e temas bem definidos e descritos? [(1)](#REF1)| ![][image13] | | |
 | ***15:*** Cada história de usuário está associada a um requisito funcional? | | | |
-| ***16:*** As histórias de usuário seguem o modelo: "Como um \[tipo de usuário\], eu desejo \[ação\] para \[benefício\]"? | ![][image14] | | |
-| ***17:*** Todas as histórias possuem identificação única? | ![][image12] | | |
-| ***18:*** Há rastreabilidade clara entre história, RF e técnica de elicitação? | ![][image12] | | |
+| ***16:*** As histórias de usuário seguem o modelo: "Como um \[tipo de usuário\], eu desejo \[ação\] para \[benefício\]"? [(1)](#REF1)| ![][image14] | | |
+| ***17:*** Todas as histórias possuem identificação única? [(3)](#REF3)| ![][image12] | | |
+| ***18:*** Há rastreabilidade clara entre história, RF e técnica de elicitação? [(3)](#REF3)| ![][image12] | | |
 
 ### ✅ Histórias de Usuário
 
 | Item | Referência | Avaliação | Observação |
 | :---- | :---: | :---: | :---: |
-| ***07:*** Os títulos das histórias de usuário são auto-explicativos? | ![][image6] | | |
-| ***08:*** O “quem”, “o que” e o “por que” estão definidos na história de usuário? | ![][image7] | | |
-| ***09:*** Existe a participação do cliente e/ou persona na validação das histórias de usuário? | ![][image8] | | |
-| ***10:*** A história possui critérios de aceitação? | ![][image9] | | |
-| ***11:*** Existe a participação do cliente e/ou persona na elicitação de requisitos? | ![][image10] | | |
-| ***12:*** Todas as histórias de usuários podem ser testadas? | ![][image11] | | |
-| ***13:*** As Histórias de Usuário seguem algum modelo ou padrão? | ![][image12] | | |
+| ***07:*** Os títulos das histórias de usuário são auto-explicativos? [(1)](#REF1)| ![][image6] | | |
+| ***08:*** O “quem”, “o que” e o “por que” estão definidos na história de usuário? [(1)](#REF1)| ![][image7] | | |
+| ***09:*** Existe a participação do cliente e/ou persona na validação das histórias de usuário? [(1)](#REF1)| ![][image8] | | |
+| ***10:*** A história possui critérios de aceitação? [(1)](#REF1)| ![][image9] | | |
+| ***11:*** Existe a participação do cliente e/ou persona na elicitação de requisitos? [(1)](#REF1)| ![][image10] | | |
+| ***12:*** Todas as histórias de usuários podem ser testadas? [(1)](#REF1)| ![][image11] | | |
+| ***13:*** As Histórias de Usuário seguem algum modelo ou padrão? [(3)](#REF3)| ![][image12] | | |
 
 ## Referências Bibliográficas
 
@@ -135,6 +135,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | `1.2` | 20/06/2025 | Adição de Artefatos Verificados e Resultados | [Marcelo Makoto](https://github.com/MM4k) | - |
 | `1.3` | 21/06/2025 | Adição de Listas de Verificação | [Marcelo Makoto](https://github.com/MM4k) | - |
 | `1.4` | 21/06/2025 | Referências e prints das listas de verificação | [Danielle Soares](https://github.com/danielle-soaress) | - |
+| `1.5` | 21/06/2025 | Adicionando links às referências | [Danielle Soares](https://github.com/danielle-soaress) | - |
 
 
 [imagex1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAI4AAAAICAYAAAAvFMfNAAAE4klEQVR4Xu1WfUxTVxTXQFteLYUxcJiC00yRJYtAyLIRotuCZpsBJy5DZRn42W1aKzhhNQEii3yoIRjcgOq2OjRsGsOQCRpl1oofYE0EJaMjItH4AYmwxUGA8F5+u/e8R2cb5nT7YzPjl5B77u/ed8495/zuLZMwgQn8DUzyJiYwgceBWzhNrbcf5hVIaGhowPm2mx5sb0s1eiQPiiB6EwpO2tu9KQWDbsvefh/O7gGyb7ddwC3nSffauBDv0lBdWvAI/0+IQc88x3Dhyvj8eCjYvtObemKIPde8qX8EqbcF58ZrmBesVps39acg4Uj3ToG3vXnEaxXDSPz6J1gd7bA0duJj03pmu+Dj/zKNry9dh4pjNUj5wAir/TLWVF7E5/srsGLlauxxdGJZ+krsOt2JVMsBpBuNWF1xHtaTp7H/rNIIsQNNtnwybfabiMn5EV1MS4WvCGg/Wg4u3AKbg9aLs8049rOINlcD+lkNLOb1kPqdeM1cinKbHTVlebjUK2Kw246NlmL2xRA2mC1yHIbvd+egpZdLmycpYb0py722t+oMjWJHIUwZeQorIj/TRJYQI3PttWWwOW6RXVLLmyvB1bAb3XYbLMUH4TxUitIv6midn+/eKJls2y/Y+OkOMstyNrOy3kDhQSfNsxc8BxfbV5abQfPmA0Voq0xk3/wKU1YBcUVbN8l+wOl2OG4Ns/S6YaY8ZRRZzGhmAevaXDi4Lwvl9S7kbNpAlzlKHURZ87r0O79FYXk9xeNuxvxUrk0hP1PTj7p9PgoeP1XLDssvQFhYmMLIwtH7ToO1sRrR8xYi5u1cqEOWY6pPIM0rqjYzEXXCRz+H5iVb5tFcFbuNRrJDlsFXZ0B0mArW48cx2W+67J4Jh9+D4LRahBlP4I2yO/jmHS0JZ+9bAqKEWHAB3G/KpO0phwaR1zoKqe8MZsyNx0VWjY9ODUMIM2KsRwvDBaSa+P7fEGXQ4TJPaaQJycnJ9PddikHxywSRZJNHwzoauXA40mqH+IxsbXCaIpxRXOVBho4gM0IArw3fw46DcEEDU+YS8JicHTufJlIWp+rZuRR7j1O+mavqhuAwv0B2U2YERq/kki0kfUkxhuvXQGD140iyPcAnqQlyHgyx266yI6xgoTpg0PnKb7bUh2dmzEWEJhIxea2Ur8SkQjkvXYXF2nD0nflMqcsI7iiPz5EVgW4/HMFB78kLjwFFOBL81WrPFcLYi9OB6K0OhGh9seUHFwmnouYrCDo/t3B27trAGrjAQzgatQ7JZZdIOPrpLyIhLhjbc5cj6CXlgKILcdMCqOlcOK+mroXpcJdbOFJPI2tqPG01+KuRemSIhCN2VSEmahb2sed3TDgz2VkWF53F7ClazE7IwOj1aoQE6/FAyWSWXoWIJcWYY3aQX3+dmoouBAbi+emKcFw7WB00yhciAgL80TX6x4uTOFsPQ7yRGjVnUTbt4cKZog1FQoYsVpKTcr5Q/SL67u6JPARq1XRJOB4WzoAjByU3ROhVAp0naZY/3k1/Ez2N+dCpuUABP02AO4/G/ETEG224Xv0hgvVamRS7EBkThcRQvSwcDEA9vwQqvwAUn+0j4XRVvU914Zisnk/xjLZrHn5UmsVKlL/GU/LPsQTBZ7I3+a9B6jsHXXicN/2/wlMinAn81/A7U7He/AozSAUAAAAASUVORK5CYII=>
