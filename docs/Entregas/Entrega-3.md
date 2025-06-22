@@ -94,7 +94,8 @@ A Entrega 3 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0`  | 18/05/2025 | Criação do documento | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.1`  | 18/05/2025 | Adição de imagens das referências | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `1.2`  | 17/06/2025 | Corrigindo imagens das referências | [Danielle Soares](https://github.com/danielle-soaress) | --- |
+| `1.2`  | 17/06/2025 | Corrigindo imagens das referências | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `1.3` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
 
 
 [image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEoAAAAECAYAAAApgqltAAABcUlEQVR4XmP4PwqIAgwg4mSFNrr4//8/j/xf25z0//6S3P/NSW7/mwK84FJ1Ce5A8iuYvaIq6H+Al+d/QVmD/z/2Nf1n4xL476on8z/X1/O/sYr4fxEmsBVwMGnPAzh7Q1vy/1VlEWA2u9ec/0AD/gtxsf9/D+QnuxvC1f19dfr/kY5QMPs7XBSoHEp7R/b+P/nyz39jv6L/7oby/29v7gCLC3Oz/zdVFgWz2XnF/vvoSEB1/P9/elHd/1Avl/+G8sJg9buWzf5fc+43XB4dgH1hFFKHLg4GWc6q/y/WG/13VhX4H8DBCBb7A8QMDEBtP++B+QnGov85GBn+MzJx/f+6OAAs56Qj/d+IlQHMdmRDBBQDq/5/h+R+OD/fXe0/zOu6pTuAYb8YrAcUUGoCrHB1FmIINiMDiP0XwuYIgNCsev8n7n/2n1VA678AK+P/zfUhYHGQWRyMEHdLmMeDaRhgZYS4C0TD1OMDqNE9CnACANi9AFbiGDOdAAAAAElFTkSuQmCC>

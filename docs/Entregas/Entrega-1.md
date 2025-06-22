@@ -79,8 +79,8 @@ A entrega 1 consiste na base inicial que guiará o time nas próximas entregas. 
 | `1.1`  | 13/04/2025 | Correção do link | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.2`  | 02/05/2025 | Edição do texto e correção da tabela | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.3`  | 07/05/2025 | Ajustando elementos textuais e da lista | [Eduardo de Pina](https://github.com/eduardodpms) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| `1.4`  | 17/06/2025 | Adicionando Referências e Prints | [Danielle Soares](https://github.com/danielle-soaress)| -- |
-
+| `1.4`  | 17/06/2025 | Adicionando Referências e Prints | [Danielle Soares](https://github.com/danielle-soaress)| [Marcelo Makoto](https://github.com/MM4k) |
+| `1.5` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
 
 [image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEoAAAAFCAYAAADi3nrIAAAAvElEQVR4XmP4PwqIAgzoArQEWzZvRxeiCviJLkADgBFQN179QOHffAN0xp8v////Pgfmb96wEUw/f/EerubV3cv/X965BOejmvD//50XX/7/QeIjq4WZ8/Xlnf/nzlyEi4PApbtv/r/5/RuI//9n5AtDkQNqQOUDwZ1LF/4/+vv//9/Pz/5fuHwHRe7ynRco/DfojiQAwAHFyKb+Xz2w6n9GQ8t/BWbW/zxmjWDJlauWoigeyQAjRY0C7AAApJurko2iqMIAAAAASUVORK5CYII=>
 

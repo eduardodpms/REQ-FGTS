@@ -89,7 +89,8 @@ A Entrega 6 tem como objetivo rastrear os requisitos elicitados anteriormente. P
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0`  | 08/06/2025 | Criação do documento | [Marcelo Makoto](https://github.com/MM4k) | [Maria Eduarda](https://github.com/dudaa28) |
 | `1.1`  | 08/06/2025 | Video da apresentação | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `1.2`  | 17/06/2025 | Referências e Prints |  [Danielle Soares](https://github.com/danielle-soaress) | --- |
+| `1.2`  | 17/06/2025 | Referências e Prints |  [Danielle Soares](https://github.com/danielle-soaress) | [Victor Pontual](https://github.com/VictorPontual) |
+| `1.3` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
 
 [image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEoAAAAECAYAAAApgqltAAABcUlEQVR4XmP4PwqIAgwg4mSFNrr4//8/j/xf25z0//6S3P/NSW7/mwK84FJ1Ce5A8iuYvaIq6H+Al+d/QVmD/z/2Nf1n4xL476on8z/X1/O/sYr4fxEmsBVwMGnPAzh7Q1vy/1VlEWA2u9ec/0AD/gtxsf9/D+QnuxvC1f19dfr/kY5QMPs7XBSoHEp7R/b+P/nyz39jv6L/7oby/29v7gCLC3Oz/zdVFgWz2XnF/vvoSEB1/P9/elHd/1Avl/+G8sJg9buWzf5fc+43XB4dgH1hFFKHLg4GWc6q/y/WG/13VhX4H8DBCBb7A8QMDEBtP++B+QnGov85GBn+MzJx/f+6OAAs56Qj/d+IlQHMdmRDBBQDq/5/h+R+OD/fXe0/zOu6pTuAYb8YrAcUUGoCrHB1FmIINiMDiP0XwuYIgNCsev8n7n/2n1VA678AK+P/zfUhYHGQWRyMEHdLmMeDaRhgZYS4C0TD1OMDqNE9CnACANi9AFbiGDOdAAAAAElFTkSuQmCC>
 
