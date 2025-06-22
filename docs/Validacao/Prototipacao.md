@@ -214,4 +214,4 @@ Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/SRSL805B
 | `1.0` | 18/06/2025 | Criação da Página, Introdução e Referências | [Danielle Soares](https://github.com/danielle-soaress) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.1` | 21/06/2025 | Adição da seção metodologia | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.2` | 21/06/2025 | Adicionando data/hora de participação | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
-| `1.3` | 21/06/2025 | Adicionando data/hora de participação | [Enzo Emir](https://github.com/EnzoEmir) | --- |
+| `1.3` | 22/06/2025 | Adicionando data/hora de participação | [Enzo Emir](https://github.com/EnzoEmir) | --- |
