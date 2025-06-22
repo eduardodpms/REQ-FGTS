@@ -51,16 +51,16 @@ Nesta etapa a integrante [Danielle Soares](https://github.com/danielle-soaress),
 
 </div>
 
-
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
 ## Inspeção
 
 As tabelas abaixo, apresentam a inspeção  da Lista de Verificação da técnica de elicitação "Observação" realizada pelo avaliador, conforme as checklists definidas no [Planejamento](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/).
 
-<font size="3"><p style="text-align: center">Tabela 2: Itens gerais</p></font>
 
 ### Itens Gerais
+
+<font size="3"><p style="text-align: center">Tabela 2: Itens gerais</p></font>
 
 | Item | Avaliação | Observação | Print |
 | :---- | :---: | :---: | :---: |
@@ -74,9 +74,10 @@ As tabelas abaixo, apresentam a inspeção  da Lista de Verificação da técnic
 <font size="3"><p style="text-align: center">Fonte: 
     <a href="https://github.com/danielle-soaress">Danielle Soares</a>, <a href="https://github.com/MM4k">Marcelo Makoto</a>
 </p></font>
-<font size="3"><p style="text-align: center">Tabela 3: Itens sobre Observação</p></font>
 
 ### Observação
+
+<font size="3"><p style="text-align: center">Tabela 3: Itens sobre Observação</p></font>
 
 <a id="T3"></a>
 
@@ -120,7 +121,7 @@ A versão atualizada ainda não atende aos requisitos de clareza e rastreabilida
 
 ## Acompanhamento
 
-Foi realizada a inspeção no artefato da ténica de *Observação* com base na técnica de Fagan. A maior parte dos itens foi considerada conforme, incluindo referências bibliográficas, histórico de versões, introdução, linguagem formal, coerência entre texto e gráficos, e todos os critérios referentes às personas.
+Foi realizada a inspeção no artefato da ténica de *Observação* com base na técnica de Fagan. A maior parte dos itens foi considerada conforme, incluindo referências bibliográficas, histórico de versões, introdução, linguagem formal, coerência entre texto e gráficos, e todos os critérios referentes à ténica de elicitação Observação.
 
 As únicas **não conformidades** identificadas foram nos itens **03** e **08** da tabela <a href="#T3"> (3)</a>, relacionados, respectivamente, à especificação do cronograma juntamente ao cliente e a definição do tipo de postura do observador durante a aplicação da técnica.
 
@@ -144,6 +145,7 @@ O artefato permanece em acompanhamento até que essa correção seja implementad
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 21/06/2025 | Criação do documento | [Danielle Soares](https://github.com/danielle-soaress) | - |
 | `1.1` | 21/06/2025 | Correções no texto | [Danielle Soares](https://github.com/danielle-soaress) | - |
+| `1.3` | 21/06/2025 | Correções nas tabelas | [Danielle Soares](https://github.com/danielle-soaress) | - |
 
 
 [image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAI4AAAAbCAYAAACqVrf4AAACnUlEQVR4Xu2YT49pMRjG56vwBSwls/ZFfAfMhKUgQshIsBMhEjOxtbYSdlYSFlhYCAtBiD8hnTxN3qbnXO6M3htzue8vadr3Oe1pe85D2/MkGMaAJ7vAMN+BjcMYwcZhjGDjMEawcRgjLMaZTqd6eDX5fN4uMQ+KxTgOh0M4nU5dEm632xL3+33h8XhkebPZKD2bzSrjNBoNpTOPyZf/OC8vL5bY5/OJ5+dnWdaN43K5lHG8Xq/SmcfEaI+Ty+XsEvOfYWQchmHjMEawcRgj2DiMEVcbZzKZWGK/3y/G47HMCRzHESMtl0uldzody0kM7c5B9+p2u7Yrl0Eb1NfHQf0j//j40GoLsVgsRK/XUzHGfGk8dvQ+vsvv2qRSKUscjUYtMbB/I4tEIqLZbFo0U4bDoV36kquNA3BsRxqNRpZvNqfTSeak1Wo1dQ2QiQKBgCzjReEeYDabqXpoDxMgoc5+vxfhcPiXB6zz/v4u6+OB6oajPjG21WqldDI3GYZyMp9ueJSDwaCK8S0L6C8TbRBTO/25ENVqVc4FiYwOMC99jpjD6+uraocY99bNBw0/RBqrPt5yuazKiURC9luv15UG0FepVBLxeFz2DVqtluw/FArJ8aMPfd46Rsb5V0in03bpLliv13bpj9GNcwvu2jjMz8HGYYy4aJxMJiMKhYJcH7HOFYtFqWNdxvqLzSXWRuxXQDKZlDmtiaQPBgO1Nm+3W3kde4l2uy01gPWU+kFd1AMoz+dzcTwe1TWd3W4nrzO356xxYIjD4SBfJhJArm86Y7GY2lQBvUxUKhVVhlnQhso4EdAGEvnb25uqi9MO3Q+GxAYO0DpOMYzD/AxnjfO3sf9TMPfPTYzDPB5sHMYINg5jBBuHMYKNwxjxCfjmBLs1HxpQAAAAAElFTkSuQmCC>

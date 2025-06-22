@@ -918,4 +918,4 @@ Parte 02:
 | `2.7`    | 01/06/2025 | Adição das prioridades dos cartões de especificação definidas pelo usuário | [Marcelo Makoto](https://github.com/MM4k)  | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `2.8`    | 01/06/2025 | Adicionando parte 2 video validação | [Maria Eduarda](https://github.com/dudaa28)  | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `2.9`    | 04/06/2025 | Correção de links | [Eduardo de Pina](https://github.com/eduardodpms) | [Marcelo Makoto](https://github.com/MM4k) |
-| `3.0`    | 21/06/2025 | Adição de versões dos requisitos | [Marcelo Makoto](https://github.com/MM4k) | - |
+| `3.0`    | 21/06/2025 | Adição de versões dos requisitos | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
