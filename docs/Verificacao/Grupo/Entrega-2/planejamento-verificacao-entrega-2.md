@@ -40,8 +40,8 @@ A metodologia utilizada na etapa de verificação é o método de inspeção de 
     </tr>
     <tr>
       <td> Enzo Emir </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 21/06/2025 </td>
+      <td> 23:53 </td>
       <td> Perfil de Usuário, In or Out </td>
     </tr>
     <tr>
@@ -232,7 +232,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***04:*** A prioridade de cada requisito foi decidida de forma binária (In/Out) ? [(4)](#RF4) | ***![][image38]*** | \- | \- |
 | ***05:*** Houve participação de stakeholders? [(4)](#RF4) | ***![][image39]*** | \- | \- |
 | ***06:*** Todos os requisitos a serem priorizados foram reunidos em uma lista? [(4)](#RF4) | ***![][image40]*** | \- | \- |
-| ***07:*** É possível identificar claramente quais requisitos possuem maior/menor prioridade? [(4)](#RF4) | ***![][image41]*** | \- | \- |
+
 
 ### ✅ Three-Level Scale
 
