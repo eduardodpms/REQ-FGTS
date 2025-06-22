@@ -648,13 +648,13 @@ Validação dos Backlogs 01-12 e 31-42 presentes no vídeo a seguir:
 | `1.4`    | 30/05/2025 | Adicionando H25-H30 ao backlog | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.5`    | 01/06/2025 | Adicionando H07-H12 ao backlog | [Marcelo Makoto](https://github.com/MM4k) | [Victor Pontual](https://github.com/VictorPontual) |
 | `1.6`    | 01/06/2025 | Adicionando H31-H36 ao backlog | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |
-| `1.6`    | 01/06/2025 | Adicionando H01-H06 ao backlog | [Enzo Emir](https://github.com/EnzoEmir) | [Danielle Soares](https://github.com/danielle-soaress) |
-| `1.7`   | 01/06/2025 | Correções no backlog | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `1.8`   | 01/06/2025 | Adicionando histórias 37-42 | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
-| `1.9`   | 01/06/2025 | Adicionando video Validação | [Maria Eduarda](https://github.com/dudaa28) | [Enzo Emir](https://github.com/EnzoEmir) |
-| `2.0`   | 01/06/2025 | Foto referência | [Maria Eduarda](https://github.com/dudaa28) | [Victor Pontual](https://github.com/VictorPontual) |
-| `2.1`    | 04/06/2025 | Correção de links | [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir) |
-| `2.2`    | 21/06/2025 | Adicionando as historias feitas por cada participante | [Enzo Emir](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
-| `2.3`    | 22/06/2025 | Adicionando as datas  | [Enzo Emir](https://github.com/EnzoEmir) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| `2.4`  | 22/06/2025 | Arrumando referências | [Enzo Emir](https://github.com/EnzoEmir) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `2.5` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.7`    | 01/06/2025 | Adicionando H01-H06 ao backlog | [Enzo Emir](https://github.com/EnzoEmir) | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.8`   | 01/06/2025 | Correções no backlog | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `1.9`   | 01/06/2025 | Adicionando histórias 37-42 | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
+| `2.0`   | 01/06/2025 | Adicionando video Validação | [Maria Eduarda](https://github.com/dudaa28) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `2.1`   | 01/06/2025 | Foto referência | [Maria Eduarda](https://github.com/dudaa28) | [Victor Pontual](https://github.com/VictorPontual) |
+| `2.2`    | 04/06/2025 | Correção de links | [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `2.3`    | 21/06/2025 | Adicionando as historias feitas por cada participante | [Enzo Emir](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
+| `2.4`    | 22/06/2025 | Adicionando as datas  | [Enzo Emir](https://github.com/EnzoEmir) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `2.5`  | 22/06/2025 | Arrumando referências | [Enzo Emir](https://github.com/EnzoEmir) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `2.6` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
