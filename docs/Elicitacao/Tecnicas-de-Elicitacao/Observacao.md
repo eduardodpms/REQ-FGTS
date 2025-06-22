@@ -8,7 +8,7 @@ Neste trabalho, foi realizada uma **sessão de observação do aplicativo FGTS**
 
 ## Metodologia
 
-A sessão de observação foi conduzida por Eduardo de Pina, com base em uma gravação de interação da usuária Maria Eduarda utilizando o aplicativo FGTS. A observação foi não participativa, permitindo captar o uso espontâneo do sistema.
+A sessão de observação foi conduzida por Eduardo de Pina, com base em uma gravação de interação da usuária Maria Eduarda utilizando o aplicativo FGTS. A observação foi não participativa, de forma que os observadores assumiram uma postura passiva, permitindo captar o uso espontâneo do sistema.
 
 Durante a análise da gravação, Victor Pontual foi responsável por registrar os requisitos elicitados a partir do comportamento da usuária. A sessão ocorreu no dia 04 de maio de 2025 e teve duração aproximada de 30 minutos.
 
@@ -179,3 +179,4 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 | `1.0` | 04/05/2025 | Documento de elicitação com base em observação | [Victor Pontual](https://github.com/VictorPontual) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
 | `1.1` | 17/05/2025 | Adição de âncoras e correção dos IDs de rastreabilidade | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.2` | 17/05/2025 | Corrigindo bug nas tabelas | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `1.3` | 21/05/2025 | Alteração no texto da Metodologia | [Danielle Soares](https://github.com/danielle-soaress) | --- |

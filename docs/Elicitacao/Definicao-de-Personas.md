@@ -175,4 +175,4 @@ O elenco é composto por cinco personas (duas primárias, duas secundárias e um
 | `1.1` | 03/05/2025 | Atualização de textos e detalhes | [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.2` | 21/06/2025 | Adicionando tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.3`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | [Marcelo Makoto](https://github.com/MM4k) |
-| `1.4`  | 21/06/2025 | Adição de informações da quantidade de personas no elenco | [Marcelo Makoto](https://github.com/MM4k) | - |
+| `1.4`  | 21/06/2025 | Adição de informações da quantidade de personas no elenco | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
