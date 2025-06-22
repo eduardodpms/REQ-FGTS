@@ -1,20 +1,20 @@
-# Verificação de Personas
+# Verificação de Léxicos
 
 ## Introdução
 
 Após o planejamento da verificação, chegou o momento de realizar a inspeção do documento de **Lexicos**. Nesta etapa, utilizamos o método de inspeção proposto por Fagan, que é uma técnica formal de verificação bastante aplicada na engenharia de software.
 
-A verificação tem como objetivo garantir que os termos do léxico estejam bem definidos, com descrições claras de noção e impacto, além de manterem consistência com os demais documentos de requisitos. Esse processo é essencial para assegurar o alinhamento conceitual entre a equipe de desenvolvimento e as partes interessadas, evitando ambiguidades e promovendo uma melhor comunicação ao longo do projeto. Para isso, também nos apoiamos em conceitos extraídos da obra:*Requisitos – Aula 10*</i><a id="anchor_1" href="#REF1">^1^</a>, que reforçam a importância dos conceitos estudados e postos em prática nessa etapa.
+A verificação tem como objetivo garantir que os termos do léxico estejam bem definidos, com descrições claras de noção e impacto, além de manterem consistência com os demais documentos de requisitos. Esse processo é essencial para assegurar o alinhamento conceitual entre a equipe de desenvolvimento e as partes interessadas, evitando ambiguidades e promovendo uma melhor comunicação ao longo do projeto. Para isso, também nos apoiamos em conceitos extraídos da obra: ***Requisitos – Aula 10***</i><a id="anchor_1" href="#REF1">^1^</a>, que reforçam a importância dos conceitos estudados e postos em prática nessa etapa.
 
 Ao longo do processo, reunimos dados, apontamos os principais problemas encontrados e discutimos sugestões de melhoria. Esses resultados são fundamentais para aprimorar o documento e garantir que ele cumpra seu papel no desenvolvimento do projeto.
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato de [Léxicos](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Definicao-de-Personas/) na versão 3.1 de data 22/06/2025 da Etapa 3 do [grupo](https://github.com/Requisitos-de-Software/2025.1-FGTS).
+O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato de [Léxicos](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/) na versão 3.1 de data 22/06/2025 da Etapa 3 do [grupo](https://github.com/Requisitos-de-Software/2025.1-FGTS).
 
 ## Metodologia
 
-A verificação foi realizada com base nas checklists definidas no [planejamento](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/). Para cada item, o avaliador marcou **Sim**, **Não** ou **Incompleto** e pôde incluir observações quando necessário.
+A verificação foi realizada com base nas checklists definidas no [planejamento](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-3/planejamento-verificacao-entrega-3/). Para cada item, o avaliador marcou **Sim**, **Não** ou **Incompleto** e pôde incluir observações quando necessário.
 
 
 ## Cronograma e Participantes
@@ -66,12 +66,12 @@ A tabela abaixo, apresenta a inspeção  da Lista de Verificação do artefado *
 
 | Item | Avaliação | Observação | Print |
 | ----- | :---: | :---: | :---: |
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(1)](#RF1) | Sim | \- | ![][image1] |
-| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(1)](#RF1) | Sim | \- | ![][image2] |
-| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(1)](#RF1) | Sim | \- | ![][image3]![][image4] |
-| ***04:*** O artefato apresenta uma introdução? [(1)](#RF1) | Sim | \- | ![][image5] |
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(1)](#RF1) | Sim | \- | ![][image6] |
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(1)](#RF1) | Sim | \- | ![][image7] |
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(2)](#REF2) | Sim | \- | ![][image1] |
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(2)](#REF2) | Sim | \- | ![][image2] |
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(2)](#REF2) | Sim | \- | ![][image3]![][image4] |
+| ***04:*** O artefato apresenta uma introdução? [(2)](#REF2) | Sim | \- | ![][image5] |
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(2)](#REF2) | Sim | \- | ![][image6] |
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(2)](#REF2) | Sim | \- | ![][image7] |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
@@ -84,14 +84,14 @@ A tabela abaixo, apresenta a inspeção  da Lista de Verificação do artefado *
 
 | Item | Avaliação | Observação | Print |
 | ----- | :---: | :---: | :---: |
-| ***01:*** Os léxicos possuem ligações entre si por meio de hiperlinks? [(1)](#RF1) | Incompleto | Alguns hiperlinks não fazem ligações | ![][image1] |
-| ***02:*** Os léxicos estão classificados adequadamente como verbo, objeto ou estado? [(1)](#RF1) | Sim | \- | ![][image2] |
-| ***03:*** Os léxicos descrevem o impacto do símbolo na aplicação, ou o impacto da aplicação sobre o termo? [(2)](#RF2) | Sim | \- | ![][image3] |
-| ***04:*** Cada léxico apresenta claramente a noção do termo? [(2)](#RF2) | Sim | \- | ![][image4] |
-| ***05:*** Cada léxico tem zero ou mais sinônimos? [(2)](#RF2) | Sim | \- | ![][image5] |
-| **06:** Cada léxico tem um ou mais noções? [(2)](#RF2) | Sim | \- | ![][image6] |
-| **07:** Cada léxico tem um ou mais impactos? [(2)](#RF2) | SIm | \- | ![][image7] |
-| **08:** Há definição de usuário nos léxicos? [(1)](#RF1) | Sim | \- | ![][image8] |
+| ***01:*** Os léxicos possuem ligações entre si por meio de hiperlinks? [(2)](#REF2) | Incompleto | Alguns hiperlinks não fazem ligações | ![][image1] |
+| ***02:*** Os léxicos estão classificados adequadamente como verbo, objeto ou estado? [(2)](#REF2) | Sim | \- | ![][image2] |
+| ***03:*** Os léxicos descrevem o impacto do símbolo na aplicação, ou o impacto da aplicação sobre o termo? [(1)](#REF1) | Sim | \- | ![][image3] |
+| ***04:*** Cada léxico apresenta claramente a noção do termo? [(1)](#REF1) | Sim | \- | ![][image4] |
+| ***05:*** Cada léxico tem zero ou mais sinônimos? [(1)](#REF1) | Sim | \- | ![][image5] |
+| **06:** Cada léxico tem um ou mais noções? [(1)](#REF1) | Sim | \- | ![][image6] |
+| **07:** Cada léxico tem um ou mais impactos? [(1)](#REF1) | SIm | \- | ![][image7] |
+| **08:** Há definição de usuário nos léxicos? [(1)](#REF1) | Sim | \- | ![][image8] |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
@@ -131,6 +131,8 @@ O artefato permanecerá em acompanhamento até que a correção seja implementad
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 10. UnB, 2025. Disponível em: <[https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf)>. Acesso em: 17 de maio 2025. p. 12–20.
+
+> <a id="REF2" href="#anchor_2">2.</a> SALES, André Barros. Sugestão inicial da Lista de Verificação para algumas entregas do projeto. [S. l.: s. n.]. Disponível em: https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifica%C3%A7%C3%A3o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf. Acesso em: 17 jun. 2025.
 
 
 ## Histórico de Versões 
