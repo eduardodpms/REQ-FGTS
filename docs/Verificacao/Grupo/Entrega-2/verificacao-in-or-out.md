@@ -97,4 +97,5 @@ O artefato *In or Out* está considerado **aprovado**, com todos os itens da che
 
 | Versão | Data       | Descrição                         | Autor(es)    | Revisor(es)  |
 |:-----: | :--------: | :------------------------------- | :---------- | :---------- |
-| 1.0    | 21/06/2025 | Criação da página de verificação | Enzo Emir   | - |
+| 1.0    | 21/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   | - |
+| 1.1 | 22/06/2025 | Adição dos prints | [Enzo Emir](https://github.com/EnzoEmir) | - |

@@ -57,6 +57,8 @@ Nesta etapa a integrante [Maria Eduarda](https://github.com/dudaa28), será resp
 
 ## Inspeção
 
+A tabela abaixo, apresenta a inspeção  da Lista de Verificação do artefado **Brainstorming** realizada pelo avaliador, conforme as checklists definidas no [Planejamento](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/).
+
 ### Itens Gerais
 
 <font size="3"><p style="text-align: center">Tabela 2: Itens Gerais</p></font>
@@ -72,6 +74,7 @@ Nesta etapa a integrante [Maria Eduarda](https://github.com/dudaa28), será resp
 | ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(1)](#RF1) | Sim | \- | ![][image6] |
 | ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(1)](#RF1) | Sim | \- | ![][image7] |
 
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
 ### Brainstorming
 
@@ -90,6 +93,8 @@ Nesta etapa a integrante [Maria Eduarda](https://github.com/dudaa28), será resp
 | ***06:*** É possível identificar a participação e interação de todos os participantes da técnica? [(3)](#RF3) | Sim | \- | ![][image5] |
 | ***07:*** Os participantes da técnica estão reunidos em um mesmo ambiente? [(2)](#RF2) | Não | Os participantes não estão reunidos em um mesmo ambiente e a eliitação foi por videoconferência | ![][image4]![][image6] |
 
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
 
 ## Análise de Resultados
@@ -110,11 +115,11 @@ Os participantes não estavam reunidos em um mesmo ambiente, sendo a elicitaçã
 
 Ajustar o artefato para atender aos critérios referentes à participação do cliente/persona e ambiente da elicitação, **ID - Brainstorming 03, 04 e 07**.
 
- - **ID - Brainstorming 03:** Incluir registro da participação do cliente/persona na definição do cronograma e local da elicitação <a href="#T1"> (1)</a>.
+ - **ID - Brainstorming 03:** Incluir registro da participação do cliente/persona na definição do cronograma e local da elicitação [(1)](#T1).
 
- - **ID - Brainstorming 04:** Registrar formalmente a participação do cliente/persona na atividade de elicitação, caso aplicável à técnica utilizada <a href="#T1"> (1)</a>.
+ - **ID - Brainstorming 04:** Registrar formalmente a participação do cliente/persona na atividade de elicitação, caso aplicável à técnica utilizada [(1)](#T1).
 
-- **ID - Brainstorming 07:** Especificar no artefato que a técnica foi realizada por videoconferência e justificar a escolha do ambiente virtual <a href="#T1"> (1)</a>.
+- **ID - Brainstorming 07:** Especificar no artefato que a técnica foi realizada por videoconferência e justificar a escolha do ambiente virtual [(3)](#T1).
 
 <details> <summary><strong>Observação</strong></summary>
 
