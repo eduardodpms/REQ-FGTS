@@ -142,4 +142,5 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
 |:-:|:-:|:-:|:-:|:-:|
 | `1.0` | 04/05/2025 | Criação da priorização In or Out | [Enzo Emir](https://github.com/EnzoEmir), [Victor Pontual](https://github.com/VictorPontual) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.1` | 21/06/2025 | Adicionando tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | [Maria Eduarda](https://github.com/dudaa28) |
-| `1.2`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | - |
+| `1.2`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.3`  | 21/06/2025 | Arrumando bibliografia | [Enzo Emir](https://github.com/EnzoEmir) | - |

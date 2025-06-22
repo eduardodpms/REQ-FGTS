@@ -655,3 +655,4 @@ Validação dos Backlogs 01-12 e 31-42 presentes no vídeo a seguir:
 | `2.1`    | 04/06/2025 | Correção de links | [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `2.2`    | 21/06/2025 | Adicionando as historias feitas por cada participante | [Enzo Emir](https://github.com/EnzoEmir) | - |
 | `2.2`    | 22/06/2025 | Adicionando as datas  | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `2.3`  | 22/06/2025 | Arrumando referências | [Enzo Emir](https://github.com/EnzoEmir) | - |
