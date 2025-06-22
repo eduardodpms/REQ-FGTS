@@ -43,7 +43,7 @@ A seguir, a Figura 1 mostra o Rich Picture desenvolvido para o aplicativo do FGT
 <br>
 
 <figure style="text-align: center;">
-    <img src="../assets/rich-pictures-finais/richPictureV3-fgts.png" alt="Rich Picture V1" style="max-width: 100%;">
+    <img src="../../assets/rich-pictures-finais/richPictureV3-fgts.png" alt="Rich Picture V1" style="max-width: 100%;">
     <figcaption>
         <p style="text-align: center; font-size: 10pt;">
             Figura 1: Rich Picture (Fonte: <a href="https://github.com/danielle-soaress">Danielle Soares</a>, 2025)
@@ -55,7 +55,7 @@ A seguir, a Figura 1 mostra o Rich Picture desenvolvido para o aplicativo do FGT
 
 
 <figure style="text-align: center;">
-    <img src="../assets/rich-pictures-finais/richPictureV3Legenda-fgts.png" alt="Legenda Rich Picture" style="max-width: 100%;">
+    <img src="../../assets/rich-pictures-finais/richPictureV3Legenda-fgts.png" alt="Legenda Rich Picture" style="max-width: 100%;">
     <figcaption>
         <p style="text-align: center; font-size: 10pt;">
             Figura 2: Legenda do Rich Picture (Fonte: <a href="https://github.com/danielle-soaress">Danielle Soares</a>, 2025)
@@ -78,3 +78,4 @@ A seguir, a Figura 1 mostra o Rich Picture desenvolvido para o aplicativo do FGT
 | `1.2` | 03/05/2025 | Atualização da Legenda | [Danielle Soares](https://github.com/danielle-soaress), [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.3` | 21/06/2025 | Adicionando tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.4` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.5` | 22/06/2025 | Ajuste de links | [Eduardo de Pina](https://github.com/eduardodpms) | - |
