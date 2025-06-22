@@ -48,7 +48,7 @@ A verificação foi realizada com base na checklist definida no [Planejamento de
 
 <font size="3"><p style="text-align: center">Tabela 2: Inspeção</p></font>
 
-### ✅ Itens Gerais
+### Itens Gerais
 
 | Item | Avaliação | Observação |
 |----|---------|-----------|
@@ -59,7 +59,7 @@ A verificação foi realizada com base na checklist definida no [Planejamento de
 | **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Sim | - |
 | **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Sim | - |
 
-### ✅ Perfil de Usuário
+### Perfil de Usuário
 
 | Item | Avaliação | Observação |
 |----|---------|-----------|
