@@ -33,13 +33,13 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
 
 | L0X | Descrição | 
 | :-:       | :-:            |
-| **Termo** |  | 
-| **Tipo** |  | 
-| **Impacto** |  | 
-| **Noção** |  | 
-| **Sinônimos** |  | 
-| **Conexões** |  |
-| **Autor** |  | 
+| **Termo** | Palavra ou expressão que representa o conceito central que será analisado ou definido. | 
+| **Tipo** | Classificação do termo como verbo, objeto ou estado | 
+| **Impacto** | descreve efeito/uso/ocorrência do símbolo na aplicação ou do efeito de algo na aplicação sobre o símbolo (conotação). | 
+| **Noção** | é o que significa o símbolo (denotação) | 
+| **Sinônimos** | palavras ou expressões com significados equivalentes ao do símbolo | 
+| **Conexões** | links dentro do léxico que relacionam a outro léxico |
+| **Autor** | Nome da pessoa que elaborou ou definiu o termo | 
 
 </center>
 
