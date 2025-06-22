@@ -49,8 +49,8 @@ Foi realizada a prototipação de todos os requisitos que ainda não haviam sido
     <tr>
       <td> Marcelo Makoto </td>
       <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais>RF15</a> - O aplicativo deve permitir que o usuário entre em contato com um assistente via chat <br> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais>RF16</a> - O aplicativo deve disponibilizar um campo de busca para facilitar a localização de funcionalidades </td>
-      <td> --- </td>
-      <td> --- </td>
+      <td> 16/06/2025 </td>
+      <td> 19:16 </td>
     </tr>
     <tr>
       <td> Maria Eduarda </td>
@@ -216,3 +216,4 @@ Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/SRSL805B
 | `1.2` | 21/06/2025 | Adicionando data/hora de participação | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.3` | 22/06/2025 | Adicionando data/hora de participação | [Enzo Emir](https://github.com/EnzoEmir) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)|
 | `1.4` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.5` | 22/06/2025 | Adicionando data/hora de participação | [Marcelo Makoto](https://github.com/MM4k) | - |
