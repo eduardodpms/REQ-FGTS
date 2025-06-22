@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Após o planejamento da verificação, chegou o momento de realizar a inspeção do documento de personas. Nesta etapa, utilizamos o método de inspeção proposto por Fagan, que é uma técnica formal de verificação bastante aplicada na engenharia de software.
+Após o planejamento da verificação, chegou o momento de realizar a inspeção do documento de **Personas**. Nesta etapa, utilizamos o método de inspeção proposto por Fagan, que é uma técnica formal de verificação bastante aplicada na engenharia de software.
 
 A verificação tem como objetivo garantir que as personas estejam bem definidas, consistentes com os dados levantados durante a etapa de pesquisa e alinhadas com as necessidades reais dos usuários. Para isso, também nos apoiamos em conceitos extraídos da obra:*Interação Humano-Computador e Experiência do Usuário*</i><a id="anchor_1" href="#REF1">^1^</a>, que reforçam a importância de representar o usuário de forma clara e realista.
 
@@ -19,7 +19,7 @@ A verificação foi realizada com base nas checklists definidas no [planejamento
 
 ## Cronograma e Participantes
 
-Nesta etapa a integrante [Maria Eduarda](https://github.com/dudaa28), será responsável pelo papel de avaliador, ou seja, pela verificação e correção dos problemas que foram identificados. O integrante [REVISOR](https://github.com/dudaa28) fará a revisão do artefato produzido pelo avaliador. Segue a lista de participantes:
+Nesta etapa a integrante [Maria Eduarda](https://github.com/dudaa28), será responsável pelo papel de avaliador, ou seja, pela verificação e correção dos problemas que foram identificados. O integrante [Danielle Soares](https://github.com/danielle-soaress) fará a revisão do artefato produzido pelo avaliador. Segue a lista de participantes:
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
@@ -57,11 +57,11 @@ Nesta etapa a integrante [Maria Eduarda](https://github.com/dudaa28), será resp
 
 ## Inspeção
 
-A tabela abaixo, apresenta a inspeção  da Lista de Verificação do artefado Personas realizada pelo avaliador, conforme as checklists definidas no [Planejamento](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/).
+A tabela abaixo, apresenta a inspeção  da Lista de Verificação do artefado **Personas** realizada pelo avaliador, conforme as checklists definidas no [Planejamento](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/).
 
 ### Itens Gerais
 
-<font size="3"><p style="text-align: center">Tabela 2: Inspeção</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Itens Gerais</p></font>
 
 <a id="T1"></a>
 
@@ -75,8 +75,11 @@ A tabela abaixo, apresenta a inspeção  da Lista de Verificação do artefado P
 | ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(1)](#RF1) | Sim | \- | ![][image5] |
 | ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(1)](#RF1) | Sim | \- | ![][image6] |
 
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
 ### Personas
+
+<font size="3"><p style="text-align: center">Tabela 3: Personas</p></font>
 
 
 | Item | Avaliação | Observação | Print |
@@ -90,7 +93,7 @@ A tabela abaixo, apresenta a inspeção  da Lista de Verificação do artefado P
 | ***07:*** Existe ao menos uma persona primária claramente identificada como foco principal do design? [(2)](REF2) | \- | \- | ![][image7] |
 | ***08:*** Existem antipersonas definidas para deixar claro quem não é o foco do projeto? [(2)](REF2) | \- | \- | ![][image8] |
 
-
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
 ## Análise de Resultados
 
