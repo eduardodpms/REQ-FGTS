@@ -86,4 +86,5 @@ Com o objetivo de verificar a vibilidade legal do desenvolvimento do projeto, de
 | `1.3` | 13/04/2025 | Modificação do texto | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.4` | 02/05/2025 | Modificação do Aplicativo | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.5` | 02/05/2025 | Visualização dos termos de uso e adição de paths | [Eduardo de Pina](https://github.com/eduardodpms) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| `1.6` | 21/06/2025 | Adição de plataformas disponíveis | [Marcelo Makoto](https://github.com/MM4k) | - |
+| `1.6` | 21/06/2025 | Adição de plataformas disponíveis | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.7` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |

@@ -6,6 +6,7 @@ Foi montado, num momento inicial, um *heatmap* para análise da disponibilidade 
 
 ![Heatmap de Disponibilidade](../assets/heatmap.png)
 Tabela 1: *Disponibilidade de horário dos membros da equipe de desenvolvimento*
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/eduardodpms">Eduardo de Pina</a></p>
 
 ## Discussão e Definição
 

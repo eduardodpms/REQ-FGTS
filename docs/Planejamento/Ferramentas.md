@@ -25,6 +25,7 @@ Para garantir uma melhor organização, comunicação e produção de artefatos 
 | ![Logo do CapCut](../assets/ferramentas/capcut.png) | CapCut | Edição de vídeos.<a id="anchor_13" href="#FRM11">^13^</a> |
 | ![Logo do diagrams.net](../assets/ferramentas/diagrams-net.png) | Diagrams.net | Criação de diagramas, fluxogramas e esquemas visuais. <a id="anchor_13" href="#FRM12">^14^</a> |
 
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/VictorPontual">Victor Pontual</a></p>
 
 
 ## Referências Bibliográficas
@@ -66,4 +67,5 @@ Para garantir uma melhor organização, comunicação e produção de artefatos 
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 12/04/2025 | Criação da página de ferramentas | [Victor Pontual](https://github.com/VictorPontual) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.1` | 12/04/2025 | Adição de ferramentas (CapCut) | [Eduardo de Pina](https://github.com/eduardodpms) | [Marcelo Makoto](https://github.com/MM4k) |
-| `1.2` | 18/06/2025 | Adição de ferramentas (Diagrams.net) | [Danielle Soares](https://github.com/danielle-soaress) | -- |
+| `1.2` | 18/06/2025 | Adição de ferramentas (Diagrams.net) | [Danielle Soares](https://github.com/danielle-soaress) | [Victor Pontual](https://github.com/VictorPontual) |
+| `1.3` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |

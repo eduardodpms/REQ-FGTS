@@ -254,4 +254,5 @@ A tabela a seguir mostra o que foi *entregue* no contexto do cronograma das ativ
 | `1.9` | 12/05/2025 | Melhorando o cronograma da entrega 3 | [Enzo Emir](https://github.com/EnzoEmir) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `2.0` | 18/05/2025 | Adicionando cronograma entregue na etapa de modelagem 1 | [Eduardo de Pina](https://github.com/eduardodpms) | [Marcelo Makoto](https://github.com/MM4k) |
 | `2.1` | 05/06/2025 | Adicionando cronograma entregue na etapa de modelagem 2 | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
-| `2.2` | 18/06/2025 | Atualizando cronograma entregue da etapa de pós rastreabilidade | [Danielle Soares](https://github.com/danielle-soaress) | -- |
+| `2.2` | 18/06/2025 | Atualizando cronograma entregue da etapa de pós rastreabilidade | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
+| `2.3` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
