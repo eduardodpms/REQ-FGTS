@@ -31,8 +31,8 @@ Foi realizada a prototipação de todos os requisitos que ainda não haviam sido
     <tr>
       <td> Eduardo de Pina </td>
       <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF18</a> - O aplicativo deve conter uma seção de ajuda com orientações sobre o uso do aplicativo. <br> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF29</a> - O aplicativo deve disponibilizar um guia interativo para orientar o usuário durante o processo. <br> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-nao-funcionais">RNF03</a> - O sistema deve apresentar informações de forma transparente e confiável. <br> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-nao-funcionais">RNF08</a> - Os menus devem fornecer informações não repetidas. </td>
-      <td> --- </td>
-      <td> --- </td>
+      <td> 21/06/2025 </td>
+      <td> 21:10 </td>
     </tr>
     <tr>
       <td> Enzo Emir </td>
@@ -55,8 +55,8 @@ Foi realizada a prototipação de todos os requisitos que ainda não haviam sido
     <tr>
       <td> Maria Eduarda </td>
       <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF02</a> - O aplicativo deve oferecer canal de suporte ou chatbot para esclarecer dúvidas <br> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF30</a> - O aplicativo deve permitir o ajuste do tamanho das fontes na interface. </td>
-      <td> --- </td>
-      <td> --- </td>
+      <td> 21/06/2025 </td>
+      <td> 19:25 </td>
     </tr>
     <tr>
       <td> Victor Pontual </td>
@@ -79,8 +79,19 @@ Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/SRSL805B
 
 <p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="800" src="https://www.figma.com/proto/SRSL805B8XtROwtoeEKP5q/REQ---FGTS?node-id=34-6&p=f&t=uM0viNNhklkJt4Gp-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=34%3A6" allowfullscreen></iframe></p>
 
-### Validação 1
+## Validação 1
 
+### Gravação
+
+---
+
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
+---
+
+### Cronograma
 
 <font size="3"><p style="text-align: center">Tabela 2: Cronograma da validação 1</p></font>
 
@@ -153,8 +164,19 @@ Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/SRSL805B
 
 <font size="2"><p style="text-align: center">Autor(a): [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Danielle Soares](https://github.com/danielle-soaress) </p></font>
 
-### Validação 2
+## Validação 2
 
+### Gravação
+
+---
+
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5lZo_C-MUcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
+---
+
+### Cronograma
 
 <font size="3"><p style="text-align: center">Tabela 3: Cronograma da validação 2</p></font>
 
@@ -176,24 +198,24 @@ Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/SRSL805B
       <td> Eduardo de Pina </td>
       <td> Entrevistador </td>
       <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF18</a> - O aplicativo deve conter uma seção de ajuda com orientações sobre o uso do aplicativo. <br> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF29</a> - O aplicativo deve disponibilizar um guia interativo para orientar o usuário durante o processo. <br> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-nao-funcionais">RNF03</a> - O sistema deve apresentar informações de forma transparente e confiável. <br> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-nao-funcionais">RNF08</a> - Os menus devem fornecer informações não repetidas. </td>
-      <td> --- </td>
-      <td> --- </td>
-      <td> --- </td>
+      <td> 21/06/2025 </td>
+      <td> 22:30 - 22:45 </td>
+      <td> Arena BRB Mané Garrincha </td>
     <tr>
       <td> Maria Eduarda </td>
       <td> Entrevistadora </td>
       <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF02</a> - O aplicativo deve oferecer canal de suporte ou chatbot para esclarecer dúvidas <br> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF30</a> - O aplicativo deve permitir o ajuste do tamanho das fontes na interface. </td>
-      <td> --- </td>
-      <td> --- </td>
-      <td> --- </td>
+      <td> 21/06/2025 </td>
+      <td> 22:30 - 22:45 </td>
+      <td> Arena BRB Mané Garrincha </td>
     </tr>
     <tr>
       <td> Anônimo </td>
       <td> Usuário </td>
       <td> --- </td>
-      <td> --- </td>
-      <td> --- </td>
-      <td> --- </td>
+      <td> 21/06/2025 </td>
+      <td> 22:30 - 22:45 </td>
+      <td> Arena BRB Mané Garrincha </td>
     </tr>
   </tbody>
 </table>
@@ -217,3 +239,4 @@ Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/SRSL805B
 | `1.3` | 22/06/2025 | Adicionando data/hora de participação | [Enzo Emir](https://github.com/EnzoEmir) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)|
 | `1.4` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.5` | 22/06/2025 | Adicionando data/hora de participação | [Marcelo Makoto](https://github.com/MM4k) | - |
+| `1.6` | 22/06/2025 | Adicionando segunda validação | [Eduardo de Pina](https://github.com/eduardodpms) | [Eduardo de Pina](https://github.com/eduardodpms) |
