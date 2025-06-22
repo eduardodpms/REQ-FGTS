@@ -154,7 +154,7 @@ A seguir, os requisitos elicitados foram organizados em duas categorias: funcion
 |:------:|:----------:|:-----------------------------------------------|:------------|:-----------:|
 |  `1.0`   | 04/05/2025 | Criação da estrutura de entrevista e tabelas   | [Enzo Emir](https://github.com/EnzoEmir)   | [Marcelo Makoto](https://github.com/MM4k) |
 |  `1.1`   | 04/05/2025 | Criação da estrutura de entrevista e tabelas   | [Enzo Emir](https://github.com/EnzoEmir), [Eduardo de Pina](https://github.com/eduardodpms)  | [Marcelo Makoto](https://github.com/MM4k)           |
-|  `1.2`   | 04/05/2025 | Correção dos links dos vídeos   | [Marcelo Makoto](https://github.com/MM4k)   | [Maria](https://github.com/dudaa28) |
+|  `1.2`   | 04/05/2025 | Correção dos links dos vídeos   | [Marcelo Makoto](https://github.com/MM4k)   | [Maria Eduarda](https://github.com/dudaa28) |
 | `1.3`  | 06/05/2025 | Correção da formatação dos requisitos elicitados. | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.4` | 17/05/2025 | Adição de âncoras | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.5`  | 17/05/2025 | Corrigindo bug nas tabelas | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
