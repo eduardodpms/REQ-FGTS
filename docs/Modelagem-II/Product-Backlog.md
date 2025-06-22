@@ -10,8 +10,6 @@ A construção do nosso *Product Backlog* teve início com as reuniões realizad
 
 Com as histórias devidamente documentadas, o PO procedeu à sua priorização segundo a abordagem ***Three Level Scale***, categorizando-as conforme o impacto no produto: Alta, Média ou Baixa prioridade. Em seguida, as histórias foram organizadas de forma hierárquica em temas e épicos, adotando uma estrutura amplamente utilizada em abordagens ágeis como o Scrum e o SAFe (Scaled Agile Framework). Neste documento, foi utilizado o padrão Tema → Épico → Histórias de Usuário, conforme descrito pelos autores Milene Serrano e Maurício Serrano <a id="anchor_2" href="#REF2">2</a>. Por fim, o detalhamento individual de cada história de usuário pode ser consultado diretamente no respectivo artefato vinculado.
 
-<font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
-
 <center>
     <table>
     <thead>
@@ -19,6 +17,7 @@ Com as histórias devidamente documentadas, o PO procedeu à sua priorização s
         <th>Participante</th>
         <th>Função</th>
         <th>Histórias</th>
+        <th>Data</th>
         </tr>
     </thead>
     <tbody>
@@ -26,36 +25,43 @@ Com as histórias devidamente documentadas, o PO procedeu à sua priorização s
         <td>Danielle Soares</td>
         <td>Produtor do Backlog</td>
         <td>H13-H18</td>
+        <td>30/05/2025</td>
         </tr>
         <tr>
         <td>Eduardo de Pina</td>
         <td>Produtor do Backlog</td>
         <td>H37-H42</td>
+        <td>01/06/2025</td>
         </tr>
         <tr>
         <td>Enzo Emir</td>
         <td>Produtor do Backlog</td>
         <td>H01-H06</td>
+        <td>01/06/2025</td>
         </tr>
         <tr>
         <td>Leticia Arisa</td>
         <td>Produtor do Backlog</td>
         <td>H25-H30</td>
+        <td>30/05/2025</td>
         </tr>
         <tr>
         <td>Marcelo Makoto</td>
         <td>Produtor do Backlog</td>
         <td>H07-H12</td>
+        <td>01/06/2025</td>
         </tr>
         <tr>
         <td>Maria Eduarda</td>
         <td>Produtor do Backlog</td>
         <td>H19-H24</td>
+        <td>30/05/2025</td>
         </tr>
         <tr>
         <td>Victor Pontual</td>
         <td>Produtor do Backlog</td>
         <td>H31-H36</td>
+        <td>01/06/2025</td>
         </tr>
     </tbody>
     </table>
@@ -615,7 +621,7 @@ Validação dos Backlogs 01-12 e 31-42 presentes no vídeo a seguir:
 
 ##  Referências Bibliográficas
 
-> <a id="REF1" href="#anchor_1">1.</a>  PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.
+> <a id="REF1" href="#anchor_1">1.</a>  PRESSMAN, Roger S.; MAXIM, Bruce R. Engenharia de software: uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016., 95 p.
 
 > <a id="REF2" href="#anchor_2">2.</a>  SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 15. UnB, 2025. Disponível em: https://aprender3.unb.br/pluginfile.php/3096144/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em: 30 de maio 2025.
 
@@ -648,3 +654,4 @@ Validação dos Backlogs 01-12 e 31-42 presentes no vídeo a seguir:
 | `2.0`   | 01/06/2025 | Foto referência | [Maria Eduarda](https://github.com/dudaa28) | [Victor Pontual](https://github.com/VictorPontual) |
 | `2.1`    | 04/06/2025 | Correção de links | [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `2.2`    | 21/06/2025 | Adicionando as historias feitas por cada participante | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `2.2`    | 22/06/2025 | Adicionando as datas  | [Enzo Emir](https://github.com/EnzoEmir) | - |
