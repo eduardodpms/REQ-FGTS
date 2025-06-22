@@ -83,24 +83,25 @@ A verificação foi realizada com base na checklist definida no [Planejamento de
 
 ### Itens Gerais
 
-| Item | Avaliação | Observação |
-|----|---------|-----------|
-| **01:** O artefato apresenta uma bibliografia/referência bibliográfica? | Sim | - |
-| **02:** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | Sim | - |
-| **03:** As tabelas e imagens apresentam legenda e fonte? | Sim | - |
-| **04:** O artefato apresenta uma introdução? | Sim | - |
-| **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Sim | - |
-| **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Sim | - |
+| Item | Avaliação | Observação | Print |
+|----|---------|-----------|--------|
+| **01:** O artefato apresenta uma bibliografia/referência bibliográfica? | Sim | - | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/ref_back.png?raw=true) |
+| **02:** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | Sim | - | ![Hist](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/hist_back.png?raw=true) |
+| **03:** As tabelas e imagens apresentam legenda e fonte? | Sim | - | ![Fonte](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/fonte_back.png?raw=true) |
+| **04:** O artefato apresenta uma introdução? | Sim | - | ![Intro](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/intro_back.png?raw=true) |
+| **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Sim | - | ![Formal](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/intro_back.png?raw=true) |
+| **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Sim | - | ![Coerencia](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/fonte_back.png?raw=true) |
 
 ### Backlog
 
-| Item | Avaliação | Observação |
-|----|---------|-----------|
-| **14:** O backlog possui épicos e temas bem definidos e descritos? | Sim | - |
-| **15:** Cada história de usuário está associada a um requisito funcional? | Sim | - |
-| **16:** As histórias de usuário seguem o modelo: "Como um [tipo de usuário], eu desejo [ação] para [benefício]"? | Sim | - |
-| **17:** Todas as histórias possuem identificação única? | Sim | - |
-| **18:** Há rastreabilidade clara entre história, RF e técnica de elicitação? | Sim | - |
+| Item | Avaliação | Observação | Print |
+|----|---------|-----------|--------|
+| **14:** O backlog possui épicos e temas bem definidos e descritos? | Sim | - | ![Epico](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/epico_back.png?raw=true) |
+| **15:** Cada história de usuário está associada a um requisito funcional? | Sim | - | ![Rastreabilidade](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rastre_back.png?raw=true) |
+| **16:** As histórias de usuário seguem o modelo: "Como um [tipo de usuário], eu desejo [ação] para [benefício]"? | Sim | - | ![Modelo](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/eu_back.png?raw=true) |
+| **17:** Todas as histórias possuem identificação única? | Sim | - | ![ID](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/id_back.png?raw=true) |
+| **18:** Há rastreabilidade clara entre história, RF e técnica de elicitação? | Sim | - | ![Rastreabilidade](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rastre_back.png?raw=true) |
+
 
 ## Análise de Resultados
 
@@ -128,4 +129,5 @@ O artefato *Backlog* está considerado **aprovado**, com todos os itens da check
 
 | Versão | Data       | Descrição                         | Autor(es)    | Revisor(es)  |
 |:-----: | :--------: | :------------------------------- | :---------- | :---------- |
-| 1.0    | 22/06/2025 | Criação da página de verificação | Enzo Emir   | - |
+| 1.0    | 22/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   | - |
+| 1.1 | 22/06/2025 | Adição dos prints | [Enzo Emir](https://github.com/EnzoEmir) | - |
