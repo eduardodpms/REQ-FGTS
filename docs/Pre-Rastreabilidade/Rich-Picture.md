@@ -21,17 +21,18 @@ Para a elaboração deste artefato, foi realizado um estudo do ambiente do aplic
   </thead>
   <tbody>
     <tr>
-      <td> Danielle Soares </td>
-      <td> 03/05/2025 </td>
+      <td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+      <td>03/05/2025</td>
     </tr>
     <tr>
-      <td> Maria Eduarda </td>
-      <td> 03/05/2025 </td>
+      <td><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
+      <td>03/05/2025</td>
     </tr>
   </tbody>
 </table>
 
 </div>
+
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
@@ -41,17 +42,27 @@ A seguir, a Figura 1 mostra o Rich Picture desenvolvido para o aplicativo do FGT
 
 <br>
 
-![Rich Picture V1](../assets/rich-pictures-finais/richPictureV3-fgts.png)
-<div style="text-align: center;">
-    Figura 1:  Rich Picture (Fonte: Danielle Soares, 2025)
-</div>
+<figure style="text-align: center;">
+    <img src="../assets/rich-pictures-finais/richPictureV3-fgts.png" alt="Rich Picture V1" style="max-width: 100%;">
+    <figcaption>
+        <p style="text-align: center; font-size: 10pt;">
+            Figura 1: Rich Picture (Fonte: <a href="https://github.com/danielle-soaress">Danielle Soares</a>, 2025)
+        </p>
+    </figcaption>
+</figure>
 
 <br>
 
-![Legenda Rich Picture](../assets/rich-pictures-finais/richPictureV3Legenda-fgts.png)
-<div style="text-align: center;">
-    Figura 2: Legenda do Rich Picture (Fonte: Danielle Soares, 2025)
-</div>
+
+<figure style="text-align: center;">
+    <img src="../assets/rich-pictures-finais/richPictureV3Legenda-fgts.png" alt="Legenda Rich Picture" style="max-width: 100%;">
+    <figcaption>
+        <p style="text-align: center; font-size: 10pt;">
+            Figura 2: Legenda do Rich Picture (Fonte: <a href="https://github.com/danielle-soaress">Danielle Soares</a>, 2025)
+        </p>
+    </figcaption>
+</figure>
+
 
 ## Referências Bibliográficas
 
@@ -65,4 +76,5 @@ A seguir, a Figura 1 mostra o Rich Picture desenvolvido para o aplicativo do FGT
 | `1.0` | 12/04/2025 | Metodologias e Ferramentas, Resultados e Referências | [Danielle Soares](https://github.com/danielle-soaress) | [Victor Pontual](https://github.com/VictorPontual) |
 | `1.1` | 03/05/2025 | Atualização do Rich Picture | [Danielle Soares](https://github.com/danielle-soaress), [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.2` | 03/05/2025 | Atualização da Legenda | [Danielle Soares](https://github.com/danielle-soaress), [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `1.3` | 21/06/2025 | Adicionando tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `1.3` | 21/06/2025 | Adicionando tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.4` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
