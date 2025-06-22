@@ -1251,7 +1251,7 @@ O léxico L45 utiliza o requisito funcional não implementado IS14 (O aplicativo
 
 </center>
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k))</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
 ---
 
