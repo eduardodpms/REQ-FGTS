@@ -279,9 +279,10 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | `1.2` | 20/06/2025 | Adição de Artefatos Verificados e Resultados | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.3` | 20/06/2025 | Atualização da tabela de participantes | [Danielle Soares](https://github.com/danielle-soaress) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.4` | 21/06/2025 | Adição de Listas de Verificação | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
-| `1.5` | 21/06/2025 | Referências e prints das referências | [Danielle Soares](https://github.com/danielle-soaress) | - |
-| `1.6` | 21/06/2025 | Corrigindo numeração das tabelas | [Danielle Soares](https://github.com/danielle-soaress) | - |
-| `1.7` | 21/06/2025 | Registrando participação na tabela de participantes | [Danielle Soares](https://github.com/danielle-soaress) | - |
+| `1.5` | 21/06/2025 | Referências e prints das referências | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.6` | 21/06/2025 | Corrigindo numeração das tabelas | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.7` | 21/06/2025 | Registrando participação na tabela de participantes | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.8` | 21/06/2025 | Registrando participação na tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | - |
 
 
 
