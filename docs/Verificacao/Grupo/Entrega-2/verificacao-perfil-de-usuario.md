@@ -18,136 +18,37 @@ A verificação foi realizada com base na checklist definida no [Planejamento de
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
-<div align="center">
-<table>
-  <thead>
-    <tr>
-      <th>Nome</th>
-      <th>Data</th>
-      <th>Hora</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td> Eduardo de Pina	 </td>
-      <td> 02/05/2025 </td>
-      <td> 17:10 </td>
-    </tr>
-    <tr>
-      <td> Marcelo Makoto </td>
-      <td> 02/05/2025 </td>
-      <td> 19:00 </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+| Nome | Data | Hora |
+|----|----|----|
+| Eduardo de Pina | 02/05/2025 | 17:10 |
+| Marcelo Makoto | 02/05/2025 | 19:00 |
 
-<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
 ## Inspeção
 
 <font size="3"><p style="text-align: center">Tabela 2: Inspeção</p></font>
 
-
 ### Itens Gerais
 
-<div align="center">
-<table>
-  <thead>
-    <tr>
-      <th>Item</th>
-      <th>Avaliação</th>
-      <th>Observação</th>
-      <th>Print</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>01: O artefato apresenta uma bibliografia/referência bibliográfica?</td>
-      <td>Sim</td>
-      <td>-</td>
-      <td><img src="../../../assets/Verificacao/ref_perf.png" alt="Ref" width="500"></td>
-    </tr>
-    <tr>
-      <td>02: O artefato apresenta um histórico de versões com id, item das versões, autores e revisores?</td>
-      <td>Sim</td>
-      <td>-</td>
-      <td><img src="../../../assets/Verificacao/hist_perf.png" alt="Hist" width="500"></td>
-    </tr>
-    <tr>
-      <td>03: As tabelas e imagens apresentam legenda e fonte?</td>
-      <td>Sim</td>
-      <td>-</td>
-      <td><img src="../../../assets/Verificacao/fonte_perf.png" alt="Fonte" width="500"></td>
-    </tr>
-    <tr>
-      <td>04: O artefato apresenta uma introdução?</td>
-      <td>Sim</td>
-      <td>-</td>
-      <td><img src="../../../assets/Verificacao/intro_perf.png" alt="Intro" width="500"></td>
-    </tr>
-    <tr>
-      <td>05: A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico?</td>
-      <td>Sim</td>
-      <td>-</td>
-      <td><img src="../../../assets/Verificacao/intro_perf.png" alt="Formal" width="500"></td>
-    </tr>
-    <tr>
-      <td>06: Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)?</td>
-      <td>Sim</td>
-      <td>-</td>
-      <td><img src="../../../assets/Verificacao/fonte_perf.png" alt="Coerencia" width="500"></td>
-    </tr>
-  </tbody>
-</table>
-</div>
+| Item | Avaliação | Observação | Print |
+|----|---------|-----------| --------|
+| **01:** O artefato apresenta uma bibliografia/referência bibliográfica? | Sim | - | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/ref_perf.png?raw=true) |
+| **02:** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | Sim | - | ![Hist](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/hist_perf.png?raw=true) |
+| **03:** As tabelas e imagens apresentam legenda e fonte? | Sim | - | ![Fonte](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/fonte_perf.png?raw=true) |
+| **04:** O artefato apresenta uma introdução? | Sim | - | ![Intro](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/intro_perf.png?raw=true) |
+| **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Sim | - | ![Formal](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/intro_perf.png?raw=true) |
+| **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Sim | - | ![Coerencia](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/fonte_perf.png?raw=true) |
 
 ### Perfil de Usuário
 
-<div align="center">
-<table>
-  <thead>
-    <tr>
-      <th>Item</th>
-      <th>Avaliação</th>
-      <th>Observação</th>
-      <th>Print</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>01: O perfil do usuário especifica características demográficas, como idade, gênero, nível de instrução e outras características relevantes?</td>
-      <td>Sim</td>
-      <td>-</td>
-      <td><img src="../../../assets/Verificacao/perf_us.png" alt="Perf_Us" width="500"></td>
-    </tr>
-    <tr>
-      <td>02: O perfil do usuário especifica características comportamentais, como nível de experiência e atitudes em relação à tecnologia (tecnófilos/tecnófobos)?</td>
-      <td>Sim</td>
-      <td>-</td>
-      <td><img src="../../../assets/Verificacao/perf_us.png" alt="Perf_Us" width="500"></td>
-    </tr>
-    <tr>
-      <td>03: O perfil de usuário especifica as tarefas primárias dos usuários?</td>
-      <td>Sim</td>
-      <td>-</td>
-      <td><img src="../../../assets/Verificacao/perf_us.png" alt="Perf_Us" width="500"></td>
-    </tr>
-    <tr>
-      <td>04: Os dados utilizados para construir o perfil de usuário foram obtidos por meio de estudos, como entrevistas, questionários ou observação?</td>
-      <td>Não</td>
-      <td>Apenas fontes secundárias foram utilizadas (sites, TCCs, IA).</td>
-      <td><img src="../../../assets/Verificacao/metodo_per.png" alt="Perf_Us" width="500"></td>
-    </tr>
-    <tr>
-      <td>05: Ao final, os usuários foram categorizados em grupos com base em suas semelhanças, considerando a porcentagem em cada faixa?</td>
-      <td>Sim</td>
-      <td>-</td>
-      <td><img src="../../../assets/Verificacao/perf_us.png" alt="Perf_Us" width="500"></td>
-    </tr>
-  </tbody>
-</table>
-</div>
+| Item | Avaliação | Observação | Print |
+|----|---------|-----------|-------|
+| **01:** O perfil do usuário especifica características demográficas, como idade, gênero, nível de instrução e outras características relevantes? | Sim | - | ![Perf_Us](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/perf_us.png?raw=true) |
+| **02:** O perfil do usuário especifica características comportamentais, como nível de experiência e atitudes em relação à tecnologia (tecnófilos/tecnófobos)? | Sim | - | ![Perf_Us](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/perf_us.png?raw=true) |
+| **03:** O perfil de usuário especifica as tarefas primárias dos usuários? | Sim | - | ![Perf_Us](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/perf_us.png?raw=true) |
+| **04:** Os dados utilizados para construir o perfil de usuário foram obtidos por meio de estudos, como entrevistas, questionários ou observação? | Não | Apenas fontes secundárias foram utilizadas (sites, TCCs, IA). | ![Metodo_Per](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/metodo_per.png?raw=true) |
+| **05:** Ao final, os usuários foram categorizados em grupos com base em suas semelhanças, considerando a porcentagem em cada faixa? | Sim | - | ![Perf_Us](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/perf_us.png?raw=true) |
 
 ## Análise de Resultados
 
@@ -175,7 +76,7 @@ O artefato *Perfil de Usuário* segue **em acompanhamento**, com a pendência id
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                       | Autor(es)         | Revisor(es)   |
-|:-----: | :--------: | :----------------------------- | :--------------- | :----------- |
-| 1.0    | 21/06/2025 | Criação do documento de verificação | [Enzo Emir](https://github.com/EnzoEmir) |  |
-| 1.1    | 22/06/2025 | Adição dos prints | [Enzo Emir](https://github.com/EnzoEmir) |  |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+|----|----|----|----|----|
+| 1.0 | 21/06/2025 | Criação do documento de verificação | [Enzo Emir](https://github.com/EnzoEmir) | |
+| 1.1 | 22/06/2025 | Adição dos prints | [Enzo Emir](https://github.com/EnzoEmir) | |
