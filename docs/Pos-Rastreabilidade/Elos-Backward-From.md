@@ -94,44 +94,45 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
   </thead>
   <tbody>
     <tr>
-      <td> Danielle Soares </td>
-      <td> 08/06/2025 </td>
-      <td> 01:33 </td>
+      <td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+      <td>08/06/2025</td>
+      <td>01:33</td>
     </tr>
     <tr>
-      <td> Eduardo de Pina </td>
-      <td> 08/06/2025 </td>
-      <td> 17:30 </td>
+      <td><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+      <td>08/06/2025</td>
+      <td>17:30</td>
     </tr>
     <tr>
-      <td> Enzo Emir </td>
-      <td> 08/06/2025 </td>
-      <td> 13:51 </td>
+      <td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+      <td>08/06/2025</td>
+      <td>13:51</td>
     </tr>
     <tr>
-      <td> Leticia Arisa </td>
-      <td> 07/06/2025 </td>
-      <td> 17:10 </td>
+      <td><a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></td>
+      <td>07/06/2025</td>
+      <td>17:10</td>
     </tr>
     <tr>
-      <td> Marcelo Makoto </td>
-      <td> 07/06/2025 </td>
-      <td> 21:13 </td>
+      <td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+      <td>07/06/2025</td>
+      <td>21:13</td>
     </tr>
     <tr>
-      <td> Maria Eduarda </td>
-      <td> 08/06/2025 </td>
-      <td> 18:26 </td>
+      <td><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
+      <td>08/06/2025</td>
+      <td>18:26</td>
     </tr>
     <tr>
-      <td> Victor Pontual </td>
-      <td> 08/06/2025 </td>
-      <td> 13:30 </td>
+      <td><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
+      <td>08/06/2025</td>
+      <td>13:30</td>
     </tr>
   </tbody>
 </table>
 
 </div>
+
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir) </p></font>
 
@@ -2940,4 +2941,5 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 | `2.3`  | 13/06/2025 | Arrumando links das imagens |  [Enzo Emir](https://github.com/EnzoEmir) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `2.4`  | 17/06/2025 | Ajustando links dos léxicos | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `2.5`  | 21/06/2025 | Adição de prints faltantes | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
-| `2.6`  | 22/06/2025 | Adição das prototipações nos cartões correspondentes | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `2.6`  | 22/06/2025 | Adição das prototipações nos cartões correspondentes | [Enzo Emir](https://github.com/EnzoEmir) | [Victor Pontual](https://github.com/VictorPontual) |
+| `2.7` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
