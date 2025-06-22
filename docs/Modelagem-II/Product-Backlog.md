@@ -655,6 +655,6 @@ Validação dos Backlogs 01-12 e 31-42 presentes no vídeo a seguir:
 | `2.0`   | 01/06/2025 | Foto referência | [Maria Eduarda](https://github.com/dudaa28) | [Victor Pontual](https://github.com/VictorPontual) |
 | `2.1`    | 04/06/2025 | Correção de links | [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `2.2`    | 21/06/2025 | Adicionando as historias feitas por cada participante | [Enzo Emir](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
-| `2.2`    | 22/06/2025 | Adicionando as datas  | [Enzo Emir](https://github.com/EnzoEmir) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| `2.3`  | 22/06/2025 | Arrumando referências | [Enzo Emir](https://github.com/EnzoEmir) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `2.4` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
+| `2.3`    | 22/06/2025 | Adicionando as datas  | [Enzo Emir](https://github.com/EnzoEmir) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `2.4`  | 22/06/2025 | Arrumando referências | [Enzo Emir](https://github.com/EnzoEmir) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `2.5` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
