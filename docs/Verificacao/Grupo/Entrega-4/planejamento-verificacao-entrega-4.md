@@ -86,36 +86,36 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 
 | Item | Referência | Avaliação | Observação |
 | :---- | :---: | :---: | :---: |
-| ***19:*** Foi utilizado o SIG (Softgoal Interdependency Graph)? | (2) | | |
-| ***20:*** Foram definidos os tipos de SIG? | (2) | | |
-| ***21:*** Foram definidos os estilos dos tipos de SIG? (Ex: nuvens claras, nuvens com linhas grossas, nuvens com linhas tracejadas) | (2) | | |
-| ***22:*** As interdependências dos softgoals foram classificadas? | (2) | | |
-| ***23:*** Foram definidos os tipos de contribuições dos softgoals? | (2) | | |
-| ***24:*** Foram definidos os rótulos utilizados para indicar a propagação dos impactos de um softgoal ou interdependência do SIG? | (2) | | |
-| ***25:*** Foram identificados os principais requisitos não-funcionais (softgoals) no contexto do aplicativo? | (2) | | |
-| ***26:*** Foram utilizados Cartões de Especificação? | (2) | | |
+| ***19:*** Foi utilizado o SIG (Softgoal Interdependency Graph)? | ![][image15] | | |
+| ***20:*** Foram definidos os tipos de SIG? | ![][image16] | | |
+| ***21:*** Foram definidos os estilos dos tipos de SIG? (Ex: nuvens claras, nuvens com linhas grossas, nuvens com linhas tracejadas) | ![][image16] | | |
+| ***22:*** As interdependências dos softgoals foram classificadas? | ![][image17] | | |
+| ***23:*** Foram definidos os tipos de contribuições dos softgoals? | ![][image18] | | |
+| ***24:*** Foram definidos os rótulos utilizados para indicar a propagação dos impactos de um softgoal ou interdependência do SIG? | ![][image19] | | |
+| ***25:*** Foram identificados os principais requisitos não-funcionais (softgoals) no contexto do aplicativo? | ![][image20] | | |
+| ***26:*** Foram utilizados Cartões de Especificação? | ![][image21] | | |
 
 ### ✅ Backlog
 
 | Item | Referência | Avaliação | Observação |
 | :---- | :---: | :---: | :---: |
-| ***14:*** O backlog possui épicos e temas bem definidos e descritos? | (1) | | |
+| ***14:*** O backlog possui épicos e temas bem definidos e descritos? | ![][image13] | | |
 | ***15:*** Cada história de usuário está associada a um requisito funcional? | | | |
-| ***16:*** As histórias de usuário seguem o modelo: "Como um \[tipo de usuário\], eu desejo \[ação\] para \[benefício\]"? | (1) | | |
-| ***17:*** Todas as histórias possuem identificação única? | (3) | | |
-| ***18:*** Há rastreabilidade clara entre história, RF e técnica de elicitação? | (3) | | |
+| ***16:*** As histórias de usuário seguem o modelo: "Como um \[tipo de usuário\], eu desejo \[ação\] para \[benefício\]"? | ![][image14] | | |
+| ***17:*** Todas as histórias possuem identificação única? | ![][image12] | | |
+| ***18:*** Há rastreabilidade clara entre história, RF e técnica de elicitação? | ![][image12] | | |
 
 ### ✅ Histórias de Usuário
 
 | Item | Referência | Avaliação | Observação |
 | :---- | :---: | :---: | :---: |
-| ***07:*** Os títulos das histórias de usuário são auto-explicativos? | (1) | | |
-| ***08:*** O “quem”, “o que” e o “por que” estão definidos na história de usuário? | (1) | | |
-| ***09:*** Existe a participação do cliente e/ou persona na validação das histórias de usuário? | (1) | | |
-| ***10:*** A história possui critérios de aceitação? | (1) | | |
-| ***11:*** Existe a participação do cliente e/ou persona na elicitação de requisitos? | (1) | | |
-| ***12:*** Todas as histórias de usuários podem ser testadas? | (1) | | |
-| ***13:*** As Histórias de Usuário seguem algum modelo ou padrão? | (3) | | |
+| ***07:*** Os títulos das histórias de usuário são auto-explicativos? | ![][image6] | | |
+| ***08:*** O “quem”, “o que” e o “por que” estão definidos na história de usuário? | ![][image7] | | |
+| ***09:*** Existe a participação do cliente e/ou persona na validação das histórias de usuário? | ![][image8] | | |
+| ***10:*** A história possui critérios de aceitação? | ![][image9] | | |
+| ***11:*** Existe a participação do cliente e/ou persona na elicitação de requisitos? | ![][image10] | | |
+| ***12:*** Todas as histórias de usuários podem ser testadas? | ![][image11] | | |
+| ***13:*** As Histórias de Usuário seguem algum modelo ou padrão? | ![][image12] | | |
 
 ## Referências Bibliográficas
 
