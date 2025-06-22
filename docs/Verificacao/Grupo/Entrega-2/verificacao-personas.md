@@ -68,12 +68,12 @@ A tabela abaixo, apresenta a inspeção  da Lista de Verificação do artefado *
 
 | Item | Avaliação | Observação | Print |
 | ----- | :---: | :---: | :-----: |
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(1)](#RF1) | Sim | \- | ![][image1] |
-| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(1)](#RF1) | Sim | \- | ![][image2] |
-| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(1)](#RF1) | Não | Tabelas não apresentam Fonte | ![][image3] |
-| ***04:*** O artefato apresenta uma introdução? [(1)](#RF1) | Sim | \- | ![][image4] |
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(1)](#RF1) | Sim | \- | ![][image5] |
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(1)](#RF1) | Sim | \- | ![][image6] |
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(3)](#REF3) | Sim | \- | ![][image1] |
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(3)](#REF3) | Sim | \- | ![][image2] |
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(3)](#REF3) | Não | Tabelas não apresentam Fonte | ![][image3] |
+| ***04:*** O artefato apresenta uma introdução? [(3)](#REF3) | Sim | \- | ![][image4] |
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(3)](#REF3) | Sim | \- | ![][image5] |
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(3)](#REF3) | Sim | \- | ![][image6] |
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
@@ -84,14 +84,14 @@ A tabela abaixo, apresenta a inspeção  da Lista de Verificação do artefado *
 
 | Item | Avaliação | Observação | Print |
 | ----- | :---: | :---: | :---: |
-| ***01:*** A persona recebeu um nome completo, idade e outros dados demográficos representativos? [(2)](REF2) | \- | \- | ![][image1] |
-| ***02:*** Uma foto foi adicionada ao perfil da persona para torná-la mais realista e memorável? [(2)](REF2) | \- | \- | ![][image2] |
-| ***03:*** Foi definido o status da persona (primária, secundária, stakeholder ou antiusuário)? [(2)](REF2) | \- | \- | ![][image3] |
-| ***04:*** As principais tarefas realizadas pela persona foram levantadas? [(2)](REF2) | \- | \- | ![][image4] |
-| ***05:*** Os relacionamentos da persona foram identificados? [(2)](REF2) | \- | \- | ![][image5] |
-| ***06:*** Os requisitos da persona foram definidos com base em suas necessidades reais? [(2)](REF2) | \- | \- | ![][image6] |
-| ***07:*** Existe ao menos uma persona primária claramente identificada como foco principal do design? [(2)](REF2) | \- | \- | ![][image7] |
-| ***08:*** Existem antipersonas definidas para deixar claro quem não é o foco do projeto? [(2)](REF2) | \- | \- | ![][image8] |
+| ***01:*** A persona recebeu um nome completo, idade e outros dados demográficos representativos? [(1)](#REF1) [(2)](#REF2) | \- | \- | ![][image1] |
+| ***02:*** Uma foto foi adicionada ao perfil da persona para torná-la mais realista e memorável? [(1)](#REF1) [(2)](#REF2) | \- | \- | ![][image2] |
+| ***03:*** Foi definido o status da persona (primária, secundária, stakeholder ou antiusuário)? [(1)](#REF1) [(2)](#REF2) | \- | \- | ![][image3] |
+| ***04:*** As principais tarefas realizadas pela persona foram levantadas? [(1)](#REF1) [(2)](#REF2) | \- | \- | ![][image4] |
+| ***05:*** Os relacionamentos da persona foram identificados? [(1)](#REF1) [(2)](#REF2) | \- | \- | ![][image5] |
+| ***06:*** Os requisitos da persona foram definidos com base em suas necessidades reais? [(1)](#REF1) [(2)](#REF2) | \- | \- | ![][image6] |
+| ***07:*** Existe ao menos uma persona primária claramente identificada como foco principal do design? [(1)](#REF1) [(2)](#REF2) | \- | \- | ![][image7] |
+| ***08:*** Existem antipersonas definidas para deixar claro quem não é o foco do projeto? [(1)](#REF1) [(2)](#REF2) | \- | \- | ![][image8] |
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
@@ -103,7 +103,7 @@ Foi apresentado as Tabelas e Imagens do artefato, e foi observado que as **Tabel
 
 ## Correção
 
-Ajustar o artefato para atender ao critério **ID - 03**, referente à presença de legenda e fonte em tabelas e imagens [(1)](REF1).
+Ajustar o artefato para atender ao critério **ID - 03**, referente à presença de legenda e fonte em tabelas e imagens [(1)](#T1).
 
 - **Tabelas**: Adicionar fontes aos dados apresentados.
 
@@ -131,6 +131,7 @@ O artefato permanece em acompanhamento até que essa correção seja implementad
 
 > <a id="REF2" href="#anchor_2">2.</a> Serrano, M.; Serrano, M. (2025). *Requisitos – Aula 23*. Universidade de Brasília. Disponível em:<https://aprender3.unb.br/pluginfile.php/3096017/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf>. Acesso em: 21 jun. 2025.
 
+> <a id="REF3" href="#anchor_3">3.</a> SALES, André Barros. Sugestão inicial da Lista de Verificação para algumas entregas do projeto. [S. l.: s. n.]. Disponível em: https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifica%C3%A7%C3%A3o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf. Acesso em: 17 jun. 2025.
 
 ## Histórico de Versões 
 

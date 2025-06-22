@@ -64,15 +64,14 @@ A tabela abaixo, apresenta a inspeção  da Lista de Verificação do artefado *
 <font size="3"><p style="text-align: center">Tabela 2: Itens Gerais</p></font>
 
 
-
 | Item | Avaliação | Observação | Print |
 | ----- | :---: | :---: | :---: |
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(1)](#RF1) | Sim | \- | ![][image1] |
-| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(1)](#RF1) | Sim | \- | ![][image2] |
-| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(1)](#RF1) | Sim | \- | ![][image3]![][image4] |
-| ***04:*** O artefato apresenta uma introdução? [(1)](#RF1) | Sim | \- | ![][image5] |
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(1)](#RF1) | Sim | \- | ![][image6] |
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(1)](#RF1) | Sim | \- | ![][image7] |
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(3)](#REF3) | Sim | \- | ![][image1] |
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(3)](#REF3) | Sim | \- | ![][image2] |
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(3)](#REF3) | Sim | \- | ![][image3]![][image4] |
+| ***04:*** O artefato apresenta uma introdução? [(3)](#REF3) | Sim | \- | ![][image5] |
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(3)](#REF3) | Sim | \- | ![][image6] |
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(3)](#REF3) | Sim | \- | ![][image7] |
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
@@ -85,13 +84,13 @@ A tabela abaixo, apresenta a inspeção  da Lista de Verificação do artefado *
 
 | Item | Avaliação | Observação | Print |
 | ----- | :---: | :---: | :---: |
-| ***01:*** Existe um cronograma com data para realização da elicitação de requisito? [(1)](#RF1) | Sim | \- | ![][image1] |
-| ***02:*** O local de realização da elicitação foi especificado? [(1)](#RF1) | Sim | \- | ![][image2] |
-| ***03:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? [(1)](#RF1) | Não | Não houve participação de cliente e/ou persona | ![][image1] |
-| ***04:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? [(1)](#RF1) | Não | Não houve participação de cliente e/ou persona | ![][image3] |
-| ***05:*** Foram feitas gravações e registros formais das atividades de elicitação? [(1)](#RF1) | Sim | \- | ![][image4] |
-| ***06:*** É possível identificar a participação e interação de todos os participantes da técnica? [(3)](#RF3) | Sim | \- | ![][image5] |
-| ***07:*** Os participantes da técnica estão reunidos em um mesmo ambiente? [(2)](#RF2) | Não | Os participantes não estão reunidos em um mesmo ambiente e a eliitação foi por videoconferência | ![][image4]![][image6] |
+| ***01:*** Existe um cronograma com data para realização da elicitação de requisito? [(3)](#REF3) | Sim | \- | ![][image1] |
+| ***02:*** O local de realização da elicitação foi especificado? [(3)](#REF3) | Sim | \- | ![][image2] |
+| ***03:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? [(3)](#REF3) | Não | Não houve participação de cliente e/ou persona | ![][image1] |
+| ***04:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? [(3)](#REF3) | Não | Não houve participação de cliente e/ou persona | ![][image3] |
+| ***05:*** Foram feitas gravações e registros formais das atividades de elicitação? [(3)](#REF3) | Sim | \- | ![][image4] |
+| ***06:*** É possível identificar a participação e interação de todos os participantes da técnica? [(2)](#REF2) | Sim | \- | ![][image5] |
+| ***07:*** Os participantes da técnica estão reunidos em um mesmo ambiente? [(2)](#REF2) | Não | Os participantes não estão reunidos em um mesmo ambiente e a eliitação foi por videoconferência | ![][image4]![][image6] |
 
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
@@ -144,6 +143,7 @@ O artefato permanece em acompanhamento até que essas correções sejam devidame
 
 > <a id="REF2" href="#anchor_2">2.</a> Serrano, M.; Serrano, M. (2025). *Requisitos – Aula 23*. Universidade de Brasília. Disponível em:<https://aprender3.unb.br/pluginfile.php/3096017/mod_resource/content/2/Requisitos%20-%20Aula%20023.pdf>. Acesso em: 21 jun. 2025.
 
+> <a id="REF3" href="#anchor_3">3.</a> SALES, André Barros. Sugestão inicial da Lista de Verificação para algumas entregas do projeto. [S. l.: s. n.]. Disponível em: https://aprender3.unb.br/pluginfile.php/3106711/mod_resource/content/58/Lista%20de%20Verifica%C3%A7%C3%A3o%20-%20Plano_de_Ensino%20RE%20012025%20Turma%2003%20v2.pdf. Acesso em: 17 jun. 2025.
 
 ## Histórico de Versões 
 
