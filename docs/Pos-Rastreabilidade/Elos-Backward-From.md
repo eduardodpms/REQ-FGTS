@@ -1423,7 +1423,8 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
       <td> 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rf08">RF08</a>, 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS05</a>, 
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h01">H01</a>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h01">H01</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Validacao/Prototipacao/">Prototipação</a>
       </td>
     </tr>
     <tr>
@@ -1468,7 +1469,8 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
       <td> 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rf38">RF38</a>, 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspecao/#requisitos-funcionais">IS05</a>, 
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h02">H02</a>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h02">H02</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Validacao/Prototipacao/">Prototipação</a>
       </td>
     </tr>
     <tr>
@@ -1518,7 +1520,8 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#l10">L10</a>,
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#l11">L11</a>,
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#l12">L12</a>,
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#l13">L13</a>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#l13">L13</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Validacao/Prototipacao/">Prototipação</a>
       </td>
     </tr>
     <tr>
@@ -1699,7 +1702,8 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
       <td> 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rnf04">RNF04</a>, 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-nao-funcionais">EN10</a>, 
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#cartoes-de-especificacao">Cartão de Especificação 9</a>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#cartoes-de-especificacao">Cartão de Especificação 9</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Validacao/Prototipacao/">Prototipação</a>
       </td>
     </tr>
     <tr>
@@ -1744,7 +1748,8 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
       <td> 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#rnf09">RNF09</a>, 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-nao-funcionais">IS21</a>, 
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#cartoes-de-especificacao">Cartão de Especificação 10</a>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#cartoes-de-especificacao">Cartão de Especificação 10</a>,
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Validacao/Prototipacao/">Prototipação</a>
       </td>
     </tr>
     <tr>
@@ -2935,3 +2940,4 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 | `2.3`  | 13/06/2025 | Arrumando links das imagens |  [Enzo Emir](https://github.com/EnzoEmir) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `2.4`  | 17/06/2025 | Ajustando links dos léxicos | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `2.5`  | 21/06/2025 | Adição de prints faltantes | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
+| `2.6`  | 22/06/2025 | Adição das prototipações nos cartões correspondentes | [Enzo Emir](https://github.com/EnzoEmir) | - |
