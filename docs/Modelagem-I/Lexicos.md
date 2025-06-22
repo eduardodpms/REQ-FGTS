@@ -658,16 +658,16 @@ O léxico L20 utiliza o requisito funcional IS06 (O sistema deve permitir que o 
 
 <font size="3"><p style="text-align: center">Tabela 23: Léxico 20 – Cancelar Solicitação (L20)</p></font>
 
-| L20           | Descrição                                                                                                                                                                     |
-| :-----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Termo**     | Cancelar Solicitação                                                                                                                                                          |
-| **Tipo**      | Verbo                                                                                                                                                                         |
-| **Impacto**   | Permite que o usuário interrompa uma solicitação de saque ativa, evitando que ela seja processada ou liberada.                                                                |
-| **Noção**     | Ação executada pelo usuário para cancelar um pedido de saque em andamento. O sistema verifica a possibilidade de cancelamento e atualiza o status conforme a ação do usuário. |
-| **Sinônimos** | Anular pedido, Revogar solicitação                                                                                                                                            |
-| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                                                                            |
+|      L20      |                                                                                                   Descrição                                                                                                  |
+| :-----------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   **Termo**   |                                                                                             Cancelar Solicitação                                                                                             |
+|    **Tipo**   |                                                                                                     Verbo                                                                                                    |
+|  **Impacto**  |                                                Permite que o usuário interrompa uma solicitação de saque ativa, evitando que ela seja processada ou liberada.                                                |
+|   **Noção**   |                 Ação executada pelo usuário para cancelar um pedido de saque em andamento. O sistema verifica a possibilidade de cancelamento e atualiza o status conforme a ação do usuário.                |
+| **Sinônimos** |                                                                                      Anular pedido, Revogar solicitação                                                                                      |
+|  **Conexões** | [L08](#l08-saque-cancelado), [L21](#l21-solicitação-de-saque), [L22](#l22-confirmação-de-cancelamento), [L23](#l23-solicitação-ativa), [L24](#l24-solicitação-cancelada), [L25](#l25-solicitação-processada) |
+|   **Autor**   |                                                                              [Victor Pontual](https://github.com/VictorPontual)                                                                              |
 
----
 
 ### L21: Solicitação de Saque
 
@@ -675,16 +675,16 @@ O léxico L21 utiliza o requisito funcional IS06 (O sistema deve permitir que o 
 
 <font size="3"><p style="text-align: center">Tabela 24: Léxico 21 – Solicitação de Saque (L21)</p></font>
 
-| L21           | Descrição                                                                                                      |
-| :----------: | :-----------------------------------------------------------------------------------------------------: |
-| **Termo**     | Solicitação de Saque                                                                                           |
-| **Tipo**      | Objeto                                                                                                         |
-| **Impacto**   | Representa o pedido formal do usuário para saque de valores do FGTS.                                           |
-| **Noção**     | Documento digital que contém as informações necessárias para a liberação dos valores solicitados pelo usuário. |
-| **Sinônimos** | Pedido de saque, Requisição de saque                                                                           |
-| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                             |
+|      L21      |                                                                                            Descrição                                                                                            |
+| :-----------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   **Termo**   |                                                                                       Solicitação de Saque                                                                                      |
+|    **Tipo**   |                                                                                              Objeto                                                                                             |
+|  **Impacto**  |                                                               Representa o pedido formal do usuário para saque de valores do FGTS.                                                              |
+|   **Noção**   |                                          Documento digital que contém as informações necessárias para a liberação dos valores solicitados pelo usuário.                                         |
+| **Sinônimos** |                                                                               Pedido de saque, Requisição de saque                                                                              |
+|  **Conexões** | [L07](#l07-saque-pendente), [L08](#l08-saque-cancelado), [L20](#l20-cancelar-solicitação), [L23](#l23-solicitação-ativa), [L24](#l24-solicitação-cancelada), [L25](#l25-solicitação-processada) |
+|   **Autor**   |                                                                        [Victor Pontual](https://github.com/VictorPontual)                                                                       |
 
----
 
 ### L22: Confirmação de Cancelamento
 
@@ -692,14 +692,15 @@ O léxico L22 utiliza o requisito funcional IS06 (O sistema deve permitir que o 
 
 <font size="3"><p style="text-align: center">Tabela 25: Léxico 22 – Confirmação de Cancelamento (L22)</p></font>
 
-| L22           | Descrição                                                                                                                         |
-| :----------: | :---------------------------------------------------------------------------------------------------------------: |
-| **Termo**     | Confirmação de Cancelamento                                                                                                       |
-| **Tipo**      | Objeto                                                                                                                            |
-| **Impacto**   | Garante que o usuário valide sua intenção de cancelar a solicitação de saque, evitando cancelamentos acidentais.                  |
-| **Noção**     | Ato do usuário de confirmar a operação de cancelamento após ser solicitado pelo sistema, assegurando que a ação seja intencional. |
-| **Sinônimos** | Validação de cancelamento, Confirmação de ação                                                                                    |
-| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                                |
+|      L22      |                                                                             Descrição                                                                             |
+| :-----------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   **Termo**   |                                                                    Confirmação de Cancelamento                                                                    |
+|    **Tipo**   |                                                                               Objeto                                                                              |
+|  **Impacto**  |                          Garante que o usuário valide sua intenção de cancelar a solicitação de saque, evitando cancelamentos acidentais.                         |
+|   **Noção**   |                 Ato do usuário de confirmar a operação de cancelamento após ser solicitado pelo sistema, assegurando que a ação seja intencional.                 |
+| **Sinônimos** |                                                           Validação de cancelamento, Confirmação de ação                                                          |
+|  **Conexões** | [L08](#l08-saque-cancelado), [L20](#l20-cancelar-solicitação), [L21](#l21-solicitação-de-saque), [L23](#l23-solicitação-ativa), [L24](#l24-solicitação-cancelada) |
+|   **Autor**   |                                                         [Victor Pontual](https://github.com/VictorPontual)                                                        |
 
 
 ---
@@ -710,14 +711,15 @@ O léxico L23 utiliza o requisito funcional IS06 (O sistema deve permitir que o 
 
 <font size="3"><p style="text-align: center">Tabela 26: Léxico 23 – Solicitação Ativa (L23)</p></font>
 
-| L23           | Descrição                                                                                                           |
-| :----------: | :--------------------------------------------------------------------------------------------------------------: |
-| **Termo**     | Solicitação Ativa                                                                                                   |
-| **Tipo**      | Estado                                                                                                              |
-| **Impacto**   | Indica que a solicitação de saque está vigente e pode ser modificada ou cancelada pelo usuário.                     |
-| **Noção**     | Estado em que a solicitação de saque foi feita e ainda está em processamento, aguardando conclusão ou cancelamento. |
-| **Sinônimos** | Pedido em andamento, Solicitação vigente                                                                            |
-| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                  |
+|      L23      |                                                                                  Descrição                                                                                 |
+| :-----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   **Termo**   |                                                                              Solicitação Ativa                                                                             |
+|    **Tipo**   |                                                                                   Estado                                                                                   |
+|  **Impacto**  |                                       Indica que a solicitação de saque está vigente e pode ser modificada ou cancelada pelo usuário.                                      |
+|   **Noção**   |                             Estado em que a solicitação de saque foi feita e ainda está em processamento, aguardando conclusão ou cancelamento.                            |
+| **Sinônimos** |                                                                  Pedido em andamento, Solicitação vigente                                                                  |
+|  **Conexões** | [L07](#l07-saque-pendente), [L20](#l20-cancelar-solicitação), [L21](#l21-solicitação-de-saque), [L22](#l22-confirmação-de-cancelamento), [L24](#l24-solicitação-cancelada) |
+|   **Autor**   |                                                             [Victor Pontual](https://github.com/VictorPontual)                                                             |
 
 ---
 
@@ -727,14 +729,16 @@ O léxico L24 utiliza o requisito funcional IS06 (O sistema deve permitir que o 
 
 <font size="3"><p style="text-align: center">Tabela 27: Léxico 24 – Solicitação Cancelada (L24)</p></font>
 
-| L24           | Descrição                                                                                              |
-| :-----------: | :-------------------------------------------------------------------------------------------------: |
-| **Termo**     | Solicitação Cancelada                                                                                  |
-| **Tipo**      | Estado                                                                                                 |
-| **Impacto**   | Indica que a solicitação de saque foi anulada e não será processada pelo sistema.                      |
-| **Noção**     | Estado final em que o pedido de saque foi oficialmente cancelado pelo usuário e registrado no sistema. |
-| **Sinônimos** | Pedido cancelado, Requisição anulada                                                                   |
-| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                     |
+|      L24      |                                                                             Descrição                                                                             |
+| :-----------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   **Termo**   |                                                                       Solicitação Cancelada                                                                       |
+|    **Tipo**   |                                                                               Estado                                                                              |
+|  **Impacto**  |                                         Indica que a solicitação de saque foi anulada e não será processada pelo sistema.                                         |
+|   **Noção**   |                               Estado final em que o pedido de saque foi oficialmente cancelado pelo usuário e registrado no sistema.                              |
+| **Sinônimos** |                                                                Pedido cancelado, Requisição anulada                                                               |
+|  **Conexões** | [L07](#l07-saque-pendente), [L08](#l08-saque-cancelado), [L21](#l21-solicitação-de-saque), [L23](#l23-solicitação-ativa), [L22](#l22-confirmação-de-cancelamento) |
+|   **Autor**   |                                                         [Victor Pontual](https://github.com/VictorPontual)                                                        |
+
 
 ---
 
@@ -743,23 +747,24 @@ O léxico L24 utiliza o requisito funcional IS06 (O sistema deve permitir que o 
 O léxico L25 utiliza o requisito funcional IS06 (O sistema deve permitir que o usuário cancele um saque solicitado). Esse léxico é detalhado na tabela abaixo:
 
 <font size="3"><p style="text-align: center">Tabela 28: Léxico 25 – Solicitação Processada (L25)</p></font>
+|      L25      |                                                            Descrição                                                           |
+| :-----------: | :----------------------------------------------------------------------------------------------------------------------------: |
+|   **Termo**   |                                                     Solicitação Processada                                                     |
+|    **Tipo**   |                                                             Estado                                                             |
+|  **Impacto**  |     Indica que a solicitação de saque foi analisada e concluída pelo sistema, não podendo mais ser cancelada pelo usuário.     |
+|   **Noção**   |            Estado final onde o pedido de saque foi processado e encaminhado para liberação dos valores ou rejeição.            |
+| **Sinônimos** |                                            Pedido concluído, Solicitação finalizada                                            |
+|  **Conexões** | [L07](#l07-saque-pendente), [L21](#l21-solicitação-de-saque), [L23](#l23-solicitação-ativa), [L24](#l24-solicitação-cancelada) |
+|   **Autor**   |                                       [Victor Pontual](https://github.com/VictorPontual)                                       |
 
-| L25           | Descrição                                                                                                              |
-| :-----------: |:------------------------------------------------------------------------------------------------------------------: |
-| **Termo**     | Solicitação Processada                                                                                                 |
-| **Tipo**      | Estado                                                                                                                 |
-| **Impacto**   | Indica que a solicitação de saque foi analisada e concluída pelo sistema, não podendo mais ser cancelada pelo usuário. |
-| **Noção**     | Estado final onde o pedido de saque foi processado e encaminhado para liberação dos valores ou rejeição.               |
-| **Sinônimos** | Pedido concluído, Solicitação finalizada                                                                               |
-| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                     |
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
 
----
+
 
 ## Requisito IS07
 
----
+
 
 ### L26: Filtrar Saques por Tipo
 
@@ -767,14 +772,16 @@ O léxico L26 utiliza o requisito funcional IS07 (O aplicativo deve permitir o f
 
 <font size="3"><p style="text-align: center">Tabela 29: Léxico 26 – Filtrar Saques por Tipo (L26)</p></font>
 
-| L26           | Descrição                                                                                                                                 |
-| :---------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
-| **Termo**     | Filtrar Saques por Tipo                                                                                                                   |
-| **Tipo**      | Verbo                                                                                                                                     |
-| **Impacto**   | Permite que o usuário restrinja a visualização dos saques exibidos no histórico com base no tipo (ex.: aniversário, doença, falecimento). |
-| **Noção**     | Ação do usuário de selecionar um critério de tipo para que o sistema exiba apenas os saques correspondentes àquela categoria.             |
-| **Sinônimos** | Aplicar filtro, Selecionar tipo, Restringir visualização                                                                                  |
-| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                                        |
+|      L26      |                                                                 Descrição                                                                 |
+| :-----------: | :---------------------------------------------------------------------------------------------------------------------------------------: |
+|   **Termo**   |                                                          Filtrar Saques por Tipo                                                          |
+|    **Tipo**   |                                                                   Verbo                                                                   |
+|  **Impacto**  | Permite que o usuário restrinja a visualização dos saques exibidos no histórico com base no tipo (ex.: aniversário, doença, falecimento). |
+|   **Noção**   |       Ação do usuário de selecionar um critério de tipo para que o sistema exiba apenas os saques correspondentes àquela categoria.       |
+| **Sinônimos** |                                          Aplicar filtro, Selecionar tipo, Restringir visualização                                         |
+|  **Conexões** |                            [L27](#l27-lista-de-saques), [L28](#l28-filtro-de-tipo), [L29](#l29-lista-filtrada)                            |
+|   **Autor**   |                                             [Victor Pontual](https://github.com/VictorPontual)                                            |
+
 
 
 ---
@@ -785,14 +792,16 @@ O léxico L27 utiliza o requisito funcional IS07 (O aplicativo deve permitir o f
 
 <font size="3"><p style="text-align: center">Tabela 30: Léxico 27 – Lista de Saques (L27)</p></font>
 
-| L27           | Descrição                                                                                                                              |
-| :-------------: | :------------------------------------------------------------------------------------------------------------------------------: |
-| **Termo**     | Lista de Saques                                                                                                                        |
-| **Tipo**      | Objeto                                                                                                                                 |
-| **Impacto**   | Representa o conjunto de registros das solicitações de saque do usuário, possibilitando a consulta e gerenciamento dessas informações. |
-| **Noção**     | Coleção organizada dos pedidos de saque efetuados pelo usuário, incluindo detalhes como tipo, valor, data e status de cada saque.      |
-| **Sinônimos** | Histórico de saques, Registro de saques                                                                                                |
-| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                                     |
+|      L27      |                                                                Descrição                                                               |
+| :-----------: | :------------------------------------------------------------------------------------------------------------------------------------: |
+|   **Termo**   |                                                             Lista de Saques                                                            |
+|    **Tipo**   |                                                                 Objeto                                                                 |
+|  **Impacto**  | Representa o conjunto de registros das solicitações de saque do usuário, possibilitando a consulta e gerenciamento dessas informações. |
+|   **Noção**   |    Coleção organizada dos pedidos de saque efetuados pelo usuário, incluindo detalhes como tipo, valor, data e status de cada saque.   |
+| **Sinônimos** |                                                 Histórico de saques, Registro de saques                                                |
+|  **Conexões** |                       [L26](#l26-filtrar-saques-por-tipo), [L28](#l28-filtro-de-tipo), [L29](#l29-lista-filtrada)                      |
+|   **Autor**   |                                           [Victor Pontual](https://github.com/VictorPontual)                                           |
+
 
 
 ---
@@ -803,14 +812,15 @@ O léxico L28 utiliza o requisito funcional IS07 (O aplicativo deve permitir o f
 
 <font size="3"><p style="text-align: center">Tabela 31: Léxico 28 – Filtro de Tipo (L28)</p></font>
 
-| L28           | Descrição                                                                                                                           |
-| :------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
-| **Termo**     | Filtro de Tipo                                                                                                                      |
-| **Tipo**      | Objeto                                                                                                                              |
-| **Impacto**   | Permite segmentar ou restringir a visualização da lista de saques com base no tipo selecionado pelo usuário.                        |
-| **Noção**     | Critério utilizado para classificar e apresentar apenas os saques que pertencem a uma categoria específica (ex: saque-aniversário). |
-| **Sinônimos** | Critério de seleção, Opção de filtro                                                                                                |
-| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                                  |
+|      L28      |                                                              Descrição                                                              |
+| :-----------: | :---------------------------------------------------------------------------------------------------------------------------------: |
+|   **Termo**   |                                                            Filtro de Tipo                                                           |
+|    **Tipo**   |                                                                Objeto                                                               |
+|  **Impacto**  |             Permite segmentar ou restringir a visualização da lista de saques com base no tipo selecionado pelo usuário.            |
+|   **Noção**   | Critério utilizado para classificar e apresentar apenas os saques que pertencem a uma categoria específica (ex: saque-aniversário). |
+| **Sinônimos** |                                                 Critério de seleção, Opção de filtro                                                |
+|  **Conexões** |                     [L26](#l26-filtrar-saques-por-tipo), [L27](#l27-lista-de-saques), [L29](#l29-lista-filtrada)                    |
+|   **Autor**   |                                          [Victor Pontual](https://github.com/VictorPontual)                                         |
 
 ---
 
@@ -820,20 +830,22 @@ O léxico L29 utiliza o requisito funcional IS07 (O aplicativo deve permitir o f
 
 <font size="3"><p style="text-align: center">Tabela 32: Léxico 29 – Lista Filtrada (L29)</p></font>
 
-| L29           | Descrição                                                                                                                      |
-| :-------------: |:------------------------------------------------------------------------------------------------------------------------------: |
-| **Termo**     | Lista Filtrada                                                                                                                 |
-| **Tipo**      | Estado                                                                                                                         |
-| **Impacto**   | Representa o estado em que a lista de saques exibe somente os registros que correspondem aos critérios de filtro aplicados.    |
-| **Noção**     | Visualização da lista de saques reduzida e organizada conforme a seleção feita pelo usuário para facilitar o acesso e análise. |
-| **Sinônimos** | Lista segmentada, Resultado filtrado                                                                                           |
-| **Autor**     | [Victor Pontual](https://github.com/VictorPontual)                                                                             |
+|      L29      |                                                            Descrição                                                           |
+| :-----------: | :----------------------------------------------------------------------------------------------------------------------------: |
+|   **Termo**   |                                                         Lista Filtrada                                                         |
+|    **Tipo**   |                                                             Estado                                                             |
+|  **Impacto**  |   Representa o estado em que a lista de saques exibe somente os registros que correspondem aos critérios de filtro aplicados.  |
+|   **Noção**   | Visualização da lista de saques reduzida e organizada conforme a seleção feita pelo usuário para facilitar o acesso e análise. |
+| **Sinônimos** |                                              Lista segmentada, Resultado filtrado                                              |
+|  **Conexões** |                  [L26](#l26-filtrar-saques-por-tipo), [L27](#l27-lista-de-saques), [L28](#l28-filtro-de-tipo)                  |
+|   **Autor**   |                                       [Victor Pontual](https://github.com/VictorPontual)                                       
+
 
 ---
 
 <font size="2"><p style="text-align: center">Fonte: [Victor Pontual](https://github.com/VictorPontual)</p></font>
 
----
+
 
 ## Requisito IS12
 
@@ -1356,3 +1368,4 @@ O léxico L49 utiliza o requisito funcional não implementado ST07 (O aplicativo
 | `2.9` | 22/06/2025 | Correção do Sumário | [Danielle Soares](https://github.com/danielle-soaress) | [Marcelo Makoto](https://github.com/MM4k) |
 | `3.0` | 22/06/2025 | Adicionando Hiperlinks entre os lexicos L40-45 | [Marcelo Makoto](https://github.com/MM4k) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `3.1` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
+| `3.2` | 22/06/2025 | Adicionando Hiperlinks entre os lexicos L20-29 | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |
