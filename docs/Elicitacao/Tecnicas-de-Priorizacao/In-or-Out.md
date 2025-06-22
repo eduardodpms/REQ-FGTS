@@ -32,20 +32,21 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
   </thead>
   <tbody>
     <tr>
-      <td> Enzo Emir </td>
-      <td> 04/05/2025 </td>
-      <td> 19:00 </td>
-      <td> Discord </td>
+      <td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+      <td>04/05/2025</td>
+      <td>19:00</td>
+      <td>Discord</td>
     </tr>
     <tr>
-      <td> Victor Pontual </td>
-      <td> 04/05/2025 </td>
-      <td> 16:00 </td>
-      <td> Discord </td>
+      <td><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
+      <td>04/05/2025</td>
+      <td>16:00</td>
+      <td>Discord</td>
     </tr>
   </tbody>
 </table>
 </div>
+
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir), [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
@@ -99,7 +100,9 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
 | RF33   | Disponibilizar uma página para escolha da sistemática de saque                                           | ST012                      | IN         |                                              |
 | RF34   | “Disponibilizar termo de adesão”                                                                         | ST016                      | IN         |                                              |
 
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/VictorPontual">Victor Pontual</a> e <a href="https://github.com/EnzoEmir">Enzo Emir</a></p>
 
+___
 ### <a name="RNF"></a> Tabela 2: Requisitos Não Funcionais
 
 
@@ -124,6 +127,8 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
 | RNF17   | Garantir tempo de resposta de até 1 segundo para a solicitação de saque                                | ST018                              | OUT        | É bom mas não é necessário.                |
 | RNF18   | Garantir tempo de resposta de até 1 segundo para o processo de login                                  | ST019                              | OUT        | É bom mas não é necessário.                |
 
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/VictorPontual">Victor Pontual</a> e <a href="https://github.com/EnzoEmir">Enzo Emir</a></p>
+
 ## Gravação
 
 <p style="text-align: center">
@@ -143,4 +148,5 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
 | `1.0` | 04/05/2025 | Criação da priorização In or Out | [Enzo Emir](https://github.com/EnzoEmir), [Victor Pontual](https://github.com/VictorPontual) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.1` | 21/06/2025 | Adicionando tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | [Maria Eduarda](https://github.com/dudaa28) |
 | `1.2`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | [Enzo Emir](https://github.com/EnzoEmir) |
-| `1.3`  | 21/06/2025 | Arrumando bibliografia | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `1.3`  | 21/06/2025 | Arrumando bibliografia | [Enzo Emir](https://github.com/EnzoEmir) | [Victor Pontual](https://github.com/VictorPontual) |
+| `1.4` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |

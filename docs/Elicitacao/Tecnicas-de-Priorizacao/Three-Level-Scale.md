@@ -40,20 +40,21 @@ Dessa maneira, os requisitos podem ser priorizados de maneira relativamente fác
   </thead>
   <tbody>
     <tr>
-      <td> Marcelo Makoto </td>
-      <td> 03/05/2025 </td>
-      <td> 14:00 </td>
-      <td> Microsoft Teams </td>
+      <td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+      <td>03/05/2025</td>
+      <td>14:00</td>
+      <td>Microsoft Teams</td>
     </tr>
     <tr>
-      <td> Victor Pontual </td>
-      <td> 03/05/2025 </td>
-      <td> 14:00 </td>
-      <td> Microsoft Teams </td>
+      <td><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
+      <td>03/05/2025</td>
+      <td>14:00</td>
+      <td>Microsoft Teams</td>
     </tr>
   </tbody>
 </table>
 </div>
+
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir), [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
@@ -109,6 +110,9 @@ Dessa maneira, os requisitos podem ser priorizados de maneira relativamente fác
 | RF33   | Disponibilizar uma página para escolha da sistemática de saque.                                          | ST012  |Alta              |
 | RF34   | “Disponibilizar termo de adesão”                                                                         | ST016  |Alta              |
 
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/MM4k">Marcelo Makoto</a> e <a href="https://github.com/VictorPontual">Victor Pontual</a></p>
+
+___
 <div style="text-align: center">
 <p>Tabela 2: Requisitos Não Funcionais</p>
 </div>
@@ -134,6 +138,7 @@ Dessa maneira, os requisitos podem ser priorizados de maneira relativamente fác
 | RNF16  | Garantir tempo de resposta de até 1 segundo para o cadastro da conta bancária                            | ST017  |Média|
 | RNF17  | Garantir tempo de resposta de até 1 segundo para a solicitação de saque                                  | ST018  |Média|
 | RNF18  | Garantir tempo de resposta de até 1 segundo para o processo de login                                     | ST019  |Média|
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/MM4k">Marcelo Makoto</a> e <a href="https://github.com/VictorPontual">Victor Pontual</a></p>
 
 ## Gravação
 
@@ -156,4 +161,5 @@ Dessa maneira, os requisitos podem ser priorizados de maneira relativamente fác
 | `1.2`  | 04/05/2025 | Priorização dos requisitos | [Marcelo Makoto](https://github.com/MM4k), [Victor Pontual](https://github.com/VictorPontual) | [Maria Eduardo](https://github.com/dudaa28) |
 | `1.3`  | 04/05/2025 | Correções de texto | [Marcelo Makoto](https://github.com/MM4k) | [Maria Eduarda](https://github.com/dudaa28) |
 | `1.4` | 21/06/2025 | Adicionando tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | [Maria Eduarda](https://github.com/dudaa28) |
-| `1.5`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | - |
+| `1.5`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | [Victor Pontual](https://github.com/VictorPontual) |
+| `1.6` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |

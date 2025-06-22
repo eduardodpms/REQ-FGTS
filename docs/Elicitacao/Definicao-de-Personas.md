@@ -27,18 +27,19 @@ O elenco é composto por cinco personas (duas primárias, duas secundárias e um
   </thead>
   <tbody>
     <tr>
-      <td> Eduardo de Pina </td>
-      <td> 03/05/2025 </td>
-      <td> 22:20 </td>
+      <td><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+      <td>03/05/2025</td>
+      <td>22:20</td>
     </tr>
     <tr>
-      <td> Marcelo Makoto </td>
-      <td> 02/05/2025 </td>
-      <td> 16:00 </td>
+      <td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+      <td>02/05/2025</td>
+      <td>16:00</td>
     </tr>
   </tbody>
 </table>
 </div>
+
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir), [Maria Eduarda](https://github.com/dudaa28) </p></font>
 

@@ -8,7 +8,7 @@ A técnica dos 100 dólares é um método de priorização que simula a alocaç�
 
 ## Participantes
 
-<font size="3"><p style="text-align: center">Tabela 1: Participantes.</p></font>
+<p style="text-align: center; font-size: 12pt;"><strong>Tabela 1: Participantes.</strong></p>
 
 <div align="center">
 
@@ -38,7 +38,7 @@ A técnica dos 100 dólares é um método de priorização que simula a alocaç�
       <td>Discord</td>
     </tr>
     <tr>
-      <td><span style="color: orange;">Maria Eduarda</span></td>
+      <td><a href="https://github.com/dudaa28"><span style="color: orange;">Maria Eduarda</span></a></td>
       <td>Equipe/Usuária</td>
       <td>04/05/2025</td>
       <td>17:00</td>
@@ -48,6 +48,8 @@ A técnica dos 100 dólares é um método de priorização que simula a alocaç�
 </table>
 
 </div>
+
+
 
 
 <font size="3"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress).</p></font>
@@ -133,7 +135,8 @@ A técnica foi aplicada de forma individual, sendo que cada participante aplicou
 | -       | -                                                                                                                                             | Total                            | **100**  | **100** | **100** | **300** |
 
 
-<p style="text-align: center; font-size: 16px;">Fonte: <i>Maria Eduarda</i></p>
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dudaa28"><i>Maria Eduarda</i></span></a></p>
+
 
 ## Gravação da Técnica
 
@@ -153,6 +156,7 @@ A técnica foi aplicada de forma individual, sendo que cada participante aplicou
 | `1.0` | 04/05/2025 | Criação do documento | [Danielle Soares](https://github.com/danielle-soaress), [Enzo Emir](https://github.com/EnzoEmir) | [Victor Pontual](https://github.com/VictorPontual) |
 | `1.1` | 04/05/2025 | Atualização do Documento | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.2` | 04/05/2025 | Correção de link | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |
-| `1.3` | 08/06/2025 | Correção de formatação md | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.3` | 08/06/2025 | Correção de formatação md | [Eduardo de Pina](https://github.com/eduardodpms) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.4` | 21/06/2025 | Adicionando data na tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | [Maria Eduarda](https://github.com/dudaa28) |
-| `1.5`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | - |
+| `1.5`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `1.6` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |

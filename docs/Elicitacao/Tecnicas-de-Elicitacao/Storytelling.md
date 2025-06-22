@@ -19,13 +19,13 @@ Para realizar a elicitação de requisitos, uma das técnicas utilizadas foi o s
   </thead>
   <tbody>
     <tr>
-      <td>Leticia Arisa</td>
+      <td><a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></td>
       <td>03/05/2023</td>
       <td>14:40</td>
       <td>Microsoft Teams</td>
     </tr>
     <tr>
-      <td>Marcelo Makoto</td>
+      <td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
       <td>03/05/2023</td>
       <td>14:40</td>
       <td>Microsoft Teams</td>
@@ -60,7 +60,9 @@ Para realizar a elicitação de requisitos, uma das técnicas utilizadas foi o s
 </div>
 
 
-<p style="text-align: center; font-size: 16px;">Fonte: <i>Leticia Arisa e Marcelo Makoto</i></p>
+
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a> e <a href="https://github.com/MM4k">Marcelo Makoto</a></p>
+
 
 
 
@@ -138,8 +140,9 @@ Ao abrir o app, Antônio logo percebeu uma dificuldade: as letras eram pequenas.
 | RF15  | O aplicativo deve enviar notificação ao usuário quando o saque for recebido. | ST015 | Sim |
 | RF16  | O aplicativo deve disponibilizar termo de adesão. | ST016 | Sim |
 
-**Fonte:** *Leticia Arisa e Marcelo Makoto*
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a> e <a href="https://github.com/MM4k">Marcelo Makoto</a></p>
 
+---
 
 
 <div style="text-align: center">
@@ -154,7 +157,8 @@ Ao abrir o app, Antônio logo percebeu uma dificuldade: as letras eram pequenas.
 | RNF02  | O aplicativo deve garantir tempo de resposta de até 1 segundo para a solicitação de saque. | ST018 | Sim |
 | RNF03  | O aplicativo deve garantir tempo de resposta de até 1 segundo para o processo de login. | ST019 | Sim |
 
-**Fonte:** *Leticia Arisa e Marcelo Makoto*
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a> e <a href="https://github.com/MM4k">Marcelo Makoto</a></p>
+
 
 ## Gravação da Elicitação
 

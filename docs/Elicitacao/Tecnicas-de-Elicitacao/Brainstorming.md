@@ -29,46 +29,46 @@ Como apoio visual e organizacional, foi utilizado um arquivo compartilhado na fe
   </thead>
   <tbody>
     <tr>
-      <td> Danielle Soares </td>
-      <td> 30/05/2025 </td>
-      <td> 23:10 </td>
-      <td> Discord </td>
+      <td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+      <td>30/05/2025</td>
+      <td>23:10</td>
+      <td>Discord</td>
     </tr>
     <tr>
-      <td> Eduardo de Pina </td>
-      <td> 30/05/2025 </td>
-      <td> 23:10 </td>
-      <td> Discord </td>
+      <td><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+      <td>30/05/2025</td>
+      <td>23:10</td>
+      <td>Discord</td>
     </tr>
     <tr>
-      <td> Enzo Emir </td>
-      <td> 30/05/2025 </td>
-      <td> 23:10   </td>
-      <td> Discord </td>
+      <td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+      <td>30/05/2025</td>
+      <td>23:10</td>
+      <td>Discord</td>
     </tr>
     <tr>
-      <td> Leticia Arisa </td>
-      <td> 30/05/2025 </td>
-      <td> 23:10 </td>
-      <td> Discord </td>
+      <td><a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></td>
+      <td>30/05/2025</td>
+      <td>23:10</td>
+      <td>Discord</td>
     </tr>
     <tr>
-      <td> Marcelo Makoto </td>
-      <td> 30/05/2025 </td>
-      <td> 23:10 </td>
-      <td> Discord </td>
+      <td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+      <td>30/05/2025</td>
+      <td>23:10</td>
+      <td>Discord</td>
     </tr>
     <tr>
-      <td> Maria Eduarda </td>
-      <td> 30/05/2025 </td>
-      <td> 23:10 </td>
-      <td> Discord </td>
+      <td><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
+      <td>30/05/2025</td>
+      <td>23:10</td>
+      <td>Discord</td>
     </tr>
     <tr>
-      <td> Victor Pontual </td>
-      <td> 30/05/2025 </td>
-      <td> 23:10 </td>
-      <td> Discord </td>
+      <td><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
+      <td>30/05/2025</td>
+      <td>23:10</td>
+      <td>Discord</td>
     </tr>
   </tbody>
 </table>

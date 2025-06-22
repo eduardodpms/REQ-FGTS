@@ -20,50 +20,51 @@ Essa página tem como objetivo compilar todos os requisitos elicitados com a uti
   </thead>
   <tbody>
     <tr>
-      <td> Danielle Soares </td>
-      <td> 04/05/2025 </td>
-      <td> - </td>
-      <td> Discord </td>
+      <td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+      <td>04/05/2025</td>
+      <td>16:20</td>
+      <td>Discord</td>
     </tr>
     <tr>
-      <td> Eduardo de Pina </td>
-      <td> 04/05/2025 </td>
-      <td> - </td>
-      <td> Discord </td>
+      <td><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+      <td>04/05/2025</td>
+      <td>16:20</td>
+      <td>Discord</td>
     </tr>
     <tr>
-      <td> Enzo Emir </td>
-      <td> 04/05/2025 </td>
-      <td> - </td>
-      <td> Discord </td>
+      <td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+      <td>04/05/2025</td>
+      <td>16:20</td>
+      <td>Discord</td>
     </tr>
     <tr>
-      <td> Leticia Arisa </td>
-      <td> 04/05/2025 </td>
-      <td> - </td>
-      <td> Discord </td>
+      <td><a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></td>
+      <td>04/05/2025</td>
+      <td>16:20</td>
+      <td>Discord</td>
     </tr>
     <tr>
-      <td> Marcelo Makoto </td>
-      <td> 04/05/2025 </td>
-      <td> - </td>
-      <td> Discord </td>
+      <td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+      <td>04/05/2025</td>
+      <td>16:20</td>
+      <td>Discord</td>
     </tr>
     <tr>
-      <td> Maria Eduarda </td>
-      <td> 04/05/2025 </td>
-      <td> - </td>
-      <td> Discord </td>
+      <td><a href="https://github.com/dudaa28">Maria Eduarda</span></a></td>
+      <td>04/05/2025</td>
+      <td>16:20</td>
+      <td>Discord</td>
     </tr>
     <tr>
-      <td> Victor Pontual </td>
-      <td> 04/05/2025 </td>
-      <td> - </td>
-      <td> Discord </td>
+      <td><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
+      <td>04/05/2025</td>
+      <td>16:20</td>
+      <td>Discord</td>
     </tr>
   </tbody>
 </table>
 </div>
+
 
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
@@ -125,6 +126,9 @@ Essa página tem como objetivo compilar todos os requisitos elicitados com a uti
 | RF41 |  1.0 | O aplicativo deve possibilitar o envio de documentos digitalizados (PDF, imagem) para comprovação de situações específicas de saque (ex: doença grave, aposentadoria). | [BS03](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/#BS_RF)|Testável |
 | RF42 | 1.0 | O aplicativo deve permitir o agendamento de saque futuro. | [BS10](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/#BS_RF) |Testável |
 
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/VictorPontual">Victor Pontual</a> e <a href="https://github.com/EnzoEmir">Enzo Emir</a></p>
+
+___
 ### <a name="RNF"></a> Requisitos não-funcionais
 **Legendas:**
 
@@ -161,8 +165,9 @@ Essa página tem como objetivo compilar todos os requisitos elicitados com a uti
 | RNF19  | 1.0 | Saque-aniversário deve atender princípios de acessibilidade                                           | [EN06](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF)| Testável |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | RNF20  | 1.0 | Saque-rescisão deve atender princípios de acessibilidade                                              | [EN06](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF)| Testável |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | RNF21  | 1.0 | Os menus devem ser autoexplicativos, com estrutura hierárquica lógica e nomenclatura padronizada      | [IS19](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF), [OB11](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RNF)| Não Testável |                                                                                                                                                                                                                                                                                                                                                              |
-| RNF22  | 1.0 | A aplicação deve estar em conformidade com diretrizes de acessibilidade, garantindo acesso a pessoas com deficiência visual, auditiva ou motora | [IS20](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF)| Testável |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| RNF22  | 1.0 | A aplicação deve estar em conformidade com diretrizes de acessibilidade, garantindo acesso a pessoas com deficiência visual, auditiva ou motora | [IS20](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF)| Testável |                                                         |
 
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/VictorPontual">Victor Pontual</a> e <a href="https://github.com/EnzoEmir">Enzo Emir</a></p>
 
 ## Bibliografia
 
@@ -185,4 +190,5 @@ Essa página tem como objetivo compilar todos os requisitos elicitados com a uti
 | `1.7`  | 31/05/2025 | Atualizando links de rastreabilidade | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.8`  | 20/06/2025 | Adicionando Testabilidade dos requisitos | [Enzo Emir](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.9`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | [Marcelo Makoto](https://github.com/MM4k) |
-| `2.0`  | 21/06/2025 | Adição de versões dos requisitos | [Marcelo Makoto](https://github.com/MM4k) | - |
+| `2.0`  | 21/06/2025 | Adição de versões dos requisitos | [Marcelo Makoto](https://github.com/MM4k) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `2.1` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |

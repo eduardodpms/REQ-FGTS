@@ -29,13 +29,13 @@ O processo de introspecção foi realizado individualmente pelas integrantes Mar
   </thead>
   <tbody>
     <tr>
-      <td>Danielle</td>
+      <td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
       <td>03/05/2023</td>
       <td>14:30</td>
       <td>Microsoft Teams</td>
     </tr>
     <tr>
-      <td>Maria Eduarda</td>
+      <td><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
       <td>03/05/2023</td>
       <td>14:30</td>
       <td>Microsoft Teams</td>
@@ -46,7 +46,7 @@ O processo de introspecção foi realizado individualmente pelas integrantes Mar
 </div>
 
 
-<p style="text-align: center; font-size: 16px;">Fonte: <i>Maria Eduarda</i></p>
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dudaa28">Maria Eduarda</a></p>
 
 <br>
 
@@ -62,7 +62,7 @@ A reflexão mostrou a importância de um sistema que vá além do básico, ofere
 
 </details>
 
-</details> <details> <summary><strong>Relato da Maria Eduarda </strong></summary>
+<details> <summary><strong>Relato da Maria Eduarda </strong></summary>
 
 Ao imaginar meu uso do aplicativo, percebi que funcionalidades como ver o saldo total na tela inicial e acessar o histórico de movimentações são fundamentais. Reflito que a experiência melhora quando o sistema oferece busca por atividade, variedade de bancos e uma ajuda acessível.
 
@@ -115,8 +115,7 @@ A seguir, as Tabelas 3 e 4 descrevem os requisitos elicitados, incluindo tanto o
 
 </div>
 
-<p style="text-align: center; font-size: 16px;">Fonte: <i>Danielle</i></p>
-
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/danielle-soaress">Danielle Soares</a></p>
 
 ### Requisitos Funcionais
 
@@ -144,7 +143,7 @@ A seguir, as Tabelas 3 e 4 descrevem os requisitos elicitados, incluindo tanto o
 | RF16  | O aplicativo deve conter uma seção de ajuda com orientações sobre o uso do aplicativo | IS16 | Não |
 | RF17  | O aplicativo deve permitir a solicitação de ressarcimento de valores do PIS/PASEP | IS17 | Sim |
 
-<p style="text-align: center; font-size: 16px;">Fonte: <i>Danielle</i></p>
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/danielle-soaress">Danielle Soares</a></p>
 
 ### Requisitos Não Funcionais
 
@@ -153,17 +152,63 @@ A seguir, as Tabelas 3 e 4 descrevem os requisitos elicitados, incluindo tanto o
 
 <a name="IS_RNF"></a>
 
-| Código  | Requisito Funcional                                                                 | ID    | Implementado |
-|:-------:|--------------------------------------------------------------------------------------|:-----:|:------------:|
-| RNF01   | O aplicativo deve fornecer as mesmas funcionalidades para diferentes plataformas e versões | IS18 | Não          |
-| RNF02   | Os menus devem fornecer informações não repetidas                                   | IS19 | Não          |
-| RNF03   | O aplicativo deve aplicar princípios de usabilidade                                 | IS20 | Não          |
-| RNF04   | O aplicativo deve aplicar princípios de acessibilidade                              | IS21 | Não          |
-| RNF05   | O aplicativo deve estar disponível para outras plataformas, como web                | IS22 | Não          |
-| RNF06   | O aplicativo deve proporcionar segurança de dados pessoais                          | IS23 | Sim          |
-| RNF07   | O aplicativo deve proporcionar agilidade ao acessar as funcionalidades              | IS24 | Sim          |
+<table>
+  <thead>
+    <tr>
+      <th>Código</th>
+      <th>Requisito Funcional</th>
+      <th>ID</th>
+      <th>Implementado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>RNF01</td>
+      <td>O aplicativo deve fornecer as mesmas funcionalidades para diferentes plataformas e versões</td>
+      <td>IS18</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>RNF02</td>
+      <td>Os menus devem fornecer informações não repetidas</td>
+      <td>IS19</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>RNF03</td>
+      <td>O aplicativo deve aplicar princípios de usabilidade</td>
+      <td>IS20</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>RNF04</td>
+      <td>O aplicativo deve aplicar princípios de acessibilidade</td>
+      <td>IS21</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>RNF05</td>
+      <td>O aplicativo deve estar disponível para outras plataformas, como web</td>
+      <td>IS22</td>
+      <td>Não</td>
+    </tr>
+    <tr>
+      <td>RNF06</td>
+      <td>O aplicativo deve proporcionar segurança de dados pessoais</td>
+      <td>IS23</td>
+      <td>Sim</td>
+    </tr>
+    <tr>
+      <td>RNF07</td>
+      <td>O aplicativo deve proporcionar agilidade ao acessar as funcionalidades</td>
+      <td>IS24</td>
+      <td>Sim</td>
+    </tr>
+  </tbody>
+</table>
 
-<p style="text-align: center; font-size: 16px;">Fonte: <i>Maria Eduarda</i></p>
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/dudaa28">Maria Eduarda</a></p>
+
 
 ## Gravação da Elicitação
 

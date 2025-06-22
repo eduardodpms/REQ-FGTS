@@ -179,5 +179,6 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 | `1.0` | 04/05/2025 | Documento de elicitação com base em observação | [Victor Pontual](https://github.com/VictorPontual) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
 | `1.1` | 17/05/2025 | Adição de âncoras e correção dos IDs de rastreabilidade | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.2` | 17/05/2025 | Corrigindo bug nas tabelas | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `1.3` | 21/05/2025 | Alteração no texto da Metodologia | [Danielle Soares](https://github.com/danielle-soaress) | --- |
-| `1.4` | 21/05/2025 | Referências bibliográficas no texto | [Danielle Soares](https://github.com/danielle-soaress) | --- |
+| `1.3` | 21/05/2025 | Alteração no texto da Metodologia | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.4` | 21/05/2025 | Referências bibliográficas no texto | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.5` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |

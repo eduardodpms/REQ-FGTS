@@ -23,18 +23,19 @@ A definição do perfil de usuário pelo time se deu por meio de três etapas pr
   </thead>
   <tbody>
     <tr>
-      <td> Eduardo de Pina </td>
-      <td> 02/05/2025 </td>
-      <td> 17:10 </td>
+      <td><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+      <td>02/05/2025</td>
+      <td>17:10</td>
     </tr>
     <tr>
-      <td> Marcelo Makoto </td>
-      <td> 02/05/2025 </td>
-      <td> 19:00 </td>
+      <td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+      <td>02/05/2025</td>
+      <td>19:00</td>
     </tr>
   </tbody>
 </table>
 </div>
+
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir), [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
@@ -72,17 +73,18 @@ Além disso, após investigação em portais de notícia relevantes, foi possív
   </thead>
   <tbody>
     <tr>
-      <td> Marcelo Makoto </td>
-      <td> 02/05/2025 </td>
+      <td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+      <td>02/05/2025</td>
     </tr>
     <tr>
-      <td> Eduardo de Pina </td>
-      <td> 02/05/2025 </td>
+      <td><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+      <td>02/05/2025</td>
     </tr>
   </tbody>
 </table>
 
 </div>
+
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
@@ -169,12 +171,19 @@ Para fins experimentais e complementares, foi utilizada a ferramenta de Intelig�
 
 
 <figure style="text-align: center;">
-    <p style="font-size: 16px;">Figura 8: <i>Perfil de usuário gerado pelo ChatGPT</i></p>
+    <p style="font-size: 10pt;">Figura 8: <i>Perfil de usuário gerado pelo ChatGPT</i></p>
     <img src="../../assets/perfil-de-usuario/perfil-gpt.png" style="max-width: 100%;">
     <figcaption>
-        <p style="text-align: center; font-size: 16px;">Fonte: <i>OPENAI. ChatGPT. Perfil de usuário geral para o aplicativo FGTS. Disponível em: https://chat.openai.com. Acesso em: 2 maio 2025.</i><a id="anchor_3" href="#REF3">^3^</a></p>
+        <p style="text-align: center; font-size: 10pt;">
+            Fonte: <i>OPENAI. ChatGPT. Perfil de usuário geral para o aplicativo FGTS.</i> 
+            Disponível em: 
+            <a href="https://chat.openai.com" target="_blank">https://chat.openai.com</a>. 
+            Acesso em: 2 maio 2025.
+            <a id="anchor_3" href="#REF3">^3^</a>
+        </p>
     </figcaption>
 </figure>
+
 
 
 ## Definição do Perfil

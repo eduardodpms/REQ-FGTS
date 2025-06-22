@@ -130,4 +130,5 @@ Legenda:
 | `1.0` | 03/05/2025 | Criação da aba First Things First | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Enzo Emir](https://github.com/EnzoEmir) | [Danielle](https://github.com/danielle-soaress) |
 | `1.1` | 03/05/2025 | Correção de erros de formatação e gramática | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.2` | 07/05/2025 | Adição da tabela dos participantes | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Enzo Emir](https://github.com/EnzoEmir) |
-| `1.3`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | - |
+| `1.3`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.4` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |

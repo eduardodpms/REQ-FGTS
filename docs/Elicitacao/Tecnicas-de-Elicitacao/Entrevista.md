@@ -49,7 +49,7 @@ A entrevista foi aplicada por **Enzo Emir e Eduardo de Pina**, com perguntas org
 </div>
 
 
-<p style="text-align: center; font-size: 16px;">Fonte: <i>Enzo Emir e Eduardo de Pina</i></p>
+<p style="font-size: 10pt; text-align: center;">Fonte: <a href="https://github.com/EnzoEmir">Enzo Emir</a> e <a href="https://github.com/eduardodpms">Eduardo de Pina</a></p>
 
 </details> <details> <summary><strong> O Porque da Participação</strong></summary>
 
@@ -92,7 +92,7 @@ A seguir, os requisitos elicitados foram organizados em duas categorias: funcion
 
 </div>
 
-<p style="text-align: center; font-size: 16px;">Fonte: <i>Enzo Emir</i></p>
+<p style="font-size: 10pt; text-align: center;">Fonte: <a href="https://github.com/EnzoEmir">Enzo Emir</a></p>
 
 ### Requisitos Funcionais
 
@@ -109,7 +109,7 @@ A seguir, os requisitos elicitados foram organizados em duas categorias: funcion
 | RF05   | O aplicativo deve permitir consulta ao saldo da conta vinculada do FGTS                              | EN05  | Sim          |
 | RF06   | O aplicativo deve disponibilizar funcionalidade acessível para saque-aniversário                     | EN06  | Sim          |
 
-**Fonte:** *Enzo Emir e Eduardo de Pina*
+<p style="font-size: 10pt; text-align: center;">Fonte: <a href="https://github.com/EnzoEmir">Enzo Emir</a> e <a href="https://github.com/eduardodpms">Eduardo de Pina</a></p>
 
 ---
 
@@ -128,7 +128,7 @@ A seguir, os requisitos elicitados foram organizados em duas categorias: funcion
 | RNF05   | O aplicativo deve ser confiável e evitar falhas ou inconsistências nos processos  | EN11  | Parcialmente |
 | RNF06   | O aplicativo deve funcionar corretamente mesmo com conexão instável               | EN12  | Não          |
 
-**Fonte:** *Enzo Emir e Eduardo de Pina*
+<p style="font-size: 10pt; text-align: center;">Fonte: <a href="https://github.com/EnzoEmir">Enzo Emir</a> e <a href="https://github.com/eduardodpms">Eduardo de Pina</a></p>
 
 
 ## Gravação da Elicitação
