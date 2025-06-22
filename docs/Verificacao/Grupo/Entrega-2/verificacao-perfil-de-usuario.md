@@ -19,15 +19,30 @@ A verificação foi realizada com base na checklist definida no [Planejamento de
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
 <div align="center">
-
-| Nome             | Função    | Data       | Hora  |
-|------------------|-----------|------------|------|
-| Eduardo de Pina  | Avaliador | 21/06/2025 | 15:40 |
-| Maria Eduarda    | Revisor   | 21/06/2025 | 16:10 |
-
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Data</th>
+      <th>Hora</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Eduardo de Pina	 </td>
+      <td> 02/05/2025 </td>
+      <td> 17:10 </td>
+    </tr>
+    <tr>
+      <td> Marcelo Makoto </td>
+      <td> 02/05/2025 </td>
+      <td> 19:00 </td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
-<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir) </p></font>
 
 ## Inspeção
 
