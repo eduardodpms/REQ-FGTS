@@ -73,18 +73,55 @@ Para cada história de usuário, foram estabelecidos critérios de aceitação c
     </tr>
   </thead>
   <tbody>
-    <tr><td align="center">Danielle Soares</td><td align="center">13 até 18</td><td align="center">30/05/2025</td><td align="center">00:05</td></tr>
-    <tr><td align="center">Eduardo de Pina</td><td align="center">37 até 42</td><td align="center">30/05/2025</td><td align="center">13:35</td></tr>
-    <tr><td align="center">Enzo Emir</td><td align="center">01 até 06</td><td align="center">27/05/2025</td><td align="center">23:17</td></tr>
-    <tr><td align="center">Leticia Arisa</td><td align="center">25 até 30</td><td align="center">30/05/2025</td><td align="center">07:22</td></tr>
-    <tr><td align="center">Marcelo Makoto</td><td align="center">07 até 12</td><td align="center">28/05/2025</td><td align="center">21:50</td></tr>
-    <tr><td align="center">Maria Eduarda</td><td align="center">19 até 24</td><td align="center">30/05/2025</td><td align="center">00:30</td></tr>
-    <tr><td align="center">Victor Pontual</td><td align="center">31 até 36</td><td align="center">30/05/2025</td><td align="center">13:50</td></tr>
+    <tr>
+      <td align="center"><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+      <td align="center">13 até 18</td>
+      <td align="center">30/05/2025</td>
+      <td align="center">00:05</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+      <td align="center">37 até 42</td>
+      <td align="center">30/05/2025</td>
+      <td align="center">13:35</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+      <td align="center">01 até 06</td>
+      <td align="center">27/05/2025</td>
+      <td align="center">23:17</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></td>
+      <td align="center">25 até 30</td>
+      <td align="center">30/05/2025</td>
+      <td align="center">07:22</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+      <td align="center">07 até 12</td>
+      <td align="center">28/05/2025</td>
+      <td align="center">21:50</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
+      <td align="center">19 até 24</td>
+      <td align="center">30/05/2025</td>
+      <td align="center">00:30</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
+      <td align="center">31 até 36</td>
+      <td align="center">30/05/2025</td>
+      <td align="center">13:50</td>
+    </tr>
   </tbody>
 </table>
 </div>
 
-<p align="center">Fonte: <i>Enzo Emir</i></p>
+
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/EnzoEmir">Enzo Emir</a></p>
+
 
 ## Sumário
 
@@ -179,7 +216,7 @@ A tabela [2](#tabela-modelo) será utilizada como modelo para a elaboração das
   </tbody>
 </table>
 </div>
-<p align="center">Fonte: <i>Danielle Soares</i></p>
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/danielle-soaress">Danielle Soares</a></p>
 
 ### <a name="h01"></a> História 01 — Acompanhar Situação do Saque
 
@@ -2073,4 +2110,5 @@ Validação das histórias de usuário 01-12 e 31-42 presentes no vídeo a segui
 | `2.9`    | 31/05/2025 | Adicionando video validação 13-30 e Foto referência | [Maria Eduarda](https://github.com/dudaa28) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `3.0`    | 31/05/2025 | Correção do link do vídeo | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `3.1`    | 04/06/2025 | Padronizando US e atualizando status | [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir) |
-| `3.2`    | 07/06/2025 | Atualizando tabelas seguindo os novos requisitos | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `3.2`    | 07/06/2025 | Atualizando tabelas seguindo os novos requisitos | [Enzo Emir](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
+| `3.3` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |

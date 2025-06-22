@@ -10,64 +10,65 @@ A construção do nosso *Product Backlog* teve início com as reuniões realizad
 
 Com as histórias devidamente documentadas, o PO procedeu à sua priorização segundo a abordagem ***Three Level Scale***, categorizando-as conforme o impacto no produto: Alta, Média ou Baixa prioridade. Em seguida, as histórias foram organizadas de forma hierárquica em temas e épicos, adotando uma estrutura amplamente utilizada em abordagens ágeis como o Scrum e o SAFe (Scaled Agile Framework). Neste documento, foi utilizado o padrão Tema → Épico → Histórias de Usuário, conforme descrito pelos autores Milene Serrano e Maurício Serrano <a id="anchor_2" href="#REF2">2</a>. Por fim, o detalhamento individual de cada história de usuário pode ser consultado diretamente no respectivo artefato vinculado.
 
-<center>
-    <table>
-    <thead>
-        <tr>
-        <th>Participante</th>
-        <th>Função</th>
-        <th>Histórias</th>
-        <th>Data</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-        <td>Danielle Soares</td>
-        <td>Produtor do Backlog</td>
-        <td>H13-H18</td>
-        <td>30/05/2025</td>
-        </tr>
-        <tr>
-        <td>Eduardo de Pina</td>
-        <td>Produtor do Backlog</td>
-        <td>H37-H42</td>
-        <td>01/06/2025</td>
-        </tr>
-        <tr>
-        <td>Enzo Emir</td>
-        <td>Produtor do Backlog</td>
-        <td>H01-H06</td>
-        <td>01/06/2025</td>
-        </tr>
-        <tr>
-        <td>Leticia Arisa</td>
-        <td>Produtor do Backlog</td>
-        <td>H25-H30</td>
-        <td>30/05/2025</td>
-        </tr>
-        <tr>
-        <td>Marcelo Makoto</td>
-        <td>Produtor do Backlog</td>
-        <td>H07-H12</td>
-        <td>01/06/2025</td>
-        </tr>
-        <tr>
-        <td>Maria Eduarda</td>
-        <td>Produtor do Backlog</td>
-        <td>H19-H24</td>
-        <td>30/05/2025</td>
-        </tr>
-        <tr>
-        <td>Victor Pontual</td>
-        <td>Produtor do Backlog</td>
-        <td>H31-H36</td>
-        <td>01/06/2025</td>
-        </tr>
-    </tbody>
-    </table>
-</center>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Participante</th>
+      <th>Função</th>
+      <th>Histórias</th>
+      <th>Data</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+      <td>Produtor do Backlog</td>
+      <td>H13-H18</td>
+      <td>30/05/2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+      <td>Produtor do Backlog</td>
+      <td>H37-H42</td>
+      <td>01/06/2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+      <td>Produtor do Backlog</td>
+      <td>H01-H06</td>
+      <td>01/06/2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></td>
+      <td>Produtor do Backlog</td>
+      <td>H25-H30</td>
+      <td>30/05/2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+      <td>Produtor do Backlog</td>
+      <td>H07-H12</td>
+      <td>01/06/2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
+      <td>Produtor do Backlog</td>
+      <td>H19-H24</td>
+      <td>30/05/2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
+      <td>Produtor do Backlog</td>
+      <td>H31-H36</td>
+      <td>01/06/2025</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
-<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress)</p></font>
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/danielle-soaress">Danielle Soares</a></p>
+
 
 ---
 
@@ -653,6 +654,7 @@ Validação dos Backlogs 01-12 e 31-42 presentes no vídeo a seguir:
 | `1.9`   | 01/06/2025 | Adicionando video Validação | [Maria Eduarda](https://github.com/dudaa28) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `2.0`   | 01/06/2025 | Foto referência | [Maria Eduarda](https://github.com/dudaa28) | [Victor Pontual](https://github.com/VictorPontual) |
 | `2.1`    | 04/06/2025 | Correção de links | [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir) |
-| `2.2`    | 21/06/2025 | Adicionando as historias feitas por cada participante | [Enzo Emir](https://github.com/EnzoEmir) | - |
-| `2.2`    | 22/06/2025 | Adicionando as datas  | [Enzo Emir](https://github.com/EnzoEmir) | - |
-| `2.3`  | 22/06/2025 | Arrumando referências | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `2.2`    | 21/06/2025 | Adicionando as historias feitas por cada participante | [Enzo Emir](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
+| `2.2`    | 22/06/2025 | Adicionando as datas  | [Enzo Emir](https://github.com/EnzoEmir) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `2.3`  | 22/06/2025 | Arrumando referências | [Enzo Emir](https://github.com/EnzoEmir) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `2.4` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |

@@ -197,23 +197,59 @@ Essa validação permite garantir que os RNFs não sejam apenas documentados, ma
 
 ### Cronograma de Participantes
 
-<font size="3"><p style="text-align: center">Tabela 2: Cronograma de Participantes</p></font>
+<p style="text-align: center; font-size: 12pt;"><strong>Tabela 2: Cronograma de Participantes</strong></p>
 
-<center>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Data</th>
+      <th>Hora</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+      <td>01/06/2025</td>
+      <td>13:30</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+      <td>01/06/2025</td>
+      <td>11:32</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+      <td>31/05/2025</td>
+      <td>11:45</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></td>
+      <td>31/05/2025</td>
+      <td>20:17</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+      <td>31/05/2025</td>
+      <td>08:52</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
+      <td>31/05/2025</td>
+      <td>00:45</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
+      <td>01/06/2025</td>
+      <td>12:30</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
-| Nome             | Data | Hora |
-|------------------|------|------|
-| Danielle Soares  | 01/06/2025    | 13:30    |
-| Eduardo de Pina  | 01/06/2025    | 11:32    |
-| Enzo Emir        | 31/05/2025    | 11:45    |
-| Leticia Arisa    | 31/05/2025    | 20:17  |
-| Marcelo Makoto   | 31/05/2025    | 08:52    |
-| Maria Eduarda    | 31/05/2025 | 00:45 |
-| Victor Pontual   |  01/06/2025   | 12:30    |
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/MM4k">Marcelo Makoto</a></p>
 
-</center>
-
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
 ### Requisitos não-funcionais
 
