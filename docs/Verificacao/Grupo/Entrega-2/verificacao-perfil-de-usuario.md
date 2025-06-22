@@ -78,5 +78,5 @@ O artefato *Perfil de Usuário* segue **em acompanhamento**, com a pendência id
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 |----|----|----|----|----|
-| 1.0 | 21/06/2025 | Criação do documento de verificação | [Enzo Emir](https://github.com/EnzoEmir) | |
-| 1.1 | 22/06/2025 | Adição dos prints | [Enzo Emir](https://github.com/EnzoEmir) | |
+| 1.0 | 21/06/2025 | Criação do documento de verificação | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| 1.1 | 22/06/2025 | Adição dos prints | [Enzo Emir](https://github.com/EnzoEmir) | - |
