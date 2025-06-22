@@ -24,6 +24,7 @@ Esta seção apresenta os requisitos funcionais e não funcionais que ainda **n�
 | RF07   | 1.0 | O aplicativo deve disponibilizar um guia interativo para orientar o usuário durante o processo | [ST07](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF)   |
 | RF08   | 1.0 | O aplicativo deve permitir o ajuste do tamanho das fontes na interface                      | [ST08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF)   |
 | RF22   | 	1.0 | O aplicativo deve mostrar o nome completo dos empregadores anteriores                      | [OB05](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF)   |
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/danielle-soaress">Danielle Soares</a></p>
 
 ---
 
@@ -41,6 +42,7 @@ Esta seção apresenta os requisitos funcionais e não funcionais que ainda **n�
 | RNF09   | 1.0 | O aplicativo deve aplicar princípios de usabilidade                                              | [IS20](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF)   |
 | RNF09   | 1.0 | O aplicativo deve aplicar princípios de acessibilidade                                           | [IS21](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF)   |
 | RNF10   | 1.0 | O aplicativo deve estar disponível para outras plataformas, como web                             | [IS22](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RNF)   |
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/danielle-soaress">Danielle Soares</a></p>
 
 ---
 
@@ -54,4 +56,5 @@ Esta seção apresenta os requisitos funcionais e não funcionais que ainda **n�
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 18/05/2025 | Criação do documento | [Enzo Emir](https://github.com/EnzoEmir) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.1` | 04/06/2025 | Adicionando Hiper Links | [Eduardo de Pina](https://github.com/eduardodpms) | [Marcelo Makoto](https://github.com/MM4k) |
-| `1.2`  | 21/06/2025 | Adição de versões dos requisitos | [Marcelo Makoto](https://github.com/MM4k) | - |
+| `1.2`  | 21/06/2025 | Adição de versões dos requisitos | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.3` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |

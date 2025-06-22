@@ -28,44 +28,45 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
   </thead>
   <tbody>
     <tr>
-      <td> Danielle Soares </td>
-      <td> 16/05/2025 </td>
-      <td> 23:28 </td>
+      <td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+      <td>16/05/2025</td>
+      <td>23:28</td>
     </tr>
     <tr>
-      <td> Eduardo de Pina </td>
-      <td> 18/05/2025 </td>
-      <td> 12:03 </td>
+      <td><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+      <td>18/05/2025</td>
+      <td>12:03</td>
     </tr>
     <tr>
-      <td> Enzo Emir </td>
-      <td> 17/05/2025 </td>
-      <td> 00:48   </td>
+      <td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+      <td>17/05/2025</td>
+      <td>00:48</td>
     </tr>
     <tr>
-      <td> Leticia Arisa </td>
-      <td> 16/05/2025 </td>
-      <td> 23:50 </td>
+      <td><a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></td>
+      <td>16/05/2025</td>
+      <td>23:50</td>
     </tr>
     <tr>
-      <td> Marcelo Makoto </td>
-      <td> 17/05/2025 </td>
-      <td> 09:14 </td>
+      <td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+      <td>17/05/2025</td>
+      <td>09:14</td>
     </tr>
     <tr>
-      <td> Maria Eduarda </td>
-      <td> 17/05/2025 </td>
-      <td> 19:17 </td>
+      <td><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
+      <td>17/05/2025</td>
+      <td>19:17</td>
     </tr>
     <tr>
-      <td> Victor Pontual </td>
-      <td> 17/05/2025 </td>
-      <td> 17:00 </td>
+      <td><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
+      <td>17/05/2025</td>
+      <td>17:00</td>
     </tr>
   </tbody>
 </table>
 
 </div>
+
 
 
 <font size="2"><p style="text-align: center">Fonte: <i>[Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</i> </p></font>
@@ -412,4 +413,5 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 | `1.9` | 17/05/2025 | Atualização do Documento | [Maria Eduarda](https://github.com/dudaa28) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `2.0` | 17/05/2025 | Atualizações para melhoria do Documento | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `2.1` | 17/05/2025 | Correção do atributo "título" para "id" | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `2.2` | 18/05/2025 | Adição de cenários para os casos de uso faltantes | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `2.2` | 18/05/2025 | Adição de cenários para os casos de uso faltantes | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
+| `2.3` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |

@@ -35,47 +35,46 @@ Abaixo, segue a tabela com os membros participantes do processo de construção 
   </thead>
   <tbody>
     <tr>
-      <td> Danielle Soares </td>
-      <td> 17/05/2025 </td>
-      <td> 22:50 </td>
+      <td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+      <td>17/05/2025</td>
+      <td>22:50</td>
     </tr>
     <tr>
-      <td> Eduardo de Pina </td>
-      <td> 18/05/2025 </td>
-      <td> 10:57 </td>
+      <td><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+      <td>18/05/2025</td>
+      <td>10:57</td>
     </tr>
     <tr>
-      <td> Enzo Emir </td>
-      <td> 17/05/2025 </td>
-      <td> 02:00 </td>
+      <td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+      <td>17/05/2025</td>
+      <td>02:00</td>
     </tr>
     <tr>
-      <td> Leticia Arisa </td>
-      <td> 17/05/2025 </td>
-      <td> 14:45 </td>
+      <td><a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></td>
+      <td>17/05/2025</td>
+      <td>14:45</td>
     </tr>
     <tr>
-      <td> Marcelo Makoto </td>
-      <td> 17/05/2025 </td>
-      <td> 09:37 </td>
+      <td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+      <td>17/05/2025</td>
+      <td>09:37</td>
     </tr>
     <tr>
-      <td> Maria Eduarda </td>
-      <td> 18/05/2025 </td>
-      <td> 17:00 </td>
+      <td><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
+      <td>18/05/2025</td>
+      <td>17:00</td>
     </tr>
     <tr>
-      <td> Victor Pontual </td>
-      <td> 17/05/2025 </td>
-      <td> 17:00 </td>
+      <td><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
+      <td>17/05/2025</td>
+      <td>17:00</td>
     </tr>
   </tbody>
 </table>
 
 </div>
 
-
-<p style="text-align: center; font-size: 16px;">Fonte: <i>Leticia Arisa</i></p>
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></p>
 
 ## Diagramas de Casos de Uso
 
@@ -83,7 +82,7 @@ Abaixo, segue a tabela com os membros participantes do processo de construção 
 
 ![Diagrama](./../assets/diagramas/implementado.png)
 
-<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) e [Enzo Emir](https://github.com/EnzoEmir), 2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) e [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
 <br>
 
@@ -91,7 +90,7 @@ Abaixo, segue a tabela com os membros participantes do processo de construção 
 
 ![Diagrama](./../assets/diagramas/nao_implementado.png)
 
-<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) e [Enzo Emir](https://github.com/EnzoEmir), 2025.</p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) e [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
 
 
@@ -526,4 +525,5 @@ No contexto do app FGTS, uma pós-condição para o caso de uso **Visualizar Dat
 | `2.3` | 18/05/2025 | Adição Fluxos | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |
 | `2.4` | 18/05/2025 | Atualização Página | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) |
 | `2.5` | 18/05/2025 | Gravação da Verificação | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
-| `2.6` | 08/06/2025 | Adição de hiperlinks | [Danielle](https://github.com/danielle-soaress) |  |  |
+| `2.6` | 08/06/2025 | Adição de hiperlinks | [Danielle](https://github.com/danielle-soaress) | [Victor Pontual](https://github.com/VictorPontual) |
+| `2.7` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |

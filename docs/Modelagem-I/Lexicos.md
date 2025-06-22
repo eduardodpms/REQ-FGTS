@@ -61,39 +61,39 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
   </thead>
   <tbody>
     <tr>
-      <td> Danielle Soares </td>
-      <td> 17/05/2025 </td>
-      <td> 00:01 </td>
+      <td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+      <td>17/05/2025</td>
+      <td>00:01</td>
     </tr>
     <tr>
-      <td> Eduardo de Pina </td>
-      <td> 18/05/2025 </td>
-      <td> 17:35 </td>
+      <td><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+      <td>18/05/2025</td>
+      <td>17:35</td>
     </tr>
     <tr>
-      <td> Enzo Emir </td>
-      <td> 17/05/2025 </td>
-      <td> 01:21 </td>
+      <td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+      <td>17/05/2025</td>
+      <td>01:21</td>
     </tr>
     <tr>
-      <td> Leticia Arisa </td>
-      <td> 17/05/2025 </td>
-      <td> 8:24 </td>
+      <td><a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></td>
+      <td>17/05/2025</td>
+      <td>08:24</td>
     </tr>
     <tr>
-      <td> Marcelo Makoto </td>
-      <td> 17/05/2025 </td>
-      <td> 15:10 </td>
+      <td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+      <td>17/05/2025</td>
+      <td>15:10</td>
     </tr>
     <tr>
-      <td> Maria Eduarda </td>
-      <td> 17/05/2025 </td>
-      <td> 22:00 </td>
+      <td><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
+      <td>17/05/2025</td>
+      <td>22:00</td>
     </tr>
     <tr>
-      <td> Victor Pontual </td>
-      <td> 17/05/2025 </td>
-      <td> 17:00 </td>
+      <td><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
+      <td>17/05/2025</td>
+      <td>17:00</td>
     </tr>
   </tbody>
 </table>
@@ -101,7 +101,9 @@ Seguindo a recomendação do professor de que cada membro do grupo fosse respons
 </div>
 
 
-<p style="text-align: center; font-size: 16px;">Fonte: <i>Leticia Arisa</i></p>
+
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></p>
+
 
 ## Sumário
 
@@ -1352,4 +1354,5 @@ O léxico L49 utiliza o requisito funcional não implementado ST07 (O aplicativo
 | `2.7` | 21/06/2025 | Adicionando Hiperlinks entre os lexicos L033-L36 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
 | `2.8` | 22/06/2025 | Adicionando Hiperlinks entre os lexicos L37-39 e L30-32 | [Danielle Soares](https://github.com/danielle-soaress) | [Marcelo Makoto](https://github.com/MM4k) |
 | `2.9` | 22/06/2025 | Correção do Sumário | [Danielle Soares](https://github.com/danielle-soaress) | [Marcelo Makoto](https://github.com/MM4k) |
-| `3.0` | 22/06/2025 | Adicionando Hiperlinks entre os lexicos L40-45 | [Marcelo Makoto](https://github.com/MM4k) | --- |
+| `3.0` | 22/06/2025 | Adicionando Hiperlinks entre os lexicos L40-45 | [Marcelo Makoto](https://github.com/MM4k) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `3.1` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |

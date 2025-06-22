@@ -33,39 +33,39 @@ A elaboração da especificação suplementar seguiu os seguintes passos <a id="
   </thead>
   <tbody>
     <tr>
-      <td> Danielle Soares </td>
-      <td> 18/05/2025 </td>
-      <td> 23:13 </td>
+      <td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+      <td>18/05/2025</td>
+      <td>23:13</td>
     </tr>
     <tr>
-      <td> Eduardo de Pina </td>
-      <td> 18/05/2025 </td>
-      <td> 23:13 </td>
+      <td><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+      <td>18/05/2025</td>
+      <td>23:13</td>
     </tr>
     <tr>
-      <td> Enzo Emir </td>
-      <td> 18/05/2025 </td>
-      <td> 23:13 </td>
+      <td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+      <td>18/05/2025</td>
+      <td>23:13</td>
     </tr>
     <tr>
-      <td> Leticia Arisa </td>
-      <td> 18/05/2025 </td>
-      <td> 23:13 </td>
+      <td><a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></td>
+      <td>18/05/2025</td>
+      <td>23:13</td>
     </tr>
     <tr>
-      <td> Marcelo Makoto </td>
-      <td> 18/05/2025 </td>
-      <td> 23:13 </td>
+      <td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+      <td>18/05/2025</td>
+      <td>23:13</td>
     </tr>
     <tr>
-      <td> Maria Eduarda </td>
-      <td> 18/05/2025 </td>
-      <td> 23:13 </td>
+      <td><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
+      <td>18/05/2025</td>
+      <td>23:13</td>
     </tr>
     <tr>
-      <td> Victor Pontual </td>
-      <td> 18/05/2025 </td>
-      <td> 23:13 </td>
+      <td><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
+      <td>18/05/2025</td>
+      <td>23:13</td>
     </tr>
   </tbody>
 </table>
