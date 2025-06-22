@@ -68,10 +68,9 @@ A verificação foi realizada com base na checklist definida no [Planejamento de
 |----|---------|-----------|
 | **01:** Existe um cronograma com data para realização da priorização dos requisitos? | Sim | - |
 | **02:** O local para a priorização foi definido? | Sim | - |
-| **03:** O cronograma e local da priorização foram definidos com o cliente e/ou persona? | Sim | - |
-| **04:** A prioridade de cada requisito foi decidida de forma binária (In/Out)? | Sim | - |
-| **05:** Houve participação de stakeholders? | Sim | - |
-| **06:** Todos os requisitos a serem priorizados foram reunidos em uma lista? | Sim | - |
+| **03:** A prioridade de cada requisito foi decidida de forma binária (In/Out)? | Sim | - |
+| **04:** Houve participação de stakeholders? | Sim | - |
+| **05:** Todos os requisitos a serem priorizados foram reunidos em uma lista? | Sim | - |
 
 ## Análise de Resultados
 

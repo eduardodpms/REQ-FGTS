@@ -228,10 +228,9 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | :---- | :---- | :---: | :---: |
 | ***01:*** Existe um cronograma com data para realização da priorização dos requisitos? [(1)](#RF1) | ***![][image14]*** | \- | \- |
 | ***02:*** O local para a priorização foi definido? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***03:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona? [(1)](#RF1) | ***![][image14]*** | \- | \- |
-| ***04:*** A prioridade de cada requisito foi decidida de forma binária (In/Out) ? [(4)](#RF4) | ***![][image38]*** | \- | \- |
-| ***05:*** Houve participação de stakeholders? [(4)](#RF4) | ***![][image39]*** | \- | \- |
-| ***06:*** Todos os requisitos a serem priorizados foram reunidos em uma lista? [(4)](#RF4) | ***![][image40]*** | \- | \- |
+| ***03:*** A prioridade de cada requisito foi decidida de forma binária (In/Out) ? [(4)](#RF4) | ***![][image38]*** | \- | \- |
+| ***04:*** Houve participação de stakeholders? [(4)](#RF4) | ***![][image39]*** | \- | \- |
+| ***05:*** Todos os requisitos a serem priorizados foram reunidos em uma lista? [(4)](#RF4) | ***![][image40]*** | \- | \- |
 
 
 ### ✅ Three-Level Scale
