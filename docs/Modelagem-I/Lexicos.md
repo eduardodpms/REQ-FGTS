@@ -1107,7 +1107,8 @@ O léxico L40 utiliza o requisito funcional não implementado IS13 (O aplicativo
 | **Tipo** | Objeto | 
 | **Impacto** | - Permite a comunicação direta entre o usuário e um assistente virtual. <br> - Auxilia na resolução de dúvidas e problemas sem a necessidade de sair do aplicativo. <br> - Pode ser integrado a diferentes partes do sistema para oferecer suporte contextual. | 
 | **Noção** | Canal de comunicação textual, em tempo real, por onde o usuário interage com um assistente para obter suporte, tirar dúvidas ou receber orientações. | 
-| **Sinônimos** | Conversa, Atendimento Virtual, Suporte via mensagem | 
+| **Sinônimos** | Conversa, Atendimento Virtual, Suporte via mensagem |
+| **Conexões** | [L41](#l41-assistente-virtual), [L42](#l42-mensagem) | 
 | **Autor** | [Marcelo Makoto](https://github.com/MM4k) | 
 
 </center>
@@ -1130,7 +1131,8 @@ O léxico L41 utiliza o requisito funcional não implementado IS13 (O aplicativo
 | **Tipo** | Objeto | 
 | **Impacto** | 	- Fornece respostas automáticas e orientações baseadas no contexto do usuário. <br> - Ajuda a reduzir o tempo de espera e a carga sobre o suporte humano. <br> - Pode ser integrado com outras funcionalidades para melhorar a experiência do usuário. | 
 | **Noção** | Sistema automatizado que interage com o usuário via chat para fornecer suporte, esclarecer dúvidas e orientar sobre o uso do aplicativo. | 
-| **Sinônimos** | Bot, Atendimento Automático, Agente Virtual | 
+| **Sinônimos** | Bot, Atendimento Automático, Agente Virtual |
+| **Conexões** | [L40](#l40-chat), [L42](#l42-mensagem) | 
 | **Autor** | [Marcelo Makoto](https://github.com/MM4k) | 
 
 </center>
@@ -1153,7 +1155,8 @@ O léxico L42 utiliza o requisito funcional não implementado IS13 (O aplicativo
 | **Tipo** | Objeto | 
 | **Impacto** | 	- Permite a troca de informações entre usuário e assistente virtual. <br> - É a unidade básica de comunicação no chat. <br> - Pode conter perguntas, respostas, instruções ou links para funcionalidades. | 
 | **Noção** | 	Texto enviado ou recebido na interface do chat que representa a comunicação entre o usuário e o assistente. | 
-| **Sinônimos** | Texto, Comunicação | 
+| **Sinônimos** | Texto, Comunicação |
+| **Conexões** | [L40](#l40-chat), [L41](#l41-assistente-virtual) | 
 | **Autor** | [Marcelo Makoto](https://github.com/MM4k) | 
 
 </center>
@@ -1180,7 +1183,8 @@ O léxico L43 utiliza o requisito funcional não implementado IS14 (O aplicativo
 | **Tipo** | Verbo | 
 | **Impacto** | - Facilita a localização de funcionalidades e informações dentro do aplicativo. <br> - Melhora a usabilidade ao reduzir o tempo de navegação. <br> - Permite que o usuário acesse diretamente conteúdos relevantes com base em palavras-chave. | 
 | **Noção** | Ação de digitar um termo com o objetivo de encontrar funcionalidades ou conteúdos relacionados a ele no sistema. | 
-| **Sinônimos** | Pesquisar, Procurar, Localizar | 
+| **Sinônimos** | Pesquisar, Procurar, Localizar |
+| **Conexões** | [L44](#l44-campo-de-busca), [L45](#l45-termo-de-pesquisa) | 
 | **Autor** | [Marcelo Makoto](https://github.com/MM4k) | 
 
 </center>
@@ -1203,7 +1207,8 @@ O léxico L44 utiliza o requisito funcional não implementado IS14 (O aplicativo
 | **Tipo** | Objeto | 
 | **Impacto** | - Interface que permite ao usuário digitar termos para localizar informações. <br> - Deve ser intuitivo e responsivo para garantir usabilidade. <br> - Facilita a navegação e o acesso a conteúdos. | 
 | **Noção** | Área ou elemento da interface do aplicativo onde o usuário insere palavras-chave para realizar consultas no sistema. | 
-| **Sinônimos** | Barra de Pesquisa, Caixa de Pesquisa, Pesquisa de Texto | 
+| **Sinônimos** | Barra de Pesquisa, Caixa de Pesquisa, Pesquisa de Texto |
+| **Conexões** | [L43](#l43-buscar), [L45](#l45-termo-de-pesquisa) | 
 | **Autor** | [Marcelo Makoto](https://github.com/MM4k) | 
 
 </center>
@@ -1226,7 +1231,8 @@ O léxico L45 utiliza o requisito funcional não implementado IS14 (O aplicativo
 | **Tipo** | Objeto | 
 | **Impacto** | - Define o conteúdo que o usuário deseja encontrar. <br> - A precisão do termo influencia na relevância dos resultados. <br> - Pode ser ampliado com sugestões para melhorar a busca. | 
 | **Noção** | Palavra ou conjunto de palavras digitadas pelo usuário no campo de busca para localizar funcionalidades ou informações. | 
-| **Sinônimos** | Palavra-chave, Consulta, Pesquisa | 
+| **Sinônimos** | Palavra-chave, Consulta, Pesquisa |
+| **Conexões** | [L43](#l43-buscar), [L44](#l44-campo-de-busca) | 
 | **Autor** | [Marcelo Makoto](https://github.com/MM4k) | 
 
 </center>
@@ -1343,6 +1349,7 @@ O léxico L49 utiliza o requisito funcional não implementado ST07 (O aplicativo
 | `2.4` | 17/06/2025 | Adicionando L31, L32, L38 E L39 | [Danielle Soares](https://github.com/danielle-soaress)  | [Enzo Emir](https://github.com/EnzoEmir) |
 | `2.5` | 17/06/2025 | Corrigindo links da página | [Danielle Soares](https://github.com/danielle-soaress)  | [Enzo Emir](https://github.com/EnzoEmir) |
 | `2.6` | 20/06/2025 | Adicionando Hiperlinks entre os lexicos L01-L13 | [Enzo Emir](https://github.com/EnzoEmir) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| `2.7` | 21/06/2025 | Adicionando Hiperlinks entre os lexicos L033-L36 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | --- |
-| `2.8` | 22/06/2025 | Adicionando Hiperlinks entre os lexicos L37-39 e L30-32 | [Danielle Soares](https://github.com/danielle-soaress) | --- |
-| `2.9` | 22/06/2025 | Correção do Sumário | [Danielle Soares](https://github.com/danielle-soaress) | --- |
+| `2.7` | 21/06/2025 | Adicionando Hiperlinks entre os lexicos L033-L36 | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
+| `2.8` | 22/06/2025 | Adicionando Hiperlinks entre os lexicos L37-39 e L30-32 | [Danielle Soares](https://github.com/danielle-soaress) | [Marcelo Makoto](https://github.com/MM4k) |
+| `2.9` | 22/06/2025 | Correção do Sumário | [Danielle Soares](https://github.com/danielle-soaress) | [Marcelo Makoto](https://github.com/MM4k) |
+| `3.0` | 22/06/2025 | Adicionando Hiperlinks entre os lexicos L40-45 | [Marcelo Makoto](https://github.com/MM4k) | --- |
