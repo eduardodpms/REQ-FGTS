@@ -160,6 +160,18 @@ O elenco é composto por cinco personas (duas primárias, duas secundárias e um
 
 <br>
 
+## Conclusão
+
+A construção do elenco de personas para o projeto FGTS teve como foco principal **apoiar a aplicação da técnica de Storytelling durante a elicitação de requisitos**. A definição de perfis detalhados e representativos permitiu criar **histórias realistas e contextualizadas**, nas quais os usuários fictícios enfrentam situações próximas às reais, facilitando a identificação de suas necessidades, dores e expectativas em relação ao aplicativo.
+
+As personas funcionaram como **ponto de partida para a criação de narrativas que orientaram a geração de requisitos funcionais e não funcionais**, garantindo que os cenários desenvolvidos refletissem as reais condições de uso do sistema.
+
+Além disso, o uso das personas no Storytelling ajudou a equipe a **visualizar as jornadas dos usuários**, promovendo maior empatia durante a análise dos requisitos e evitando suposições infundadas sobre o comportamento do público-alvo.
+
+Por fim, mesmo após a etapa de storytelling, essas personas continuarão a ser utilizadas como **referência para validação de soluções**, **avaliação de protótipos**, **testes de usabilidade** e **justificativa de decisões centradas no usuário** ao longo do ciclo de desenvolvimento do aplicativo FGTS.
+
+
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021). Interação Humano-Computador e Experiência do Usuário. Autopublicação. ISBN: 978-65-00-19677-1.
@@ -177,3 +189,4 @@ O elenco é composto por cinco personas (duas primárias, duas secundárias e um
 | `1.2` | 21/06/2025 | Adicionando tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.3`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.4`  | 21/06/2025 | Adição de informações da quantidade de personas no elenco | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.5` | 22/06/2025 | Adição da conclusão | [Victor Pontual](https://github.com/VictorPontual) | [Maria Eduarda](https://github.com/dudaa28) |
