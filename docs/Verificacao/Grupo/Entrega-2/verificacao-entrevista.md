@@ -8,7 +8,7 @@ Adotando a abordagem formal proposta por **Fagan**, estruturamos a inspeção em
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados da verificação realizada sobre o artefato de [Entrevista](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/) na versão 1.5, datada de **17/05/2025**, correspondente à **Etapa 2** do projeto do [grupo](https://github.com/Requisitos-de-Software/2025.1-FGTS).
+O objetivo deste documento é relatar os resultados da verificação realizada sobre o artefato de [Entrevista](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/) na versão 1.6, datada de **21/06/2025**, correspondente à **Etapa 2** do projeto do [grupo](https://github.com/Requisitos-de-Software/2025.1-FGTS).
 
 ## Metodologia
 
