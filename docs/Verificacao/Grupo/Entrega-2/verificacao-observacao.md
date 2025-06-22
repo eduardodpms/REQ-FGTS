@@ -51,7 +51,9 @@ Nesta etapa a integrante [Danielle Soares](https://github.com/danielle-soaress),
 
 </div>
 
-<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+<font size="3"><p style="text-align: center">Fonte: 
+    <a href="https://github.com/danielle-soaress">Danielle Soares</a>
+</p></font>
 
 ## Inspeção
 

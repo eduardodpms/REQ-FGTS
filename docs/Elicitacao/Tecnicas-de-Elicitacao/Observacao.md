@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A observação é uma técnica de elicitação direta que permite captar comportamentos, dificuldades e práticas reais dos usuários em seu contexto de uso. Ao contrário das entrevistas, a observação permite perceber ações implícitas, que muitas vezes não são relatadas verbalmente, e registrar de forma detalhada o fluxo de interação.
+A observação é uma técnica de elicitação direta que permite captar comportamentos, dificuldades e práticas reais dos usuários em seu contexto de uso <a href="#REF1">1</a> . Ao contrário das entrevistas, a observação permite perceber ações implícitas, que muitas vezes não são relatadas verbalmente, e registrar de forma detalhada o fluxo de interação.
 
 Neste trabalho, foi realizada uma **sessão de observação do aplicativo FGTS**, com foco na navegação e nos recursos acessados por um usuário durante o uso espontâneo da aplicação.
 
@@ -166,9 +166,9 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 <iframe width="560" height="315" src="https://youtube.com/embed/Ih51yK-A90c?si=yIwT0zeufa5ZDdIv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
-## Bibliografia
+## Referências Bibliográficas
 
-> 1.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Brasport, 2016.
+> <a id="REF1">1.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Brasport, 2016.
 
 ---
 
@@ -180,3 +180,4 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 | `1.1` | 17/05/2025 | Adição de âncoras e correção dos IDs de rastreabilidade | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.2` | 17/05/2025 | Corrigindo bug nas tabelas | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.3` | 21/05/2025 | Alteração no texto da Metodologia | [Danielle Soares](https://github.com/danielle-soaress) | --- |
+| `1.4` | 21/05/2025 | Referências bibliográficas no texto | [Danielle Soares](https://github.com/danielle-soaress) | --- |
