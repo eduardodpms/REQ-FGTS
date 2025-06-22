@@ -40,8 +40,8 @@ A metodologia utilizada na etapa de verificação é o método de inspeção de 
     </tr>
     <tr>
       <td> Marcelo Makoto </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 22/06/2025 </td>
+      <td> 01:12 </td>
       <td> Histórias de Usuário </td>
     </tr>
   </tbody>
