@@ -97,4 +97,4 @@ Até o momento da entrega dos artefatos referentes à validação do projeto, os
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 20/06/2025 | Criação da Página | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
-| `1.1` | 22/06/2025 | Adição dos elementos da página | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.1` | 22/06/2025 | Adição dos elementos da página | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
