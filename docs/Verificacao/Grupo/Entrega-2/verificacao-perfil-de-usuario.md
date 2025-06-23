@@ -16,12 +16,38 @@ A verificação foi realizada com base na checklist definida no [Planejamento de
 
 ## Cronograma e Participantes
 
+Nesta etapa o integrante [Enzo Emir](https://github.com/EnzoEmir), será responsável pelo papel de avaliador, ou seja, pela verificação e correção dos problemas que foram identificados. A integrante [Victor Pontual](https://github.com/) fará a revisão do artefato produzido pelo avaliador. Segue a lista de participantes:
+
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
-| Nome | Data | Hora |
-|----|----|----|
-| Eduardo de Pina | 02/05/2025 | 17:10 |
-| Marcelo Makoto | 02/05/2025 | 19:00 |
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Função</th>
+      <th>Data</th>
+      <th>Hora</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Enzo Emir </td>
+      <td> Avaliador </td>
+      <td> 22/06/2025 </td>
+      <td> 00:59 </td>
+    </tr>
+    <tr>
+      <td> Victor Pontual </td>
+      <td> Revisor </td>
+      <td> 22/06/2025 </td>
+      <td> 15:10 </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 

@@ -19,7 +19,7 @@ Embora a metodologia tenha um caráter técnico e objetivo, durante a análise f
 
 ## Cronograma e Participantes
 
-Nesta etapa o integrante [Victor Pontual](https://github.com/), foi responsável pelo papel de avaliador, realizando a verificação e apontando os problemas encontrados no artefato. O integrante [Enzo Emir](https://github.com/), atuou como revisor, ficando responsável por revisar o trabalho produzido pelo avaliador. Segue a lista de participantes:
+Nesta etapa o integrante [Victor Pontual](https://github.com/VictorPontual), foi responsável pelo papel de avaliador, realizando a verificação e apontando os problemas encontrados no artefato. O integrante [Enzo Emir](https://github.com/), atuou como revisor, ficando responsável por revisar o trabalho produzido pelo avaliador. Segue a lista de participantes:
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
@@ -42,7 +42,7 @@ Nesta etapa o integrante [Victor Pontual](https://github.com/), foi responsável
       <td> 15:20 </td>
     </tr>
     <tr>
-      <td> <a href="https://github.com/enzon3to">Enzo Emir</a> </td>
+      <td> <a href="https://github.com/EnzoEmir">Enzo Emir</a> </td>
       <td> Revisor </td>
       <td> 22/06/2025 </td>
       <td> 15:40 </td>

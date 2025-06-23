@@ -16,64 +16,38 @@ A verificação foi realizada com base na checklist definida no [Planejamento de
 
 ## Cronograma e Participantes
 
+Nesta etapa o integrante [Enzo Emir](https://github.com/EnzoEmir), será responsável pelo papel de avaliador, ou seja, pela verificação e correção dos problemas que foram identificados. A integrante [Victor Pontual](https://github.com/) fará a revisão do artefato produzido pelo avaliador. Segue a lista de participantes:
+
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
-<center>
-    <table>
-    <thead>
-        <tr>
-        <th>Participante</th>
-        <th>Função</th>
-        <th>Histórias</th>
-        <th>Data</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-        <td>Danielle Soares</td>
-        <td>Produtor do Backlog</td>
-        <td>H13-H18</td>
-        <td>30/05/2025</td>
-        </tr>
-        <tr>
-        <td>Eduardo de Pina</td>
-        <td>Produtor do Backlog</td>
-        <td>H37-H42</td>
-        <td>01/06/2025</td>
-        </tr>
-        <tr>
-        <td>Enzo Emir</td>
-        <td>Produtor do Backlog</td>
-        <td>H01-H06</td>
-        <td>01/06/2025</td>
-        </tr>
-        <tr>
-        <td>Leticia Arisa</td>
-        <td>Produtor do Backlog</td>
-        <td>H25-H30</td>
-        <td>30/05/2025</td>
-        </tr>
-        <tr>
-        <td>Marcelo Makoto</td>
-        <td>Produtor do Backlog</td>
-        <td>H07-H12</td>
-        <td>01/06/2025</td>
-        </tr>
-        <tr>
-        <td>Maria Eduarda</td>
-        <td>Produtor do Backlog</td>
-        <td>H19-H24</td>
-        <td>30/05/2025</td>
-        </tr>
-        <tr>
-        <td>Victor Pontual</td>
-        <td>Produtor do Backlog</td>
-        <td>H31-H36</td>
-        <td>01/06/2025</td>
-        </tr>
-    </tbody>
-    </table>
-</center>
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Função</th>
+      <th>Data</th>
+      <th>Hora</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> Enzo Emir </td>
+      <td> Avaliador </td>
+      <td> 21/06/2025 </td>
+      <td> 23:53 </td>
+    </tr>
+    <tr>
+      <td> Victor Pontual </td>
+      <td> Revisor </td>
+      <td> 22/06/2025 </td>
+      <td> 15:00 </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 

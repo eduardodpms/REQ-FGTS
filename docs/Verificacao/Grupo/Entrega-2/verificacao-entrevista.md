@@ -18,7 +18,7 @@ Além da avaliação objetiva, foram feitas análises críticas quanto à clarez
 
 ## Cronograma e Participantes
 
-Nesta etapa, o integrante [Victor Pontual](https://github.com/VictorPontual) atuou como **avaliador**, sendo responsável pela execução da verificação. O integrante [Enzo Emir](https://github.com/enzon3to) foi o **revisor**, responsável por conferir a análise realizada.
+Nesta etapa, o integrante [Victor Pontual](https://github.com/VictorPontual) atuou como **avaliador**, sendo responsável pela execução da verificação. O integrante [Enzo Emir](https://github.com/EnzoEmir) foi o **revisor**, responsável por conferir a análise realizada.
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
@@ -41,7 +41,7 @@ Nesta etapa, o integrante [Victor Pontual](https://github.com/VictorPontual) atu
       <td> 16:20 </td>
     </tr>
     <tr>
-      <td> <a href="https://github.com/enzon3to">Enzo Emir</a> </td>
+      <td> <a href="https://github.com/EnzoEmir">Enzo Emir</a> </td>
       <td> Revisor </td>
       <td> 22/06/2025 </td>
       <td> 16:40 </td>
