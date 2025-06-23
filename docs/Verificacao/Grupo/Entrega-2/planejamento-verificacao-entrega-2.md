@@ -64,8 +64,8 @@ A metodologia utilizada na etapa de verificação é o método de inspeção de 
     </tr>
     <tr>
       <td> Victor Pontual </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 22/06/2025 </td>
+      <td> 16:30 </td>
       <td> Introspecção, Entrevista </td>
     </tr>
   </tbody>
