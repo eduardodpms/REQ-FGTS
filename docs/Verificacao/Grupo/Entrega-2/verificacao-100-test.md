@@ -41,7 +41,7 @@ Nesta etapa o integrante [Marcelo Makoto](https://github.com/MM4k), será respon
       <td> 00:42 </td>
     </tr>
     <tr>
-      <td> [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </td>
+      <td> Leticia Arisa </td>
       <td> Revisor </td>
       <td> 22/06/2025 </td>
       <td> 21:44 </td>
