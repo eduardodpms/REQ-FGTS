@@ -28,8 +28,8 @@ A metodologia utilizada na etapa de verificação é o método de inspeção de 
   <tbody>
     <tr>
       <td> Eduardo de Pina </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 22/06/2025 </td>
+      <td> 20:40 </td>
       <td> Cenários </td>
     </tr>
     <tr>

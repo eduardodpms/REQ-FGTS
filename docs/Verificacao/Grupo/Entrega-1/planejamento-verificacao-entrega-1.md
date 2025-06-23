@@ -28,8 +28,8 @@ A metodologia utilizada na etapa de verificação é o método de inspeção de 
   <tbody>
     <tr>
       <td> Eduardo de Pina </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 22/06/2025 </td>
+      <td> 19:52 </td>
       <td> Rich Picture </td>
     </tr>
   </tbody>
@@ -59,12 +59,12 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 
 | Item | Referência | Avaliação | Observação |
 | :---- | :---: | :---: | :---: |
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(1)](#RF1)| ![][image1] | \- | \- |
-| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(1)](#RF1)| ![][image2] | \- | \- |
-| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(1)](#RF1)| ![][image3] | \- | \- |
-| ***04:*** O artefato apresenta uma introdução? [(1)](#RF1)| ![][image4] | \- | \- |
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(1)](#RF1)|  | \- | \- |
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(1)](#RF1)| ![][image5] | \- | \- |
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(2)](#RP2)| ![][image1] | \- | \- |
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(2)](#RP2)| ![][image2] | \- | \- |
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(2)](#RP2)| ![][image3] | \- | \- |
+| ***04:*** O artefato apresenta uma introdução? [(2)](#RP2)| ![][image4] | \- | \- |
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(2)](#RP2)|  | \- | \- |
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(2)](#RP2)| ![][image5] | \- | \- |
 
 ### ✅ Rich Picture
 
