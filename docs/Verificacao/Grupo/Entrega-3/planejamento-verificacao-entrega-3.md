@@ -81,6 +81,8 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 
 ### ✅ Itens Gerais
 
+<font size="3"><p style="text-align: center">Tabela 2: Itens Gerais</p></font>
+
 | Item | Referência | Avaliação | Observação |
 | :---- | :---: | :---: | :---: |
 | ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(1)](#RF1)| ![][imagex1] | \- | \- |
@@ -90,7 +92,11 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(1)](#RF1)|  | \- | \- |
 | ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(1)](#RF1)| ![][imagex5] | \- | \- |
 
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+
 ### ✅ Casos de Uso
+
+<font size="3"><p style="text-align: center">Tabela 3: Itens do artefato "Casos de Uso"</p></font>
 
 | Item | Referências | Avaliação | Observação |
 | :---- | ----- | :---: | :---: |
@@ -102,7 +108,11 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***06:*** No diagrama de casos de uso, todos os atores estão relacionados com pelo menos um caso de uso? [(4)](#RF4)| [Link do Vídeo](https://youtu.be/ab6eDdwS3rA?si=xsOyiXR84KKnVJud&t=255) | \- | \- |
 | ***07:*** No diagrama de casos de uso, todos os casos de uso estão posicionados dentro da caixa que representa o sistema? [(4)](#RF4)| [Link do Vídeo](https://youtu.be/ab6eDdwS3rA?si=fEZ-z0ITIVDAZNAg&t=257) | \- | \- |
 
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+
 ### ✅ Cenários
+
+<font size="3"><p style="text-align: center">Tabela 4: Itens do artefato "Cenários"</p></font>
 
 | Item | Referências | Avaliação | Observação |
 | :---- | :---- | :---: | :---: |
@@ -115,7 +125,11 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***07:*** Os cenários possuem episódios? [(3)](#RF3) | ***![][image11]*** | \- | \- |
 | ***08:*** Os cenários identificam os recursos (objetos passivos com os quais lidam os atores)? [(3)](#RF3) | ***![][image12]*** | \- | \- |
 
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+
 ### ✅ Léxicos
+
+<font size="3"><p style="text-align: center">Tabela 5: Itens do artefato "Léxicos"</p></font>
 
 | Item | Referências | Avaliação | Observação |
 | :---- | :---- | :---: | :---: |
@@ -128,7 +142,11 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***07:***  Cada léxico tem um ou mais impactos? [(2)](#RF2) | ***![][image18]*** | \- | \- |
 | ***08:*** Há definição de usuário nos léxicos? [(1)](#RF1)  | ***![][image19]*** | \- | \- |
 
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+
 ### ✅ Especificação suplementar
+
+<font size="3"><p style="text-align: center">Tabela 6: Itens do artefato "Especificação Suplementar"</p></font>
 
 | Item | Referências | Avaliação | Observação |
 | :---- | :---- | :---: | :---: |
@@ -136,6 +154,8 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***02:*** A especificação suplementar define requisitos de tempo de resposta na seção de desempenho?  [(1)](#RF1) | ***![][image21]*** | \- | \- |
 | ***03:*** A especificação suplementar define os ambientes ou plataformas de execução do aplicativo?  [(1)](#RF1) | ***![][image22]*** | \- | \- |
 | ***04:*** Na especificação suplementar todos os requisitos não funcionais são testáveis/verificáveis?  [(1)](#RF1) | ***![][image23]*** | \- | \- |
+
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ## Referências Bibliográficas
 
@@ -157,6 +177,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | `1.3` | 21/06/2025 | Adição de Listas de Verificação | [Marcelo Makoto](https://github.com/MM4k) | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) | |
 | `1.4` | 21/06/2025 | Referências e prints das listas de verificação | [Danielle Soares](https://github.com/danielle-soaress) | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.5` | 22/06/2025 | Registrando participação na tabela de participantes | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.6` | 22/06/2025 | Adicionando legendas e fontes das listas | [Eduardo de Pina](https://github.com/eduardodpms) | [Marcelo Makoto](https://github.com/MM4k) |
 
 
 [imagex1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAI4AAAAICAYAAAAvFMfNAAAE4klEQVR4Xu1WfUxTVxTXQFteLYUxcJiC00yRJYtAyLIRotuCZpsBJy5DZRn42W1aKzhhNQEii3yoIRjcgOq2OjRsGsOQCRpl1oofYE0EJaMjItH4AYmwxUGA8F5+u/e8R2cb5nT7YzPjl5B77u/ed8495/zuLZMwgQn8DUzyJiYwgceBWzhNrbcf5hVIaGhowPm2mx5sb0s1eiQPiiB6EwpO2tu9KQWDbsvefh/O7gGyb7ddwC3nSffauBDv0lBdWvAI/0+IQc88x3Dhyvj8eCjYvtObemKIPde8qX8EqbcF58ZrmBesVps39acg4Uj3ToG3vXnEaxXDSPz6J1gd7bA0duJj03pmu+Dj/zKNry9dh4pjNUj5wAir/TLWVF7E5/srsGLlauxxdGJZ+krsOt2JVMsBpBuNWF1xHtaTp7H/rNIIsQNNtnwybfabiMn5EV1MS4WvCGg/Wg4u3AKbg9aLs8049rOINlcD+lkNLOb1kPqdeM1cinKbHTVlebjUK2Kw246NlmL2xRA2mC1yHIbvd+egpZdLmycpYb0py722t+oMjWJHIUwZeQorIj/TRJYQI3PttWWwOW6RXVLLmyvB1bAb3XYbLMUH4TxUitIv6midn+/eKJls2y/Y+OkOMstyNrOy3kDhQSfNsxc8BxfbV5abQfPmA0Voq0xk3/wKU1YBcUVbN8l+wOl2OG4Ns/S6YaY8ZRRZzGhmAevaXDi4Lwvl9S7kbNpAlzlKHURZ87r0O79FYXk9xeNuxvxUrk0hP1PTj7p9PgoeP1XLDssvQFhYmMLIwtH7ToO1sRrR8xYi5u1cqEOWY6pPIM0rqjYzEXXCRz+H5iVb5tFcFbuNRrJDlsFXZ0B0mArW48cx2W+67J4Jh9+D4LRahBlP4I2yO/jmHS0JZ+9bAqKEWHAB3G/KpO0phwaR1zoKqe8MZsyNx0VWjY9ODUMIM2KsRwvDBaSa+P7fEGXQ4TJPaaQJycnJ9PddikHxywSRZJNHwzoauXA40mqH+IxsbXCaIpxRXOVBho4gM0IArw3fw46DcEEDU+YS8JicHTufJlIWp+rZuRR7j1O+mavqhuAwv0B2U2YERq/kki0kfUkxhuvXQGD140iyPcAnqQlyHgyx266yI6xgoTpg0PnKb7bUh2dmzEWEJhIxea2Ur8SkQjkvXYXF2nD0nflMqcsI7iiPz5EVgW4/HMFB78kLjwFFOBL81WrPFcLYi9OB6K0OhGh9seUHFwmnouYrCDo/t3B27trAGrjAQzgatQ7JZZdIOPrpLyIhLhjbc5cj6CXlgKILcdMCqOlcOK+mroXpcJdbOFJPI2tqPG01+KuRemSIhCN2VSEmahb2sed3TDgz2VkWF53F7ClazE7IwOj1aoQE6/FAyWSWXoWIJcWYY3aQX3+dmoouBAbi+emKcFw7WB00yhciAgL80TX6x4uTOFsPQ7yRGjVnUTbt4cKZog1FQoYsVpKTcr5Q/SL67u6JPARq1XRJOB4WzoAjByU3ROhVAp0naZY/3k1/Ez2N+dCpuUABP02AO4/G/ETEG224Xv0hgvVamRS7EBkThcRQvSwcDEA9vwQqvwAUn+0j4XRVvU914Zisnk/xjLZrHn5UmsVKlL/GU/LPsQTBZ7I3+a9B6jsHXXicN/2/wlMinAn81/A7U7He/AozSAUAAAAASUVORK5CYII=>

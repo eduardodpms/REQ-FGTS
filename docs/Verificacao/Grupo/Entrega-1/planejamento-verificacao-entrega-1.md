@@ -57,6 +57,8 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 
 ### ✅ Itens Gerais
 
+<font size="3"><p style="text-align: center">Tabela 2: Itens Gerais</p></font>
+
 | Item | Referência | Avaliação | Observação |
 | :---- | :---: | :---: | :---: |
 | ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(2)](#RP2)| ![][image1] | \- | \- |
@@ -66,7 +68,11 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(2)](#RP2)|  | \- | \- |
 | ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(2)](#RP2)| ![][image5] | \- | \- |
 
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+
 ### ✅ Rich Picture
+
+<font size="3"><p style="text-align: center">Tabela 3: Itens do artefato "Rich Picture"</p></font>
 
 | Item | Referência | Avaliação | Observação |
 | :---- | :---: | :---: | :---: |
@@ -77,6 +83,8 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | **11:** Os armazenamentos de dados (tabelas) estão representados adequadamente? [(1)](#RP1)| ![][image10] |  |  |
 | ***12:*** O Rich Picture foi validado com a equipe ou stakeholders? [(2)](#RP2)| ![][image11] | \- | \- |
 | ***13:*** O artefato possui uma legenda explicando os símbolos utilizados no diagrama? [(2)](#RP2)| ![][image12] |  |  |
+
+<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ## Referências Bibliográficas
 
@@ -95,6 +103,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | `1.2` | 20/06/2025 | Adição de Artefatos Verificados e Resultados | [Marcelo Makoto](https://github.com/MM4k) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.3` | 21/06/2025 | Adição de Listas de Verificação | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.4` | 21/06/2025 | Referências e prints das referências | [Danielle Soares](https://github.com/danielle-soaress) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.5` | 22/06/2025 | Adicionando legendas e fontes das listas | [Eduardo de Pina](https://github.com/eduardodpms) | [Marcelo Makoto](https://github.com/MM4k) |
 
 
 
