@@ -78,6 +78,7 @@ nav:
     - Entrega 2: Entregas/Entrega-2.md
     - Entrega 3: Entregas/Entrega-3.md
     - Entrega 4: Entregas/Entrega-4.md
+    - Entrega 5: Entregas/Entrega-5.md
     - Entrega 6: Entregas/Entrega-6.md
   - Inspeção:
     - Introdução: Inspecao/Introducao.md
@@ -100,6 +101,8 @@ nav:
       - Grupo -1: Inspecao/Entrega-4/Grupo-menos-1.md
       - Grupo: Inspecao/Entrega-4/Grupo.md
       - Grupo +1: Inspecao/Entrega-4/Grupo-mais-1.md
+    - Entrega 5:
+      - Grupo: Inspecao/Entrega-5/Grupo.md
     - Entrega 6:
       - Grupo -1: Inspecao/Entrega-6/Grupo-menos-1.md
       - Grupo: Inspecao/Entrega-6/Grupo.md
