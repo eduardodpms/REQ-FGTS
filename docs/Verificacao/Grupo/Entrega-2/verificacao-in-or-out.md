@@ -66,6 +66,8 @@ Nesta etapa o integrante [Enzo Emir](https://github.com/EnzoEmir), será respons
 | **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Sim | - | ![Formal](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/intro_in.png?raw=true) |
 | **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Sim | - | ![Coerencia](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/lista_in.png?raw=true) |
 
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
 ### In or Out
 
 | Item | Avaliação | Observação | Print |
@@ -75,6 +77,8 @@ Nesta etapa o integrante [Enzo Emir](https://github.com/EnzoEmir), será respons
 | **03:** A prioridade de cada requisito foi decidida de forma binária (In/Out)? | Sim | - | ![Binario](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/bin_in.png?raw=true) |
 | **04:** Houve participação de stakeholders? | Sim | - | ![Stakeholders](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/bin_in.png?raw=true) |
 | **05:** Todos os requisitos a serem priorizados foram reunidos em uma lista? | Sim | - | ![Lista](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/lista_in.png?raw=true) |
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
 
 ## Análise de Resultados

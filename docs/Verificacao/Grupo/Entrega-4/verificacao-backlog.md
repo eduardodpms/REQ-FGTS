@@ -66,6 +66,8 @@ Nesta etapa o integrante [Enzo Emir](https://github.com/EnzoEmir), será respons
 | **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Sim | - | ![Formal](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/intro_back.png?raw=true) |
 | **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Sim | - | ![Coerencia](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/fonte_back.png?raw=true) |
 
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
 ### Backlog
 
 | Item | Avaliação | Observação | Print |
@@ -75,6 +77,8 @@ Nesta etapa o integrante [Enzo Emir](https://github.com/EnzoEmir), será respons
 | **16:** As histórias de usuário seguem o modelo: "Como um [tipo de usuário], eu desejo [ação] para [benefício]"? | Sim | - | ![Modelo](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/eu_back.png?raw=true) |
 | **17:** Todas as histórias possuem identificação única? | Sim | - | ![ID](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/id_back.png?raw=true) |
 | **18:** Há rastreabilidade clara entre história, RF e técnica de elicitação? | Sim | - | ![Rastreabilidade](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rastre_back.png?raw=true) |
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
 
 ## Análise de Resultados

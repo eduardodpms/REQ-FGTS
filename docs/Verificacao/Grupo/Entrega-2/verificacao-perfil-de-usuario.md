@@ -66,6 +66,8 @@ Nesta etapa o integrante [Enzo Emir](https://github.com/EnzoEmir), será respons
 | **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Sim | - | ![Formal](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/intro_perf.png?raw=true) |
 | **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Sim | - | ![Coerencia](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/fonte_perf.png?raw=true) |
 
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
 ### Perfil de Usuário
 
 | Item | Avaliação | Observação | Print |
@@ -75,6 +77,8 @@ Nesta etapa o integrante [Enzo Emir](https://github.com/EnzoEmir), será respons
 | **03:** O perfil de usuário especifica as tarefas primárias dos usuários? | Sim | - | ![Perf_Us](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/perf_us.png?raw=true) |
 | **04:** Os dados utilizados para construir o perfil de usuário foram obtidos por meio de estudos, como entrevistas, questionários ou observação? | Não | Apenas fontes secundárias foram utilizadas (sites, TCCs, IA). | ![Metodo_Per](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/metodo_per.png?raw=true) |
 | **05:** Ao final, os usuários foram categorizados em grupos com base em suas semelhanças, considerando a porcentagem em cada faixa? | Sim | - | ![Perf_Us](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/perf_us.png?raw=true) |
+
+<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
 ## Análise de Resultados
 
