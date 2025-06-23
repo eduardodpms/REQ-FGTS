@@ -38,14 +38,14 @@ Nesta etapa o integrante [Victor Pontual](https://github.com/), foi responsável
     <tr>
       <td> <a href="https://github.com/VictorPontual">Victor Pontual</a> </td>
       <td> Avaliador </td>
-      <td> 17/05/2025 </td>
-      <td> 10:00 </td>
+      <td> 22/06/2025 </td>
+      <td> 15:20 </td>
     </tr>
     <tr>
       <td> <a href="https://github.com/enzon3to">Enzo Emir</a> </td>
       <td> Revisor </td>
-      <td> 17/05/2025 </td>
-      <td> 14:00 </td>
+      <td> 22/06/2025 </td>
+      <td> 15:40 </td>
     </tr>
   </tbody>
 </table>
@@ -114,4 +114,4 @@ Este processo reforça a importância de uma análise criteriosa, mesmo em artef
 
 | Versão | Data       | Descrição                          | Autor          | Revisor        |
 | ------ | ---------- | ---------------------------------- | -------------- | -------------- |
-| 1.0    | 22/06/2025 | Criação e conclusão da verificação | Victor Pontual | Victor Pontual |
+| 1.0    | 22/06/2025 | Criação e conclusão da verificação | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |

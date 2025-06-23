@@ -26,10 +26,31 @@ Nesta verificação, o integrante **Victor Pontual** atuou como avaliador, enqua
 
 <div align="center">
 
-| Nome                                               | Função    | Data       | Hora  |
-| -------------------------------------------------- | --------- | ---------- | ----- |
-| [Victor Pontual](https://github.com/VictorPontual) | Avaliador | 22/06/2025 | 10:00 |
-| [Enzo Emir](https://github.com/enzon3to)           | Revisor   | 22/06/2025 | 15:00 |
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Função</th>
+      <th>Data</th>
+      <th>Hora</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> <a href="https://github.com/VictorPontual">Victor Pontual</a> </td>
+      <td> Avaliador </td>
+      <td> 22/06/2025 </td>
+      <td> 16:40 </td>
+    </tr>
+    <tr>
+      <td> <a href="https://github.com/EnzoEmir">Enzo Emir</a> </td>
+      <td> Revisor </td>
+      <td> 22/06/2025 </td>
+      <td> 17:00 </td>
+    </tr>
+  </tbody>
+</table>
+
 
 </div>
 
@@ -102,4 +123,4 @@ Essa etapa reforça a importância de tratar com atenção requisitos não funci
 
 | Versão | Data       | Descrição                         | Autor          | Revisor   |
 | ------ | ---------- | --------------------------------- | -------------- | --------- |
-| 1.0    | 22/06/2025 | Criação e verificação do artefato | Victor Pontual | Enzo Emir |
+| 1.0    | 22/06/2025 | Criação e verificação do artefato | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |

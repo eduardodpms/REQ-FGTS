@@ -281,7 +281,8 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | `1.5` | 21/06/2025 | Referências e prints das referências | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.6` | 21/06/2025 | Corrigindo numeração das tabelas | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.7` | 21/06/2025 | Registrando participação na tabela de participantes | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
-| `1.8` | 21/06/2025 | Registrando participação na tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `1.8` | 21/06/2025 | Registrando participação na tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | [Victor Pontual](https://github.com/VictorPontual) |
+| `1.9` | 22/06/2025 | Registrando participação na tabela de participantes | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |
 
 
 
