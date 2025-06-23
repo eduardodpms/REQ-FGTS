@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Após o planejamento da verificação, iniciou-se a inspeção do artefato *Rich Picture*. Nesta etapa, foi utilizado o método de inspeção proposto por Fagan, o qual trata-se de uma técnica formal de verificação amplamente aplicada na engenharia de software. O objetivo da verificação é garantir que a técnica de priorização foi corretamente aplicada, bem estruturada e alinhada com as necessidades dos usuários. Como material de apoio, utilizou-se o guia "*Introducing Rich Pictures*" <a href="#RP1">^1^</a>, baseado na *CTEC2402 Software Development Project*. Ao longo do processo, foram reunidos dados, identificados os principais problemas e discutidas sugestões de melhoria. Esses resultados são fundamentais para aprimorar o documento e garantir que ele cumpra adequadamente seu papel no desenvolvimento do projeto.
+Após o planejamento da verificação, iniciou-se a inspeção do artefato *Rich Picture*. Nesta etapa, foi utilizado o método de inspeção proposto por Fagan, o qual trata-se de uma técnica formal de verificação amplamente aplicada na engenharia de software. O objetivo da verificação é garantir que o artefato foi corretamente definido, bem estruturado e alinhado com as necessidades do projeto. Como material de apoio, utilizou-se o guia "*Introducing Rich Pictures*" <a href="#RP1">^1^</a>, baseado na *CTEC2402 Software Development Project*. Ao longo do processo, foram reunidos dados, identificados os principais problemas e discutidas sugestões de melhoria. Esses resultados são fundamentais para aprimorar o documento e garantir que ele cumpra adequadamente seu papel no desenvolvimento do projeto.
 
 ## Objetivo
 
@@ -51,7 +51,7 @@ Nesta etapa, o integrante [Eduardo de Pina](https://github.com/eduardodpms) ser�
 
 ## Inspeção
 
-As tabelas 2 e 3 abaixo apresentam a inspeção, respectivamente, dos itens gerais e do artefado **First-Things-First** realizada pelo avaliador, conforme as checklists definidas no [Planejamento](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/).
+As tabelas 2 e 3 abaixo apresentam a inspeção, respectivamente, dos itens gerais e do artefado **First-Things-First** realizada pelo avaliador, conforme as checklists definidas no [Planejamento](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-1/planejamento-verificacao-entrega-1/).
 
 ### ✅ Itens Gerais
 

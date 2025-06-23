@@ -390,7 +390,7 @@ Para organizar o trabalho em grupo, cada membro da equipe ficou responsável por
 
 
 
-## Bibliografia
+## Referências Bibliográficas
 > 1.</a> BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuario. Auto publicação, 2021. 
 
 > 2.</a> SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 10. UnB, 2025, p. 8. Disponível em: [https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/3096108/mod_resource/content/1/Aula%2010.pdf). Acesso em: 17 de maio de 2025.
