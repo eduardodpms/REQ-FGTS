@@ -61,8 +61,8 @@ Foi realizada a prototipação de todos os requisitos que ainda não haviam sido
     <tr>
       <td> Victor Pontual </td>
       <td> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#RF>RF09</a> - O sistema deve permitir que o usuário cancele um saque solicitado <br> <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#RF>RF10</a> - O aplicativo deve permitir o filtro dos saques por tipo (ex: aniversário, doença, falecimento) </td>
-      <td> --- </td>
-      <td> --- </td>
+      <td> 21/06/2025 </td>
+      <td> 13:50 </td>
     </tr>
   </tbody>
 </table>
@@ -240,4 +240,4 @@ Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/SRSL805B
 | `1.4` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.5` | 22/06/2025 | Adicionando data/hora de participação | [Marcelo Makoto](https://github.com/MM4k) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.6` | 22/06/2025 | Adicionando segunda validação | [Eduardo de Pina](https://github.com/eduardodpms) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| `1.7` | 22/06/2025 | Correção página | [Maria Eduarda](https://github.com/dudaa28) | - |
+| `1.7` | 22/06/2025 | Correção página | [Maria Eduarda](https://github.com/dudaa28) | [Victor Pontual](https://github.com/VictorPontual) |
