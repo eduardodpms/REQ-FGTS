@@ -43,8 +43,8 @@ Nesta etapa a integrante [Danielle Soares](https://github.com/danielle-soaress),
     <tr>
       <td> Maria Eduarda </td>
       <td> Revisor </td>
-      <td> -- </td>
-      <td> -- </td>
+      <td> 22/06/2025 </td>
+      <td> 20:45 </td>
     </tr>
   </tbody>
 </table>
