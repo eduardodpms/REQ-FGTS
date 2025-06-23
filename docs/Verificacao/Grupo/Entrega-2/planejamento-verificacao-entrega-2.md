@@ -46,8 +46,8 @@ A metodologia utilizada na etapa de verificação é o método de inspeção de 
     </tr>
     <tr>
       <td> Leticia Arisa </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 22/06/2025 </td>
+      <td> 01:47 </td>
       <td> Storytelling, Three-Level Scale </td>
     </tr>
     <tr>
