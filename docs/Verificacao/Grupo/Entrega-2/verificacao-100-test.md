@@ -18,7 +18,7 @@ A verificação foi realizada com base nas listas de verificação definidas no 
 
 ## Cronograma e Participantes
 
-Nesta etapa o integrante [Marcelo Makoto](https://github.com/MM4k), será responsável pelo papel de avaliador, ou seja, pela verificação e correção dos problemas que foram identificados. O integrante [-] fará a revisão do artefato produzido pelo avaliador. Segue a lista de participantes:
+Nesta etapa o integrante [Marcelo Makoto](https://github.com/MM4k), será responsável pelo papel de avaliador, ou seja, pela verificação e correção dos problemas que foram identificados. A integrante [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) fará a revisão do artefato produzido pelo avaliador. Segue a lista de participantes:
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
@@ -41,10 +41,10 @@ Nesta etapa o integrante [Marcelo Makoto](https://github.com/MM4k), será respon
       <td> 00:42 </td>
     </tr>
     <tr>
-      <td> Danielle Soares </td>
+      <td> [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </td>
       <td> Revisor </td>
       <td> 22/06/2025 </td>
-      <td> 20:32 </td>
+      <td> 21:44 </td>
     </tr>
   </tbody>
 </table>
@@ -128,7 +128,7 @@ Foi realizada a inspeção do artefato *$100 Test* com base na técnica de inspe
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 22/06/2025 | Criação do documento | [Marcelo Makoto](https://github.com/MM4k) | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.0` | 22/06/2025 | Criação do documento | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 
 
 [image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIcAAAAZCAYAAAAbiz05AAAC60lEQVR4Xu2Zz0uyQRDH+1fKQ3Ux6NYxkE7hRQmqQ2CXjl365cHsXESeJILoVkg/jDoEEZEQBSKYXj1kKRh0CTGKionvwiy7j66g7+1tPrDM7szsPrvu16eaekgQHPR4HYLAiDgEJ1ocvb29FA6HzVhbFhYWvC7F5eWl12UxPT2tLJ6H1g3dzhM6wxIH22KxSN/f3zoJvtnZWdX/+fnR47u7OytnaWmJPj4+rLmVSoUGBgb0GLAwWl1yIBCgoaEhPUZOJBIxMprF8fb2RnNzc+T3++nz89OKCd3TJA6wsrKi++0wxcFAHBDQ19eXHo+NjVk5IyMjljhOT0+tOJicnFQWOfPz86r/+vpKz8/PTeIAw8PDur+8vGxEhG5pEsfo6KiyoVCIQxSLxawL4bEpjomJCeVjcfT39yu/z+ez5s7MzKg3E4tjampKx0BfXx8NDg6qfjAYtMQBkR0fH1vrjY+PKwsf3lLA+6YRukN+IRWciDgEJyIOwYmIQ3CixXF0dGT6BUHEIbjpWBxXV1fKokJarVY9UTebm5vK7uzsqLneCmupVLLG7fDOBfgTF/719XU1LhQKyi4uLqqay+3trWpMPB6np6cn2t7e1mfn2szh4SGVy2W6v7/X+SjwoXEN5eDggPb29mhra4ve399pd3eXarWazm3F6uqqsqlUSvuw57OzM70u9g/fxsaG9TlhLyguYvzw8KDnoqGkwHnX19dqPY7j/ABnz+fzqs9gv4lEQs89Pz+34h2L4/HxUW/KFIf3wl5eXqwxg0KWeWjGrKri0v6V/f19qtfrtLa2RhcXF9rPz0ZjITEsDsROTk60Hx8iX3gul9N+gNxsNmv5ULHltUyQ6z0b78Vcl33JZJLS6TQ1Gg3lN0VgAj+Eaj4TZ8cZWEjtwBcW9+KlY3EIfwcRh+BExCE4cYrj5uZG9zOZjLKtft4J/y8txeH9ryzEEY1GRRx/jJbiEAQg5XPBiYhDcCLiEJyIOAQnvzTCbUjexVWuAAAAAElFTkSuQmCC>
