@@ -2200,7 +2200,10 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> Não implementado </td>
+      <td> 
+      - Não implementado
+      - Link para prototipação:
+      </td>
     </tr>
   </tbody>
 </table>
@@ -2250,7 +2253,10 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> Não implementado </td>
+      <td> 
+      - Não implementado
+      - Link para prototipação:
+      </td>
     </tr>
   </tbody>
 </table>
@@ -2437,7 +2443,10 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> Não implementado </td>
+      <td>
+      - Não implementado
+      - Link para prototipação:  
+      </td>
     </tr>
   </tbody>
 </table>
