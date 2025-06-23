@@ -58,8 +58,8 @@ A metodologia utilizada na etapa de verificação é o método de inspeção de 
     </tr>
     <tr>
       <td> Maria Eduarda </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 21/06/2025 </td>
+      <td> 03:20 </td>
       <td> Personas, Brainstorming </td>
     </tr>
     <tr>

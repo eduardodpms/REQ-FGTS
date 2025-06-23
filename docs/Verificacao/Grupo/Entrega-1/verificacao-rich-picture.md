@@ -39,8 +39,8 @@ Nesta etapa, o integrante [Eduardo de Pina](https://github.com/eduardodpms) ser�
     <tr>
       <td> Maria Eduarda </td>
       <td> Revisor </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 22/06/2025 </td>
+      <td> 21:00 </td>
     </tr>
   </tbody>
 </table>
@@ -116,7 +116,7 @@ O artefato permanecerá em acompanhamento até que a correção seja implementad
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 22/06/2025 | Criação da página e documentação | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.0` | 22/06/2025 | Criação da página e documentação | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
 
 
 

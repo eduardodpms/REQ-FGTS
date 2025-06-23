@@ -204,7 +204,7 @@ Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/SRSL805B
     <tr>
       <td> Maria Eduarda </td>
       <td> Entrevistadora </td>
-      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF02</a> - O aplicativo deve oferecer canal de suporte ou chatbot para esclarecer dúvidas <br> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF30</a> - O aplicativo deve permitir o ajuste do tamanho das fontes na interface. </td>
+      <td> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF02</a> - O aplicativo deve oferecer canal de suporte ou chatbot para esclarecer dúvidas <br> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF30</a> - O aplicativo deve permitir o ajuste do tamanho das fontes na interface. <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF42</a> - O aplicativo deve permitir o agendamento de saque futuro.FGTS <br> <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RNF21</a> - Os menus devem ser autoexplicativos, com estrutura hierárquica lógica e nomenclatura padronizada </td>
       <td> 21/06/2025 </td>
       <td> 22:30 - 22:45 </td>
       <td> Arena BRB Mané Garrincha </td>
@@ -240,3 +240,4 @@ Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/SRSL805B
 | `1.4` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.5` | 22/06/2025 | Adicionando data/hora de participação | [Marcelo Makoto](https://github.com/MM4k) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.6` | 22/06/2025 | Adicionando segunda validação | [Eduardo de Pina](https://github.com/eduardodpms) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.7` | 22/06/2025 | Correção página | [Maria Eduarda](https://github.com/dudaa28) | - |
