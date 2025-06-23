@@ -84,7 +84,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(1)](#RF1)|  | \- | \- |
 | ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(1)](#RF1)| ![][imagex5] | \- | \- |
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ### ✅ NFR Framework
 
@@ -101,7 +101,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***07:*** Foram identificados os principais requisitos não-funcionais (softgoals) no contexto do aplicativo? [(2)](#REF2)| ![][image20] | | |
 | ***08:*** Foram utilizados Cartões de Especificação? [(2)](#REF2)| ![][image21] | | |
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ### ✅ Backlog
 
@@ -115,7 +115,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***04:*** Todas as histórias possuem identificação única? [(3)](#REF3)| ![][image12] | | |
 | ***05:*** Há rastreabilidade clara entre história, RF e técnica de elicitação? [(3)](#REF3)| ![][image12] | | |
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ### ✅ Histórias de Usuário
 
@@ -131,7 +131,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***06:*** Todas as histórias de usuários podem ser testadas? [(1)](#REF1)| ![][image11] | | |
 | ***07:*** As Histórias de Usuário seguem algum modelo ou padrão? [(3)](#REF3)| ![][image12] | | |
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ## Referências Bibliográficas
 

@@ -37,7 +37,7 @@ A metodologia utilizada na etapa de verificação é o método de inspeção de 
 
 </div>
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ## Artefatos Verificados
 
@@ -68,7 +68,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(2)](#RP2)|  | \- | \- |
 | ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(2)](#RP2)| ![][image5] | \- | \- |
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ### ✅ Rich Picture
 
@@ -84,7 +84,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***12:*** O Rich Picture foi validado com a equipe ou stakeholders? [(2)](#RP2)| ![][image11] | \- | \- |
 | ***13:*** O artefato possui uma legenda explicando os símbolos utilizados no diagrama? [(2)](#RP2)| ![][image12] |  |  |
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ## Referências Bibliográficas
 

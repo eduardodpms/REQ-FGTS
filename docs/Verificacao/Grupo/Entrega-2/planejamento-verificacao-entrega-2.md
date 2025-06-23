@@ -124,7 +124,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(1)](#RF1)|  | \- | \- |
 | ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(1)](#RF1)| ![][imagex5] | \- | \- |
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ### ✅ Perfil de Usuário
 
@@ -138,7 +138,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***04:*** Os dados utilizados para construir o perfil de usuário foram obtidos por meio de estudos, como entrevistas, questionários ou observação? [(5)](#RF5) | ***![][image4]*** | \- | \- |
 | ***05:*** Ao final, os usuários foram categorizados em grupos com base em suas semelhanças, considerando a porcentagem em cada faixa? [(5)](#RF5) | ***![][image5]*** | \- | \- |
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ### ✅ Personas
 
@@ -155,7 +155,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***07:*** Existe ao menos uma persona primária claramente identificada como foco principal do design? [(5)](#RF5) | ***![][image12]*** | \- | \- |
 | ***08:*** Existem antipersonas definidas para deixar claro quem não é o foco do projeto? [(5)](#RF5) | ***![][image13]*** | \- | \- |
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ### ✅ Brainstorming
 
@@ -171,7 +171,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***06:*** É possível identificar a participação e interação de todos os participantes da técnica? [(3)](#RF3) | ***![][image17]*** |  |  |
 | ***07:*** Os participantes da técnica estão reunidos em um mesmo ambiente? [(3)](#RF3) | ***![][image18]*** |  |  |
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ### ✅ Introspecção
 
@@ -187,7 +187,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***06:*** Os participantes conduziram a técnica de maneira imersiva, adequando-se à atuação real dos interessados? [(3)](#RF3) | ***![][image19]*** |  |  |
 | ***07:*** Durante a imersão, buscou-se entender quais propriedades o sistema deve possuir para que seja um sucesso? [(3)](#RF3) | ***![][image20]*** |  |  |
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ### ✅ Entrevista
 
@@ -205,7 +205,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***08:*** As perguntas estão bem elaboradas de forma que possam ser classificadas em abertas (resposta livre) ou fechadas (respostas curtas e diretas)? [(2)](#RF2) | ***![][image23]*** | \- | \- |
 | ***09:*** Os aspectos importantes da entrevista foram registrados? [(2)](#RF2) | ***![][image24]*** |  |  |
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ### ✅ Observação
 
@@ -222,7 +222,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***07:*** As pessoas a serem observadas estão claramente identificadas? [(2)](#RF2) | ***![][image28]*** | \- | \- |
 | ***08:*** O tipo de postura do observador (ativa ou passiva) foi definida? [(2)](#RF2) | ***![][image29]*** | \- | \- |
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ### ✅ Storytelling
 
@@ -239,7 +239,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***07:*** Foi utilizada uma linguagem adequada ao contexto das histórias? [(3)](#RF3) | ***![][image31]*** | \- | \- |
 | ***08:*** A técnica se baseia na utilização de histórias em grupos de pessoas? [(3)](#RF3) | ***![][image32]*** | \- | \- |
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ### ✅ First Things First
 
@@ -256,7 +256,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***07:*** A lista foi ordenada de maneira crescente/decrescente de prioridade? [(3)](#RF3) | ***![][image36]*** | \- | \- |
 | ***08:*** É possível identificar claramente quais requisitos com maior/menor prioridade? [(3)](#RF3) | ***![][image37]*** | \- | \- |
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ### ✅ In or Out
 
@@ -270,7 +270,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***04:*** Houve participação de stakeholders? [(4)](#RF4) | ***![][image39]*** | \- | \- |
 | ***05:*** Todos os requisitos a serem priorizados foram reunidos em uma lista? [(4)](#RF4) | ***![][image40]*** | \- | \- |
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ### ✅ Three-Level Scale
 
@@ -284,7 +284,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***04:*** Foi utilizada uma escala de priorização que permite identificar prioridades alta, média e baixa? [(4)](#RF4) | ***![][image42]*** |  |  |
 | ***05:*** Caso aplicável, as interdependências entre requisitos foram consideradas? [(4)](#RF4) | ***![][image43]*** |  |  |
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ### ✅ $100 Test
 
@@ -303,7 +303,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***09:*** É possível identificar claramente a prioridade total de cada requisito? [(4)](#RF4) | ***![][image47]*** | \- | \- |
 | ***10:*** É possível identificar claramente quais requisitos tem prioridade maior/menor? [(4)](#RF4) | ***![][image47]*** | \- | \- |
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 
 ## Referências Bibliográficas

@@ -92,7 +92,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(1)](#RF1)|  | \- | \- |
 | ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(1)](#RF1)| ![][imagex5] | \- | \- |
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ### ✅ Casos de Uso
 
@@ -108,7 +108,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***06:*** No diagrama de casos de uso, todos os atores estão relacionados com pelo menos um caso de uso? [(4)](#RF4)| [Link do Vídeo](https://youtu.be/ab6eDdwS3rA?si=xsOyiXR84KKnVJud&t=255) | \- | \- |
 | ***07:*** No diagrama de casos de uso, todos os casos de uso estão posicionados dentro da caixa que representa o sistema? [(4)](#RF4)| [Link do Vídeo](https://youtu.be/ab6eDdwS3rA?si=fEZ-z0ITIVDAZNAg&t=257) | \- | \- |
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ### ✅ Cenários
 
@@ -125,7 +125,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***07:*** Os cenários possuem episódios? [(3)](#RF3) | ***![][image11]*** | \- | \- |
 | ***08:*** Os cenários identificam os recursos (objetos passivos com os quais lidam os atores)? [(3)](#RF3) | ***![][image12]*** | \- | \- |
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ### ✅ Léxicos
 
@@ -142,7 +142,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***07:***  Cada léxico tem um ou mais impactos? [(2)](#RF2) | ***![][image18]*** | \- | \- |
 | ***08:*** Há definição de usuário nos léxicos? [(1)](#RF1)  | ***![][image19]*** | \- | \- |
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ### ✅ Especificação suplementar
 
@@ -155,7 +155,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | ***03:*** A especificação suplementar define os ambientes ou plataformas de execução do aplicativo?  [(1)](#RF1) | ***![][image22]*** | \- | \- |
 | ***04:*** Na especificação suplementar todos os requisitos não funcionais são testáveis/verificáveis?  [(1)](#RF1) | ***![][image23]*** | \- | \- |
 
-<font size="2"><p style="text-align: center">Fonte: [Marcelo Makoto](https://github.com/MM4k) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ## Referências Bibliográficas
 
