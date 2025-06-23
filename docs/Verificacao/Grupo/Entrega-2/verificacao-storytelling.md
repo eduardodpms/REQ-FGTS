@@ -18,7 +18,7 @@ A verificação foi realizada com base nas checklists definidas no [planejamento
 
 ## Cronograma e Participantes
 
-Nesta etapa as integrantes [Danielle Soares](https://github.com/danielle-soaress), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), serão responsáveis pelo papel de avaliador, ou seja, pela verificação e correção dos problemas que foram identificados. O integrante [DEFINIR DEPOIS](https://github.com/dudaa28) fará a revisão do artefato produzido pelo avaliador. Segue a lista de participantes:
+Nesta etapa as integrantes [Danielle Soares](https://github.com/danielle-soaress), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), serão responsáveis pelo papel de avaliador, ou seja, pela verificação e correção dos problemas que foram identificados. O integrante [Eduardo de Pina](https://github.com/eduardodpms) fará a revisão do artefato produzido pelo avaliador. Segue a lista de participantes:
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
@@ -41,10 +41,10 @@ Nesta etapa as integrantes [Danielle Soares](https://github.com/danielle-soaress
       <td> 01:25 </td>
     </tr>
     <tr>
-      <td> DEFINIR DEPOIS</td>
+      <td> Eduardo de Pina</td>
       <td> Revisor </td>
-      <td> -- </td>
-      <td> -- </td>
+      <td> 22/06/2025 </td>
+      <td> 21:30 </td>
     </tr>
   </tbody>
 </table>
@@ -133,7 +133,7 @@ Foi realizada a inspeção no artefato da ténica de *Storytelling* com base na 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 21/06/2025 | Criação do documento | [Danielle Soares](https://github.com/danielle-soaress), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | - |
+| `1.0` | 21/06/2025 | Criação do documento | [Danielle Soares](https://github.com/danielle-soaress), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Eduardo de Pina](https://github.com/eduardodpms) |
 
 
 

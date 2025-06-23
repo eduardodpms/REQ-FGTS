@@ -79,10 +79,16 @@ Abaixo, estão apresentadas as tentativas de contato efetuadas, juntamente com o
 <font size="3"><p style="text-align: center">Figura 1: Tentativa de contato por [*Danielle Soares*](https://github.com/danielle-soaress)</p></font>
 
 <div align="center">
-  <img src="../../assets/validacao/image.png" alt="FIGURA 1">
+  <img src="../../assets/validacao/email_dani.jpg" alt="FIGURA 1">
 </div>
 
 <font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms) </p></font>
+
+Endereços de E-Mail utilizados para contato:
+
+- desol@caixa.gov.br
+- deser@caixa.gov.br
+- relacionamento@caixa.gov.br 
 
 ## Retorno
 
