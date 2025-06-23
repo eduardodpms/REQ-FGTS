@@ -18,7 +18,7 @@ A verificação foi realizada com base nas listas de verificação definidas no 
 
 ## Cronograma e Participantes
 
-Nesta etapa o integrante [Marcelo Makoto](https://github.com/MM4k), será responsável pelo papel de avaliador, ou seja, pela verificação e correção dos problemas que foram identificados. O integrante [-] fará a revisão do artefato produzido pelo avaliador. Segue a lista de participantes:
+Nesta etapa o integrante [Marcelo Makoto](https://github.com/MM4k), será responsável pelo papel de avaliador, ou seja, pela verificação e correção dos problemas que foram identificados. A integrante [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) fará a revisão do artefato produzido pelo avaliador. Segue a lista de participantes:
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
@@ -41,10 +41,10 @@ Nesta etapa o integrante [Marcelo Makoto](https://github.com/MM4k), será respon
       <td> 01:12 </td>
     </tr>
     <tr>
-      <td> - </td>
+      <td> [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </td>
       <td> Revisor </td>
       <td> 22/06/2025 </td>
-      <td> - </td>
+      <td> 21:20 </td>
     </tr>
   </tbody>
 </table>
@@ -125,7 +125,7 @@ Foi realizada a inspeção do artefato *Histórias de Usuário* com base na téc
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 22/06/2025 | Criação do documento | [Marcelo Makoto](https://github.com/MM4k) | - |
+| `1.0` | 22/06/2025 | Criação do documento | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 
 
 [image1]: <data:image/png;base64,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>
