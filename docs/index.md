@@ -21,10 +21,10 @@ Os artefatos desenvolvidos estão listados a seguir, com seus respectivos links 
 2. [Elicitação de Requisitos 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Perfil-de-Usuario/)
 3. [Modelagem de Requisitos I 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/)
 4. [Modelagem de Requisitos II (Ágil) 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/)
-5. [Análise de Requisitos 🔗]()
+5. Análise de Requisitos ([Verificação 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/planejamento-geral/)) e ([Validação 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Validacao/Prototipacao/))
 6. [Pós-Rastreabilidade 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Matriz-de-Rastreabilidade/)
 
-*Obs.: A entrega `6` foi definida, na organização da disciplina, para ser realizada antes da entrega `5`.*
+*Obs.: A entrega `6`, no plano da disciplina, foi definida para ser realizada antes da entrega `5`.*
 
 ---
 
