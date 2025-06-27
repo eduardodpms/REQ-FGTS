@@ -173,4 +173,14 @@ nav:
   - Validação:
     - Prototipação: Validacao/Prototipacao.md
     - Comprovação Informal: Validacao/Comprovacao.md
+  - Entrega Final:
+    - Execução do Projeto : docs\Final\Execucao.md
+    - Resultados Obtidos : docs\Final\Resultados.md
+    - Ferramentas Utilizadas : docs\Final\Ferramentas.md
+    - Tecnicas Utilizadas : docs\Final\Tecnicas.md
+    - Artefatos Criados : docs\Final\Artefatos.md
+    - Tabela Verificacao/Validação: docs\Final\Tab_Ver_Val.md
+    - Vídeos : docs\Final\Videos.md
+    - Considerações Finais : docs\Final\Consideracoes.md
+
     
