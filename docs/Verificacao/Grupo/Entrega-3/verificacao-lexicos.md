@@ -64,17 +64,16 @@ A tabela abaixo, apresenta a inspeção  da Lista de Verificação do artefado *
 <font size="3"><p style="text-align: center">Tabela 2: Itens Gerais</p></font>
 
 
-| Item | Avaliação | Observação | Print |
-| ----- | :---: | :---: | :---: |
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(2)](#REF2) | Sim | \- | ![][image1] |
-| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(2)](#REF2) | Sim | \- | ![][image2] |
-| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(2)](#REF2) | Sim | \- | ![][image3]![][image4] |
-| ***04:*** O artefato apresenta uma introdução? [(2)](#REF2) | Sim | \- | ![][image5] |
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(2)](#REF2) | Sim | \- | ![][image6] |
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(2)](#REF2) | Sim | \- | ![][image7] |
+| Item | Avaliação | Observação | Print | Autor |
+| ----- | :---: | :---: | :---: | :---: |
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(2)](#REF2) | Sim | \- | ![][image1] | [Maria Eduarda](https://github.com/dudaa28)
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(2)](#REF2) | Sim | \- | ![][image2] | [Maria Eduarda](https://github.com/dudaa28)
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(2)](#REF2) | Sim | \- | ![][image3]![][image4] | [Maria Eduarda](https://github.com/dudaa28)
+| ***04:*** O artefato apresenta uma introdução? [(2)](#REF2) | Sim | \- | ![][image5] | [Maria Eduarda](https://github.com/dudaa28)
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(2)](#REF2) | Sim | \- | ![][image6] | [Maria Eduarda](https://github.com/dudaa28)
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(2)](#REF2) | Sim | \- | ![][image7] | [Maria Eduarda](https://github.com/dudaa28)
 
 
-<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
 ### Léxicos
 
@@ -82,19 +81,18 @@ A tabela abaixo, apresenta a inspeção  da Lista de Verificação do artefado *
 
 <a id="T1"></a>
 
-| Item | Avaliação | Observação | Print |
-| ----- | :---: | :---: | :---: |
-| ***01:*** Os léxicos possuem ligações entre si por meio de hiperlinks? [(2)](#REF2) | Incompleto | Alguns hiperlinks não fazem ligações | ![][image1] |
-| ***02:*** Os léxicos estão classificados adequadamente como verbo, objeto ou estado? [(2)](#REF2) | Sim | \- | ![][image2] |
-| ***03:*** Os léxicos descrevem o impacto do símbolo na aplicação, ou o impacto da aplicação sobre o termo? [(1)](#REF1) | Sim | \- | ![][image3] |
-| ***04:*** Cada léxico apresenta claramente a noção do termo? [(1)](#REF1) | Sim | \- | ![][image4] |
-| ***05:*** Cada léxico tem zero ou mais sinônimos? [(1)](#REF1) | Sim | \- | ![][image5] |
-| **06:** Cada léxico tem um ou mais noções? [(1)](#REF1) | Sim | \- | ![][image6] |
-| **07:** Cada léxico tem um ou mais impactos? [(1)](#REF1) | SIm | \- | ![][image7] |
-| **08:** Há definição de usuário nos léxicos? [(1)](#REF1) | Sim | \- | ![][image8] |
+| Item | Avaliação | Observação | Print | Autor |
+| ----- | :---: | :---: | :---: | :---: |
+| ***01:*** Os léxicos possuem ligações entre si por meio de hiperlinks? [(2)](#REF2) | Incompleto | Alguns hiperlinks não fazem ligações | ![][image1] | [Maria Eduarda](https://github.com/dudaa28)
+| ***02:*** Os léxicos estão classificados adequadamente como verbo, objeto ou estado? [(2)](#REF2) | Sim | \- | ![][image2] | [Maria Eduarda](https://github.com/dudaa28)
+| ***03:*** Os léxicos descrevem o impacto do símbolo na aplicação, ou o impacto da aplicação sobre o termo? [(1)](#REF1) | Sim | \- | ![][image3] | [Maria Eduarda](https://github.com/dudaa28)
+| ***04:*** Cada léxico apresenta claramente a noção do termo? [(1)](#REF1) | Sim | \- | ![][image4] | [Maria Eduarda](https://github.com/dudaa28)
+| ***05:*** Cada léxico tem zero ou mais sinônimos? [(1)](#REF1) | Sim | \- | ![][image5] | [Maria Eduarda](https://github.com/dudaa28)
+| **06:** Cada léxico tem um ou mais noções? [(1)](#REF1) | Sim | \- | ![][image6] | [Maria Eduarda](https://github.com/dudaa28)
+| **07:** Cada léxico tem um ou mais impactos? [(1)](#REF1) | SIm | \- | ![][image7] | [Maria Eduarda](https://github.com/dudaa28)
+| **08:** Há definição de usuário nos léxicos? [(1)](#REF1) | Sim | \- | ![][image8] | [Maria Eduarda](https://github.com/dudaa28)
 
 
-<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
 ## Análise de Resultados
 
@@ -140,6 +138,8 @@ O artefato permanecerá em acompanhamento até que a correção seja implementad
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 22/06/2025 | Criação da Página e Documetação da Verificação | [Maria Eduarda](https://github.com/dudaa28) | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.1` | 26/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | - |
+
 
 [image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIcAAAAcCAYAAABLRqyKAAAEhElEQVR4Xu2azUvjRxjHLbT0Uuixl9LWY09etJSepD300H9B2kKph0LZQn1XLFFMLYgKip60YC3iStZqUMRG2ygiviK+xKxKo0jWTWrYdlONRuM03yf7jPP7mZ9JcF3IOh8YZp5nnpnMyzc4eTBHaDQW5JgdGg1jEEdRURHVubm5VBcWFqrdacPjNdnNFXHwxTY0NFx7yfn5+VR3dnZS3NHREdk+n4/s/f19cXp6Sr6+vj45TpM9XBEHKCsrSymOgoICqtvb20VJSYnIy8sje2dnR4qjuLiYfL29vXKcJnu48ZsDItC8nNxYHJqXFy0OjSVaHBpLtDg0lhjE4XA4VFNzx0lLHI554y8Sl8tFtcfjETMzM2JsbEyUlpaKqqoqGQMbxGIx6mcGBweln2OsWFtboxqfY7fbKb67u1tUVFRQPgUgz4I1VFZWkl9lcXHRYJvZ3d012AcHB2J6etrgY9Sz6e/vV3qSo+6tra1N6RGivLycaqfTKX0rKyu0DwZ7Zpqammhv1dXVIhQKCa/XS/65uTkZgzUNDAwYfKkYGRkxuwykJY7rwIZwECiTk5NU22w2sbq6Ko6Pj+nSzEBEZ2dnchxviO1k1NTU0GV2dHSIk5MTOqSlpSXqwxrgw5xMc3Mz1cFg0CBOcHFxQbV6GQDi4DWY1wG7q6uL2riI2tpasbGxIcbHxw1xDNbDQBytra3yUiFoThoyLA4IwQrsuaWlRYpLBecNsfX09FA/1ovz8vv9YnZ2VsZx6gH9LA71DlRuLI50URd4m/DF33Xq6urMrox5YeLQZB9aHBpL0haHL/if2ZUROUWpH3FWTGwEzK4rvPdd4nG3tv+PqSc5w8t+WhNK4N/L94H30VOqF/4KifG1x9JvxU32lQn2YY949CRC7Uj0XLxfNir7YKucnsVEo3NTfFD7u/R91jQlPvzBJT62/3EZ+Iw3v35gdhGW4jC//CGO1rGH1J7Z+tvQB9CPg7IPeYTz2cEzr31xX17E9uOwMipxuFYHbHuwTvXDg8SFNQxdvuBntw8N49765jeyIQ72f/qTW7Y3/Yk5+IAR9849p3g3Xl7/ciAxiYl7vyybXQTmfBo5Ez/GL4zn532gvBIvH9kSv+hgT3svz2syLnT43v52mOKScd2ZMOH45++HjqkNcbzxlUOO+XMzqIYSEAf6f3b7zF1SHHgoq1iKIxmdrh2D/ern96kwqTb0PImex8QnSb4FKt//uiLbLA7zz/J0UPeYjNved4drW7bPYy/uwZ2RODR3Cy0OjSXXiiMQCIjDw0MRDodl9nNhYUFm/JDYAcvLib/NiEHSa2tri2xOEEWjUaobGxtpPk6Mzc/P09zITWAskkRI3EQiiXcBQDaWcxfr64k3CIMklBnEDg0Nmd1ib2/P7NKkwFIcnCVERhJwZo0fqlNTUzJ2YmJCtlVYHJwGBxAHz4UUMS4fKXEAcYyOjor6+nqykSLH3Lhwt9st52CQhTT/CyKn1RkIEmhxZI6lOLIBNUWtef5ktTg0t4tBHBqNihaHxhItDo0l/wMLc45LpnVFIAAAAABJRU5ErkJggg==>
 

@@ -62,39 +62,35 @@ A tabela abaixo, apresenta a inspeção da Lista de Verificação do artefato Ca
 
 <font size="3"><p style="text-align: center">Tabela 2: Itens gerais</p></font>
 
-| Item | Avaliação | Observação | Print |
-| :---- | :---: | :---: | :---: |
+| Item | Avaliação | Observação | Print | Autor |
+| ----- | :---: | :---: | :---: | :---: |
 | **Geral** |
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? | Sim | - | ![][image1] |
-| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | Sim | - | ![][image2] |
-| ***03:*** As tabelas e imagens apresentam legenda e fonte? | Sim | - | ![][image3] |
-| ***04:*** O artefato apresenta uma introdução? | Sim | - | ![][image4] |
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Sim | - | ![][image4] |
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Sim | - | ![][image5] |
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? | Sim | - | ![][image1] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | Sim | - | ![][image2] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? | Sim | - | ![][image3] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***04:*** O artefato apresenta uma introdução? | Sim | - | ![][image4] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Sim | - | ![][image4] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Sim | - | ![][image5] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
 
-<font size="3"><p style="text-align: center">Autora: 
-    <a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a>
-</p></font>
+
 
 
 ###**Casos de Uso**
 
 <font size="3"><p style="text-align: center">Tabela 3: Itens sobre Casos de Uso</p></font>
 
-| Item | Avaliação | Observação | Print |
-| :---- | :---: | :---: | :---: |
+| Item | Avaliação | Observação | Print | Autor |
+| ----- | :---: | :---: | :---: | :---: |
 | **Casos de Uso** |
-| ***01:*** No diagrama de caso de uso, o ator principal está posicionado do lado esquerdo do sistema? | Sim | - | ![][image6] |
-| ***02:*** No diagrama de caso de uso, o ator secundário está posicionado do lado direito do sistema? | Sim | - | ![][image6] |
-| ***03:*** No diagrama de caso de uso, os atores estão posicionados fora da caixa que representa o sistema? | Sim | - | ![][image6] |
-| ***04:*** O diagrama de caso de uso contém pelo menos um caso de uso que utiliza pontos de extensão? | Sim | - | ![][image6] |
-| ***05:*** Houve participação do cliente na validação do diagrama de caso de uso? | Sim | - | ![][image6] |
-| ***06:*** No diagrama de casos de uso, todos os atores estão relacionados com pelo menos um caso de uso? | Sim | - | ![][image6] |
-| ***07:*** No diagrama de casos de uso, todos os casos de uso estão posicionados dentro da caixa que representa o sistema? | Sim | - | ![][image6] |
+| ***01:*** No diagrama de caso de uso, o ator principal está posicionado do lado esquerdo do sistema? | Sim | - | ![][image6] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***02:*** No diagrama de caso de uso, o ator secundário está posicionado do lado direito do sistema? | Sim | - | ![][image6] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***03:*** No diagrama de caso de uso, os atores estão posicionados fora da caixa que representa o sistema? | Sim | - | ![][image6] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***04:*** O diagrama de caso de uso contém pelo menos um caso de uso que utiliza pontos de extensão? | Sim | - | ![][image6] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***05:*** Houve participação do cliente na validação do diagrama de caso de uso? | Sim | - | ![][image6] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***06:*** No diagrama de casos de uso, todos os atores estão relacionados com pelo menos um caso de uso? | Sim | - | ![][image6] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***07:*** No diagrama de casos de uso, todos os casos de uso estão posicionados dentro da caixa que representa o sistema? | Sim | - | ![][image6] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
 
-<font size="3"><p style="text-align: center">Autora: 
-    <a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a>
-</p></font>
+
 
 ## Análise de Resultados
 
@@ -123,6 +119,7 @@ O artefato *Casos de Uso* está considerado **aprovado**, com todos os itens da 
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 21/06/2025 | Criação do documento | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.1` | 22/06/2025 | Adição de revisor | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.2` | 26/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | - |
 
 
 

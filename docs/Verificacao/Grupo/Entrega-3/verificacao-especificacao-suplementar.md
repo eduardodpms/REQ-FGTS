@@ -62,25 +62,25 @@ Nesta verificação, o integrante **Victor Pontual** atuou como avaliador, enqua
 
 ###  **Itens Gerais**
 
-| Item | Avaliação | Observação                                                             | Print                                                                                                                                           |
-| ---- | --------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 01   | Sim       | O artefato contém referências bibliográficas adequadas.                | ![Bibliografia](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/bibliografia.png?raw=true) |
-| 02   | Sim       | Existe um histórico de versões, com id, descrição e autoria.           | ![Histórico](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/historico.png?raw=true)       |
-| 03   | Sim       | As tabelas e imagens possuem legendas e fontes corretamente indicadas. | ![Tabelas](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/tabelas.png?raw=true)           |
-| 04   | Sim       | Há uma introdução contextualizando o artefato.                         | ![Introdução](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/introducao.png?raw=true)     |
-| 05   | Sim       | O texto utiliza linguagem formal e técnica.                            | ![Linguagem](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/introducao.png?raw=true)       |
-| 06   | Sim       | Há coerência entre os elementos gráficos e o conteúdo textual.         | ![Coerência](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/coerencia.png?raw=true)       |
+| Item | Avaliação | Observação | Print | Autor |
+| ----- | :---: | :---: | :---: | :---: |
+| 01   | Sim       | O artefato contém referências bibliográficas adequadas.                | ![Bibliografia](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/bibliografia.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
+| 02   | Sim       | Existe um histórico de versões, com id, descrição e autoria.           | ![Histórico](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/historico.png?raw=true)       | [Victor Pontual](https://github.com/VictorPontual)
+| 03   | Sim       | As tabelas e imagens possuem legendas e fontes corretamente indicadas. | ![Tabelas](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/tabelas.png?raw=true)           | [Victor Pontual](https://github.com/VictorPontual)
+| 04   | Sim       | Há uma introdução contextualizando o artefato.                         | ![Introdução](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/introducao.png?raw=true)     | [Victor Pontual](https://github.com/VictorPontual)
+| 05   | Sim       | O texto utiliza linguagem formal e técnica.                            | ![Linguagem](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/introducao.png?raw=true)       | [Victor Pontual](https://github.com/VictorPontual)
+| 06   | Sim       | Há coerência entre os elementos gráficos e o conteúdo textual.         | ![Coerência](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/coerencia.png?raw=true)       | [Victor Pontual](https://github.com/VictorPontual)
 
 ---
 
 ### **Itens Específicos sobre a Especificação Suplementar**
 
-| Item | Avaliação | Observação                                                               | Print                                                                                                                                             |
-| ---- | --------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 01   | Sim       | O documento segue a estrutura baseada no modelo FURPS+.                  | ![Coerência](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/coerencia.png?raw=true)               |
-| 02   | Sim       | Há definição de requisitos de tempo de resposta na seção de desempenho.  | ![Desempenho](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/desempenho.png?raw=true)       |
-| 03   | Não      | Foram definidos os ambientes e plataformas de execução do aplicativo.    |           |
-| 04   | não       | Todos os requisitos não funcionais descritos são testáveis/verificáveis. | ![Testabilidade](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/testabilidade.png?raw=true) |
+| Item | Avaliação | Observação | Print | Autor |
+| ----- | :---: | :---: | :---: | :---: |
+| 01   | Sim       | O documento segue a estrutura baseada no modelo FURPS+.                  | ![Coerência](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/coerencia.png?raw=true)               | [Victor Pontual](https://github.com/VictorPontual)
+| 02   | Sim       | Há definição de requisitos de tempo de resposta na seção de desempenho.  | ![Desempenho](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/desempenho.png?raw=true)       | [Victor Pontual](https://github.com/VictorPontual)
+| 03   | Não      | Foram definidos os ambientes e plataformas de execução do aplicativo.    |           | [Victor Pontual](https://github.com/VictorPontual)
+| 04   | não       | Todos os requisitos não funcionais descritos são testáveis/verificáveis. | ![Testabilidade](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/testabilidade.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
 
 ## Análise de Resultados
 
@@ -123,4 +123,5 @@ Essa etapa reforça a importância de tratar com atenção requisitos não funci
 
 | Versão | Data       | Descrição                         | Autor          | Revisor   |
 | ------ | ---------- | --------------------------------- | -------------- | --------- |
-| 1.0    | 22/06/2025 | Criação e verificação do artefato | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.0`    | 22/06/2025 | Criação e verificação do artefato | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.1` | 26/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | - |

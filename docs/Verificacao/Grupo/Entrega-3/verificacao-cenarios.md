@@ -57,33 +57,32 @@ As tabelas 2 e 3 abaixo apresentam a inspeção, respectivamente, dos itens gera
 
 <font size="3"><p style="text-align: center">Tabela 2: Itens Gerais</p></font>
 
-| Item | Referência | Avaliação | Observação | Print |
-| :---- | :---: | :---: | :---: | :---: |
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(1)](#RF1)| ![][imagex1] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/1.png?raw=true) |
-| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(1)](#RF1)| ![][imagex2] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/2.png?raw=true) |
-| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(1)](#RF1)| ![][imagex3] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/3.png?raw=true) |
-| ***04:*** O artefato apresenta uma introdução? [(1)](#RF1)| ![][imagex4] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/4.png?raw=true) |
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(1)](#RF1)| - | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/5.png?raw=true) |
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(1)](#RF1)| ![][imagex5] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/3.png?raw=true) |
+| Item | Referência | Avaliação | Observação | Print | Autor |
+| :---- | :---: | :---: | :---: | :---: | :---: |
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(1)](#RF1)| ![][imagex1] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/1.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(1)](#RF1)| ![][imagex2] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/2.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(1)](#RF1)| ![][imagex3] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/3.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***04:*** O artefato apresenta uma introdução? [(1)](#RF1)| ![][imagex4] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/4.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(1)](#RF1)| - | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/5.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(1)](#RF1)| ![][imagex5] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/3.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
 
-<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms) </p></font>
 
 ### ✅ Cenários
 
 <font size="3"><p style="text-align: center">Tabela 3: Itens do artefato "Cenários"</p></font>
 
-| Item | Referência | Avaliação | Observação | Print |
-| :---- | :---: | :---: | :---: | :---: |
-| ***07:*** Os cenários possuem título? [(3)](#RF3) | ***![][image5]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/6.png?raw=true) |
-| ***08:*** Há a identificação clara do ambiente ou contexto da situação que motiva os objetivos e ações do cenário? [(3)](#RF3) | ***![][image6]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/7.png?raw=true) |
-| ***09:*** Os cenários descrevem claramente o comportamento e as experiências dos atores envolvidos? [(3)](#RF3) | ***![][image7]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/12.png?raw=true) |
-| ***10:*** Cada cenário possui um objetivo principal claramente definido? [(3)](#RF3) | ***![][image8]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/9.png?raw=true) |
-| ***11:*** Os cenários incluem pelo menos um ator principal? [(3)](#RF3) | ***![][image9]*** | Incompleto | O ator "Principal" não possui diferenciação. | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/8.png?raw=true) |
-| ***12:*** Cada cenário possui um contexto que descreve o estado inicial com suas pré condições, local e tempo? [(3)](#RF3) | ***![][image10]*** | Incompleto | Não há diferenciação em pré condições, local e tempo. | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/7.png?raw=true) |
-| ***13:*** Os cenários possuem episódios? [(3)](#RF3) | ***![][image11]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/11.png?raw=true) |
-| ***14:*** Os cenários identificam os recursos (objetos passivos com os quais lidam os atores)? [(3)](#RF3) | ***![][image12]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/10.png?raw=true) |
+| Item | Referência | Avaliação | Observação | Print | Autor |
+| :---- | :---: | :---: | :---: | :---: | :---: |
+| ***07:*** Os cenários possuem título? [(3)](#RF3) | ***![][image5]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/6.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***08:*** Há a identificação clara do ambiente ou contexto da situação que motiva os objetivos e ações do cenário? [(3)](#RF3) | ***![][image6]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/7.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***09:*** Os cenários descrevem claramente o comportamento e as experiências dos atores envolvidos? [(3)](#RF3) | ***![][image7]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/12.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***10:*** Cada cenário possui um objetivo principal claramente definido? [(3)](#RF3) | ***![][image8]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/9.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***11:*** Os cenários incluem pelo menos um ator principal? [(3)](#RF3) | ***![][image9]*** | Incompleto | O ator "Principal" não possui diferenciação. | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/8.png?raw=true) |  [Eduardo de Pina](https://github.com/eduardodpms)
+| ***12:*** Cada cenário possui um contexto que descreve o estado inicial com suas pré condições, local e tempo? [(3)](#RF3) | ***![][image10]*** | Incompleto | Não há diferenciação em pré condições, local e tempo. | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/7.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***13:*** Os cenários possuem episódios? [(3)](#RF3) | ***![][image11]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/11.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***14:*** Os cenários identificam os recursos (objetos passivos com os quais lidam os atores)? [(3)](#RF3) | ***![][image12]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/10.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
 
-<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms) </p></font>
+
 
 
 ## Análise de Resultados
@@ -124,6 +123,7 @@ O artefato permanecerá em acompanhamento até que a correção seja implementad
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 22/06/2025 | Criação da página e documentação | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.1` | 26/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | - |
 
 
 [imagex1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAI4AAAAICAYAAAAvFMfNAAAE4klEQVR4Xu1WfUxTVxTXQFteLYUxcJiC00yRJYtAyLIRotuCZpsBJy5DZRn42W1aKzhhNQEii3yoIRjcgOq2OjRsGsOQCRpl1oofYE0EJaMjItH4AYmwxUGA8F5+u/e8R2cb5nT7YzPjl5B77u/ed8495/zuLZMwgQn8DUzyJiYwgceBWzhNrbcf5hVIaGhowPm2mx5sb0s1eiQPiiB6EwpO2tu9KQWDbsvefh/O7gGyb7ddwC3nSffauBDv0lBdWvAI/0+IQc88x3Dhyvj8eCjYvtObemKIPde8qX8EqbcF58ZrmBesVps39acg4Uj3ToG3vXnEaxXDSPz6J1gd7bA0duJj03pmu+Dj/zKNry9dh4pjNUj5wAir/TLWVF7E5/srsGLlauxxdGJZ+krsOt2JVMsBpBuNWF1xHtaTp7H/rNIIsQNNtnwybfabiMn5EV1MS4WvCGg/Wg4u3AKbg9aLs8049rOINlcD+lkNLOb1kPqdeM1cinKbHTVlebjUK2Kw246NlmL2xRA2mC1yHIbvd+egpZdLmycpYb0py722t+oMjWJHIUwZeQorIj/TRJYQI3PttWWwOW6RXVLLmyvB1bAb3XYbLMUH4TxUitIv6midn+/eKJls2y/Y+OkOMstyNrOy3kDhQSfNsxc8BxfbV5abQfPmA0Voq0xk3/wKU1YBcUVbN8l+wOl2OG4Ns/S6YaY8ZRRZzGhmAevaXDi4Lwvl9S7kbNpAlzlKHURZ87r0O79FYXk9xeNuxvxUrk0hP1PTj7p9PgoeP1XLDssvQFhYmMLIwtH7ToO1sRrR8xYi5u1cqEOWY6pPIM0rqjYzEXXCRz+H5iVb5tFcFbuNRrJDlsFXZ0B0mArW48cx2W+67J4Jh9+D4LRahBlP4I2yO/jmHS0JZ+9bAqKEWHAB3G/KpO0phwaR1zoKqe8MZsyNx0VWjY9ODUMIM2KsRwvDBaSa+P7fEGXQ4TJPaaQJycnJ9PddikHxywSRZJNHwzoauXA40mqH+IxsbXCaIpxRXOVBho4gM0IArw3fw46DcEEDU+YS8JicHTufJlIWp+rZuRR7j1O+mavqhuAwv0B2U2YERq/kki0kfUkxhuvXQGD140iyPcAnqQlyHgyx266yI6xgoTpg0PnKb7bUh2dmzEWEJhIxea2Ur8SkQjkvXYXF2nD0nflMqcsI7iiPz5EVgW4/HMFB78kLjwFFOBL81WrPFcLYi9OB6K0OhGh9seUHFwmnouYrCDo/t3B27trAGrjAQzgatQ7JZZdIOPrpLyIhLhjbc5cj6CXlgKILcdMCqOlcOK+mroXpcJdbOFJPI2tqPG01+KuRemSIhCN2VSEmahb2sed3TDgz2VkWF53F7ClazE7IwOj1aoQE6/FAyWSWXoWIJcWYY3aQX3+dmoouBAbi+emKcFw7WB00yhciAgL80TX6x4uTOFsPQ7yRGjVnUTbt4cKZog1FQoYsVpKTcr5Q/SL67u6JPARq1XRJOB4WzoAjByU3ROhVAp0naZY/3k1/Ez2N+dCpuUABP02AO4/G/ETEG224Xv0hgvVamRS7EBkThcRQvSwcDEA9vwQqvwAUn+0j4XRVvU914Zisnk/xjLZrHn5UmsVKlL/GU/LPsQTBZ7I3+a9B6jsHXXicN/2/wlMinAn81/A7U7He/AozSAUAAAAASUVORK5CYII=>
