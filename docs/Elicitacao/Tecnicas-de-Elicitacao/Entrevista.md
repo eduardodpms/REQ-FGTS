@@ -24,7 +24,7 @@ A entrevista foi aplicada por **Enzo Emir e Eduardo de Pina**, com perguntas org
   </thead>
   <tbody>
     <tr>
-      <td>Entrevistado 1: Vicente</td>
+      <td>Entrevistado 1: Usuário</td>
       <td>03/05/2025</td>
       <td>17:30</td>
     </tr>
@@ -34,7 +34,7 @@ A entrevista foi aplicada por **Enzo Emir e Eduardo de Pina**, com perguntas org
       <td>17:30</td>
     </tr>
     <tr>
-      <td>Entrevistado 2: Nildete da Silva</td>
+      <td>Entrevistado 2: Usuário</td>
       <td>04/05/2025</td>
       <td>15:00</td>
     </tr>
