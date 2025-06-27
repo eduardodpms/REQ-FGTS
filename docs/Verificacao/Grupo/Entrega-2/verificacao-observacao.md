@@ -64,18 +64,15 @@ As tabelas abaixo, apresentam a inspeção  da Lista de Verificação da técnic
 
 <font size="3"><p style="text-align: center">Tabela 2: Itens gerais</p></font>
 
-| Item | Avaliação | Observação | Print |
-| :---- | :---: | :---: | :---: |
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(3)](#RF3) | Sim | \- | ![][image1] |
-| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(3)](#RF3) | Sim | \- | ![][image2] |
-| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(3)](#RF3) | Sim | \- | ![][image3] |
-| ***04:*** O artefato apresenta uma introdução? [(3)](#RF3) | Sim | \- | ![][image4] |
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(3)](#RF3) | Sim | \- | ![][image5] |
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(3)](#RF3) | Sim | \- | ![][image6] |
+| Item | Avaliação | Observação | Print | Autor |
+| ----- | :---: | :---: | :---: | :---: |
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(3)](#RF3) | Sim | \- | ![][image1] | [Danielle Soares](https://github.com/danielle-soaress)
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(3)](#RF3) | Sim | \- | ![][image2] | [Danielle Soares](https://github.com/danielle-soaress)
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(3)](#RF3) | Sim | \- | ![][image3] | [Danielle Soares](https://github.com/danielle-soaress)
+| ***04:*** O artefato apresenta uma introdução? [(3)](#RF3) | Sim | \- | ![][image4] | [Danielle Soares](https://github.com/danielle-soaress)
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(3)](#RF3) | Sim | \- | ![][image5] | [Danielle Soares](https://github.com/danielle-soaress)
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(3)](#RF3) | Sim | \- | ![][image6] | [Danielle Soares](https://github.com/danielle-soaress)
 
-<font size="3"><p style="text-align: center">Fonte: 
-    <a href="https://github.com/danielle-soaress">Danielle Soares</a>, <a href="https://github.com/MM4k">Marcelo Makoto</a>
-</p></font>
 
 ### Observação
 
@@ -83,20 +80,17 @@ As tabelas abaixo, apresentam a inspeção  da Lista de Verificação da técnic
 
 <a id="T3"></a>
 
-| Item | Avaliação | Observação | Print |
-| :---- | :---: | :---: | :---: |
-| ***01:*** Existe um cronograma com data para realização da elicitação de requisito? [(3)](#RF3) | Sim | \- | ![][image7] |
-| ***02:*** O local de realização da elicitação foi especificado? [(3)](#RF3) | Sim | \- | ![][image8] |
-| ***03:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? [(3)](#RF3) | Não | Não especificado. | – |
-| ***04:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? [(3)](#RF3) | Sim | \- | ![][image9] |
-| ***05:*** Foram feitas gravações e registros formais das atividades de elicitação? [(3)](#RF3) | Sim | \- | ![][image10] |
-| ***06:*** O observador tomou notas das tarefas em execução? [(1)](#REF1) | Sim | \- | ![][image11] |
-| ***07:*** As pessoas a serem observadas estão claramente identificadas? [(1)](#REF1) | Sim | \- | ![][image12] |
-| ***08:*** O tipo de postura do observador (ativa ou passiva) foi definida? [(1)](#REF1) | Não | Não especificado. | -- |
+| Item | Avaliação | Observação | Print | Autor |
+| ----- | :---: | :---: | :---: | :---: |
+| ***01:*** Existe um cronograma com data para realização da elicitação de requisito? [(3)](#RF3) | Sim | \- | ![][image7] | [Danielle Soares](https://github.com/danielle-soaress)
+| ***02:*** O local de realização da elicitação foi especificado? [(3)](#RF3) | Sim | \- | ![][image8] | [Danielle Soares](https://github.com/danielle-soaress)
+| ***03:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? [(3)](#RF3) | Não | Não especificado. | – | [Danielle Soares](https://github.com/danielle-soaress)
+| ***04:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? [(3)](#RF3) | Sim | \- | ![][image9] | [Danielle Soares](https://github.com/danielle-soaress)
+| ***05:*** Foram feitas gravações e registros formais das atividades de elicitação? [(3)](#RF3) | Sim | \- | ![][image10] | [Danielle Soares](https://github.com/danielle-soaress)
+| ***06:*** O observador tomou notas das tarefas em execução? [(1)](#REF1) | Sim | \- | ![][image11] | [Danielle Soares](https://github.com/danielle-soaress)
+| ***07:*** As pessoas a serem observadas estão claramente identificadas? [(1)](#REF1) | Sim | \- | ![][image12] | [Danielle Soares](https://github.com/danielle-soaress)
+| ***08:*** O tipo de postura do observador (ativa ou passiva) foi definida? [(1)](#REF1) | Não | Não especificado. | -- | [Danielle Soares](https://github.com/danielle-soaress)
 
-<font size="3"><p style="text-align: center">Fonte: 
-    <a href="https://github.com/danielle-soaress">Danielle Soares</a>, <a href="https://github.com/MM4k">Marcelo Makoto</a>
-</p></font>
 
 ## Análise de Resultados
 
@@ -148,6 +142,8 @@ O artefato permanece em acompanhamento até que essa correção seja implementad
 | `1.0` | 21/06/2025 | Criação do documento | [Danielle Soares](https://github.com/danielle-soaress) | - |
 | `1.1` | 21/06/2025 | Correções no texto | [Danielle Soares](https://github.com/danielle-soaress) | - |
 | `1.3` | 21/06/2025 | Correções nas tabelas | [Danielle Soares](https://github.com/danielle-soaress) | - |
+| `1.4` | 26/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | - |
+
 
 
 [image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAI4AAAAbCAYAAACqVrf4AAACnUlEQVR4Xu2YT49pMRjG56vwBSwls/ZFfAfMhKUgQshIsBMhEjOxtbYSdlYSFlhYCAtBiD8hnTxN3qbnXO6M3htzue8vadr3Oe1pe85D2/MkGMaAJ7vAMN+BjcMYwcZhjGDjMEawcRgjLMaZTqd6eDX5fN4uMQ+KxTgOh0M4nU5dEm632xL3+33h8XhkebPZKD2bzSrjNBoNpTOPyZf/OC8vL5bY5/OJ5+dnWdaN43K5lHG8Xq/SmcfEaI+Ty+XsEvOfYWQchmHjMEawcRgj2DiMEVcbZzKZWGK/3y/G47HMCRzHESMtl0uldzody0kM7c5B9+p2u7Yrl0Eb1NfHQf0j//j40GoLsVgsRK/XUzHGfGk8dvQ+vsvv2qRSKUscjUYtMbB/I4tEIqLZbFo0U4bDoV36kquNA3BsRxqNRpZvNqfTSeak1Wo1dQ2QiQKBgCzjReEeYDabqXpoDxMgoc5+vxfhcPiXB6zz/v4u6+OB6oajPjG21WqldDI3GYZyMp9ueJSDwaCK8S0L6C8TbRBTO/25ENVqVc4FiYwOMC99jpjD6+uraocY99bNBw0/RBqrPt5yuazKiURC9luv15UG0FepVBLxeFz2DVqtluw/FArJ8aMPfd46Rsb5V0in03bpLliv13bpj9GNcwvu2jjMz8HGYYy4aJxMJiMKhYJcH7HOFYtFqWNdxvqLzSXWRuxXQDKZlDmtiaQPBgO1Nm+3W3kde4l2uy01gPWU+kFd1AMoz+dzcTwe1TWd3W4nrzO356xxYIjD4SBfJhJArm86Y7GY2lQBvUxUKhVVhlnQhso4EdAGEvnb25uqi9MO3Q+GxAYO0DpOMYzD/AxnjfO3sf9TMPfPTYzDPB5sHMYINg5jBBuHMYKNwxjxCfjmBLs1HxpQAAAAAElFTkSuQmCC>

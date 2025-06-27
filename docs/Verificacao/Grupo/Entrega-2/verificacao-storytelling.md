@@ -63,18 +63,16 @@ As tabelas abaixo, apresentam a inspeção  da Lista de Verificação da técnic
 
 <font size="3"><p style="text-align: center">Tabela 2: Itens gerais</p></font>
 
-| Item | Avaliação | Observação | Print |
-| :---- | :---: | :---: | :---: |
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(2)](#REF2) | Sim | \- | ![][image1] |
-| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(2)](#REF2) | Sim | \- | ![][image2] |
-| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(2)](#REF2) | Sim | \- | ![][image3]  |
-| ***04:*** O artefato apresenta uma introdução? [(2)](#REF2) | Sim | \- | ![][image4] |
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(2)](#REF2) | Sim | \- | ![][image4] |
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(2)](#REF2) | Sim | \- | ![][image6] |
+| Item | Avaliação | Observação | Print | Autor |
+| ----- | :---: | :---: | :---: | :---: |
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(2)](#REF2) | Sim | \- | ![][image1] | [Danielle Soares](https://github.com/danielle-soaress), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(2)](#REF2) | Sim | \- | ![][image2] | [Danielle Soares](https://github.com/danielle-soaress), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(2)](#REF2) | Sim | \- | ![][image3]  | [Danielle Soares](https://github.com/danielle-soaress), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***04:*** O artefato apresenta uma introdução? [(2)](#REF2) | Sim | \- | ![][image4] | [Danielle Soares](https://github.com/danielle-soaress), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(2)](#REF2) | Sim | \- | ![][image4] | [Danielle Soares](https://github.com/danielle-soaress), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(2)](#REF2) | Sim | \- | ![][image6] | [Danielle Soares](https://github.com/danielle-soaress), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
 
-<font size="3"><p style="text-align: center">Fonte: 
-    <a href="https://github.com/danielle-soaress">Danielle Soares</a>, <a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a>
-</p></font>
+
 
 ### Storytelling
 
@@ -82,20 +80,17 @@ As tabelas abaixo, apresentam a inspeção  da Lista de Verificação da técnic
 
 <a id="T3"></a>
 
-| Item | Avaliação | Observação | Print |
-| :---- | :---: | :---: | :---: |
-| ***01:*** Existe um cronograma com data para realização da elicitação de requisito? [(2)](#REF2)| Sim | \- | ![][image7] |
-| ***02:*** O local de realização da elicitação foi especificado? [(2)](#REF2)| Sim | \- | ![][image7] |
-| ***03:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? [(2)](#REF2)| Sim | \- | ![][image7] |
-| ***04:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? [(2)](#REF2)| Sim | \- | ![][image7] |
-| ***05:*** Foram feitas gravações e registros formais das atividades de elicitação? [(2)](#REF2)| Sim | \- | ![][image8] |
-| ***06:*** As histórias narradas são relacionadas ao contexto do aplicativo? [(1)](#REF1)| Sim | \- | ![][image6] |
-| ***07:*** Foi utilizada uma linguagem adequada ao contexto das histórias? [(1)](#REF1) | Sim | \- | ![][image6] |
-| ***08:*** A técnica se baseia na utilização de histórias em grupos de pessoas? [(1)](#REF1) | Sim | \- | ![][image9] |
+| Item | Avaliação | Observação | Print | Autor |
+| ----- | :---: | :---: | :---: | :---: |
+| ***01:*** Existe um cronograma com data para realização da elicitação de requisito? [(2)](#REF2)| Sim | \- | ![][image7] | [Danielle Soares](https://github.com/danielle-soaress), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***02:*** O local de realização da elicitação foi especificado? [(2)](#REF2)| Sim | \- | ![][image7] | [Danielle Soares](https://github.com/danielle-soaress), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***03:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? [(2)](#REF2)| Sim | \- | ![][image7] | [Danielle Soares](https://github.com/danielle-soaress), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***04:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? [(2)](#REF2)| Sim | \- | ![][image7] | [Danielle Soares](https://github.com/danielle-soaress), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***05:*** Foram feitas gravações e registros formais das atividades de elicitação? [(2)](#REF2)| Sim | \- | ![][image8] | [Danielle Soares](https://github.com/danielle-soaress), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***06:*** As histórias narradas são relacionadas ao contexto do aplicativo? [(1)](#REF1)| Sim | \- | ![][image6] | [Danielle Soares](https://github.com/danielle-soaress), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***07:*** Foi utilizada uma linguagem adequada ao contexto das histórias? [(1)](#REF1) | Sim | \- | ![][image6] | [Danielle Soares](https://github.com/danielle-soaress), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***08:*** A técnica se baseia na utilização de histórias em grupos de pessoas? [(1)](#REF1) | Sim | \- | ![][image9] | [Danielle Soares](https://github.com/danielle-soaress), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
 
-<font size="3"><p style="text-align: center">Fonte: 
-    <a href="https://github.com/danielle-soaress">Danielle Soares</a>, <a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a>
-</p></font>
 
 ## Análise de Resultados
 
@@ -134,6 +129,7 @@ Foi realizada a inspeção no artefato da ténica de *Storytelling* com base na 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 21/06/2025 | Criação do documento | [Danielle Soares](https://github.com/danielle-soaress), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `1.1` | 26/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | - |
 
 
 

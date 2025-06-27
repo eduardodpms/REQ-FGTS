@@ -57,28 +57,28 @@ Nesta etapa o integrante [Enzo Emir](https://github.com/EnzoEmir), será respons
 
 ### Itens Gerais
 
-| Item | Avaliação | Observação | Print |
-|----|---------|-----------|--------|
-| **01:** O artefato apresenta uma bibliografia/referência bibliográfica? | Sim | - | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/ref_in.png?raw=true) |
-| **02:** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | Sim | - | ![Hist](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/historico_in.png?raw=true) |
-| **03:** As tabelas e imagens apresentam legenda e fonte? | Sim | - | ![Fonte](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/fonte_in.png?raw=true) |
-| **04:** O artefato apresenta uma introdução? | Sim | - | ![Intro](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/intro_in.png?raw=true) |
-| **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Sim | - | ![Formal](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/intro_in.png?raw=true) |
-| **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Sim | - | ![Coerencia](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/lista_in.png?raw=true) |
+| Item | Avaliação | Observação | Print | Autor |
+| ----- | :---: | :---: | :---: | :---: |
+| **01:** O artefato apresenta uma bibliografia/referência bibliográfica? | Sim | - | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/ref_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **02:** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | Sim | - | ![Hist](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/historico_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **03:** As tabelas e imagens apresentam legenda e fonte? | Sim | - | ![Fonte](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/fonte_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **04:** O artefato apresenta uma introdução? | Sim | - | ![Intro](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/intro_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Sim | - | ![Formal](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/intro_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Sim | - | ![Coerencia](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/lista_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
 
-<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
 
 ### In or Out
 
-| Item | Avaliação | Observação | Print |
-|----|---------|-----------|--------|
-| **01:** Existe um cronograma com data para realização da priorização dos requisitos? | Sim | - | ![Cronograma](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cronograma_in.png?raw=true) |
-| **02:** O local para a priorização foi definido? | Sim | - | ![Local](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/local_in.png?raw=true) |
-| **03:** A prioridade de cada requisito foi decidida de forma binária (In/Out)? | Sim | - | ![Binario](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/bin_in.png?raw=true) |
-| **04:** Houve participação de stakeholders? | Sim | - | ![Stakeholders](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/bin_in.png?raw=true) |
-| **05:** Todos os requisitos a serem priorizados foram reunidos em uma lista? | Sim | - | ![Lista](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/lista_in.png?raw=true) |
+| Item | Avaliação | Observação | Print | Autor |
+| ----- | :---: | :---: | :---: | :---: |
+| **01:** Existe um cronograma com data para realização da priorização dos requisitos? | Sim | - | ![Cronograma](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cronograma_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **02:** O local para a priorização foi definido? | Sim | - | ![Local](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/local_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **03:** A prioridade de cada requisito foi decidida de forma binária (In/Out)? | Sim | - | ![Binario](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/bin_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **04:** Houve participação de stakeholders? | Sim | - | ![Stakeholders](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/bin_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **05:** Todos os requisitos a serem priorizados foram reunidos em uma lista? | Sim | - | ![Lista](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/lista_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
 
-<font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir)</p></font>
+
 
 
 ## Análise de Resultados
@@ -105,5 +105,6 @@ O artefato *In or Out* está considerado **aprovado**, com todos os itens da che
 
 | Versão | Data       | Descrição                         | Autor(es)    | Revisor(es)  |
 |:-----: | :--------: | :------------------------------- | :---------- | :---------- |
-| 1.0    | 21/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   | [Victor Pontual](https://github.com/) |
-| 1.1 | 22/06/2025 | Adição dos prints | [Enzo Emir](https://github.com/EnzoEmir) | [Victor Pontual](https://github.com/) |
+| `1.0`    | 21/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   | [Victor Pontual](https://github.com/) |
+| `1.1` | 22/06/2025 | Adição dos prints | [Enzo Emir](https://github.com/EnzoEmir) | [Victor Pontual](https://github.com/) |
+| `1.2` | 26/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | - |

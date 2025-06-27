@@ -62,36 +62,32 @@ A tabela abaixo, apresenta a inspeção da Lista de Verificação do artefato Th
 
 <font size="3"><p style="text-align: center">Tabela 2: Itens gerais</p></font>
 
-| Item | Avaliação | Observação | Print |
-| :---- | :---: | :---: | :---: |
+| Item | Avaliação | Observação | Print | Autor |
+| ----- | :---: | :---: | :---: | :---: |
 | **Geral** |
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? | Sim | - | ![][image1] |
-| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | Sim | - | ![][image2] |
-| ***03:*** As tabelas e imagens apresentam legenda e fonte? | Não | Algumas tabelas não apresentam Fonte | ![][image6] |
-| ***04:*** O artefato apresenta uma introdução? | Sim | - | ![][image3] |
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Sim | - | ![][image3] |
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Sim | - | ![][image4] |
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? | Sim | - | ![][image1] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | Sim | - | ![][image2] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? | Não | Algumas tabelas não apresentam Fonte | ![][image6] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***04:*** O artefato apresenta uma introdução? | Sim | - | ![][image3] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Sim | - | ![][image3] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Sim | - | ![][image4] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
 
-<font size="3"><p style="text-align: center">Autora: 
-    <a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a>
-</p></font>
+
 
 ###**Three-Level Scale**
 
 <font size="3"><p style="text-align: center">Tabela 3: Itens sobre Casos de Uso</p></font>
 
-| Item | Avaliação | Observação | Print |
-| :---- | :---: | :---: | :---: |
+| Item | Avaliação | Observação | Print | Autor |
+| ----- | :---: | :---: | :---: | :---: |
 | **Three-Level Scale** |
-| ***01:*** Existe um cronograma com data para realização da priorização dos requisitos?  | Sim | Não se trata exatamente de um cronograma, mas há uma tabela que informa os participantes, a data, o horário e o local de realização da priorização. | ![][image6] |
-| ***02:*** O local para a priorização foi definido? | Sim | - | ![][image6] |
-| ***03:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona? | Não | Essa técnica de priorização não foi desenvolvida com usuários ou personas. | ![][image6] |
-| ***04:*** Foi utilizada uma escala de priorização que permite identificar prioridades alta, média e baixa? | Sim | - | ![][image5] |
-| ***05:*** Caso aplicável, as interdependências entre requisitos foram consideradas? | Sim | - | ![][image5] |
+| ***01:*** Existe um cronograma com data para realização da priorização dos requisitos?  | Sim | Não se trata exatamente de um cronograma, mas há uma tabela que informa os participantes, a data, o horário e o local de realização da priorização. | ![][image6] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***02:*** O local para a priorização foi definido? | Sim | - | ![][image6] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***03:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona? | Não | Essa técnica de priorização não foi desenvolvida com usuários ou personas. | ![][image6] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***04:*** Foi utilizada uma escala de priorização que permite identificar prioridades alta, média e baixa? | Sim | - | ![][image5] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
+| ***05:*** Caso aplicável, as interdependências entre requisitos foram consideradas? | Sim | - | ![][image5] | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)
 
-<font size="3"><p style="text-align: center">Autora: 
-    <a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a>
-</p></font>
+
 
 
 ## Análise de Resultados
@@ -131,6 +127,7 @@ O artefato permanece em acompanhamento até que essa correção seja implementad
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 21/06/2025 | Criação do documento | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.1` | 22/06/2025 | Adição de revisor | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.2` | 26/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | - |
 
 
 

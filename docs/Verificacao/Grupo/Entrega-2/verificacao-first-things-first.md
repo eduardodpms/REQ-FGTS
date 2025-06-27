@@ -57,33 +57,33 @@ As tabelas 2 e 3 abaixo apresentam a inspeção, respectivamente, dos itens gera
 
 <font size="3"><p style="text-align: center">Tabela 2: Itens Gerais</p></font>
 
-| Item | Referência | Avaliação | Observação | Print |
-| :---- | :---: | :---: | :---: | :---: |
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(1)](#RF1)| ![][imagex1] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/1.png?raw=true) |
-| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(1)](#RF1)| ![][imagex2] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/2.png?raw=true) |
-| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(1)](#RF1)| ![][imagex3] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/3.png?raw=true) |
-| ***04:*** O artefato apresenta uma introdução? [(1)](#RF1)| ![][imagex4] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/4.png?raw=true) |
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(1)](#RF1)| - | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/5.png?raw=true) |
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(1)](#RF1)| ![][imagex5] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/6.png?raw=true) |
+| Item | Referência | Avaliação | Observação | Print | Autor |
+| :---- | :---: | :---: | :---: | :---: | :---: |
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(1)](#RF1)| ![][imagex1] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/1.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(1)](#RF1)| ![][imagex2] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/2.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(1)](#RF1)| ![][imagex3] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/3.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***04:*** O artefato apresenta uma introdução? [(1)](#RF1)| ![][imagex4] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/4.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(1)](#RF1)| - | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/5.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(1)](#RF1)| ![][imagex5] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/6.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
 
-<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms) </p></font>
+
 
 ### ✅ First Things First
 
 <font size="3"><p style="text-align: center">Tabela 3: Itens do artefato First Things First</p></font>
 
-| Item | Referência | Avaliação | Observação | Print |
-| :---- | :---: | :---: | :---: | :---: |
-| ***01:*** Existe um cronograma com data para realização da priorização dos requisitos? [(1)](#RF1) | ***![][image14]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/3.png?raw=true) |
+| Item | Referência | Avaliação | Observação | Print | Autor |
+| :---- | :---: | :---: | :---: | :---: | :---: |
+| ***01:*** Existe um cronograma com data para realização da priorização dos requisitos? [(1)](#RF1) | ***![][image14]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/3.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
 | ***02:*** O local para a priorização foi definido? [(1)](#RF1) | ***![][image14]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/3.png?raw=true) |
-| ***03:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona? [(1)](#RF1) | ***![][image14]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/3.png?raw=true) |
-| ***04:*** Foi feita uma lista de todos os requisitos a serem priorizados em uma planilha antes do início da técnica? [(2)](#RF2) | ***![][image33]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/7.png?raw=true) |
-| ***05:*** Determinou-se uma escala de prioridade para ser aplicada (ex: 1-9)? [(2)](#RF2) | ***![][image34]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/10.png?raw=true) |
-| ***06:*** Há uma coluna que representa o valor total da prioridade de cada requisito? [(2)](#RF2) | ***![][image35]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/9.png?raw=true) |
-| ***07:*** A lista foi ordenada de maneira crescente/decrescente de prioridade? [(2)](#RF2) | ***![][image36]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/8.png?raw=true) |
-| ***08:*** É possível identificar claramente quais requisitos com maior/menor prioridade? [(2)](#RF2) | ***![][image37]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/8.png?raw=true) |
+| ***03:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona? [(1)](#RF1) | ***![][image14]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/3.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***04:*** Foi feita uma lista de todos os requisitos a serem priorizados em uma planilha antes do início da técnica? [(2)](#RF2) | ***![][image33]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/7.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***05:*** Determinou-se uma escala de prioridade para ser aplicada (ex: 1-9)? [(2)](#RF2) | ***![][image34]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/10.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***06:*** Há uma coluna que representa o valor total da prioridade de cada requisito? [(2)](#RF2) | ***![][image35]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/9.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***07:*** A lista foi ordenada de maneira crescente/decrescente de prioridade? [(2)](#RF2) | ***![][image36]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/8.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***08:*** É possível identificar claramente quais requisitos com maior/menor prioridade? [(2)](#RF2) | ***![][image37]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/first_things_first/8.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
 
-<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms) </p></font>
+
 
 ## Análise de Resultados
 
@@ -110,6 +110,7 @@ O artefato, após inspeção minuciosa de seus elementos, foi definido como apro
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 22/06/2025 | Criação da página e documentação | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.1` | 26/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | - |
 
 
 

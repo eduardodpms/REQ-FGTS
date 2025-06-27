@@ -64,16 +64,15 @@ A tabela abaixo, apresenta a inspeção  da Lista de Verificação do artefado *
 <font size="3"><p style="text-align: center">Tabela 2: Itens Gerais</p></font>
 
 
-| Item | Avaliação | Observação | Print |
-| ----- | :---: | :---: | :---: |
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(3)](#REF3) | Sim | \- | ![][image1] |
-| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(3)](#REF3) | Sim | \- | ![][image2] |
-| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(3)](#REF3) | Sim | \- | ![][image3]![][image4] |
-| ***04:*** O artefato apresenta uma introdução? [(3)](#REF3) | Sim | \- | ![][image5] |
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(3)](#REF3) | Sim | \- | ![][image6] |
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(3)](#REF3) | Sim | \- | ![][image7] |
+| Item | Avaliação | Observação | Print | Autor |
+| ----- | :---: | :---: | :---: | :---: |
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(3)](#REF3) | Sim | \- | ![][image1] | [Maria Eduarda](https://github.com/dudaa28)
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(3)](#REF3) | Sim | \- | ![][image2] | [Maria Eduarda](https://github.com/dudaa28)
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(3)](#REF3) | Sim | \- | ![][image3]![][image4] | [Maria Eduarda](https://github.com/dudaa28)
+| ***04:*** O artefato apresenta uma introdução? [(3)](#REF3) | Sim | \- | ![][image5] | [Maria Eduarda](https://github.com/dudaa28)
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(3)](#REF3) | Sim | \- | ![][image6] | [Maria Eduarda](https://github.com/dudaa28)
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(3)](#REF3) | Sim | \- | ![][image7] | [Maria Eduarda](https://github.com/dudaa28)
 
-<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
 ### Brainstorming
 
@@ -82,18 +81,15 @@ A tabela abaixo, apresenta a inspeção  da Lista de Verificação do artefado *
 <a id="T1"></a>
 
 
-| Item | Avaliação | Observação | Print |
-| ----- | :---: | :---: | :---: |
-| ***01:*** Existe um cronograma com data para realização da elicitação de requisito? [(3)](#REF3) | Sim | \- | ![][image1] |
-| ***02:*** O local de realização da elicitação foi especificado? [(3)](#REF3) | Sim | \- | ![][image2] |
-| ***03:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? [(3)](#REF3) | Não | Não houve participação de cliente e/ou persona | ![][image1] |
-| ***04:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? [(3)](#REF3) | Não | Não houve participação de cliente e/ou persona | ![][image3] |
-| ***05:*** Foram feitas gravações e registros formais das atividades de elicitação? [(3)](#REF3) | Sim | \- | ![][image4] |
-| ***06:*** É possível identificar a participação e interação de todos os participantes da técnica? [(2)](#REF2) | Sim | \- | ![][image5] |
-| ***07:*** Os participantes da técnica estão reunidos em um mesmo ambiente? [(2)](#REF2) | Não | Os participantes não estão reunidos em um mesmo ambiente e a eliitação foi por videoconferência | ![][image4]![][image6] |
-
-
-<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+| Item | Avaliação | Observação | Print | Autor |
+| ----- | :---: | :---: | :---: | :---: |
+| ***01:*** Existe um cronograma com data para realização da elicitação de requisito? [(3)](#REF3) | Sim | \- | ![][image1] | [Maria Eduarda](https://github.com/dudaa28)
+| ***02:*** O local de realização da elicitação foi especificado? [(3)](#REF3) | Sim | \- | ![][image2] | [Maria Eduarda](https://github.com/dudaa28)
+| ***03:*** O cronograma e local foram definidos em conjunto com o cliente e/ou persona? [(3)](#REF3) | Não | Não houve participação de cliente e/ou persona | ![][image1] | [Maria Eduarda](https://github.com/dudaa28)
+| ***04:*** Caso aplicável à técnica, foi registrada a participação do cliente e/ou persona na elicitação de requisitos? [(3)](#REF3) | Não | Não houve participação de cliente e/ou persona | ![][image3] | [Maria Eduarda](https://github.com/dudaa28)
+| ***05:*** Foram feitas gravações e registros formais das atividades de elicitação? [(3)](#REF3) | Sim | \- | ![][image4] | [Maria Eduarda](https://github.com/dudaa28)
+| ***06:*** É possível identificar a participação e interação de todos os participantes da técnica? [(2)](#REF2) | Sim | \- | ![][image5] | [Maria Eduarda](https://github.com/dudaa28)
+| ***07:*** Os participantes da técnica estão reunidos em um mesmo ambiente? [(2)](#REF2) | Não | Os participantes não estão reunidos em um mesmo ambiente e a eliitação foi por videoconferência | ![][image4]![][image6] | [Maria Eduarda](https://github.com/dudaa28)
 
 
 ## Análise de Resultados
@@ -152,6 +148,7 @@ O artefato permanece em acompanhamento até que essas correções sejam devidame
 | `1.0` | 21/06/2025 | Criação do documento | [Maria Eduarda](https://github.com/dudaa28) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.1` | 22/06/2025 | Adicionando Documentação | [Maria Eduarda](https://github.com/dudaa28) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.2` | 22/06/2025 | Atualizando documentação e adicionando Prints | [Maria Eduarda](https://github.com/dudaa28) | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.3` | 27/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | - |
 
 [image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIcAAAAdCAYAAACAGn8vAAAD+klEQVR4Xu2ZR0tuMRCG719x7ULxD+jWlfhD3NnFBhYsWLEgFhRFsVdQwbJxYxdREEVBxa5YUbHk8g5MTM53ot9V7r2C84BMMpPkS05ez5mT80sJgoNfXocgMCIOwYmIQ3Ai4hCciDgEJ1ocsbGxZMPDw3XQxcHBgbq+vva6gyYkJIRsX1+fJ/I+m5ubZKOiojwR4W9gieP8/Fzl5OSo6Ohos416eXmx6l5OT0+t+t3dHdmdnR2yz8/POsbCiIuL0+K4vb0lOzExodsxEAL3Ae3t7So0NJTKo6OjZGNiYsje3Nyo1dVV3Vb4GgF3joGBARUZGcluwtxcP/b29qx6WFgY2a2tLbKDg4NmWPX09FjiYDH5iSMiIkLFx8fremtra4A4GhsbyWKch4cH3Vb4Gt8+50hJSfG6hH/EtxeH8P8QcQhORByCExGH4ESLA28QgmDyaXGsra2phIQEKrMtKCjQ8cPDQ/Lzn0l6erpVb2lpseqMX99g6Orqsurb29tkOzo61MzMDI3Z0NBgtQGZmZm63NnZ+RYIgqurKzU5Oel1fwjmUlZW5nVrvOt/enqy6u+RnZ3tdRG5ublkPxrr0+IwWVhYCFgEi8OLeeaByTU3N2tx8GEYg/7j4+OWb2NjQyUnJ7979oKDPKa7u1utr6/T7wAWR2pqqm4DKisr9RkJNtkUbFJSkkpMTKTy5eWl9ptgXvf39163mp+fV8vLy7peU1NjRO3Nn56eVm1tbVYM5zoXFxe6XlJSEnCdAM6UsA9MfX09rT0rK0vV1dWRb2pqitbf29tLdYxVW1ur+3j5lDgwyZWVFSr73UHwn/DenSMjI4MsFoONw0YUFxeTr7CwULfjvmlpaVTHwrDAoqIiqvMZCOJHR0e6n2stuPAsjqampgCBsWBGRkYsceCEeHFxkcrmIRuvA2AD+VAPGwKwCWNjY7oNwPz50A5gLpjT3Nyc7od5oDw0NKTb4cAPAsBdka8Hw3fipaUl7auqqqLf4n9GrAmfPSB0jmMsXEMer7+/Xx0fH+sxPiUO4Wcg4hCcBCUO/vYRDB8lOX8KPgYyr6+vRiQwWQsGfnQMDw9rnyuP+On4igPJDGf4DBJDJDB4tmOTzHyAxcMJE/P4+EgJj5lA4Y2goqJC1xHH85DB7+BZuLu7q33l5eW+bxdecaDOyRd/ScZXXD9MQZSWlhoRgfEVx+zsLFkkRfjsfnZ2pmMASQ6SIyRRDL6ocsLECVVeXp6V8FRXV6v9/X29ccjcISzzzoQYhMF9IFS8JvIdCePn5+dT2RQHklT0Ozk5oQwfoB2LA28jZh8kX4z5hiC84SsOQQByfC44EXEITkQcghMRh+BExCE4+Q2iY8rrDaj3iwAAAABJRU5ErkJggg==>
 

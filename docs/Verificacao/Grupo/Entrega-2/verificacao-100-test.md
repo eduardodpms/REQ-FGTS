@@ -62,18 +62,15 @@ As tabelas abaixo apresentam a inspeção da Lista de Verificação da técnica 
 
 <font size="3"><p style="text-align: center">Tabela 2: Itens gerais</p></font>
 
-| Item | Avaliação | Observação | Print |
-| ----- | :---: | :---: | :---: |
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image1] |
-| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image2] |
-| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image3] |
-| ***04:*** O artefato apresenta uma introdução? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image4] |
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image5] |
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image6] |
+| Item | Avaliação | Observação | Print | Autor |
+| ----- | :---: | :---: | :---: | :---: |
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image1] | [Marcelo Makoto](https://github.com/MM4k)
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image2] | [Marcelo Makoto](https://github.com/MM4k)
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image3] | [Marcelo Makoto](https://github.com/MM4k)
+| ***04:*** O artefato apresenta uma introdução? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image4] | [Marcelo Makoto](https://github.com/MM4k)
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image5] | [Marcelo Makoto](https://github.com/MM4k)
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image6] | [Marcelo Makoto](https://github.com/MM4k)
 
-<font size="3"><p style="text-align: center">Fonte: 
-    <a href="https://github.com/danielle-soaress">Danielle Soares</a>, <a href="https://github.com/MM4k">Marcelo Makoto</a>
-</p></font>
 
 ### $100 Test
 
@@ -81,22 +78,19 @@ As tabelas abaixo apresentam a inspeção da Lista de Verificação da técnica 
 
 <a id="T3"></a>
 
-| Item | Avaliação | Observação | Print |
-| ----- | :---: | :---: | :---: |
-| ***01:*** Existe um cronograma com data para realização da priorização dos requisitos? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image3] |
-| ***02:*** O local para a priorização foi definido? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image3] |
-| ***03:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image3] |
-| ***04:*** As técnicas MoSCoW e/ou 100$ só foram usadas após outras duas técnicas? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image7] |
-| ***05:*** Cada participante possui $100 para aplicar durante a priorização? [(2)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image8] |
-| ***06:*** O peso atribuído aos requisitos reflete adequadamente sua importância, com os mais críticos recebendo maior ponderação e os menos críticos, menor? [(2)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image9] |
-| ***07:*** Os pesos foram distribuídos de forma que nenhum requisito recebeu a prioridade máxima ($100)? [(2)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image10] |
-| ***08:*** Os resultados da priorização foram reunidos em uma tabela? [(2)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image11] |
-| ***09:*** É possível identificar claramente a prioridade total de cada requisito? [(2)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image12] |
-| ***10:*** É possível identificar claramente quais requisitos tem prioridade maior/menor? [(2)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image13] |
+| Item | Avaliação | Observação | Print | Autor |
+| ----- | :---: | :---: | :---: | :---: |
+| ***01:*** Existe um cronograma com data para realização da priorização dos requisitos? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image3] | [Marcelo Makoto](https://github.com/MM4k)
+| ***02:*** O local para a priorização foi definido? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image3] | [Marcelo Makoto](https://github.com/MM4k)
+| ***03:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image3] | [Marcelo Makoto](https://github.com/MM4k)
+| ***04:*** As técnicas MoSCoW e/ou 100$ só foram usadas após outras duas técnicas? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image7] | [Marcelo Makoto](https://github.com/MM4k)
+| ***05:*** Cada participante possui $100 para aplicar durante a priorização? [(2)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image8] | [Marcelo Makoto](https://github.com/MM4k)
+| ***06:*** O peso atribuído aos requisitos reflete adequadamente sua importância, com os mais críticos recebendo maior ponderação e os menos críticos, menor? [(2)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image9] | [Marcelo Makoto](https://github.com/MM4k)
+| ***07:*** Os pesos foram distribuídos de forma que nenhum requisito recebeu a prioridade máxima ($100)? [(2)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image10] | [Marcelo Makoto](https://github.com/MM4k)
+| ***08:*** Os resultados da priorização foram reunidos em uma tabela? [(2)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image11] | [Marcelo Makoto](https://github.com/MM4k)
+| ***09:*** É possível identificar claramente a prioridade total de cada requisito? [(2)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image12] | [Marcelo Makoto](https://github.com/MM4k)
+| ***10:*** É possível identificar claramente quais requisitos tem prioridade maior/menor? [(2)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image13] | [Marcelo Makoto](https://github.com/MM4k)
 
-<font size="3"><p style="text-align: center">Fonte: 
-    <a href="https://github.com/danielle-soaress">Danielle Soares</a>, <a href="https://github.com/MM4k">Marcelo Makoto</a>
-</p></font>
 
 ## Análise de Resultados
 
@@ -129,6 +123,7 @@ Foi realizada a inspeção do artefato *$100 Test* com base na técnica de inspe
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 22/06/2025 | Criação do documento | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.1` | 27/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | - |
 
 
 [image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIcAAAAZCAYAAAAbiz05AAAC60lEQVR4Xu2Zz0uyQRDH+1fKQ3Ux6NYxkE7hRQmqQ2CXjl365cHsXESeJILoVkg/jDoEEZEQBSKYXj1kKRh0CTGKionvwiy7j66g7+1tPrDM7szsPrvu16eaekgQHPR4HYLAiDgEJ1ocvb29FA6HzVhbFhYWvC7F5eWl12UxPT2tLJ6H1g3dzhM6wxIH22KxSN/f3zoJvtnZWdX/+fnR47u7OytnaWmJPj4+rLmVSoUGBgb0GLAwWl1yIBCgoaEhPUZOJBIxMprF8fb2RnNzc+T3++nz89OKCd3TJA6wsrKi++0wxcFAHBDQ19eXHo+NjVk5IyMjljhOT0+tOJicnFQWOfPz86r/+vpKz8/PTeIAw8PDur+8vGxEhG5pEsfo6KiyoVCIQxSLxawL4bEpjomJCeVjcfT39yu/z+ez5s7MzKg3E4tjampKx0BfXx8NDg6qfjAYtMQBkR0fH1vrjY+PKwsf3lLA+6YRukN+IRWciDgEJyIOwYmIQ3CixXF0dGT6BUHEIbjpWBxXV1fKokJarVY9UTebm5vK7uzsqLneCmupVLLG7fDOBfgTF/719XU1LhQKyi4uLqqay+3trWpMPB6np6cn2t7e1mfn2szh4SGVy2W6v7/X+SjwoXEN5eDggPb29mhra4ve399pd3eXarWazm3F6uqqsqlUSvuw57OzM70u9g/fxsaG9TlhLyguYvzw8KDnoqGkwHnX19dqPY7j/ABnz+fzqs9gv4lEQs89Pz+34h2L4/HxUW/KFIf3wl5eXqwxg0KWeWjGrKri0v6V/f19qtfrtLa2RhcXF9rPz0ZjITEsDsROTk60Hx8iX3gul9N+gNxsNmv5ULHltUyQ6z0b78Vcl33JZJLS6TQ1Gg3lN0VgAj+Eaj4TZ8cZWEjtwBcW9+KlY3EIfwcRh+BExCE4cYrj5uZG9zOZjLKtft4J/y8txeH9ryzEEY1GRRx/jJbiEAQg5XPBiYhDcCLiEJyIOAQnvzTCbUjexVWuAAAAAElFTkSuQmCC>
