@@ -57,32 +57,29 @@ As tabelas 2 e 3 abaixo apresentam a inspeção, respectivamente, dos itens gera
 
 <font size="3"><p style="text-align: center">Tabela 2: Itens Gerais</p></font>
 
-| Item | Referência | Avaliação | Observação | Print |
-| :---- | :---: | :---: | :---: | :---: |
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(2)](#RP2)| ![][image1] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/1.png?raw=true) |
-| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(2)](#RP2)| ![][image2] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/2.png?raw=true) |
+| Item | Referência | Avaliação | Observação | Print | Autor |
+| :---- | :---: | :---: | :---: | :---: | :---: |
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(2)](#RP2)| ![][image1] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/1.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(2)](#RP2)| ![][image2] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/2.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
 | ***03:*** As tabelas e imagens apresentam legenda e fonte? [(2)](#RP2)| ![][image3] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/3.png?raw=true) |
-| ***04:*** O artefato apresenta uma introdução? [(2)](#RP2)| ![][image4] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/4.png?raw=true) |
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(2)](#RP2)|  | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/4.png?raw=true) |
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(2)](#RP2)| ![][image5] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/5.png?raw=true) |
+| ***04:*** O artefato apresenta uma introdução? [(2)](#RP2)| ![][image4] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/4.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(2)](#RP2)|  | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/4.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(2)](#RP2)| ![][image5] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/5.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
 
-<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms) </p></font>
 
 ### ✅ Rich Picture
 
 <font size="3"><p style="text-align: center">Tabela 3: Itens do artefato "Rich Picture"</p></font>
 
-| Item | Referência | Avaliação | Observação | Print |
-| :---- | :---: | :---: | :---: | :---: |
-| ***07:*** O Rich Picture representa todos os atores envolvidos no sistema? [(1)](#RP1)| ![][image6] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/6.png?raw=true) <br> ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/7.png?raw=true) |
-| ***08:*** Os fluxos de informação entre os elementos estão ilustrados? [(1)](#RP1)| ![][image7] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/8.png?raw=true) |
-| ***09:*** As principais operações do sistema estão representadas? [(1)](#RP1)| ![][image8] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/9.png?raw=true) |
-| ***10:*** Os limites do sistema estão claramente indicados? [(1)](#RP1)| ![][image9] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/9.png?raw=true) |
-| **11:** Os armazenamentos de dados (tabelas) estão representados adequadamente? [(1)](#RP1)| ![][image10] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/10.png?raw=true) |
-| ***12:*** O Rich Picture foi validado com a equipe ou stakeholders? [(2)](#RP2)| ![][image11] | Não | \- | - |
-| ***13:*** O artefato possui uma legenda explicando os símbolos utilizados no diagrama? [(2)](#RP2)| ![][image12] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/3.png?raw=true) |
-
-<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms) </p></font>
+| Item | Referência | Avaliação | Observação | Print | Autor |
+| :---- | :---: | :---: | :---: | :---: | :---: |
+| ***07:*** O Rich Picture representa todos os atores envolvidos no sistema? [(1)](#RP1)| ![][image6] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/6.png?raw=true) <br> ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/7.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***08:*** Os fluxos de informação entre os elementos estão ilustrados? [(1)](#RP1)| ![][image7] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/8.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***09:*** As principais operações do sistema estão representadas? [(1)](#RP1)| ![][image8] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/9.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***10:*** Os limites do sistema estão claramente indicados? [(1)](#RP1)| ![][image9] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/9.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| **11:** Os armazenamentos de dados (tabelas) estão representados adequadamente? [(1)](#RP1)| ![][image10] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/10.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***12:*** O Rich Picture foi validado com a equipe ou stakeholders? [(2)](#RP2)| ![][image11] | Não | \- | - | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***13:*** O artefato possui uma legenda explicando os símbolos utilizados no diagrama? [(2)](#RP2)| ![][image12] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/3.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
 
 ## Análise de Resultados
 
@@ -117,6 +114,7 @@ O artefato permanecerá em acompanhamento até que a correção seja implementad
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 22/06/2025 | Criação da página e documentação | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.1` | 27/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | - |
 
 
 
