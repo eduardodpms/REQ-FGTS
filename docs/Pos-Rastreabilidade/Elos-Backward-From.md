@@ -1076,7 +1076,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> <img src="../../assets/pos/prints/rf11.png" alt="rf11" width="100"> </td>
+      <td><img src="../../assets/pos/prints/rf11.png" alt="rf11" width="100"></td>
     </tr>
   </tbody>
 </table>
