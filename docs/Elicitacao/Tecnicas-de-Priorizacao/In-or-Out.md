@@ -21,32 +21,65 @@ Requisitos classificados como **OUT** foram justificados com base em sua não es
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
 <div align="center">
-<table>
-  <thead>
-    <tr>
-      <th>Nome</th>
-      <th>Data</th>
-      <th>Hora</th>
-      <th>Local</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
-      <td>04/05/2025</td>
-      <td>19:00</td>
-      <td>Discord</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
-      <td>04/05/2025</td>
-      <td>16:00</td>
-      <td>Discord</td>
-    </tr>
-  </tbody>
-</table>
+  <table>
+    <thead>
+      <tr>
+        <th>Sessão</th>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td rowspan="2"><strong>Sessão 1</strong></td>
+        <td>Equipe</td>
+        <td>Enzo Emir</td>
+        <td>04/05/2025</td>
+        <td>19:00</td>
+        <td>Discord</td>
+      </tr>
+      <tr>
+        <td>Equipe</td>
+        <td>Victor Pontual</td>
+        <td>04/05/2025</td>
+        <td>16:00</td>
+        <td>Discord</td>
+      </tr>
+      <tr>
+        <td rowspan="4"><strong>Sessão 2</strong></td>
+        <td>Equipe</td>
+        <td>Danielle Soares</td>
+        <td>26/06/2025</td>
+        <td>9:30</td>
+        <td>UnB Campus Gama</td>
+      </tr>
+      <tr>
+        <td>Equipe</td>
+        <td>Maria Eduarda</td>
+        <td>26/06/2025</td>
+        <td>9:30</td>
+        <td>UnB Campus Gama</td>
+      </tr>
+      <tr>
+        <td>Equipe</td>
+        <td>Letícia</td>
+        <td>26/06/2025</td>
+        <td>9:30</td>
+        <td>UnB Campus Gama</td>
+      </tr>
+      <tr>
+        <td>Usuário</td>
+        <td>Davi</td>
+        <td>26/06/2025</td>
+        <td>9:30</td>
+        <td>UnB Campus Gama</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
-
 
 <font size="2"><p style="text-align: center">Fonte: [Enzo Emir](https://github.com/EnzoEmir), [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
@@ -135,6 +168,9 @@ ___
 <iframe width="560" height="315" src="https://youtube.com/embed/k4DjZhRIiK4?si=SREsx3YvMQTnJs0S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://youtube.com/embed/z-oNGvmq_5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 
 
 ## Bibliografia
@@ -150,3 +186,4 @@ ___
 | `1.2`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.3`  | 21/06/2025 | Arrumando bibliografia | [Enzo Emir](https://github.com/EnzoEmir) | [Victor Pontual](https://github.com/VictorPontual) |
 | `1.4` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.5` | 26/06/2025 | Gravação Presencial | [Danielle Soares](https://github.com/danielle-soaress) | -- |
