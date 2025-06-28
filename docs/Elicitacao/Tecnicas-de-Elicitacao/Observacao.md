@@ -47,7 +47,7 @@ A segunda sessão de observação foi conduzida por Maria Eduarda e Enzo Emir, c
         <td>Discord</td>
       </tr>
       <tr>
-        <td rowspan="2"><strong>Sessão 2: Participantes da</strong></td>
+        <td rowspan="2"><strong>Sessão 2</strong></td>
         <td>Enzo Emir</td>
         <td>26/06/2025</td>
         <td>14:00</td>
@@ -221,3 +221,4 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 | `1.5` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.5` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.6`  | 28/06/2025 | Elicitação Presencial e Atualizção do Texto | [Danielle Soares](https://github.com/danielle-soaress) | -- |
+| `1.7`  | 28/06/2025 | Atualizando tabela | [Danielle Soares](https://github.com/danielle-soaress) | -- |
