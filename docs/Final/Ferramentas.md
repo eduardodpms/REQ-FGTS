@@ -69,4 +69,4 @@ Durante o desenvolvimento do projeto, diversas ferramentas foram empregadas de a
 |:-----: | :--------: | :------------------------------- | :---------- | :---------- |
 | `1.0`    | 27/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   | - |
 | `1.1`    | 27/06/2025 | Adicionando alguns Hiperlinks | [Enzo Emir](https://github.com/EnzoEmir)   | - |
-| `1.1`    | 28/06/2025 | Adicionando Canva | [Enzo Emir](https://github.com/EnzoEmir)   | - |
+| `1.2`    | 28/06/2025 | Adicionando Canva | [Enzo Emir](https://github.com/EnzoEmir)   | - |
