@@ -63,6 +63,14 @@ A seguir, a Figura 1 mostra o Rich Picture desenvolvido para o aplicativo do FGT
     </figcaption>
 </figure>
 
+## Validação Do Artefato
+
+Após a elaboração do Rich Picture, faz-se necessária a validação deste artefato com um usuário. A validação é crucial para garantir que a representação visual capture de forma precisa e compreensível a visão geral do problema e seus elementos.
+
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qh9El9YWm7I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
 
 ## Referências Bibliográficas
 
@@ -78,4 +86,5 @@ A seguir, a Figura 1 mostra o Rich Picture desenvolvido para o aplicativo do FGT
 | `1.2` | 03/05/2025 | Atualização da Legenda | [Danielle Soares](https://github.com/danielle-soaress), [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.3` | 21/06/2025 | Adicionando tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.4` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
-| `1.5` | 22/06/2025 | Ajuste de links | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.5` | 22/06/2025 | Ajuste de links | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.6` | 28/06/2025 | Validação com o Usuário | [Danielle Soares](https://github.com/danielle-soaress) | - |
