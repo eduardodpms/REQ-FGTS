@@ -1076,7 +1076,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> Não implementado </td>
+      <td> <img src="../assets/pos/prints/rf11.png" alt="RF11" width="100"> </td>
     </tr>
   </tbody>
 </table>
@@ -1117,7 +1117,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> Não implementado </td>
+      <td> <img src="../assets/pos/prints/rf35.png" alt="RF35" width="100"> </td>
     </tr>
   </tbody>
 </table>
@@ -1285,7 +1285,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td> Não implementado </td>
+      <td> <img src="../assets/pos/prints/rf39.png" alt="RF35" width="100">  </td>
     </tr>
   </tbody>
 </table>
@@ -2966,3 +2966,4 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
 | `2.5`  | 21/06/2025 | Adição de prints faltantes | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
 | `2.6`  | 22/06/2025 | Adição das prototipações nos cartões correspondentes | [Enzo Emir](https://github.com/EnzoEmir) | [Victor Pontual](https://github.com/VictorPontual) |
 | `2.7` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
+| `2.8` | 28/06/2025 | Prints dos requisitos não implementados RF35, RF39 e RF11 | [Danielle Soares](https://github.com/danielle-soaress) | -- |

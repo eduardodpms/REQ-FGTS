@@ -1095,7 +1095,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> Não implementado </td>
+      <td> <img src="../../assets/pos/prints/rf11.png" alt="rf11" width="100">  </td>
     </tr>
   </tbody>
 </table>
@@ -1140,7 +1140,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> Não implementado </td>
+      <td> <img src="../../assets/pos/prints/rf35.png" alt="rf35" width="100"> </td>
     </tr>
   </tbody>
 </table>
@@ -1322,7 +1322,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
     </tr>
     <tr>
       <td> Print </td>
-      <td> Não implementado </td>
+      <td> <img src="../../assets/pos/prints/rf39.png" alt="rf39" width="100">  </td>
     </tr>
   </tbody>
 </table>
@@ -3269,3 +3269,4 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
 | `2.2`  | 08/06/2025 | Adição das EF56 - EF64 | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress)  |
 | `2.3`  | 17/06/2025 | Correção dos links dos léxicos |[Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `2.4`  | 21/06/2025 | Adição de prints faltantes | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
+| `2.5` | 28/06/2025 | Prints dos requisitos não implementados RF35, RF39 e RF11 | [Danielle Soares](https://github.com/danielle-soaress) | -- |
