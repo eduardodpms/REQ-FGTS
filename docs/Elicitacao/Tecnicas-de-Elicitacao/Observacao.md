@@ -8,44 +8,65 @@ Neste trabalho, foi realizada uma **sessão de observação do aplicativo FGTS**
 
 ## Metodologia
 
-A sessão de observação foi conduzida por Eduardo de Pina, com base em uma gravação de interação da usuária Maria Eduarda utilizando o aplicativo FGTS. A observação foi não participativa, de forma que os observadores assumiram uma postura passiva, permitindo captar o uso espontâneo do sistema.
+A primeira sessão de observação foi conduzida por Eduardo de Pina, com base em uma gravação de interação da usuária Maria Eduarda utilizando o aplicativo FGTS. A observação foi não participativa, de forma que os observadores assumiram uma postura passiva, permitindo captar o uso espontâneo do sistema.
 
 Durante a análise da gravação, Victor Pontual foi responsável por registrar os requisitos elicitados a partir do comportamento da usuária. A sessão ocorreu no dia 04 de maio de 2025 e teve duração aproximada de 30 minutos.
 
-<font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
+A segunda sessão de observação foi conduzida por Maria Eduarda e Enzo Emir, com base na observação do usuário 2 (Anônimo), de maneira presencial. A observação foi participativa, de forma que os observadores assumiram uma postura ativa, interagindo com o usuário em determinados momentos do processo. Nessa sessão, os dois observadores tomaram notas enquanto conduziram a técnica de elicitação.
 
+<font size="3"><p style="text-align: center">Tabela 1: Participantes da Técnica</p></font>
 
 <div align="center">
 
-<table>
-  <thead>
-    <tr>
-      <th>Nome</th>
-      <th>Data</th>
-      <th>Hora</th>
-      <th>Local</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Eduardo de Pina</td>
-      <td>04/05/2023</td>
-      <td>17:00</td>
-      <td>Discord</td>
-    </tr>
-    <tr>
-      <td>Victor Pontual</td>
-      <td>04/05/2023</td>
-      <td>18:40</td>
-      <td>Discord</td>
-    </tr>
-  </tbody>
-</table>
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th colspan="5"></th>
+      </tr>
+      <tr>
+        <th>Sessão</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td rowspan="2"><strong>Sessão 1</strong></td>
+        <td>Eduardo de Pina</td>
+        <td>04/05/2023</td>
+        <td>17:00</td>
+        <td>Discord</td>
+      </tr>
+      <tr>
+        <td>Victor Pontual</td>
+        <td>04/05/2023</td>
+        <td>18:40</td>
+        <td>Discord</td>
+      </tr>
+      <tr>
+        <td rowspan="2"><strong>Sessão 2: Participantes da</strong></td>
+        <td>Enzo Emir</td>
+        <td>26/06/2025</td>
+        <td>14:00</td>
+        <td>UnB - Campus Gama</td>
+      </tr>
+      <tr>
+        <td>Maria Eduarda</td>
+        <td>26/06/2025</td>
+        <td>14:00</td>
+        <td>UnB - Campus Gama</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 </div>
 
 
-<p style="text-align: center; font-size: 16px;">Fonte: <i>Maria Eduarda</i></p>
+<p style="text-align: center; font-size: 16px;">Fonte: Autores</p>
 
 <font size="3"><p style="text-align: center">Tabela 2: Detalhes da Observação</p></font>
 
@@ -54,7 +75,7 @@ Durante a análise da gravação, Victor Pontual foi responsável por registrar 
 <table>
   <thead>
     <tr>
-      <th>Nome da Usuária Observada</th>
+      <th>Nome do Usuário Observado</th>
       <th>Data</th>
       <th>Hora</th>
       <th>Local</th>
@@ -66,20 +87,30 @@ Durante a análise da gravação, Victor Pontual foi responsável por registrar 
   <tbody>
     <tr>
       <td>Maria Eduarda</td>
-      <td>04/05/2025</td>
-      <td>14:26</td>
-      <td>Discord</td>
+      <td>26/06/2025</td>
+      <td>14:00</td>
+      <td>UnB - Campus Gama</td>
       <td>Eduardo de Pina</td>
       <td>Victor Pontual</td>
       <td>Gravação de Interação</td>
     </tr>
+    <tr>
+      <td>Anônimo</td>
+      <td>26/05/2025</td>
+      <td>14:26</td>
+      <td>Discord</td>
+      <td>Enzo Emir, Maria Eduarda</td>
+      <td>Enzo Emir, Maria Eduarda</td>
+      <td>Presencial</td>
+    </tr>
   </tbody>
+
 </table>
 
 </div>
 
 
-<p style="text-align: center; font-size: 16px;">Fonte: <i>Enzo Emir</i></p>
+<p style="text-align: center; font-size: 16px;">Fonte: Autores</p>
 
 ---
 
@@ -166,6 +197,12 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 <iframe width="560" height="315" src="https://youtube.com/embed/Ih51yK-A90c?si=yIwT0zeufa5ZDdIv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://youtube.com/embed/w4cJ_Tountw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
+
+
 ## Referências Bibliográficas
 
 > <a id="REF1">1.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. Engenharia de Requisitos: software orientado ao negócio. Brasport, 2016.
@@ -182,3 +219,5 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 | `1.3` | 21/05/2025 | Alteração no texto da Metodologia | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
 | `1.4` | 21/05/2025 | Referências bibliográficas no texto | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.5` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.5` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.6`  | 28/06/2025 | Elicitação Presencial e Atualizção do Texto | [Danielle Soares](https://github.com/danielle-soaress) | -- |
