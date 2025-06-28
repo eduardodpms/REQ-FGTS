@@ -1158,7 +1158,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td><img src="../assets/pos/prints/rf03.png" alt="RF21" width="100"></td>
+      <td><img src="../../assets/pos/prints/rf03.png" alt="RF21" width="100"></td>
     </tr>
   </tbody>
 </table>
@@ -1200,7 +1200,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td><img src="../assets/pos/prints/rf04.jpeg" alt="RF21" width="100"></td>
+      <td><img src="../../assets/pos/prints/rf04.jpeg" alt="RF21" width="100"></td>
     </tr>
   </tbody>
 </table>
@@ -1242,7 +1242,7 @@ A metodologia aplicada para o rastreamento de requisitos em sua vertente Backwar
     </tr>
     <tr>
       <td> Print </td>
-      <td><img src="../assets/pos/prints/rf05.jpeg" alt="RF21" width="100"></td>
+      <td><img src="../../assets/pos/prints/rf05.jpeg" alt="RF21" width="100"></td>
     </tr>
   </tbody>
 </table>
