@@ -20,8 +20,10 @@ Durante o desenvolvimento do projeto, diversas ferramentas foram empregadas de a
 | ![Logo do Google Planilhas](../assets/ferramentas/gsheets.png) | Google Planilhas | Criação de planilhas relacionadas ao cronograma e horários.<a id="anchor_8" href="#FRM8">^10^</a> | <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/First-Things-First/#tema3>FTF</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/In-or-Out/#tema3>In or Out</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/100-Test//#tema3>$100 Test</a>  |
 | ![Logo do Google Docs](../assets/ferramentas/gdocs.png) | Google Docs | Criação e edição de tabelas e arquivos.<a id="anchor_9" href="#FRM9">^11^</a>| Todas as etapas do projeto |
 | ![Logo do ChatGPT](../assets/ferramentas/chatgpt.png) | ChatGPT | Criação de imagens falsas para as personas.<a id="anchor_12" href="#FRM10">^12^</a> | <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Perfil-de-Usuario/#tema3>Perfil de Usuário</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Definicao-de-Personas/#tema3>Persona</a>   |
-| ![Logo do CapCut](../assets/ferramentas/capcut.png) | CapCut | Edição de vídeos.<a id="anchor_13" href="#FRM11">^13^</a> |
-| ![Logo do diagrams.net](../assets/ferramentas/diagrams-net.png) | Diagrams.net | Criação de diagramas, fluxogramas e esquemas visuais. <a id="anchor_13" href="#FRM12">^14^</a> | <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/#tema3>Casos de Uso</a> |
+| ![Logo do CapCut](../assets/ferramentas/capcut.png) | CapCut | Edição de vídeos.<a id="anchor_13" href="#FRM11">^13^</a>  |<a href = https://requisitos-de-software.github.io/2025.1-FGTS/Entregas/Entrega-1/#tema3>Entrega 01 </a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Entregas/Entrega-3/#tema3>Entrega 03</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/atas/ata_25_04/#tema3>Ata 03</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/atas/ata_01_05/#tema3>Ata 04</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/atas/ata_02_05/#tema3>Ata 04.1</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/#tema3>Brainstorming</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Validacao/Prototipacao/#tema3>Prototipação</a>|
+| ![Logo do diagrams.net](../assets/ferramentas/diagrams-net.png) | Diagrams.net | Criação de diagramas, fluxogramas e esquemas visuais. <a id="anchor_13" href="#FRM12">^14^</a> | <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/#tema3>Casos de Uso</a>, <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Pre-Rastreabilidade/Rich-Picture/#tema3>Rich Picture</a> |
+| ![Logo do Canva](../assets/ferramentas/Canva-Logo.png) | Canva | Criação de gráficos.<a id="anchor_13" href="#FRM15">^15^</a> | <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#tema3>NFR</a>
+
 
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/VictorPontual">Victor Pontual</a></p>
 
@@ -56,6 +58,8 @@ Durante o desenvolvimento do projeto, diversas ferramentas foram empregadas de a
 >
 ><a id="FRM14" href="#anchor_13">14.</a> Diagrams.net. Disponível em: https://app.diagrams.net/. Acesso em: 18 de jun. de 2025.
 >
+><a id="FRM15" href="#anchor_15">15.</a> Canva. Disponível em: https://www.canva.com/. Acesso em: 22 de jun. de 2025.
+>
 
 <br>
 
@@ -65,3 +69,4 @@ Durante o desenvolvimento do projeto, diversas ferramentas foram empregadas de a
 |:-----: | :--------: | :------------------------------- | :---------- | :---------- |
 | `1.0`    | 27/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   | - |
 | `1.1`    | 27/06/2025 | Adicionando alguns Hiperlinks | [Enzo Emir](https://github.com/EnzoEmir)   | - |
+| `1.1`    | 28/06/2025 | Adicionando Canva | [Enzo Emir](https://github.com/EnzoEmir)   | - |
