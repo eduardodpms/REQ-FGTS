@@ -191,6 +191,20 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 <iframe width="560" height="315" src="https://www.youtube.com/embed/psdTh5-MavM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
+## Pré-Rastreabilidade
+
+## Rich Picture
+
+| Danielle | Eduardo | Enzo | Letícia | Marcelo | Maria | Victor |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| ✅ | ✅ | ✅ | ❎ | ✅ | ❎ | ❎ |
+
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qh9El9YWm7I
+" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
+
 
 ## Inspeção
 
@@ -319,7 +333,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 | Danielle | Eduardo | Enzo | Letícia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| ❎ | ✅ | ✅ | ✅ | ❎ | ❎ | ❎ |
+| ❎ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 <p style="text-align: center">
 <iframe width="560" height="315" src="https://youtube.com/embed/r9nRinXUWE8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -327,6 +341,10 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 <p style="text-align: center">
 <iframe width="560" height="315" src="https://youtube.com/embed/_trr3zNFNu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
+
+<iframe width="560" height="315" src="https://youtube.com/embed/VC4grOHBQJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 #### Introspecção
 
@@ -342,11 +360,14 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 | Danielle | Eduardo | Enzo | Letícia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| ❎  | ✅ | ❎ | ❎ | ❎ | ❎  | ✅ |
+| ❎  | ✅ | ✅ | ❎ | ❎ | ✅  | ✅ |
 
 <p style="text-align: center">
 <iframe width="560" height="315" src="https://youtube.com/embed/Ih51yK-A90c?si=yIwT0zeufa5ZDdIv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
+
+<iframe width="560" height="315" src="https://youtube.com/embed/w4cJ_Tountw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 #### Storytelling
 
@@ -374,11 +395,14 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 | Danielle | Eduardo | Enzo | Letícia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| ❎  | ❎ | ✅ | ❎ | ❎ | ❎  | ✅ |
+| ✅  | ❎ | ✅ | ❎ | ✅ | ✅  | ✅ |
 
 <p style="text-align: center">
 <iframe width="560" height="315" src="https://youtube.com/embed/k4DjZhRIiK4?si=SREsx3YvMQTnJs0S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
+
+<iframe width="560" height="315" src="https://youtube.com/embed/z-oNGvmq_5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 #### Three-Level Scale
@@ -480,3 +504,4 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 |:-----: | :--------: | :------------------------------- | :---------- | :---------- |
 | `1.0`    | 27/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   | - |
 | `1.1`    | 27/06/2025 | Adição de todos os vídeos até o momento | [Enzo Emir](https://github.com/EnzoEmir)   | - |
+| `1.2`    | 30/06/2025 | Adição de vídeos de presenciais de correção | [Enzo Emir](https://github.com/EnzoEmir)   | - |
