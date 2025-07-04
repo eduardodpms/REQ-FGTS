@@ -87,4 +87,4 @@ Após a elaboração do Rich Picture, faz-se necessária a validação deste art
 | `1.3` | 21/06/2025 | Adicionando tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.4` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.5` | 22/06/2025 | Ajuste de links | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
-| `1.6` | 28/06/2025 | Validação com o Usuário | [Danielle Soares](https://github.com/danielle-soaress) | - |
+| `1.6` | 28/06/2025 | Validação com o Usuário | [Danielle Soares](https://github.com/danielle-soaress) | [Victor Pontual](https://github.com/VictorPontual) |
