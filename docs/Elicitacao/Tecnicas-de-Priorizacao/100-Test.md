@@ -8,48 +8,84 @@ A técnica dos 100 dólares é um método de priorização que simula a alocaç�
 
 ## Participantes
 
-<p style="text-align: center; font-size: 12pt;"><strong>Tabela 1: Participantes.</strong></p>
+
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
 <div align="center">
-
-<table>
-  <thead>
-    <tr>
-      <th>Nome</th>
-      <th>Função</th>
-      <th>Data</th>
-      <th>Hora</th>
-      <th>Local</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
-      <td>Mediador</td>
-      <td>04/05/2025</td>
-      <td>17:00</td>
-      <td>Discord</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
-      <td>Mediador</td>
-      <td>04/05/2025</td>
-      <td>17:00</td>
-      <td>Discord</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/dudaa28"><span style="color: orange;">Maria Eduarda</span></a></td>
-      <td>Equipe/Usuária</td>
-      <td>04/05/2025</td>
-      <td>17:00</td>
-      <td>Discord</td>
-    </tr>
-  </tbody>
-</table>
-
+  <table>
+    <thead>
+      <tr>
+        <th>Sessão</th>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td rowspan="3"><strong>Sessão 1</strong></td>
+        <td>Mediador</td>
+        <td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+        <td>04/05/2025</td>
+        <td>17:00</td>
+        <td>Discord</td>
+      </tr>
+      <tr>
+        <td>Mediador</td>
+        <td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+        <td>04/05/2025</td>
+        <td>17:00</td>
+        <td>Discord</td>
+      </tr>
+      <tr>
+        <td>Equipe/Usuária</td>
+        <td><a href="https://github.com/dudaa28"><span style="color: orange;">Maria Eduarda</span></a></td>
+        <td>04/05/2025</td>
+        <td>17:00</td>
+        <td>Discord</td>
+      </tr>
+      <tr>
+        <td rowspan="5"><strong>Sessão 2</strong></td>
+        <td>Equipe</td>
+        <td><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
+        <td>26/06/2025</td>
+        <td>9:30</td>
+        <td>UnB Campus Gama</td>
+      </tr>
+      <tr>
+        <td>Equipe</td>
+        <td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+        <td>26/06/2025</td>
+        <td>9:30</td>
+        <td>UnB Campus Gama</td>
+      </tr>
+      <tr>
+        <td>Equipe</td>
+        <td><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+        <td>26/06/2025</td>
+        <td>9:30</td>
+        <td>UnB Campus Gama</td>
+      </tr>
+      <tr>
+        <td>Equipe</td>
+        <td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+        <td>26/06/2025</td>
+        <td>9:30</td>
+        <td>UnB Campus Gama</td>
+      </tr>
+      <tr>
+        <td>Usuário</td>
+        <td>Isaque</td>
+        <td>26/06/2025</td>
+        <td>9:30</td>
+        <td>UnB Campus Gama</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
-
-
 
 
 <font size="3"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress).</p></font>
@@ -144,6 +180,10 @@ A técnica foi aplicada de forma individual, sendo que cada participante aplicou
 <iframe width="560" height="315" src="https://youtube.com/embed/VWdolS42QqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RzONSkf_OrU?si=Y_1cm4XHz0VOrWhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
 
 ## Referências Bibliográficas
 
@@ -160,3 +200,4 @@ A técnica foi aplicada de forma individual, sendo que cada participante aplicou
 | `1.4` | 21/06/2025 | Adicionando data na tabela de participantes | [Enzo Emir](https://github.com/EnzoEmir) | [Maria Eduarda](https://github.com/dudaa28) |
 | `1.5`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.6` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.7` | 05/07/2025 | Atualização dos participantes das sessões, inclusão de segunda gravação e ajustes na tabela | [Victor Pontual](https://github.com/VictorPontual) | [Eduardo de Pina](https://github.com/eduardodpms) |
