@@ -15,63 +15,111 @@ Como apoio visual e organizacional, foi utilizado um arquivo compartilhado na fe
 
 ## Participantes
 
+
+
 <font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font>
 
 <div align="center">
-<table>
-  <thead>
-    <tr>
-      <th>Nome</th>
-      <th>Data</th>
-      <th>Hora</th>
-      <th>Local</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
-      <td>30/05/2025</td>
-      <td>23:10</td>
-      <td>Discord</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
-      <td>30/05/2025</td>
-      <td>23:10</td>
-      <td>Discord</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
-      <td>30/05/2025</td>
-      <td>23:10</td>
-      <td>Discord</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></td>
-      <td>30/05/2025</td>
-      <td>23:10</td>
-      <td>Discord</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
-      <td>30/05/2025</td>
-      <td>23:10</td>
-      <td>Discord</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
-      <td>30/05/2025</td>
-      <td>23:10</td>
-      <td>Discord</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
-      <td>30/05/2025</td>
-      <td>23:10</td>
-      <td>Discord</td>
-    </tr>
-  </tbody>
-</table>
+  <table>
+    <thead>
+      <tr>
+        <th>Sessão</th>
+        <th>Papel</th>
+        <th>Nome</th>
+        <th>Data</th>
+        <th>Hora</th>
+        <th>Local</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td rowspan="7"><strong>Sessão 1</strong></td>
+        <td>Equipe</td>
+        <td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+        <td>30/05/2025</td>
+        <td>23:10</td>
+        <td>Discord</td>
+      </tr>
+      <tr>
+        <td>Equipe</td>
+        <td><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+        <td>30/05/2025</td>
+        <td>23:10</td>
+        <td>Discord</td>
+      </tr>
+      <tr>
+        <td>Equipe</td>
+        <td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+        <td>30/05/2025</td>
+        <td>23:10</td>
+        <td>Discord</td>
+      </tr>
+      <tr>
+        <td>Equipe</td>
+        <td><a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></td>
+        <td>30/05/2025</td>
+        <td>23:10</td>
+        <td>Discord</td>
+      </tr>
+      <tr>
+        <td>Equipe</td>
+        <td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+        <td>30/05/2025</td>
+        <td>23:10</td>
+        <td>Discord</td>
+      </tr>
+      <tr>
+        <td>Equipe</td>
+        <td><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
+        <td>30/05/2025</td>
+        <td>23:10</td>
+        <td>Discord</td>
+      </tr>
+      <tr>
+        <td>Equipe</td>
+        <td><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
+        <td>30/05/2025</td>
+        <td>23:10</td>
+        <td>Discord</td>
+      </tr>
+      <tr>
+        <td rowspan="5"><strong>Sessão 2</strong></td>
+        <td>Equipe</td>
+        <td><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
+        <td>26/06/2025</td>
+        <td>9:30</td>
+        <td>UnB Campus Gama</td>
+      </tr>
+      <tr>
+        <td>Equipe</td>
+        <td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+        <td>26/06/2025</td>
+        <td>9:30</td>
+        <td>UnB Campus Gama</td>
+      </tr>
+      <tr>
+        <td>Equipe</td>
+        <td><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+        <td>26/06/2025</td>
+        <td>9:30</td>
+        <td>UnB Campus Gama</td>
+      </tr>
+      <tr>
+        <td>Equipe</td>
+        <td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+        <td>26/06/2025</td>
+        <td>9:30</td>
+        <td>UnB Campus Gama</td>
+      </tr>
+      <tr>
+        <td>Usuário</td>
+        <td>Isaque</td>
+        <td>26/06/2025</td>
+        <td>9:30</td>
+        <td>UnB Campus Gama</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) </p></font>
@@ -137,6 +185,10 @@ Legenda das Tabelas 3 e 4:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7E00fdLN2S4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ofTRijWsUFE?si=RHqCzR9DD4EtYk-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
 ## Referências Bibliográficas
 
 > <a id="ref1"> 1.</a> VAZQUEZ, Carlos Eduardo; SIMÕES, Guilherme Siqueira. *Engenharia de Requisitos: software orientado ao negócio*. Brasport, 2016.  
@@ -149,4 +201,5 @@ Legenda das Tabelas 3 e 4:
 |  `1.1`   | 30/05/2025 | Vídeo da elicitação  | [Danielle Soares](https://github.com/danielle-soaress)   | [Maria Eduarda](https://github.com/dudaa28) |
 |  `1.2`   | 30/05/2025 | Vídeo da elicitação  | [Danielle Soares](https://github.com/danielle-soaress)   | [Maria Eduarda](https://github.com/dudaa28) |
 | `1.3`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | [Victor Pontual](https://github.com/VictorPontual) |
+| `1.4`  | 05/07/2025 | Atualização da tabela de participantes da Sessão 1 e inclusão de segundo vídeo na gravação de elicitação | [Victor Pontual](https://github.com/VictorPontual) | [Maria Eduarda](https://github.com/dudaa28) |
 
