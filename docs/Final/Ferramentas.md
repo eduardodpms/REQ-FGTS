@@ -1,5 +1,7 @@
 # Ferramentas
 
+## Introdução 
+
 Durante o desenvolvimento do projeto, diversas ferramentas foram empregadas de acordo com as necessidades específicas de cada etapa. Essa seleção foi essencial para organizar atividades, facilitar a comunicação entre os membros da equipe e apoiar a elaboração dos artefatos. A Tabela 1 apresenta as ferramentas utilizadas, destacando suas finalidades e as etapas do projeto em que cada uma foi aplicada.
 
 ## Ferramentas Utilizadas
