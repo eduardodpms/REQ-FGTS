@@ -79,6 +79,12 @@ Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/SRSL805B
 
 <p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/SRSL805B8XtROwtoeEKP5q/REQ---FGTS?node-id=34-6&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=34%3A6&embed-host=share" allowfullscreen></iframe></p>
 
+<a href="../assets/validacao/prototipo.pdf" target="_blank">📄 Ver documento completo</a>
+
+<iframe src="../assets/validacao/prototipo.pdf" width="100%" height="450px">
+    Este navegador não suporta PDFs. Faça o download <a href="../assets/validacao/prototipo.pdf">aqui</a>.
+</iframe>
+
 ## Validação 1
 
 ### Gravação
@@ -241,3 +247,4 @@ Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/SRSL805B
 | `1.5` | 22/06/2025 | Adicionando data/hora de participação | [Marcelo Makoto](https://github.com/MM4k) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.6` | 22/06/2025 | Adicionando segunda validação | [Eduardo de Pina](https://github.com/eduardodpms) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.7` | 22/06/2025 | Correção página | [Maria Eduarda](https://github.com/dudaa28) | [Victor Pontual](https://github.com/VictorPontual) |
+| `1.8` | 05/07/2025 | Adicionando pdf do protótipo | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Danielle Soares](https://github.com/danielle-soaress) |
