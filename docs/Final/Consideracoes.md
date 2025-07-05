@@ -39,8 +39,8 @@ Nesta seção, cada integrante da equipe compartilha, de forma individual, as pr
     </tr>
     <tr>
       <td> Marcelo Makoto </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 05/07/2025 </td>
+      <td> 19:26 </td>
     </tr>
     <tr>
       <td> Maria Eduarda </td>
@@ -66,10 +66,15 @@ Nesta seção, cada integrante da equipe compartilha, de forma individual, as pr
 
 Achei particularmente interessante compreender melhor o processo de elicitação de requisitos, especialmente considerando que, no mesmo semestre, cursei a disciplina de Interação Humano-Computador (IHC). Essa combinação permitiu uma compreensão mais profunda e integrada sobre o tema, enriquecendo bastante minha perspectiva. No entanto, o trabalho se revelou mais extenso e exigente do que eu inicialmente esperava, o que tornou desafiadora a tarefa de conciliar todas as atividades do projeto com as demais demandas acadêmicas do semestre.
 
+### Marcelo
+
+Essa disciplina me fez perceber o quanto os processos de elicitar, priorizar e modelar os requisitos de um software são importantes na construção de um produto de qualidade. Além disso, a organização foi um fator crucial para concluir cada etapa do trabalho coletivamente e de forma eficaz. Porém, durante o semestre, me vi com dificuldades em balancear a disciplina de Requisitos de Software com as demais por conta da extensão e complexidade de cada etapa do projeto.
+
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição                         | Autor(es)    | Revisor(es)  |
 |:-----: | :--------: | :------------------------------- | :---------- | :---------- |
-| `1.0`    | 27/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   | - |
-| `1.1`    | 05/07/2025 | Introdução e adição da minha contibuição | [Enzo Emir](https://github.com/EnzoEmir)   | - |
+| `1.0`    | 27/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.1`    | 05/07/2025 | Introdução e adição da minha contibuição | [Enzo Emir](https://github.com/EnzoEmir)   | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.2`    | 05/07/2025 | Adição da minha contibuição | [Marcelo Makoto](https://github.com/MM4k)   | - |
