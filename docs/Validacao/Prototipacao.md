@@ -79,10 +79,10 @@ Caso queira conferir o protótipo, <a href="https://www.figma.com/proto/SRSL805B
 
 <p style="text-align: center"><iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/SRSL805B8XtROwtoeEKP5q/REQ---FGTS?node-id=34-6&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=34%3A6&embed-host=share" allowfullscreen></iframe></p>
 
-<a href="../assets/validacao/prototipo.pdf" target="_blank">📄 Ver documento completo</a>
+<a href="../../assets/validacao/prototipo.pdf" target="_blank">📄 Ver documento completo</a>
 
-<iframe src="../assets/validacao/prototipo.pdf" width="100%" height="450px">
-    Este navegador não suporta PDFs. Faça o download <a href="../assets/validacao/prototipo.pdf">aqui</a>.
+<iframe src="../../assets/validacao/prototipo.pdf" width="100%" height="450px">
+    Este navegador não suporta PDFs. Faça o download <a href="../../assets/validacao/prototipo.pdf">aqui</a>.
 </iframe>
 
 ## Validação 1
