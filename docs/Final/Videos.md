@@ -329,6 +329,10 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7E00fdLN2S4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ofTRijWsUFE?si=RHqCzR9DD4EtYk-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
 #### Entrevista
 
 | Danielle | Eduardo | Enzo | Letícia | Marcelo | Maria | Victor |
@@ -426,6 +430,10 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 <iframe width="560" height="315" src="https://youtube.com/embed/VWdolS42QqY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
+<p style="text-align: center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RzONSkf_OrU?si=Y_1cm4XHz0VOrWhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
 ## Modelagem I
 
 ### Casos de uso
@@ -505,3 +513,4 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 | `1.0`    | 27/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   | - |
 | `1.1`    | 27/06/2025 | Adição de todos os vídeos até o momento | [Enzo Emir](https://github.com/EnzoEmir)   | - |
 | `1.2`    | 30/06/2025 | Adição de vídeos de presenciais de correção | [Enzo Emir](https://github.com/EnzoEmir)   | - |
+| `1.3`    | 05/07/2025 | Inclusão de vídeos extras nas seções Brainstorming e $100 Test | [Victor Pontual](https://github.com/VictorPontual) | - |
