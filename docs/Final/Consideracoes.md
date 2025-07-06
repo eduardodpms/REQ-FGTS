@@ -19,8 +19,8 @@ Nesta seção, cada integrante da equipe compartilha, de forma individual, as pr
   <tbody>
     <tr>
       <td> Danielle Soares </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 05/07/2025 </td>
+      <td> 23:30 </td>
     </tr>
     <tr>
       <td> Eduardo de Pina </td>
@@ -62,6 +62,10 @@ Nesta seção, cada integrante da equipe compartilha, de forma individual, as pr
 
 ## Contribuições
 
+### Danielle
+
+A disciplina de Requisitos de Software me ensinou muito sobre a importância de saber lidar com pessoas externas ao projeto, especialmente usuários do sistema. Aprendi a conduzir entrevistas de forma mais profissional, escutar com atenção, adaptar minha linguagem para explicar conceitos técnicos de maneira clara e acessível, e, principalmente, a entender melhor as necessidades reais de quem utilizará o software. Também tive aprendizado sobre o processo de elicitação de requisitos e a importância de documentar cada etapa com cuidado para garantir a rastreabilidade e alinhamento entre a equipe e as partes interessadas. No geral, foi uma disciplina desafiadora, principalmente pelo trabalho extenso e pela nossa inexperiência, o que nos levou a refazer algumas partes do projeto diversas vezes. Ainda assim, todo esse esforço me trouxe muitos aprendizados.
+
 ### Enzo
 
 Achei particularmente interessante compreender melhor o processo de elicitação de requisitos, especialmente considerando que, no mesmo semestre, cursei a disciplina de Interação Humano-Computador (IHC). Essa combinação permitiu uma compreensão mais profunda e integrada sobre o tema, enriquecendo bastante minha perspectiva. No entanto, o trabalho se revelou mais extenso e exigente do que eu inicialmente esperava, o que tornou desafiadora a tarefa de conciliar todas as atividades do projeto com as demais demandas acadêmicas do semestre.
@@ -77,4 +81,5 @@ Essa disciplina me fez perceber o quanto os processos de elicitar, priorizar e m
 |:-----: | :--------: | :------------------------------- | :---------- | :---------- |
 | `1.0`    | 27/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.1`    | 05/07/2025 | Introdução e adição da minha contibuição | [Enzo Emir](https://github.com/EnzoEmir)   | [Marcelo Makoto](https://github.com/MM4k) |
-| `1.2`    | 05/07/2025 | Adição da minha contibuição | [Marcelo Makoto](https://github.com/MM4k)   | - |
+| `1.2`    | 05/07/2025 | Adição da minha contibuição | [Marcelo Makoto](https://github.com/MM4k)   | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.3`    | 05/07/2025 | Adição da minha consideração |  [Danielle Soares](https://github.com/danielle-soaress)   | - |
