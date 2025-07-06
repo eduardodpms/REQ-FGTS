@@ -140,5 +140,5 @@ Esse documento tem como objetivo apresentar, de forma organizada, uma visão ger
 | Versão | Data       | Descrição                         | Autor(es)    | Revisor(es)  |
 |:-----: | :--------: | :------------------------------- | :---------- | :---------- |
 | `1.0`    | 27/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   | [Danielle Soares](https://github.com/danielle-soaress) |
-| `1.1`    | 05/06/2025 | Tabela de Resumo da Execução do Projeto | [Danielle Soares](https://github.com/danielle-soaress)   | - |
-| `1.2`    | 06/06/2025 | Introdução | [Danielle Soares](https://github.com/danielle-soaress)   | - |
+| `1.1`    | 05/06/2025 | Tabela de Resumo da Execução do Projeto | [Danielle Soares](https://github.com/danielle-soaress)   | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.2`    | 06/06/2025 | Introdução | [Danielle Soares](https://github.com/danielle-soaress)   | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |

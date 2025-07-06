@@ -74,6 +74,10 @@ Achei particularmente interessante compreender melhor o processo de elicitação
 
 Essa disciplina me fez perceber o quanto os processos de elicitar, priorizar e modelar os requisitos de um software são importantes na construção de um produto de qualidade. Além disso, a organização foi um fator crucial para concluir cada etapa do trabalho coletivamente e de forma eficaz. Porém, durante o semestre, me vi com dificuldades em balancear a disciplina de Requisitos de Software com as demais por conta da extensão e complexidade de cada etapa do projeto.
 
+### Leticia
+
+A disciplina de Requisitos de Software foi fundamental para que eu aprendesse a identificar e entender melhor as necessidades dos usuários. Aprendi a realizar a elicitação de requisitos de forma estruturada, utilizando técnicas adequadas para garantir clareza e alinhamento com as partes interessadas. Também compreendi a importância da priorização dos requisitos, da documentação com rastreabilidade e da validação contínua ao longo do projeto. A prototipação foi essencial para visualizar soluções e ajustar expectativas. Além disso, a disciplina destacou o valor da comunicação eficiente e do trabalho em equipe. Apesar de ser bastante desafiadora, por envolver muitas etapas e entregas, trouxe aprendizados valiosos para minha formação na área de desenvolvimento de software.
+
 
 ## Histórico de Versões
 
@@ -82,4 +86,5 @@ Essa disciplina me fez perceber o quanto os processos de elicitar, priorizar e m
 | `1.0`    | 27/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.1`    | 05/07/2025 | Introdução e adição da minha contibuição | [Enzo Emir](https://github.com/EnzoEmir)   | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.2`    | 05/07/2025 | Adição da minha contibuição | [Marcelo Makoto](https://github.com/MM4k)   | [Danielle Soares](https://github.com/danielle-soaress) |
-| `1.3`    | 05/07/2025 | Adição da minha consideração |  [Danielle Soares](https://github.com/danielle-soaress)   | - |
+| `1.3`    | 05/07/2025 | Adição da minha consideração |  [Danielle Soares](https://github.com/danielle-soaress)   | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.4`    | 06/07/2025 | Adição da minha consideração |  [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)   | - |
