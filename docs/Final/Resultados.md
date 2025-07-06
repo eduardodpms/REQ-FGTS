@@ -18,7 +18,7 @@ A qualidade dos artefatos foi revisada na etapa de **Verificação**, com a apli
 
 Já a etapa de **Validação** auxiliou a equipe a analisar se os requisitos elicitados e as percepções da equipe realmente atendiam às necessidades dos usuários, por meio da [Prototipação](https://requisitos-de-software.github.io/2025.1-FGTS/Validacao/Prototipacao/) e da [Comprovação Informal](https://requisitos-de-software.github.io/2025.1-FGTS/Validacao/Comprovacao/).
 
-Em resumo, ao longo de todo o processo, a equipe se dedicou a compreender as necessidades dos usuários, documentar adequadamente os requisitos, manter a rastreabilidade entre os artefatos e aplicar processos de melhoria contínua. Os resultados obtidos evidenciam a importância de cada etapa e consolidam a aplicação prática dos conceitos trabalhados na disciplina de Requisitos de Software.
+Em resumo, ao longo de todo o processo, a equipe se dedicou a compreender as necessidades dos usuários, documentar adequadamente os requisitos, manter a rastreabilidade entre os artefatos e aplicar processos de melhoria contínua. Apesar de desafios como o curto intervalo entre entregas e a dificuldade de engajamento de usuários em atividades do projeto que exigiam gravação, o grupo fez bom uso de seus conhecimentos prévios, especialmente com ferramentas como o GitHub e do trabalho colaborativo, o que possibilitou resultados consistentes. Esses resultados evidenciam a importância de cada etapa e consolidam a aplicação prática dos conceitos trabalhados na disciplina de Requisitos de Software.
 
 
 ## Histórico de Versões
@@ -27,3 +27,4 @@ Em resumo, ao longo de todo o processo, a equipe se dedicou a compreender as nec
 |:-----: | :--------: | :------------------------------- | :---------- | :---------- |
 | `1.0`    | 27/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   |  [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.2`    | 06/06/2025 | Introdução e Resultados alcançados | [Danielle Soares](https://github.com/danielle-soaress)   | - |
+| `1.3`    | 06/06/2025 | Modificação no texto de resultados alcançados | [Danielle Soares](https://github.com/danielle-soaress)   | - |
