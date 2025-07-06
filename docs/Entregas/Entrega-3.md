@@ -19,6 +19,8 @@ A Entrega 3 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 
 ## Modelo para Lista de Verificação/Inspeção da Entrega 3
 
+Clique [AQUI](https://drive.google.com/drive/folders/1QeyUqM90h4qv5L-ivP6U3fgKEGk9sIBO?usp=sharing) se você quiser verificar os **prints das referências**.
+
 ### ✅ Itens Gerais
 
 | Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |

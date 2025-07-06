@@ -17,6 +17,8 @@ A Entrega 4 tem como objetivo modelar os requisitos elicitados anteriormente. Pa
 
 ## Modelo para Lista de Verificação/Inspeção da Entrega 4
 
+Clique [AQUI](https://drive.google.com/drive/folders/1ewl3CtLRfaL4d2MExoru0gg4kVNDRHi2?usp=sharing) se você quiser verificar os **prints das referências**.
+
 ### ✅ Itens Gerais
 
 | Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |

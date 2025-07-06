@@ -18,6 +18,8 @@ A entrega 1 consiste na base inicial que guiará o time nas próximas entregas. 
 
 ## Modelo para Lista de Verificação/Inspeção da Entrega 1
 
+Clique [AQUI](https://drive.google.com/drive/folders/15BaVRgD-FblhQkvK875tvLomoYIsa1pv?usp=sharing) se você quiser verificar os **prints das referências**.
+
 ### ✅ Equipe
 
 | Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |

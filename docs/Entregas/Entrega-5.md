@@ -15,6 +15,8 @@ A Entrega 5 tem como objetivo definir uma verificação de todos os artefatos en
 
 ## Modelo para Lista de Verificação/Inspeção da Entrega 5
 
+Clique [AQUI](https://drive.google.com/drive/folders/1H79vUMHXbZnPHKs3-3UOexcWm3vePqP2?usp=sharing) se você quiser verificar os **prints das referências**.
+
 ### ✅ Itens Gerais
 
 | Item | Autor(es) | Referência | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |

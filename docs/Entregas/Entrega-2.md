@@ -21,6 +21,8 @@ Dessa forma, para essa entrega, foi construído um [perfil de usuário](../../El
 
 ## Modelo para Lista de Verificação/Inspeção da Entrega 2
 
+Clique [AQUI](https://drive.google.com/drive/folders/1Tx8FYObWuj2Zvz_IZq5hR9kKwUc0VG9p?usp=sharing) se você quiser verificar os **prints das referências**.
+
 ### ✅ Itens Gerais
 
 | Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |

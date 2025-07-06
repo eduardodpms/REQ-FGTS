@@ -14,6 +14,8 @@ A Entrega 6 tem como objetivo rastrear os requisitos elicitados anteriormente. P
 
 ## Modelo para Lista de Verificação/Inspeção da Entrega 6
 
+Clique [AQUI](https://drive.google.com/drive/folders/12GIjeXrE0zG9oHLx-RreL15Rf2MIhID_?usp=sharing) se você quiser verificar os **prints das referências**.
+
 ### ✅ Itens Gerais
 
 | Item | Autor(es) | Avaliação | Observação | Print | Avaliador(es) | Data e Hora |
