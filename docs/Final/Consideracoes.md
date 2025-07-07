@@ -44,8 +44,8 @@ Nesta seção, cada integrante da equipe compartilha, de forma individual, as pr
     </tr>
     <tr>
       <td> Maria Eduarda </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 06/07/2025 </td>
+      <td> 17:40 </td>
     </tr>
     <tr>
       <td> Victor Pontual </td>
@@ -78,6 +78,10 @@ Essa disciplina me fez perceber o quanto os processos de elicitar, priorizar e m
 
 A disciplina de Requisitos de Software foi fundamental para que eu aprendesse a identificar e entender melhor as necessidades dos usuários. Aprendi a realizar a elicitação de requisitos de forma estruturada, utilizando técnicas adequadas para garantir clareza e alinhamento com as partes interessadas. Também compreendi a importância da priorização dos requisitos, da documentação com rastreabilidade e da validação contínua ao longo do projeto. A prototipação foi essencial para visualizar soluções e ajustar expectativas. Além disso, a disciplina destacou o valor da comunicação eficiente e do trabalho em equipe. Apesar de ser bastante desafiadora, por envolver muitas etapas e entregas, trouxe aprendizados valiosos para minha formação na área de desenvolvimento de software.
 
+### Maria Eduarda
+
+Na disciplina de Requisitos de Software, percebi o quanto é fundamental um bom processo de elicitação para garantir a construção, manutenção e evolução de um software de qualidade. Aprendi que entender as reais necessidades dos usuários, por meio de técnicas como entrevistas, questionários e brainstorming, é o primeiro passo para desenvolver um produto alinhado às expectativas. Além disso, participar das etapas de modelagem, priorização e verificação/validação dos requisitos me fez enxergar a importância de documentar e revisar cada decisão tomada. Todo esse processo contribuiu não apenas para o sucesso do projeto, mas também para o meu crescimento como futura profissional da área.
+
 
 ## Histórico de Versões
 
@@ -88,3 +92,4 @@ A disciplina de Requisitos de Software foi fundamental para que eu aprendesse a 
 | `1.2`    | 05/07/2025 | Adição da minha contibuição | [Marcelo Makoto](https://github.com/MM4k)   | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.3`    | 05/07/2025 | Adição da minha consideração |  [Danielle Soares](https://github.com/danielle-soaress)   | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.4`    | 06/07/2025 | Adição da minha consideração |  [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)   | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.5`    | 06/07/2025 | Adição da minha consideração |  [Maria Eduarda](https://github.com/dudaa28)   | [Victor Pontual](https://github.com/VictorPontual) |
