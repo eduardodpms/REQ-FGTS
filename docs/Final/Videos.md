@@ -4,11 +4,48 @@
 
 Esta página tem como objetivo agrupar todas as gravações relacionadas ao processo de elicitação de requisitos do projeto, bem como seus respectivos usos dentro do projeto, organizadas por etapa.
 
+## Cronograma de Participantes
 
+<font size="3"><p style="text-align: center">Tabela 1: Cronograma de Participantes</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Data</th>
+      <th>Hora</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Enzo</td>
+      <td>27/06/2025</td>
+      <td>16:00</td>
+    </tr>
+    <tr>
+      <td>Victor Pontual</td>
+      <td>05/07/2025</td>
+      <td>16:20</td>
+    </tr>
+    <tr>
+      <td>Danielle</td>
+      <td>06/07/2025</td>
+      <td>12:50</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
 ## Atas
 
 ### ata_07_04.md
+
+<font size="3"><p style="text-align: center">Tabela 2: Ata 07-04</p></font>
 
 | Danielle | Eduardo | Enzo | Leticia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -21,6 +58,8 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### ata_11_04.md
 
+<font size="3"><p style="text-align: center">Tabela 3: Ata 11-04</p></font>
+
 | Danielle | Eduardo | Enzo | Leticia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -30,6 +69,8 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 </p>
 
 ### ata_25_04.md
+
+<font size="3"><p style="text-align: center">Tabela 4: Ata 25-04</p></font>
 
 | Danielle | Eduardo | Enzo | Leticia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -41,6 +82,8 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### ata_01_05.md
 
+<font size="3"><p style="text-align: center">Tabela 5: Ata 01-05</p></font>
+
 | Danielle | Eduardo | Enzo | Leticia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | ✅ | ✅ | ❎ | ✅ | ✅ | ✅ | ✅ |
@@ -50,6 +93,8 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 </p>
 
 ### ata_02_05.md
+
+<font size="3"><p style="text-align: center">Tabela 6: Ata 02-05</p></font>
 
 | Danielle | Eduardo | Enzo | Leticia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -62,6 +107,8 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### ata_09_05.md
 
+<font size="3"><p style="text-align: center">Tabela 8: Ata 09-05</p></font>
+
 | Danielle | Eduardo | Enzo | Leticia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -71,6 +118,8 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 </p>
 
 ### ata_11_05.md
+
+<font size="3"><p style="text-align: center">Tabela 10: Ata 11-05</p></font>
 
 | Danielle | Eduardo | Enzo | Leticia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -82,6 +131,8 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### ata_16_05.md
 
+<font size="3"><p style="text-align: center">Tabela 12: Ata 16-05</p></font>
+
 | Danielle | Eduardo | Enzo | Leticia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -91,6 +142,8 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 </p>
 
 ### ata_23_05.md
+
+<font size="3"><p style="text-align: center">Tabela 13: Ata 23-05</p></font>
 
 | Danielle | Eduardo | Enzo | Leticia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -102,6 +155,8 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### ata_04_06.md
 
+<font size="3"><p style="text-align: center">Tabela 14: Ata 04-06</p></font>
+
 | Danielle | Eduardo | Enzo | Leticia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -111,6 +166,8 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 </p>
 
 ### ata_14_06.md
+
+<font size="3"><p style="text-align: center">Tabela 15: Ata 14-06</p></font>
 
 | Danielle | Eduardo | Enzo | Letícia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -124,6 +181,8 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### Entrega 1
 
+<font size="3"><p style="text-align: center">Tabela 16: Entrega 1</p></font>
+
 | Danielle | Eduardo | Enzo | Letícia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -135,6 +194,8 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### Entrega 2
 
+<font size="3"><p style="text-align: center">Tabela 17: Entrega 2</p></font>
+
 | Danielle | Eduardo | Enzo | Letícia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -144,8 +205,9 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 </p>
 
 
-
 ### Entrega 3
+
+<font size="3"><p style="text-align: center">Tabela 18: Entrega 3</p></font>
 
 | Danielle | Eduardo | Enzo | Letícia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -157,6 +219,8 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 
 ### Entrega 4
+
+<font size="3"><p style="text-align: center">Tabela 19: Entrega 4</p></font>
 
 | Danielle | Eduardo | Enzo | Letícia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -171,6 +235,8 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### Entrega 5
 
+<font size="3"><p style="text-align: center">Tabela 20: Entrega 5</p></font>
+
 | Danielle | Eduardo | Enzo | Letícia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -182,6 +248,8 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 
 ### Entrega 6
+
+<font size="3"><p style="text-align: center">Tabela 21: Entrega 6</p></font>
 
 | Danielle | Eduardo | Enzo | Letícia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -195,6 +263,8 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ## Rich Picture
 
+<font size="3"><p style="text-align: center">Tabela 22: Rich Picture</p></font>
+
 | Danielle | Eduardo | Enzo | Letícia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | ✅ | ✅ | ✅ | ❎ | ✅ | ❎ | ❎ |
@@ -205,11 +275,12 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 </p>
 
 
-
 ## Inspeção
 
 ### Entrega 1
 #### Grupo +1
+
+<font size="3"><p style="text-align: center">Tabela 23: Entrega 1 - Grupo +1</p></font>
 
 | Danielle | Eduardo | Enzo | Letícia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -223,6 +294,9 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 ### Entrega 2
 #### Grupo +1
+
+<font size="3"><p style="text-align: center">Tabela 24: Entrega 2 - Grupo +1</p></font>
+
 | Danielle | Eduardo | Enzo | Letícia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
@@ -514,3 +588,4 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 | `1.1`    | 27/06/2025 | Adição de todos os vídeos até o momento | [Enzo Emir](https://github.com/EnzoEmir)   | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.2`    | 30/06/2025 | Adição de vídeos de presenciais de correção | [Enzo Emir](https://github.com/EnzoEmir)   | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.3`    | 05/07/2025 | Inclusão de vídeos extras nas seções Brainstorming e $100 Test | [Victor Pontual](https://github.com/VictorPontual) | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.4`    | 07/07/2025 | Adição Cronograma de Participantes | [Maria Eduarda](https://github.com/dudaa28)   | [Marcelo Makoto](https://github.com/MM4k) |
