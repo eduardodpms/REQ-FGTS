@@ -93,6 +93,16 @@ Abaixo, segue a tabela com os membros participantes do processo de construção 
 <font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) e [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
 
+### Legenda dos Diagramas de Caso de Uso
+
+| Nome | Função | Elemento |
+|---|---|:---:|
+| **Ator** | Representa um **usuário externo** (pessoas, outros sistemas, etc) que interage com o sistema em análise para atingir um objetivo específico. | <figure class="usecaseElement" style="width: 20%; display: flex;">![actor](../assets/diagramas/legenda/actor.png)</figure> |
+| **Elipse** | Utilizada para representar os **casos de uso**, o qual descreve uma funcionalidade ou ação que o sistema realiza em resposta às interações dos atores.| <figure class="usecaseElement" style="width: 40%; display: flex;">![elipse](../assets/diagramas/legenda/elipse.png)</figure> |
+| **Retângulo** | Delimita as **fronteiras do sistema** que está sendo modelado, englobando todos os casos de uso. Tudo que está dentro deste retângulo pertence ao sistema. | <figure class="usecaseElement" style="width: 40%; display: flex;">![retangulo](../assets/diagramas/legenda/rect.png)</figure> |
+| **Flecha** | Indica a **relações** entre um ator e um caso de uso, mostrando que o ator se comunica com o caso de uso para realizar uma ação ou obter um serviço do sistema. | <figure class="usecaseElement" style="width: 40%; display: flex;">![flechas](../assets/diagramas/legenda/arrow.png)</figure> |
+
+
 
 ### Descrição
 
