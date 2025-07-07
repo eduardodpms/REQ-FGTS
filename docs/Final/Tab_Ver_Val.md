@@ -152,13 +152,11 @@ A estratégia de planejamento consistiu na verificação de cada artefato por um
   </tr>
   <tr>
     <td><a href="../Verificacao/Grupo/Entrega-4/verificacao-nfr-framework.md">NFR Framework</a></td>
-    <td><a href="../Verificacao/Grupo/Entrega-3/verificacao-especificacao-suplementar.md">Especificação Suplementar</a></td>
     <td><a href="ttps://github.com/EnzoEmir">Enzo Emir</a> <br> <a href="https://github.com/eduardodpms">Eduardo de Pina</a> <br> <a href="https://github.com/danielle-soaress">Danielle Soares</a> <br> <a href='https://github.com/Leticia-Arisa-K-Higa'>Leticia Arisa</a> <br> <a href="https://github.com/dudaa28">Maria Eduarda</a> <br> <a href="https://github.com/MM4k">Marcelo Makoto</a> <br> <a href="https://github.com/VictorPontual">Victor Pontual</a> </td>
-    <td><a href="https://github.com/danielle-soaress">Danielle Soares</a>/td>
+    <td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
   </tr>
   <tr>
     <td><a href="../Verificacao/Grupo/Entrega-4/verificacao-backlog.md">Backlog</a></td>
-    <td><a href="../Verificacao/Grupo/Entrega-3/verificacao-especificacao-suplementar.md">Especificação Suplementar</a></td>
     <td><a href="ttps://github.com/EnzoEmir">Enzo Emir</a> <br> <a href="https://github.com/eduardodpms">Eduardo de Pina</a> <br> <a href="https://github.com/danielle-soaress">Danielle Soares</a> <br> <a href='https://github.com/Leticia-Arisa-K-Higa'>Leticia Arisa</a> <br> <a href="https://github.com/dudaa28">Maria Eduarda</a> <br> <a href="https://github.com/MM4k">Marcelo Makoto</a> <br> <a href="https://github.com/VictorPontual">Victor Pontual</a> </td>
     <td><a href="ttps://github.com/EnzoEmir">Enzo Emir</a></td>
   </tr>
@@ -381,3 +379,4 @@ No projeto, a metodologia adotada envolveu a tentativa de contato com a equipe d
 |:-----: | :--------: | :------------------------------- | :---------- | :---------- |
 | `1.0`    | 27/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
 | `1.1`    | 06/07/2025 | Conteúdo da verificação | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)   | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.2`    | 06/07/2025 | Ajustes do conteúdo da verificação | [Maria Eduarda](https://github.com/dudaa28)   | - |
