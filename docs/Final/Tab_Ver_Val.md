@@ -380,4 +380,4 @@ No projeto, a metodologia adotada envolveu a tentativa de contato com a equipe d
 | Versão | Data       | Descrição                         | Autor(es)    | Revisor(es)  |
 |:-----: | :--------: | :------------------------------- | :---------- | :---------- |
 | `1.0`    | 27/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
-| `1.1`    | 06/07/2025 | Conteúdo da verificação | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)   | - |
+| `1.1`    | 06/07/2025 | Conteúdo da verificação | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)   | [Danielle Soares](https://github.com/danielle-soaress) |

@@ -87,4 +87,4 @@ A disciplina de Requisitos de Software foi fundamental para que eu aprendesse a 
 | `1.1`    | 05/07/2025 | Introdução e adição da minha contibuição | [Enzo Emir](https://github.com/EnzoEmir)   | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.2`    | 05/07/2025 | Adição da minha contibuição | [Marcelo Makoto](https://github.com/MM4k)   | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.3`    | 05/07/2025 | Adição da minha consideração |  [Danielle Soares](https://github.com/danielle-soaress)   | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| `1.4`    | 06/07/2025 | Adição da minha consideração |  [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)   | - |
+| `1.4`    | 06/07/2025 | Adição da minha consideração |  [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)   | [Danielle Soares](https://github.com/danielle-soaress) |

@@ -510,7 +510,7 @@ Esta página tem como objetivo agrupar todas as gravações relacionadas ao proc
 
 | Versão | Data       | Descrição                         | Autor(es)    | Revisor(es)  |
 |:-----: | :--------: | :------------------------------- | :---------- | :---------- |
-| `1.0`    | 27/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   | - |
-| `1.1`    | 27/06/2025 | Adição de todos os vídeos até o momento | [Enzo Emir](https://github.com/EnzoEmir)   | - |
-| `1.2`    | 30/06/2025 | Adição de vídeos de presenciais de correção | [Enzo Emir](https://github.com/EnzoEmir)   | - |
-| `1.3`    | 05/07/2025 | Inclusão de vídeos extras nas seções Brainstorming e $100 Test | [Victor Pontual](https://github.com/VictorPontual) | - |
+| `1.0`    | 27/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.1`    | 27/06/2025 | Adição de todos os vídeos até o momento | [Enzo Emir](https://github.com/EnzoEmir)   | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.2`    | 30/06/2025 | Adição de vídeos de presenciais de correção | [Enzo Emir](https://github.com/EnzoEmir)   | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.3`    | 05/07/2025 | Inclusão de vídeos extras nas seções Brainstorming e $100 Test | [Victor Pontual](https://github.com/VictorPontual) | [Danielle Soares](https://github.com/danielle-soaress) |
