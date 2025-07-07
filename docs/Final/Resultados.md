@@ -26,5 +26,5 @@ Em resumo, ao longo de todo o processo, a equipe se dedicou a compreender as nec
 | Versão | Data       | Descrição                         | Autor(es)    | Revisor(es)  |
 |:-----: | :--------: | :------------------------------- | :---------- | :---------- |
 | `1.0`    | 27/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   |  [Danielle Soares](https://github.com/danielle-soaress) |
-| `1.2`    | 06/06/2025 | Introdução e Resultados alcançados | [Danielle Soares](https://github.com/danielle-soaress)   | - |
-| `1.3`    | 06/06/2025 | Modificação no texto de resultados alcançados | [Danielle Soares](https://github.com/danielle-soaress)   | - |
+| `1.2`    | 06/06/2025 | Introdução e Resultados alcançados | [Danielle Soares](https://github.com/danielle-soaress)   | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `1.3`    | 06/06/2025 | Modificação no texto de resultados alcançados | [Danielle Soares](https://github.com/danielle-soaress)   | [Eduardo de Pina](https://github.com/eduardodpms) |
