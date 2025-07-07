@@ -4,6 +4,43 @@
 
 A disciplina de Requisitos de Software tem como principal objetivo conduzir os alunos a compreender, identificar e documentar as necessidades dos usuários, estabelecendo uma base sólida para o desenvolvimento de um sistema. Os resultados esperados envolvem não apenas a definição clara dos requisitos, mas também a criação de artefatos rastreáveis, a melhoria contínua por meio da verificação e validação e, acima de tudo, o alinhamento entre o que é desenvolvido e o que os usuários realmente precisam. Neste contexto, o presente documento tem como objetivo sintetizar os aprendizados que o grupo 7 construiu ao longo do desenvolvimento do projeto.
 
+## Cronograma de Participantes
+
+<font size="3"><p style="text-align: center">Tabela 1: Cronograma de Participantes</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Data</th>
+      <th>Hora</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Enzo</td>
+      <td>27/06/2025</td>
+      <td>18:30</td>
+    </tr>
+    <tr>
+      <td>Danielle</td>
+      <td>06/07/2025</td>
+      <td>09:00</td>
+    </tr>
+    <tr>
+      <td>Maria Eduarda</td>
+      <td>07/07/2025</td>
+      <td>18:30</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
 ## Resultados Alcançados
 
 O projeto teve início na etapa de **Planejamento**, na qual a equipe definiu o escopo do trabalho, escolheu o aplicativo a ser analisado ([Aplicativo](https://requisitos-de-software.github.io/2025.1-FGTS/Planejamento/Aplicativo/)), estruturou um [Cronograma](https://requisitos-de-software.github.io/2025.1-FGTS/Planejamento/Cronograma/) detalhado e selecionou as [Ferramentas](https://requisitos-de-software.github.io/2025.1-FGTS/Planejamento/Ferramentas/) e [Metodologias](https://requisitos-de-software.github.io/2025.1-FGTS/Planejamento/Metodologia/) que seriam utilizadas ao longo do semestre. Também foi elaborado um [Plano de Reuniões](https://requisitos-de-software.github.io/2025.1-FGTS/Planejamento/Plano-de-Reunioes/). Dessa forma, essa etapa foi essencial para garantir o alinhamento entre os membros e proporcionar uma organização clara desde o início.
@@ -28,3 +65,4 @@ Em resumo, ao longo de todo o processo, a equipe se dedicou a compreender as nec
 | `1.0`    | 27/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   |  [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.2`    | 06/06/2025 | Introdução e Resultados alcançados | [Danielle Soares](https://github.com/danielle-soaress)   | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.3`    | 06/06/2025 | Modificação no texto de resultados alcançados | [Danielle Soares](https://github.com/danielle-soaress)   | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `1.4`    | 07/06/2025 | Adicionando Cronograma e ajustes | [Maria Eduarda](https://github.com/dudaa28)   | [Enzo Emir](https://github.com/EnzoEmir) |

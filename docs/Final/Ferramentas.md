@@ -4,9 +4,51 @@
 
 Durante o desenvolvimento do projeto, diversas ferramentas foram empregadas de acordo com as necessidades específicas de cada etapa. Essa seleção foi essencial para organizar atividades, facilitar a comunicação entre os membros da equipe e apoiar a elaboração dos artefatos. A Tabela 1 apresenta as ferramentas utilizadas, destacando suas finalidades e as etapas do projeto em que cada uma foi aplicada.
 
+## Cronograma de Participantes
+
+<font size="3"><p style="text-align: center">Tabela 1: Cronograma de Participantes</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Data</th>
+      <th>Hora</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Enzo</td>
+      <td>27/06/2025</td>
+      <td>14:10</td>
+    </tr>
+    <tr>
+      <td>Marcelo Makoto</td>
+      <td>05/07/2025</td>
+      <td>15:00</td>
+    </tr>
+    <tr>
+      <td>Victor Pontual</td>
+      <td>06/07/2025</td>
+      <td>10:45</td>
+    </tr>
+    <tr>
+      <td>Maria Eduarda</td>
+      <td>06/07/2025</td>
+      <td>18:10</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
 ## Ferramentas Utilizadas
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas Utilizadas no Projeto</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Ferramentas Utilizadas no Projeto</p></font>
 
 | Logo | Ferramenta | Finalidade | Etapas Utilizadas |
 | :-: | :-: | :-: | :-: |
@@ -72,3 +114,4 @@ Durante o desenvolvimento do projeto, diversas ferramentas foram empregadas de a
 | `1.0`    | 27/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.1`    | 27/06/2025 | Adicionando alguns Hiperlinks | [Enzo Emir](https://github.com/EnzoEmir)   | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.2`    | 28/06/2025 | Adicionando Canva | [Enzo Emir](https://github.com/EnzoEmir)   | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.3`    | 06/07/2025 | Adicionando cronograma de participação | [Maria Eduarda](https://github.com/dudaa28)   | [Victor Pontual](https://github.com/VictorPontual) |

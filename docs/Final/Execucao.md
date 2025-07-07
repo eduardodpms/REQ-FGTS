@@ -20,7 +20,7 @@ Esse documento tem como objetivo apresentar, de forma organizada, uma visão ger
     <tr>
       <td>Enzo</td>
       <td>27/06/2025</td>
-      <td>14:</td>
+      <td>14:00</td>
     </tr>
     <tr>
       <td>Leticia Arisa</td>
@@ -45,6 +45,8 @@ Esse documento tem como objetivo apresentar, de forma organizada, uma visão ger
 <font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
 
 ## Resumo da Execução do Projeto
+
+<font size="3"><p style="text-align: center">Tabela 2: Execução do Projeto</p></font>
 
 <center>
 
@@ -176,6 +178,8 @@ Esse documento tem como objetivo apresentar, de forma organizada, uma visão ger
 
 </center>
 
+<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress) </p></font>
+
 
 ## Histórico de Versões
 
@@ -184,4 +188,4 @@ Esse documento tem como objetivo apresentar, de forma organizada, uma visão ger
 | `1.0`    | 27/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.1`    | 05/06/2025 | Tabela de Resumo da Execução do Projeto | [Danielle Soares](https://github.com/danielle-soaress)   | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.2`    | 06/06/2025 | Introdução | [Danielle Soares](https://github.com/danielle-soaress)   | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| `1.3`    | 06/06/2025 | Atualização da tabela de Cronograma de Participantes | [Maria Eduarda](https://github.com/dudaa28)   | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.3`    | 06/06/2025 | Atualização da tabela de Cronograma de Participantes | [Maria Eduarda](https://github.com/dudaa28)   | [Enzo Emir](https://github.com/EnzoEmir) |
