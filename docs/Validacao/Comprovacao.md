@@ -74,25 +74,59 @@ A metodologia definida para a participação do cliente na comprovação informa
 
 ## Contato
 
-Abaixo, estão apresentadas as tentativas de contato efetuadas, juntamente com os membros do grupo responsáveis por elas e com os endereços de e-mail utilizados.
+Na figura 1, está representado o modelo da primeira tentativas de contato efetuada, que se repetiu para todos os endereços de *email* utilizados.
 
 <font size="3"><p style="text-align: center">Figura 1: Tentativa de contato por [*Danielle Soares*](https://github.com/danielle-soaress)</p></font>
 
 <div align="center">
-  <img src="../../assets/validacao/email_dani.jpg" alt="FIGURA 1">
+  <img src="../../assets/validacao/email/email_dani.jpg" alt="FIGURA 1">
 </div>
 
-<font size="2"><p style="text-align: center">Fonte: [Eduardo de Pina](https://github.com/eduardodpms) </p></font>
+<font size="2"><p style="text-align: center">Fonte: [*Danielle Soares*](https://github.com/danielle-soaress), [Eduardo de Pina](https://github.com/eduardodpms) </p></font>
 
-Endereços de E-Mail utilizados para contato:
+## Endereços de E-Mail
 
-- desol@caixa.gov.br
-- deser@caixa.gov.br
-- relacionamento@caixa.gov.br 
+A partir do modelo de *e-mail* utilizado para a primeira tentativa de contato, apresentada em [*Contato*](#contato), foram feitas sucessivas tentativas de contato nos outros possíveis *e-mails* para contato com a equipe de desenvolvimento do *FGTS* encontrados. Nas figuras 2 a 4, abaixo, estão apresentadas as demonstrações das tentativas, juntamente com os endereços utilizados:
+
+### Endereço 1
+
+- Endereço de E-Mail utilizado: *desol@caixa.gov.br*
+
+<font size="3"><p style="text-align: center">Figura 2: Tentativa de contato no e-mail <i>desol@caixa.gov.br</i></p></font>
+
+<div align="center">
+  <img src="../../assets/validacao/email/desol.png" alt="FIGURA 2">
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [*Danielle Soares*](https://github.com/danielle-soaress), [Eduardo de Pina](https://github.com/eduardodpms) </p></font>
+
+### Endereço 2
+
+- Endereço de E-Mail utilizado: *deser@caixa.gov.br*
+
+<font size="3"><p style="text-align: center">Figura 3: Tentativa de contato no e-mail <i>deser@caixa.gov.br</i></p></font>
+
+<div align="center">
+  <img src="../../assets/validacao/email/deser.png" alt="FIGURA 3">
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [*Danielle Soares*](https://github.com/danielle-soaress), [Eduardo de Pina](https://github.com/eduardodpms) </p></font>
+
+### Endereço 3
+
+- Endereço de E-Mail utilizado: *relacionamento@caixa.gov.br*
+
+<font size="3"><p style="text-align: center">Figura 4: Tentativa de contato no e-mail <i>relacionamento@caixa.gov.br</i></p></font>
+
+<div align="center">
+  <img src="../../assets/validacao/email/relacionamento.png" alt="FIGURA 4">
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [*Danielle Soares*](https://github.com/danielle-soaress), [Eduardo de Pina](https://github.com/eduardodpms) </p></font>
 
 ## Retorno
 
-Até o momento da entrega dos artefatos referentes à validação do projeto, os membros do grupo 7 não receberam retorno da equipe do *FGTS* por nenhum dos e-mails utilizados para contato. Nesse sentido, caso haja qualquer forma de retorno, a mesma será inserida neste tópico.
+Até o momento da entrega final do projeto, posterior à entrega dos artefatos de validação, os membros do grupo 7 não receberam retorno da equipe do *FGTS* por nenhum dos e-mails utilizados para contato. Nesse sentido, caso haja qualquer forma de retorno, a mesma será inserida neste tópico.
 
 ## Referências Bibliográficas
 
@@ -104,3 +138,4 @@ Até o momento da entrega dos artefatos referentes à validação do projeto, os
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 20/06/2025 | Criação da Página | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.1` | 22/06/2025 | Adição dos elementos da página | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
+| `1.2` | 06/07/2025 | Adição das tentativas de contato | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
