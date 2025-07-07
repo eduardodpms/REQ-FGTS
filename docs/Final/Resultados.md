@@ -4,6 +4,8 @@
 
 A disciplina de Requisitos de Software tem como principal objetivo conduzir os alunos a compreender, identificar e documentar as necessidades dos usuários, estabelecendo uma base sólida para o desenvolvimento de um sistema. Os resultados esperados envolvem não apenas a definição clara dos requisitos, mas também a criação de artefatos rastreáveis, a melhoria contínua por meio da verificação e validação e, acima de tudo, o alinhamento entre o que é desenvolvido e o que os usuários realmente precisam. Neste contexto, o presente documento tem como objetivo sintetizar os aprendizados que o grupo 7 construiu ao longo do desenvolvimento do projeto.
 
+**OBS.:** *A apresentação referente à entrega final e aos seus resultados, executados após a etapa final de desenvolvimento do projeto, se encontra em [Entregas](https://requisitos-de-software.github.io/2025.1-FGTS/Entregas/Entrega-Final/).*
+
 ## Cronograma de Participantes
 
 <font size="3"><p style="text-align: center">Tabela 1: Cronograma de Participantes</p></font>
@@ -66,3 +68,4 @@ Em resumo, ao longo de todo o processo, a equipe se dedicou a compreender as nec
 | `1.2`    | 06/07/2025 | Introdução e Resultados alcançados | [Danielle Soares](https://github.com/danielle-soaress)   | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.3`    | 06/07/2025 | Modificação no texto de resultados alcançados | [Danielle Soares](https://github.com/danielle-soaress)   | [Eduardo de Pina](https://github.com/eduardodpms) |
 | `1.4`    | 07/07/2025 | Adicionando Cronograma e ajustes | [Maria Eduarda](https://github.com/dudaa28)   | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.5`    | 07/07/2025 | Adicionando observação referente à apresentação | [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir) |
