@@ -2,6 +2,48 @@
 
 Esse documento tem como objetivo apresentar, de forma organizada, uma visão geral de todas as etapas realizadas ao longo da disciplina de Requisitos de Software. Esse artefato serve como uma síntese dos principais processos, decisões e entregas desenvolvidas pelo grupo, desde o planejamento inicial até as fases finais de verificação, validação e pós-rastreabilidade. Através dele, é possível entender como cada etapa contribuiu para o desenvolvimento do projeto.
 
+## Cronograma de Participantes
+
+<font size="3"><p style="text-align: center">Tabela 1: Cronograma de Participantes</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Data</th>
+      <th>Hora</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Enzo</td>
+      <td>27/06/2025</td>
+      <td>14:</td>
+    </tr>
+    <tr>
+      <td>Leticia Arisa</td>
+      <td>05/07/2025</td>
+      <td>23:00</td>
+    </tr>
+    <tr>
+      <td>Danielle</td>
+      <td>05/07/2025</td>
+      <td>11:10</td>
+    </tr>
+    <tr>
+      <td>Maria Eduarda</td>
+      <td>06/07/2025</td>
+      <td>18:10</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
 ## Resumo da Execução do Projeto
 
 <center>
@@ -142,3 +184,4 @@ Esse documento tem como objetivo apresentar, de forma organizada, uma visão ger
 | `1.0`    | 27/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.1`    | 05/06/2025 | Tabela de Resumo da Execução do Projeto | [Danielle Soares](https://github.com/danielle-soaress)   | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.2`    | 06/06/2025 | Introdução | [Danielle Soares](https://github.com/danielle-soaress)   | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.3`    | 06/06/2025 | Atualização da tabela de Cronograma de Participantes | [Maria Eduarda](https://github.com/dudaa28)   | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |

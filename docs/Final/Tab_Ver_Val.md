@@ -1,3 +1,58 @@
+## Introdução
+
+Esta seção reúne as atividades de verificação e validação realizadas durante o desenvolvimento do projeto, com o objetivo de garantir a qualidade dos artefatos produzidos. 
+
+As ações foram conduzidas de forma colaborativa pelo grupo, seguindo métodos definidos previamente para análise, prototipação e validação dos requisitos. 
+
+A seguir, são apresentadas as tabelas com os registros de verificação e validação realizados ao longo das entregas.
+
+## Cronograma de Participantes
+
+<font size="3"><p style="text-align: center">Tabela 1: Cronograma de Participantes</p></font>
+
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th>Nome</th>
+      <th>Data</th>
+      <th>Hora</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Enzo</td>
+      <td>27/06/2025</td>
+      <td>13:47</td>
+    </tr>
+    <tr>
+      <td>Danielle</td>
+      <td>05/07/2025</td>
+      <td>11:10</td>
+    </tr>
+    <tr>
+      <td>Leticia Arisa</td>
+      <td>06/07/2025</td>
+      <td>20:30</td>
+    </tr>
+    <tr>
+      <td>Eduardo de Pina</td>
+      <td>06/07/2025</td>
+      <td>23:00</td>
+    </tr>
+    <tr>
+      <td>Maria Eduarda</td>
+      <td>07/07/2025</td>
+      <td>18:10</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<font size="2"><p style="text-align: center">Fonte: [Maria Eduarda](https://github.com/dudaa28) </p></font>
+
 ## Verificação
 
 ### Introdução
@@ -171,6 +226,7 @@ A estratégia de planejamento consistiu na verificação de cada artefato por um
 
 </center>
 
+
 ## Validação
 
 ### Introdução
@@ -183,7 +239,7 @@ A prototipação é uma etapa fundamental no desenvolvimento de soluções, pois
 
 No projeto, foram prototipados todos os requisitos ainda não implementados. Cada integrante ficou responsável pela prototipação dos requisitos que já havia desenvolvido anteriormente. A Tabela 1 mostra quem fez cada prototipação.
 
-<font size="3"><p style="text-align: center">Tabela 1: Requisitos atribuídos a cada integrante</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Requisitos atribuídos a cada integrante</p></font>
 
 <div align="center">
 
@@ -246,9 +302,9 @@ No projeto, foram prototipados todos os requisitos ainda não implementados. Cad
 
 <font size="2"><p style="text-align: center">Autor(a): [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) </p></font>
 
-A seguir é possivel observar na Tabela 2 e 3 o cronograma de validação da entrevista 1 e 2.
+A seguir é possivel observar na Tabela 3 e 4 o cronograma de validação da entrevista 1 e 2.
 
-<font size="3"><p style="text-align: center">Tabela 2: Cronograma da validação 1</p></font>
+<font size="3"><p style="text-align: center">Tabela 3: Cronograma da validação 1</p></font>
 
 <div align="center">
 
@@ -320,7 +376,7 @@ A seguir é possivel observar na Tabela 2 e 3 o cronograma de validação da ent
 <font size="2"><p style="text-align: center">Autor(a): [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa), [Danielle Soares](https://github.com/danielle-soaress) </p></font>
 
 
-<font size="3"><p style="text-align: center">Tabela 3: Cronograma da validação 2</p></font>
+<font size="3"><p style="text-align: center">Tabela 4: Cronograma da validação 2</p></font>
 
 <div align="center">
 
@@ -380,3 +436,4 @@ No projeto, a metodologia adotada envolveu a tentativa de contato com a equipe d
 | `1.0`    | 27/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)  |
 | `1.1`    | 06/07/2025 | Conteúdo da verificação | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)   | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.2`    | 06/07/2025 | Ajustes do conteúdo da verificação | [Maria Eduarda](https://github.com/dudaa28)   | [Eduardo de Pina](https://github.com/eduardodpms) |
+| `1.3`    | 07/07/2025 | Ajustes do conteúdo da verificação | [Maria Eduarda](https://github.com/dudaa28)   | [Enzo Emir](https://github.com/EnzoEmir) |
