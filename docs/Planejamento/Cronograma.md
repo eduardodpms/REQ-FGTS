@@ -12,7 +12,7 @@ Além disso, é importante destacar que, para cada entrega, foram montados dois 
 
 ### Planejado 💡
 
-A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 1.
+A tabela 1 a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 1.
 
 <p style="text-align: center; font-size: 16px;">Tabela 1: <i>Planejamento do Projeto</i></p>
 
@@ -25,9 +25,11 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 | Documentar Equipe | Início: 25/03 <br> Fim: 08/03 | [Eduardo](https://github.com/eduardodpms) | Início: 12/04 <br> Fim: 13/04 | [Danielle](https://github.com/danielle-soaress) |
 | Gravar apresentação | Início: 12/04 <br> Fim: 12/04 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 13/04 <br> Fim: 13/04 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms) |
 
+<font size="2"><p style="text-align: center">Autor(a): [Maria Eduarda](https://github.com/dudaa28)</p></font>
 
 ### Entregue 📬
 
+A tabela 2 a seguir mostra o que foi *entregue* no cronograma das atividades da Entrega 1.
 
 <p style="text-align: center; font-size: 16px;">Tabela 2: <i>Planejamento do Projeto</i></p>
 
@@ -42,6 +44,7 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 | Correção pós Inspeção do grupo 6 | Início: 15/04 <br> Fim: 05/05 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 15/04 <br> Fim: 05/05 | [Maria](https://github.com/dudaa28) |
 | Correção pós apresentação | Início: 15/04 <br> Fim: 05/05 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 15/04 <br> Fim: 05/05 | [Danielle](https://github.com/danielle-soaress) |
 
+<font size="2"><p style="text-align: center">Autor(a): [Maria Eduarda](https://github.com/dudaa28)</p></font>
 
 <br>
 
@@ -49,7 +52,7 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 
 ### **Planejado 💡**
 
-A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 2.
+A tabela 3 a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 2.
 
 <p style="text-align: center; font-size: 16px;">Tabela 3: <i>Elicitação – Técnicas e Priorização</i></p>
 
@@ -68,9 +71,11 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 | Técnica de Priorização: In or Out | Início: 01/05 <br> Fim: 04/05 | [Maria](https://github.com/dudaa28), [Enzo](https://github.com/EnzoEmir) | Início: 04/05 <br> Fim: 05/05 | [Eduardo](https://github.com/eduardodpms), [Victor](https://github.com/VictorPontual) |
 | Gravação da Apresentação | Início: 04/05 <br> Fim: 04/05 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 04/05 <br> Fim: 05/05 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms) |
 
+<font size="2"><p style="text-align: center">Autor(a): [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
 ### **Entregue 📬**
 
+A tabela 4 a seguir mostra o que foi *entregue* no cronograma das atividades da Entrega 2.
 
 <p style="text-align: center; font-size: 16px;">Tabela 4: <i>Elicitação – Técnicas e Priorização</i></p>
 
@@ -90,6 +95,7 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 | Formulação de Personas | Início: 01/05 <br> Fim: 04/05 | [Eduardo](https://github.com/eduardodpms), [Marcelo](https://github.com/MM4k) | Início: 04/05 <br> Fim: 05/05 | [Victor](https://github.com/VictorPontual) | [Danielle](https://github.com/danielle-soaress) |
 | Formulação de Perfil de Usuário | Início: 01/05 <br> Fim: 04/05 | [Eduardo](https://github.com/eduardodpms), [Marcelo](https://github.com/MM4k) | Início: 04/05 <br> Fim: 05/05 | [Enzo](https://github.com/EnzoEmir) | [Maria](https://github.com/dudaa28) |
 
+<font size="2"><p style="text-align: center">Autor(a): [Eduardo de Pina](https://github.com/eduardodpms), [Enzo Emir](https://github.com/EnzoEmir)</p></font>
 
 <br>
 
@@ -99,7 +105,7 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 
 ### Planejado 💡
 
-A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 3.
+A tabela 5 a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 3.
 
 <p style="text-align: center; font-size: 16px;">Tabela 5: <i>Modelagem de Requisitos I</i></p>
 
@@ -114,9 +120,11 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 | Criação da Especificação Suplementar  | Início: 13/05 <br> Fim: 17/05|  [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 17/05 <br> Fim: 18/05 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |
 | Gravação da Apresentação | Início: 17/05 <br> Fim: 18/05 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 17/05 <br> Fim: 18/05 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |
 
+<font size="2"><p style="text-align: center">Autor(a): [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
 ### Entregue 📬
 
+A tabela 6 a seguir mostra o que foi *entregue* no cronograma das atividades da Entrega 3.
 
 <p style="text-align: center; font-size: 16px;">Tabela 6: <i>Modelagem de Requisitos I</i></p>
 
@@ -133,6 +141,7 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 | Criação da Especificação Suplementar | Início: 13/05 <br> Fim: 17/05|  [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 17/05 <br> Fim: 18/05 | [Eduardo](https://github.com/eduardodpms), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Maria](https://github.com/dudaa28) |
 | Gravação da Apresentação | Início: 18/05 <br> Fim: 18/05 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 18/05 <br> Fim: 18/05 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |
 
+<font size="2"><p style="text-align: center">Autor(a): [Eduardo de Pina](https://github.com/eduardodpms), [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
 <br>
 
@@ -142,7 +151,7 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 
 ### Planejado 💡
 
-A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 4.
+A tabela 7 a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 4.
 
 <p style="text-align: center; font-size: 16px;">Tabela 7: <i>Modelagem de Requisitos II (Ágil)</i></p>
 
@@ -153,10 +162,11 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 | Implementação do NFR Framework | Início: 23/05 <br> Fim: 24/05 | [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Maria](https://github.com/dudaa28) | Início: 24/05 <br> Fim: 25/05 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Marcelo](https://github.com/MM4k) |
 | Gravação da Apresentação | Início: 25/05 <br> Fim: 26/05 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 26/05 <br> Fim: 27/05 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |
 
+<font size="2"><p style="text-align: center">Autor(a): [Marcelo Makoto](https://github.com/MM4k)</p></font>
 
 ### Entregue 📬
 
-A tabela a seguir mostra o que foi *entregue* no cronograma das atividades da Entrega 4.
+A tabela 8 a seguir mostra o que foi *entregue* no cronograma das atividades da Entrega 4.
 
 <p style="text-align: center; font-size: 16px;">Tabela 8: <i>Modelagem de Requisitos II (Ágil)</i></p>
 
@@ -167,6 +177,8 @@ A tabela a seguir mostra o que foi *entregue* no cronograma das atividades da En
 | Implementação do NFR Framework | Início: 26/05 <br> Fim: 01/06 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 24/05 <br> Fim: 25/05 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Marcelo](https://github.com/MM4k) |
 | Gravação da Apresentação | Início: 01/06 <br> Fim: 01/06 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 26/05 <br> Fim: 27/05 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |
 
+<font size="2"><p style="text-align: center">Autor(a): [Eduardo de Pina](https://github.com/eduardodpms), [Marcelo Makoto](https://github.com/MM4k)</p></font>
+
 <br>
 
 
@@ -175,7 +187,7 @@ A tabela a seguir mostra o que foi *entregue* no cronograma das atividades da En
 
 ### Planejado 💡
 
-A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 5.
+A tabela 9 a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 5.
 
 <p style="text-align: center; font-size: 16px;">Tabela 9: <i>Análise de Requisitos 1: Verificação e Validação</i></p>
 
@@ -187,19 +199,32 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 | Validação: Comprovação Informal | Início: 24/06 <br> Fim: 28/04 | [Enzo](https://github.com/EnzoEmir), [Victor](https://github.com/VictorPontual) | Início: 28/06 <br> Fim: 30/06 | [Leticia](https://github.com/Leticia-Arisa-K-Higa) |
 | Gravar apresentação | Início: 01/07 <br> Fim: 06/07 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 07/07 <br> Fim: 07/07 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Marcelo](https://github.com/MM4k) |
 
+<font size="2"><p style="text-align: center">Autor(a): [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
 ### Entregue 📬
 
+A tabela 10 a seguir mostra o que foi *entregue* no cronograma das atividades da Entrega 5.
+
+<p style="text-align: center; font-size: 16px;">Tabela 10: <i>Análise de Requisitos 1: Verificação e Validação</i></p>
+
+| **Atividade** | **Período de Desenvolvimento** | **Responsáveis** | **Período de Revisão** | **Revisores** |
+|:-:|:-:|:-:|:-:|:-:|
+| Verificação: Listas de Verificação | Início: 13/06 <br> Fim: 20/06 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 19/06 <br> Fim: 22/06 | [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa) |
+| Verificação: Inspeção dos Artefatos | Início: 16/06 <br> Fim: 20/06 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 19/06 <br> Fim: 22/06 | [Eduardo](https://github.com/eduardodpms), [Maria](https://github.com/dudaa28) |
+| Validação: Prototipação | Início: 14/06 <br> Fim: 20/06 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 18/06 <br> Fim: 22/06 | [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28) |
+| Validação: Comprovação Informal | Início: 13/06 <br> Fim: 20/06 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 18/06 <br> Fim: 22/06 | [Danielle](https://github.com/danielle-soaress) |
+| Gravar apresentação | Início: 21/06 <br> Fim: 21/06 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 20/07 <br> Fim: 22/06 | [Eduardo](https://github.com/eduardodpms), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k) |
+
+<font size="2"><p style="text-align: center">Autor(a): [Eduardo de Pina](https://github.com/eduardodpms)</p></font>
 
 <br>
-
 
 ## E6: Pós-Rastreabilidade
 
 
 ### Planejado 💡
 
-A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 6.
+A tabela 11 a seguir mostra o que foi *planejado* no cronograma das atividades da Entrega 6.
 
 <p style="text-align: center; font-size: 16px;">Tabela 11: <i>Planejamento do Projeto</i></p>
 
@@ -210,12 +235,13 @@ A tabela a seguir mostra o que foi *planejado* no cronograma das atividades da E
 | Matriz Geral de Rastrebilidade | Início: 07/06 <br> Fim: 08/06 | [Eduardo](https://github.com/eduardodpms), [Marcelo](https://github.com/MM4k), [Victor](https://github.com/VictorPontual) | Início: 08/06 <br> Fim: 08/06 | [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Maria](https://github.com/dudaa28) |
 | Gravação da Apresentação | Início: 08/06 <br> Fim: 09/06 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 09/06 <br> Fim: 10/06 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |
 
+<font size="2"><p style="text-align: center">Autor(a): [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
 ### Entregue 📬
 
-A tabela a seguir mostra o que foi *entregue* no contexto do cronograma das atividades da Entrega 6.
+A tabela 12 a seguir mostra o que foi *entregue* no contexto do cronograma das atividades da Entrega 6.
 
-<p style="text-align: center; font-size: 16px;">Tabela 11: <i>Planejamento do Projeto</i></p>
+<p style="text-align: center; font-size: 16px;">Tabela 12: <i>Planejamento do Projeto</i></p>
 
 | **Atividade** | **Período de Desenvolvimento** | **Responsáveis** | **Período de Revisão** | **Revisores** |
 |:-:|:-:|:-:|:-:|:-:|
@@ -224,6 +250,7 @@ A tabela a seguir mostra o que foi *entregue* no contexto do cronograma das ativ
 | Matriz de Rastreabilidade | Início: 07/06 <br> Fim: 08/06 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 07/06 <br> Fim: 08/06  | [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Maria](https://github.com/dudaa28) |
 | Gravação da Apresentação | Início: 08/06 <br> Fim: 08/06 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | Início: 08/06 <br> Fim: 08/06 | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) |
 
+<font size="2"><p style="text-align: center">Autor(a): [Eduardo de Pina](https://github.com/eduardodpms), [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)</p></font>
 
 
 <br>
@@ -256,3 +283,4 @@ A tabela a seguir mostra o que foi *entregue* no contexto do cronograma das ativ
 | `2.1` | 05/06/2025 | Adicionando cronograma entregue na etapa de modelagem 2 | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
 | `2.2` | 18/06/2025 | Atualizando cronograma entregue da etapa de pós rastreabilidade | [Danielle Soares](https://github.com/danielle-soaress) | [Maria Eduarda](https://github.com/dudaa28) |
 | `2.3` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
+| `2.4` | 06/07/2025 | Preparando versão final do artefato | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
