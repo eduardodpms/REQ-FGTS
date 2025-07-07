@@ -59,32 +59,31 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 
 <font size="3"><p style="text-align: center">Tabela 2: Itens Gerais</p></font>
 
-| Item | Referência | Avaliação | Observação |
-| :---- | :---: | :---: | :---: |
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(2)](#RP2)| ![][image1] | \- | \- |
-| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(2)](#RP2)| ![][image2] | \- | \- |
-| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(2)](#RP2)| ![][image3] | \- | \- |
-| ***04:*** O artefato apresenta uma introdução? [(2)](#RP2)| ![][image4] | \- | \- |
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(2)](#RP2)|  | \- | \- |
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(2)](#RP2)| ![][image5] | \- | \- |
+| Item | Referência | Avaliação | Observação | Autores |
+| :---- | :---: | :---: | :---: | :---: |
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(2)](#RP2)| ![][image1] | \- | \- |[Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k)
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(2)](#RP2)| ![][image2] | \- | \- |[Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k)
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(2)](#RP2)| ![][image3] | \- | \- |[Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k)
+| ***04:*** O artefato apresenta uma introdução? [(2)](#RP2)| ![][image4] | \- | \- |[Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k)
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(2)](#RP2)|  | \- | \- |[Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k)
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(2)](#RP2)| ![][image5] | \- | \- |[Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k)
 
-<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
 
 ### ✅ Rich Picture
 
 <font size="3"><p style="text-align: center">Tabela 3: Itens do artefato "Rich Picture"</p></font>
 
-| Item | Referência | Avaliação | Observação |
-| :---- | :---: | :---: | :---: |
-| ***07:*** O Rich Picture representa todos os atores envolvidos no sistema? [(1)](#RP1)| ![][image6] | \- | \- |
-| ***08:*** Os fluxos de informação entre os elementos estão ilustrados? [(1)](#RP1)| ![][image7] | \- | \- |
-| ***09:*** As principais operações do sistema estão representadas? [(1)](#RP1)| ![][image8] | \- | \- |
-| ***10:*** Os limites do sistema estão claramente indicados? [(1)](#RP1)| ![][image9] | \- | \- |
-| **11:** Os armazenamentos de dados (tabelas) estão representados adequadamente? [(1)](#RP1)| ![][image10] |  |  |
-| ***12:*** O Rich Picture foi validado com a equipe ou stakeholders? [(2)](#RP2)| ![][image11] | \- | \- |
-| ***13:*** O artefato possui uma legenda explicando os símbolos utilizados no diagrama? [(2)](#RP2)| ![][image12] |  |  |
+| Item | Referência | Avaliação | Observação | Autores |
+| :---- | :---: | :---: | :---: | :---: |
+| ***07:*** O Rich Picture representa todos os atores envolvidos no sistema? [(1)](#RP1)| ![][image6] | \- | \- |[Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k)
+| ***08:*** Os fluxos de informação entre os elementos estão ilustrados? [(1)](#RP1)| ![][image7] | \- | \- |[Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k)
+| ***09:*** As principais operações do sistema estão representadas? [(1)](#RP1)| ![][image8] | \- | \- |[Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k)
+| ***10:*** Os limites do sistema estão claramente indicados? [(1)](#RP1)| ![][image9] | \- | \- |[Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k)
+| **11:** Os armazenamentos de dados (tabelas) estão representados adequadamente? [(1)](#RP1)| ![][image10] | - | - |[Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k)
+| ***12:*** O Rich Picture foi validado com a equipe ou stakeholders? [(2)](#RP2)| ![][image11] | \- | \- |[Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k)
+| ***13:*** O artefato possui uma legenda explicando os símbolos utilizados no diagrama? [(2)](#RP2)| ![][image12] | - | - |[Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k)
 
-<font size="2"><p style="text-align: center">Fonte: [Danielle Soares](https://github.com/danielle-soaress), [Marcelo Makoto](https://github.com/MM4k) </p></font>
+
 
 ## Referências Bibliográficas
 
@@ -104,6 +103,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | `1.3` | 21/06/2025 | Adição de Listas de Verificação | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.4` | 21/06/2025 | Referências e prints das referências | [Danielle Soares](https://github.com/danielle-soaress) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.5` | 22/06/2025 | Adicionando legendas e fontes das listas | [Eduardo de Pina](https://github.com/eduardodpms) | [Marcelo Makoto](https://github.com/MM4k) |
+| `1.6` | 07/07/2025 | Adicionando autores | [Enzo Emir](https://github.com/EnzoEmir) | - |
 
 
 
