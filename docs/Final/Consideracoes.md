@@ -49,8 +49,8 @@ Nesta seção, cada integrante da equipe compartilha, de forma individual, as pr
     </tr>
     <tr>
       <td> Victor Pontual </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 07/07/2025 </td>
+      <td> 18:47 </td>
     </tr>
   </tbody>
 </table>
@@ -86,6 +86,9 @@ A disciplina de Requisitos de Software foi fundamental para que eu aprendesse a 
 
 Na disciplina de Requisitos de Software, percebi o quanto é fundamental um bom processo de elicitação para garantir a construção, manutenção e evolução de um software de qualidade. Aprendi que entender as reais necessidades dos usuários, por meio de técnicas como entrevistas, questionários e brainstorming, é o primeiro passo para desenvolver um produto alinhado às expectativas. Além disso, participar das etapas de modelagem, priorização e verificação/validação dos requisitos me fez enxergar a importância de documentar e revisar cada decisão tomada. Todo esse processo contribuiu não apenas para o sucesso do projeto, mas também para o meu crescimento como futura profissional da área.
 
+### Victor Pontual
+
+Durante a disciplina de Requisitos de Software, pude perceber a importância de um processo bem estruturado para a elicitação, priorização e documentação dos requisitos. Participar ativamente de todas as etapas do projeto me permitiu desenvolver habilidades de análise crítica, organização e comunicação em equipe. Enfrentei desafios para conciliar as demandas do projeto com outras disciplinas, mas o trabalho colaborativo e o apoio dos colegas foram fundamentais para superar as dificuldades. A experiência proporcionou um aprendizado significativo sobre a necessidade de alinhar as expectativas dos usuários com as soluções propostas, além de reforçar o valor da rastreabilidade e da validação contínua dos requisitos. Saio da disciplina mais preparado para atuar em projetos de desenvolvimento de software, com uma visão mais ampla sobre o papel dos requisitos na qualidade do produto final.
 
 ## Histórico de Versões
 
@@ -98,3 +101,4 @@ Na disciplina de Requisitos de Software, percebi o quanto é fundamental um bom 
 | `1.4`    | 06/07/2025 | Adição da minha consideração |  [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa)   | [Danielle Soares](https://github.com/danielle-soaress) |
 | `1.5`    | 06/07/2025 | Adição da minha consideração |  [Maria Eduarda](https://github.com/dudaa28)   | [Victor Pontual](https://github.com/VictorPontual) |
 | `1.6`    | 06/07/2025 | Adição da minha consideração |  [Eduardo de Pina](https://github.com/eduardodpms)   | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.7`    | 07/07/2025 | Adição da minha consideração |  [Victor Pontual](https://github.com/VictorPontual)   | [Eduardo de Pina](https://github.com/eduardodpms) |
