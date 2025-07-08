@@ -107,5 +107,5 @@ O artefato *Backlog* está considerado **aprovado**, com todos os itens da check
 |:-----: | :--------: | :------------------------------- | :---------- | :---------- |
 | `1.0`   | 22/06/2025 | Criação da página de verificação | [Enzo Emir](https://github.com/EnzoEmir)   | [Victor Pontual](https://github.com/) |
 | `1.1` | 22/06/2025 | Adição dos prints | [Enzo Emir](https://github.com/EnzoEmir) | [Victor Pontual](https://github.com/) |
-| `1.2` | 26/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `1.2` | 26/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | [Marcelo Makoto](https://github.com/MM4k) |
 
