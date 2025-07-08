@@ -8,7 +8,7 @@ A entrega final do projeto consiste, no contexto do planejamento da disciplina <
 
 | Danielle | Eduardo | Enzo | Leticia | Marcelo | Maria | Victor |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| ✅ | ✅ | ❎ | ✅ | ✅ | ✅ | ✅ |
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 ## Apresentação
 

@@ -188,7 +188,7 @@ Esse documento tem como objetivo apresentar, de forma organizada, uma visão ger
 
 ## Cronograma da Execução do Projeto
 
-Nas tabelas 3-9 abaixo, estão definidas todas as etapas **executadas** do projeto, com as datas aproximadas de desenvolvimento e de revisão, e com os membros envolvidos em cada artegato. As tabelas seguem o modelo "Planejado", definidos em [*Cronograma*](https://requisitos-de-software.github.io/2025.1-FGTS/Planejamento/Cronograma/), e foram corrigidas após cada entrega.
+Nas tabelas 3-8 abaixo, estão definidas todas as etapas **executadas** do projeto, com as datas aproximadas de desenvolvimento e de revisão, e com os membros envolvidos em cada artegato. As tabelas seguem o modelo "Planejado", definidos em [*Cronograma*](https://requisitos-de-software.github.io/2025.1-FGTS/Planejamento/Cronograma/), e foram corrigidas após cada entrega.
 
 ### Entrega 1: Pré-Rastreabilidade
 
