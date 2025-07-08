@@ -124,4 +124,4 @@ Essa etapa reforça a importância de tratar com atenção requisitos não funci
 | Versão | Data       | Descrição                         | Autor          | Revisor   |
 | ------ | ---------- | --------------------------------- | -------------- | --------- |
 | `1.0`    | 22/06/2025 | Criação e verificação do artefato | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |
-| `1.1` | 26/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `1.1` | 26/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | [Victor Pontual](https://github.com/VictorPontual) |
