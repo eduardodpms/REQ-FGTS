@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  Figura 1:<i> Logo FGTS</i>,&nbsp Fonte: <i><a href="https://www.caixa.gov.br/atendimento/aplicativos/fgts/Paginas/default.aspx">caixa.gov.br</a></i>
+  <strong>Figura 1:</strong> <i>Logo FGTS</i>,&nbsp <strong>Fonte:</strong> <i><a href="https://www.caixa.gov.br/atendimento/aplicativos/fgts/Paginas/default.aspx">caixa.gov.br</a></i>
 </p>
 
 <br>
@@ -54,13 +54,19 @@ Os artefatos previstos, associados a cada entrega, estão listados a seguir com 
 
 ## 5. Membros da Equipe 👥
 
+<p align="center"><strong>Tabela 1:</strong> <i>Membros do time de desenvolvimento</i></p>
+
 | [![](https://avatars.githubusercontent.com/danielle-soaress)](https://github.com/danielle-soaress) | [![](https://avatars.githubusercontent.com/eduardodpms)](https://github.com/eduardodpms) | [![](https://avatars.githubusercontent.com/EnzoEmir)](https://github.com/EnzoEmir) | [![](https://avatars.githubusercontent.com/Leticia-Arisa-K-Higa)](https://github.com/Leticia-Arisa-K-Higa) | [![](https://avatars.githubusercontent.com/MM4k)](https://github.com/MM4k) | [![](https://avatars.githubusercontent.com/dudaa28)](https://github.com/dudaa28) | [![](https://avatars.githubusercontent.com/VictorPontual)](https://github.com/VictorPontual) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Danielle Soares](https://github.com/danielle-soaress) | [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) | [Maria Eduarda](https://github.com/dudaa28) | [Victor Pontual](https://github.com/VictorPontual) |
 
+<p align="center"><strong>Fonte:</strong> <i><a href="https://github.com/eduardodpms">Eduardo de Pina</a></i></p>
+
 <br>
 
 ## 6. Histórico de Entregas 📅
+
+<p align="center"><strong>Tabela 2:</strong> <i>Histórico de entregas do projeto</i></p>
 
 | Item | Escopo | Artefatos | Data | Gravação | Autor(es) | Revisor(es) |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -71,3 +77,5 @@ Os artefatos previstos, associados a cada entrega, estão listados a seguir com 
 | **Entrega** `5` | *Análise de Requisitos* | `Verificação das Entregas`, `Prototipação` e `Comprovação Informal` | 22/06/2025 | [[LINK]](https://youtu.be/KTp-37kQ5-M) | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir) |
 | **Entrega** `6` | *Pós-Rastreabilidade* | `Elos Forward-From`, `Elos Backward-From` e `Matriz de Rastreabilidade` | 08/06/2025 | [[LINK]](https://youtu.be/psdTh5-MavM) | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | [Danielle](https://github.com/danielle-soaress), [Maria](https://github.com/dudaa28) |
 | **Entrega** `Final` | *Etapa Final* | `Correção de Artefatos`, `Resultados do Projeto`,  `Histórico do Desenvolvimento` e `Considerações do Time` | 07/07/2025 | [[LINK]](https://youtu.be/b1tTkWnEP6I) | [Danielle](https://github.com/danielle-soaress), [Eduardo](https://github.com/eduardodpms), [Enzo](https://github.com/EnzoEmir), [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k), [Maria](https://github.com/dudaa28), [Victor](https://github.com/VictorPontual) | [Leticia](https://github.com/Leticia-Arisa-K-Higa), [Marcelo](https://github.com/MM4k) |
+
+<p align="center"><strong>Fonte:</strong> <i><a href="https://github.com/eduardodpms">Eduardo de Pina</a></i></p>
