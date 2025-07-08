@@ -1,0 +1,7288 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../NFR-Framework/">
+      
+      
+        <link rel="next" href="../Product-Backlog/">
+      
+      
+      <link rel="icon" href="../../assets/logo_fgts.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.5.17">
+    
+    
+      
+        <title>Histórias de Usuário - FGTS</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.bcfcd587.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="claro" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#historias-de-usuario" class="md-skip">
+          Pular para conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../.." title="FGTS" class="md-header__button md-logo" aria-label="FGTS" data-md-component="logo">
+      
+  <img src="../../assets/logo_fgts.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            FGTS
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Histórias de Usuário
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="claro" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Escuro"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Escuro" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3 3.19.09m3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95 2.06.05m-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Claro"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Claro" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5c-.84 0-1.65.15-2.39.42L12 2M3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29L3.34 7m.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14L3.36 17M20.65 7l-1.77 3.79a7.023 7.023 0 0 0-2.38-4.15l4.15.36m-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29L20.64 17M12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44L12 22Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando busca
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Requisitos-de-Software/2025.1-FGTS/tree/main" title="Ir para repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2025.1-FGTS
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Abas" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../atas/ata_07_04/" class="md-tabs__link">
+          
+  
+  Atas
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Planejamento/Aplicativo/" class="md-tabs__link">
+          
+  
+  Planejamento
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Entregas/Entrega-1/" class="md-tabs__link">
+          
+  
+  Entregas
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Inspecao/Introducao/" class="md-tabs__link">
+          
+  
+  Inspeção
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Pre-Rastreabilidade/Rich-Picture/" class="md-tabs__link">
+          
+  
+  Pré-Rastreabilidade
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Elicitacao/Perfil-de-Usuario/" class="md-tabs__link">
+          
+  
+  Elicitação
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Modelagem-I/Diagrama/" class="md-tabs__link">
+          
+  
+  Modelagem I
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../NFR-Framework/" class="md-tabs__link">
+          
+  
+  Modelagem II
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Pos-Rastreabilidade/Elos-Forward-From/" class="md-tabs__link">
+          
+  
+  Pós-Rastreabilidade
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Verificacao/planejamento-geral/" class="md-tabs__link">
+          
+  
+  Verificação
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Validacao/Prototipacao/" class="md-tabs__link">
+          
+  
+  Validação
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Final/Execucao/" class="md-tabs__link">
+          
+  
+  Final
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="FGTS" class="md-nav__button md-logo" aria-label="FGTS" data-md-component="logo">
+      
+  <img src="../../assets/logo_fgts.png" alt="logo">
+
+    </a>
+    FGTS
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Requisitos-de-Software/2025.1-FGTS/tree/main" title="Ir para repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2025.1-FGTS
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Atas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Atas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_07_04/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 01 (07/04)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_11_04/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 02 (11/04)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_25_04/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 03 (25/04)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_01_05/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 04 (01/05)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_02_05/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 04.1 (02/05)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_09_05/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 05 (09/05)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_11_05/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 05.1 (11/05)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_16_05/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 06 (16/05)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_23_05/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 07 (23/05)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_04_06/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 08 (04/06)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_06_06/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 08.1 (06/06)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../atas/ata_14_06/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ata 09 (14/06)
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento/Aplicativo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aplicativo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento/Cronograma/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento/Ferramentas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ferramentas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento/Metodologia/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Metodologia
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Planejamento/Plano-de-Reunioes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Plano de Reuniões
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entregas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Entregas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Entregas/Entrega-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Entregas/Entrega-2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Entregas/Entrega-3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Entregas/Entrega-4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Entregas/Entrega-5/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 5
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Entregas/Entrega-6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega 6
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Entregas/Entrega-Final/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrega Final
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Inspeção
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Inspeção
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Inspecao/Introducao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introdução
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_2" id="__nav_5_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 1
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_2">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Inspecao/Entrega-1/Monitora/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Monitora
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Inspecao/Entrega-1/Grupo-menos-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grupo -1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Inspecao/Entrega-1/Grupo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grupo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Inspecao/Entrega-1/Grupo-mais-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grupo +1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_3" id="__nav_5_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 2
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_3">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 2
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Inspecao/Entrega-2/Monitora/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Monitora
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Inspecao/Entrega-2/Grupo-menos-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grupo -1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Inspecao/Entrega-2/Grupo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grupo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Inspecao/Entrega-2/Grupo-mais-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grupo +1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_4" id="__nav_5_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 3
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_4">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 3
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Inspecao/Entrega-3/Monitora/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Monitora
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Inspecao/Entrega-3/Grupo-menos-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grupo -1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Inspecao/Entrega-3/Grupo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grupo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Inspecao/Entrega-3/Grupo-mais-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grupo +1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_5" id="__nav_5_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 4
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_5">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 4
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Inspecao/Entrega-4/Grupo-menos-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grupo -1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Inspecao/Entrega-4/Grupo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grupo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Inspecao/Entrega-4/Grupo-mais-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grupo +1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_6" id="__nav_5_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 5
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_6">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 5
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Inspecao/Entrega-5/Grupo-menos-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grupo -1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Inspecao/Entrega-5/Grupo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grupo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Inspecao/Entrega-5/Grupo-mais-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grupo +1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_5_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_5_7" id="__nav_5_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 6
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5_7">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 6
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Inspecao/Entrega-6/Grupo-menos-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grupo -1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Inspecao/Entrega-6/Grupo/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grupo
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Inspecao/Entrega-6/Grupo-mais-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Grupo +1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Pré-Rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Pré-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Pre-Rastreabilidade/Rich-Picture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rich Picute
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Elicitação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/Perfil-de-Usuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Perfil de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/Definicao-de-Personas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Definição de Personas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_3" id="__nav_7_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Técnicas de Elicitação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_3">
+            <span class="md-nav__icon md-icon"></span>
+            Técnicas de Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Brainstorming
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/Tecnicas-de-Elicitacao/Entrevista/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrevista
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Instrospecção
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/Tecnicas-de-Elicitacao/Observacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Observação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/Tecnicas-de-Elicitacao/Storytelling/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Storytelling
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_7_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_4" id="__nav_7_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Técnicas de Priorização
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_4">
+            <span class="md-nav__icon md-icon"></span>
+            Técnicas de Priorização
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/Tecnicas-de-Priorizacao/First-Things-First/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    First Things First
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/Tecnicas-de-Priorizacao/In-or-Out/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    In or Out
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/Tecnicas-de-Priorizacao/Three-Level-Scale/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Three-Level Scale
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/Tecnicas-de-Priorizacao/100-Test/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    $100 Test
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Elicitacao/Requisitos-elicitados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Requisitos Elicitados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Modelagem I
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            Modelagem I
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Modelagem-I/Diagrama/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Casos de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Modelagem-I/Cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Modelagem-I/Lexicos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Léxicos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Modelagem-I/EspecificacaoSuplementar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Especificação Suplementar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Modelagem-I/RNI/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Requisitos Não Implementados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Modelagem II
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            Modelagem II
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../NFR-Framework/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NFR Framework
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Histórias de Usuário
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Histórias de Usuário
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Metodologia">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#construcao-das-historias-de-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      Construção das Histórias de Usuário
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aplicacao-dos-modelos-ageis" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aplicação dos Modelos Ágeis
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#definicao-dos-criterios-de-aceitacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definição dos Critérios de Aceitação
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#participantes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Participantes
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sumario" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sumário
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historias-de-usuario_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórias de Usuário
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Histórias de Usuário">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#historia-01-acompanhar-situacao-do-saque" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 01 — Acompanhar Situação do Saque
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-02-notificacoes-sobre-andamento" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 02 — Notificações Sobre Andamento
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-03-informar-datas-de-liberacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 03 — Informar Datas de Liberação
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-04-acesso-a-secao-de-ajuda" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 04 — Acesso à Seção de Ajuda
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-05-solicitacao-de-ressarcimento-do-pispasep" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 05 — Solicitação de Ressarcimento do PIS/PASEP
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-06-login-seguro" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 06 — Login Seguro
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-07-assistente-via-chat" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 07 — Assistente via chat
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-08-campo-de-busca" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 08 — Campo de busca
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-09-aba-de-solicitacao-e-acompanhamento-de-saques" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 09 — Aba de solicitação e acompanhamento de saques
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-10-aba-de-informacoes-adicionais" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 10 — Aba de informações adicionais
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-11-resumo-dos-tipos-de-saque" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 11 — Resumo dos tipos de saque
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-12-disponibilidade-de-saque-rescisao" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 12 — Disponibilidade de Saque-Rescisão
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-13-ver-informacoes-sobre-saques-bloqueados" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 13 — Ver Informações Sobre Saques Bloqueados
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-14-cadastro-de-multiplas-contas-bancarias" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 14 — Cadastro de Múltiplas Contas Bancárias
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-15-consulta-ao-saldo-do-fgts" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 15 — Consulta ao Saldo do FGTS
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-16-atualizacao-de-dados-pessoais" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 16 — Atualização de Dados Pessoais
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-17-disponibilizar-saque-aniversario" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 17 — Disponibilizar Saque-Aniversário
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-18-comentarios-sobre-status-do-saque" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 18 — Comentários sobre Status do Saque
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-19-canal-de-suportechatbot" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 19 — Canal de Suporte/Chatbot
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-20-ajuste-de-tamanho-de-fonte" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 20 — Ajuste de Tamanho de Fonte
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-21-notificacoes-de-status-e-saques" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 21 — Notificações de Status e Saques
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-22-solicitacao-de-saques" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 22 — Solicitação de Saques
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-23-visualizacao-de-dados-bancarios" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 23 — Visualização de Dados Bancários
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-24-agendamento-de-saque-futuro" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 24 — Agendamento de Saque Futuro
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-25-visualizacao-do-historico-de-movimentacoes-financeiras" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 25 — Visualização do histórico de movimentações financeiras
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-26-filtrar-extrato-por-data" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 26 — Filtrar extrato por data
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-27-visualizar-empregadores-anteriores-com-botao-para-consultar-contas-vinculadas" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 27 — Visualizar empregadores anteriores com botão para consultar contas vinculadas
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-28-visualizar-nome-completo-dos-empregadores-anteriores" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 28 — Visualizar nome completo dos empregadores anteriores
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-29-visualizar-historico-de-saques-realizados" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 29 — Visualizar histórico de saques realizados
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-30-enviar-documentos-digitalizados-para-comprovacao-de-saque" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 30 — Enviar Documentos Digitalizados para Comprovação de Saque
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-31-cancelamento-de-saque" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 31 — Cancelamento de Saque
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-32-filtro-por-tipo-de-saque" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 32 — Filtro por Tipo de Saque
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-33-interface-de-login-simples" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 33 — Interface de Login Simples
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-34-escolha-da-sistematica-de-saque" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 34 — Escolha da Sistemática de Saque
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-35-disponibilizacao-de-termo-de-adesao" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 35 — Disponibilização de Termo de Adesão
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-36-notificacao-de-recebimento-do-saque" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 36 — Notificação de Recebimento do Saque
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-37-consulta-de-dados-pessoais" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 37 — Consulta de dados pessoais
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-38-consultar-saldo" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 38 — Consultar saldo
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-39-exibir-extrato-para-o-empregador" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 39 — Exibir extrato para o empregador
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-40-permitir-o-cadastro-de-conta-bancaria" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 40 — Permitir o cadastro de conta bancária
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-41-secao-de-ajuda-com-orientacoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 41 — Seção de ajuda com orientações
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-42-guia-interativo-para-orientacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 42 — Guia interativo para orientação
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#validacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Validação
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias-bibliograficas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Referências Bibliográficas
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórico de Versão
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Product-Backlog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Product Backlog
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_10" >
+        
+          
+          <label class="md-nav__link" for="__nav_10" id="__nav_10_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Pós-Rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10">
+            <span class="md-nav__icon md-icon"></span>
+            Pós-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Pos-Rastreabilidade/Elos-Forward-From/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Elos Forward-From
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Pos-Rastreabilidade/Elos-Backward-From/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Elos Backward-From
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Pos-Rastreabilidade/Matriz-de-Rastreabilidade/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Matriz de Rastreabilidade
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_11" >
+        
+          
+          <label class="md-nav__link" for="__nav_11" id="__nav_11_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Verificação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_11_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/planejamento-geral/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento Geral
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_11_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_11_2" id="__nav_11_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Grupo
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_11_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11_2">
+            <span class="md-nav__icon md-icon"></span>
+            Grupo
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_11_2_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_11_2_1" id="__nav_11_2_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 1
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_11_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/Grupo/Entrega-1/planejamento-de-verificacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento de Verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/Grupo/Entrega-1/verificacao-rich-picture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rich Picture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_11_2_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_11_2_2" id="__nav_11_2_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 2
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_11_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 2
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/Grupo/Entrega-2/planejamento-de-verificacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento de Verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/Grupo/Entrega-2/verificacao-perfil-de-usuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Perfil de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/Grupo/Entrega-2/verificacao-personas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Personas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/Grupo/Entrega-2/verificacao-brainstorming/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Brainstorming
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/Grupo/Entrega-2/verificacao-introspeccao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introspecção
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/Grupo/Entrega-2/verificacao-entrevista/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrevista
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/Grupo/Entrega-2/verificacao-observacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Observação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/Grupo/Entrega-2/verificacao-storytelling/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Storytelling
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/Grupo/Entrega-2/verificacao-first-things-first/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    First Things First
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/Grupo/Entrega-2/verificacao-in-or-out/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    In or Out
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/Grupo/Entrega-2/verificacao-three-level-scale/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Three-Level Scale
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/Grupo/Entrega-2/verificacao-100-test/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    $100 Test
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_11_2_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_11_2_3" id="__nav_11_2_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 3
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_11_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 3
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/Grupo/Entrega-3/planejamento-de-verificacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento de Verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/Grupo/Entrega-3/verificacao-casos-de-uso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Casos de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/Grupo/Entrega-3/verificacao-cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/Grupo/Entrega-3/verificacao-lexicos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Léxicos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/Grupo/Entrega-3/verificacao-especificacao-suplementar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Especificação Suplementar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_11_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_11_2_4" id="__nav_11_2_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Entrega 4
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_11_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            Entrega 4
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/Grupo/Entrega-4/planejamento-de-verificacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento de Verificação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/Grupo/Entrega-4/verificacao-nfr-framework/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NFR Framework
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/Grupo/Entrega-4/verificacao-backlog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backlog
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Verificacao/Grupo/Entrega-4/verificacao-historias-de-usuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Histórias de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_12" >
+        
+          
+          <label class="md-nav__link" for="__nav_12" id="__nav_12_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Validação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_12_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_12">
+            <span class="md-nav__icon md-icon"></span>
+            Validação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Validacao/Prototipacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Prototipação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Validacao/Comprovacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Comprovação Informal
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_13" >
+        
+          
+          <label class="md-nav__link" for="__nav_13" id="__nav_13_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Final
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_13_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_13">
+            <span class="md-nav__icon md-icon"></span>
+            Final
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Final/Execucao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Execução do Projeto
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Final/Resultados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Resultados Obtidos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Final/Ferramentas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ferramentas Utilizadas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Final/Tecnicas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tecnicas Utilizadas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Final/Artefatos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Artefatos Criados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Final/Tab_Ver_Val/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Tabela Verificação/Validação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Final/Videos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Vídeos do Projeto
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Final/Consideracoes/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Considerações Finais
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Metodologia">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#construcao-das-historias-de-usuario" class="md-nav__link">
+    <span class="md-ellipsis">
+      Construção das Histórias de Usuário
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aplicacao-dos-modelos-ageis" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aplicação dos Modelos Ágeis
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#definicao-dos-criterios-de-aceitacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Definição dos Critérios de Aceitação
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#participantes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Participantes
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sumario" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sumário
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historias-de-usuario_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórias de Usuário
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Histórias de Usuário">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#historia-01-acompanhar-situacao-do-saque" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 01 — Acompanhar Situação do Saque
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-02-notificacoes-sobre-andamento" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 02 — Notificações Sobre Andamento
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-03-informar-datas-de-liberacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 03 — Informar Datas de Liberação
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-04-acesso-a-secao-de-ajuda" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 04 — Acesso à Seção de Ajuda
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-05-solicitacao-de-ressarcimento-do-pispasep" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 05 — Solicitação de Ressarcimento do PIS/PASEP
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-06-login-seguro" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 06 — Login Seguro
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-07-assistente-via-chat" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 07 — Assistente via chat
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-08-campo-de-busca" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 08 — Campo de busca
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-09-aba-de-solicitacao-e-acompanhamento-de-saques" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 09 — Aba de solicitação e acompanhamento de saques
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-10-aba-de-informacoes-adicionais" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 10 — Aba de informações adicionais
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-11-resumo-dos-tipos-de-saque" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 11 — Resumo dos tipos de saque
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-12-disponibilidade-de-saque-rescisao" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 12 — Disponibilidade de Saque-Rescisão
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-13-ver-informacoes-sobre-saques-bloqueados" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 13 — Ver Informações Sobre Saques Bloqueados
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-14-cadastro-de-multiplas-contas-bancarias" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 14 — Cadastro de Múltiplas Contas Bancárias
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-15-consulta-ao-saldo-do-fgts" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 15 — Consulta ao Saldo do FGTS
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-16-atualizacao-de-dados-pessoais" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 16 — Atualização de Dados Pessoais
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-17-disponibilizar-saque-aniversario" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 17 — Disponibilizar Saque-Aniversário
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-18-comentarios-sobre-status-do-saque" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 18 — Comentários sobre Status do Saque
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-19-canal-de-suportechatbot" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 19 — Canal de Suporte/Chatbot
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-20-ajuste-de-tamanho-de-fonte" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 20 — Ajuste de Tamanho de Fonte
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-21-notificacoes-de-status-e-saques" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 21 — Notificações de Status e Saques
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-22-solicitacao-de-saques" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 22 — Solicitação de Saques
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-23-visualizacao-de-dados-bancarios" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 23 — Visualização de Dados Bancários
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-24-agendamento-de-saque-futuro" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 24 — Agendamento de Saque Futuro
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-25-visualizacao-do-historico-de-movimentacoes-financeiras" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 25 — Visualização do histórico de movimentações financeiras
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-26-filtrar-extrato-por-data" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 26 — Filtrar extrato por data
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-27-visualizar-empregadores-anteriores-com-botao-para-consultar-contas-vinculadas" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 27 — Visualizar empregadores anteriores com botão para consultar contas vinculadas
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-28-visualizar-nome-completo-dos-empregadores-anteriores" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 28 — Visualizar nome completo dos empregadores anteriores
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-29-visualizar-historico-de-saques-realizados" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 29 — Visualizar histórico de saques realizados
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-30-enviar-documentos-digitalizados-para-comprovacao-de-saque" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 30 — Enviar Documentos Digitalizados para Comprovação de Saque
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-31-cancelamento-de-saque" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 31 — Cancelamento de Saque
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-32-filtro-por-tipo-de-saque" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 32 — Filtro por Tipo de Saque
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-33-interface-de-login-simples" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 33 — Interface de Login Simples
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-34-escolha-da-sistematica-de-saque" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 34 — Escolha da Sistemática de Saque
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-35-disponibilizacao-de-termo-de-adesao" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 35 — Disponibilização de Termo de Adesão
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-36-notificacao-de-recebimento-do-saque" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 36 — Notificação de Recebimento do Saque
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-37-consulta-de-dados-pessoais" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 37 — Consulta de dados pessoais
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-38-consultar-saldo" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 38 — Consultar saldo
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-39-exibir-extrato-para-o-empregador" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 39 — Exibir extrato para o empregador
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-40-permitir-o-cadastro-de-conta-bancaria" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 40 — Permitir o cadastro de conta bancária
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-41-secao-de-ajuda-com-orientacoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 41 — Seção de ajuda com orientações
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#historia-42-guia-interativo-para-orientacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      História 42 — Guia interativo para orientação
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#validacao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Validação
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias-bibliograficas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Referências Bibliográficas
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórico de Versão
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="historias-de-usuario">Histórias de Usuário</h1>
+<h2 id="introducao">Introdução</h2>
+<p>O presente documento tem como objetivo apresentar as histórias de usuário elaboradas para o desenvolvimento de um aplicativo voltado à gestão e ao acompanhamento de serviços relacionados ao Fundo de Garantia do Tempo de Serviço (FGTS).</p>
+<p>As histórias de usuário são uma técnica fundamental na Engenharia de Requisitos Ágil, utilizadas para representar funcionalidades, resultados ou características desejadas no software. Elas são criadas a partir da escuta ativa das necessidades dos usuários e servem como guia para o desenvolvimento. Cada história recebe uma prioridade com base no seu valor de negócio, facilitando o planejamento incremental do sistema <a id="REF1">1</a>.</p>
+<p>Cada história de usuário é construída de forma a responder três perguntas essenciais:  </p>
+<ul>
+<li>
+<p><strong>Quem?</strong> — Quem é o usuário ou persona envolvida na interação.  </p>
+</li>
+<li>
+<p><strong>O que?</strong> — Qual é a ação, necessidade ou funcionalidade desejada.  </p>
+</li>
+<li>
+<p><strong>Por que?</strong> — Qual é o valor, objetivo ou benefício buscado por meio daquela ação.</p>
+</li>
+</ul>
+<h2 id="metodologia">Metodologia</h2>
+<p>A elaboração das histórias de usuário deste projeto seguiu uma abordagem centrada no usuário, fundamentada em princípios da Engenharia de Requisitos Ágil e do Design Centrado no Usuário (DCU) <a href="#REF2">2</a>. Esta metodologia garantiu que as histórias de usuário fossem elaboradas de forma realista, testável e completamente alinhada às necessidades das personas, criando uma base sólida para o desenvolvimento do aplicativo FGTS.</p>
+<h3 id="construcao-das-historias-de-usuario">Construção das Histórias de Usuário</h3>
+<p>As histórias de usuário foram escritas seguindo o modelo clássico:</p>
+<blockquote>
+<p><strong>Como [usuário], quero [ação], para [atingir um objetivo].</strong></p>
+</blockquote>
+<p>Essa estrutura ajuda a garantir que cada história represente uma necessidade real do usuário, deixando claro o objetivo e o valor gerado pela funcionalidade.</p>
+<h3 id="aplicacao-dos-modelos-ageis">Aplicação dos Modelos Ágeis</h3>
+<p>Todas as histórias de usuário foram estruturadas e avaliadas com base em dois modelos amplamente reconhecidos no contexto do desenvolvimento ágil:  <strong>INVEST</strong> e <strong>3C’s</strong>.</p>
+<p><strong>INVEST <a href="#anchor_3">3</a>:</strong> Esse modelo estabelece seis critérios fundamentais que garantem a qualidade e a eficácia de uma história de usuário:</p>
+<ul>
+<li>
+<p><strong>I — Independente:</strong> A história não deve depender de outras para ser desenvolvida, implementada ou testada.</p>
+</li>
+<li>
+<p><strong>N — Negociável:</strong> As histórias são flexíveis e abertas a discussões, podendo ser refinadas durante as interações entre a equipe e os stakeholders.</p>
+</li>
+<li>
+<p><strong>V — Valiosa:</strong> A história deve gerar valor perceptível e concreto para o usuário final ou para o negócio.</p>
+</li>
+<li>
+<p><strong>E — Estimável:</strong> A história deve ser suficientemente clara e bem definida para permitir a estimativa do esforço necessário para sua implementação.</p>
+</li>
+<li>
+<p><strong>S — Sucinta (Small):</strong> A história deve ter um tamanho adequado, podendo ser desenvolvida dentro de um ciclo ágil (sprint), evitando ser muito grande ou complexa.</p>
+</li>
+<li>
+<p><strong>T — Testável:</strong> Deve possuir critérios de aceitação claros e objetivos, que permitam verificar se a funcionalidade atende às necessidades da persona e aos requisitos definidos.  </p>
+</li>
+</ul>
+<p><strong>3C’s <a href="#anchor_4">4</a>:</strong> Complementando o modelo INVEST, os 3C’s enfatizam três elementos centrais para a formulação e validação de uma história de usuário eficaz:</p>
+<ul>
+<li>
+<p><strong>Card (Cartão):</strong> Representa a história em si, seja em um post-it físico ou em um quadro digital, funcionando como um lembrete do que precisa ser desenvolvido.</p>
+</li>
+<li>
+<p><strong>Conversation (Conversa):</strong> Refere-se às discussões colaborativas entre equipe de desenvolvimento, Product Owner e stakeholders, nas quais são esclarecidos os detalhes, as dúvidas e as regras de negócio associadas à história.</p>
+</li>
+<li>
+<p><strong>Confirmation (Confirmação):</strong> Corresponde aos critérios de aceitação formalmente definidos, que validam que a história foi corretamente implementada, atendendo às expectativas e às necessidades do usuário.</p>
+</li>
+</ul>
+<h3 id="definicao-dos-criterios-de-aceitacao">Definição dos Critérios de Aceitação</h3>
+<p>Para cada história de usuário, foram estabelecidos critérios de aceitação claros, objetivos e verificáveis. Esses critérios funcionam como referência para confirmar se a funcionalidade entregue atende aos requisitos previamente acordados e, sobretudo, às expectativas do usuário.</p>
+<h3 id="participantes">Participantes</h3>
+<p><font size="3"><p style="text-align: center">Tabela 1: Participantes</p></font></p>
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">Nome</th>
+      <th align="center">Histórias</th>
+      <th align="center">Data</th>
+      <th align="center">Hora</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+      <td align="center">13 até 18</td>
+      <td align="center">30/05/2025</td>
+      <td align="center">00:05</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+      <td align="center">37 até 42</td>
+      <td align="center">30/05/2025</td>
+      <td align="center">13:35</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+      <td align="center">01 até 06</td>
+      <td align="center">27/05/2025</td>
+      <td align="center">23:17</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></td>
+      <td align="center">25 até 30</td>
+      <td align="center">30/05/2025</td>
+      <td align="center">07:22</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+      <td align="center">07 até 12</td>
+      <td align="center">28/05/2025</td>
+      <td align="center">21:50</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
+      <td align="center">19 até 24</td>
+      <td align="center">30/05/2025</td>
+      <td align="center">00:30</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
+      <td align="center">31 até 36</td>
+      <td align="center">30/05/2025</td>
+      <td align="center">13:50</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/EnzoEmir">Enzo Emir</a></p>
+
+<h2 id="sumario">Sumário</h2>
+<ul>
+<li><a href="#h01">H01 – Acompanhar Situação do Saque (RF08)</a></li>
+<li><a href="#h02">H02 – Notificações Sobre Andamento (RF38)</a></li>
+<li><a href="#h03">H03 – Informar Datas de Liberação (RF01)</a></li>
+<li><a href="#h04">H04 – Acesso à Seção de Ajuda (RF17)</a></li>
+<li><a href="#h05">H05 – Solicitação de Ressarcimento do PIS/PASEP (RF19)</a></li>
+<li><a href="#h06">H06 – Login Seguro (RF20)</a></li>
+<li><a href="#h07">H07 – Assistente Via Chat (RF15)</a></li>
+<li><a href="#h08">H08 – Campo de Busca (RF16)</a></li>
+<li><a href="#h09">H09 – Aba de Solicitação e Acompanhamento de Saques (RF24)</a></li>
+<li><a href="#h10">H10 – Aba de Informações Adicionais (RF25)</a></li>
+<li><a href="#h11">H11 – Resumo dos Tipos de Saque (RF26)</a></li>
+<li><a href="#h12">H12 – Disponibilidade de Saque-Rescisão (RF36)</a></li>
+<li><a href="#h13">H13 – Ver Informações Sobre Saques Bloqueados (RF11)</a></li>
+<li><a href="#h14">H14 – Cadastro de Múltiplas Contas Bancárias (RF35)</a></li>
+<li><a href="#h15">H15 – Consulta ao Saldo do FGTS (RF03)</a></li>
+<li><a href="#h16">H16 – Atualização de Dados Pessoais (RF05)</a></li>
+<li><a href="#h17">H17 – Disponibilizar Saque-Aniversário (RF04)</a></li>
+<li><a href="#h18">H18 – Comentários sobre Status do Saque (RF39)</a></li>
+<li><a href="#h19">H19 – Canal de Suporte/Chatbot (RF02)</a></li>
+<li><a href="#h20">H20 – Ajuste de Tamanho de Fonte (RF30)</a></li>
+<li><a href="#h21">H21 – Notificações de Status e Saques (RF27)</a></li>
+<li><a href="#h22">H22 – Solicitação de Saques (RF28)</a></li>
+<li><a href="#h23">H23 – Visualização de Dados Bancários (RF31)</a></li>
+<li><a href="#h24">H24 – Agendamento de Saque Futuro (RF42)</a></li>
+<li><a href="#h25">H25 – Visualização do Histórico de Movimentações Financeiras (RF12)</a></li>
+<li><a href="#h26">H26 – Filtrar Extrato por Data (RF13)</a></li>
+<li><a href="#h27">H27 – Visualizar Empregadores Anteriores com Botão para Consultar Contas Vinculadas (RF21)</a></li>
+<li><a href="#h28">H28 – Visualizar Nome Completo dos Empregadores Anteriores (RF22)</a></li>
+<li><a href="#h29">H29 – Visualizar Histórico de Saques Realizados (RF23)</a></li>
+<li><a href="#h30">H30 – Enviar Documentos Digitalizados para Comprovação de Saque (RF41)</a></li>
+<li><a href="#h31">H31 – Cancelamento de Saque (RF09)</a></li>
+<li><a href="#h32">H32 – Filtro por Tipo de Saque (RF10)</a></li>
+<li><a href="#h33">H33 – Interface de Login Simples (RF32)</a></li>
+<li><a href="#h34">H34 — Escolha da Sistemática de Saque (RF33)</a></li>
+<li><a href="#h35">H35 – Disponibilização de Termo de Adesão (RF34)</a></li>
+<li><a href="#h36">H36 – Notificação de Recebimento do Saque (RF40)</a></li>
+<li><a href="#h37">H37 – Consulta de Dados Pessoais (RF06)</a></li>
+<li><a href="#h38">H38 – Consultar Saldo (RF37)</a></li>
+<li><a href="#h39">H39 – Exibir Extrato para o Empregador (RF07)</a></li>
+<li><a href="#h40">H40 – Permitir o Cadastro de Conta Bancária (RF14)</a></li>
+<li><a href="#h41">H41 – Seção de Ajuda com Orientações (RF18)</a></li>
+<li><a href="#h42">H42 – Guia Interativo para Orientação (RF29)</a></li>
+</ul>
+<hr />
+<h2 id="historias-de-usuario_1">Histórias de Usuário</h2>
+<p>A tabela <a href="#tabela-modelo">2</a> será utilizada como modelo para a elaboração das histórias de usuário do projeto. Ela padroniza os principais elementos necessários, como a descrição da necessidade, critérios de aceitação, prioridade, status de validação, entre outros. O objetivo é garantir consistência, rastreabilidade e clareza em todas as histórias documentadas.</p>
+<p align="center">Tabela 2: <i>Modelo para História de Usuário.</i></p>
+<p><a name="tabela-modelo"></a></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>USx</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td>Código do requisito</td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Título</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>[tipo de usuário]</em>, desejo <em>[ação desejada]</em> para <em>[objetivo]</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- [Critério 1] <br> - [Critério 2]</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta, Média, Baixa</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Se a história foi validada ou não pelo usuário</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/danielle-soaress">Danielle Soares</a></p>
+
+<h3 id="historia-01-acompanhar-situacao-do-saque"><a name="h01"></a> História 01 — Acompanhar Situação do Saque</h3>
+<p><font size="3"><p style="text-align: center">Tabela 3: História de acompanhamento de situação do saque</p></font></p>
+<table>
+<thead>
+<tr>
+<th><strong>Item</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>ID</strong></td>
+<td>US01</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF08</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS05</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN02</a>)</td>
+</tr>
+<tr>
+<td><strong>Tema</strong></td>
+<td>Acompanhar Situação do Saque</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Eu, como técnica de enfermagem, desejo acompanhar a situação do meu saque do FGTS para saber se está aprovado, em análise ou concluído, sem ir à agência.</td>
+</tr>
+<tr>
+<td><strong>Critérios de Aceitação</strong></td>
+<td>- Status exibido claramente (Ex.: “Aguardando análise”, “Aprovado”)  <br> - Mostra possíveis pendências ou exigências  <br> - Atualização automática do status</td>
+</tr>
+<tr>
+<td><strong>Prioridade Usuário</strong></td>
+<td>Alta</td>
+</tr>
+<tr>
+<td><strong>Status</strong></td>
+<td>Validado pelo usuário.</td>
+</tr>
+</tbody>
+</table>
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/EnzoEmir">Enzo Emir</a></p></font></p>
+<h3 id="historia-02-notificacoes-sobre-andamento"><a name="h02"></a> História 02 — Notificações Sobre Andamento</h3>
+<p><font size="3"><p style="text-align: center">Tabela 4: História de notificações sobre andamento</p></font></p>
+<table>
+<thead>
+<tr>
+<th><strong>Item</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>ID</strong></td>
+<td>US02</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF38</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS05</a>)</td>
+</tr>
+<tr>
+<td><strong>Tema</strong></td>
+<td>Notificações Sobre Andamento</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Eu, como comerciante, desejo receber notificações sobre o andamento do meu saque do FGTS para ser informada de atualizações sem precisar abrir o app constantemente.</td>
+</tr>
+<tr>
+<td><strong>Critérios de Aceitação</strong></td>
+<td>- Notificações push quando houver mudança no status  <br> - Mensagens objetivas (Ex.: “Seu saque foi liberado”)  <br> - Opção de ativar/desativar notificações</td>
+</tr>
+<tr>
+<td><strong>Prioridade Usuário</strong></td>
+<td>Alta</td>
+</tr>
+<tr>
+<td><strong>Status</strong></td>
+<td>Validado pelo usuário.</td>
+</tr>
+</tbody>
+</table>
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/EnzoEmir">Enzo Emir</a></p></font></p>
+<h3 id="historia-03-informar-datas-de-liberacao"><a name="h03"></a> História 03 — Informar Datas de Liberação</h3>
+<p><font size="3"><p style="text-align: center">Tabela 5: História de informar de datas de liberação</p></font></p>
+<table>
+<thead>
+<tr>
+<th><strong>Item</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>ID</strong></td>
+<td>US03</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF01</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN03</a>)</td>
+</tr>
+<tr>
+<td><strong>Tema</strong></td>
+<td>Informar Datas de Liberação</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Eu, como aposentado, desejo ver as datas previstas para liberação dos valores do FGTS para me organizar financeiramente e pedir ajuda aos filhos, se necessário.</td>
+</tr>
+<tr>
+<td><strong>Critérios de Aceitação</strong></td>
+<td>- Exibição da data estimada de liberação  <br> - Alerta caso a data seja alterada  <br> - Informação clara caso a data não esteja definida</td>
+</tr>
+<tr>
+<td><strong>Prioridade Usuário</strong></td>
+<td>Alta</td>
+</tr>
+<tr>
+<td><strong>Status</strong></td>
+<td>Validado pelo usuário.</td>
+</tr>
+</tbody>
+</table>
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/EnzoEmir">Enzo Emir</a></p></font></p>
+<h3 id="historia-04-acesso-a-secao-de-ajuda"><a name="h04"></a> História 04 — Acesso à Seção de Ajuda</h3>
+<p><font size="3"><p style="text-align: center">Tabela 6: História de acesso à seção de ajuda</p></font></p>
+<table>
+<thead>
+<tr>
+<th><strong>Item</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>ID</strong></td>
+<td>US04</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF17</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS15</a>)</td>
+</tr>
+<tr>
+<td><strong>Tema</strong></td>
+<td>Acesso à Seção de Ajuda</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Eu, como técnica de enfermagem, desejo acessar uma seção de ajuda com orientações sobre FGTS e PIS/PASEP para esclarecer dúvidas rapidamente, sem precisar de atendimento presencial.</td>
+</tr>
+<tr>
+<td><strong>Critérios de Aceitação</strong></td>
+<td>- FAQ com respostas claras  <br> - Explicações sobre regras de saque, prazos e documentação  <br> - Opção de contato com suporte</td>
+</tr>
+<tr>
+<td><strong>Prioridade Usuário</strong></td>
+<td>Média</td>
+</tr>
+<tr>
+<td><strong>Status</strong></td>
+<td>Validado pelo usuário.</td>
+</tr>
+</tbody>
+</table>
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/EnzoEmir">Enzo Emir</a></p></font></p>
+<h3 id="historia-05-solicitacao-de-ressarcimento-do-pispasep"><a name="h05"></a> História 05 — Solicitação de Ressarcimento do PIS/PASEP</h3>
+<p><font size="3"><p style="text-align: center">Tabela 7: História de solicitação de ressarcimento do PIS/PASEP</p></font></p>
+<table>
+<thead>
+<tr>
+<th><strong>Item</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>ID</strong></td>
+<td>US05</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF19</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS17</a>)</td>
+</tr>
+<tr>
+<td><strong>Tema</strong></td>
+<td>Solicitação de Ressarcimento do PIS/PASEP</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Eu, como jovem tecnólogo, desejo solicitar o ressarcimento de valores do PIS/PASEP pelo app para evitar filas, economizar tempo e resolver tudo digitalmente.</td>
+</tr>
+<tr>
+<td><strong>Critérios de Aceitação</strong></td>
+<td>- Formulário simples, com upload de documentos  <br> - Confirmação do envio  <br> - Acompanhamento do andamento no app</td>
+</tr>
+<tr>
+<td><strong>Prioridade Usuário</strong></td>
+<td>Alta</td>
+</tr>
+<tr>
+<td><strong>Status</strong></td>
+<td>Validado pelo usuário.</td>
+</tr>
+</tbody>
+</table>
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/EnzoEmir">Enzo Emir</a></p></font></p>
+<h3 id="historia-06-login-seguro"><a name="h06"></a> História 06 — Login Seguro</h3>
+<p><font size="3"><p style="text-align: center">Tabela 8: História de login seguro</p></font></p>
+<table>
+<thead>
+<tr>
+<th><strong>Item</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>ID</strong></td>
+<td>US06</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF20</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB01</a>)</td>
+</tr>
+<tr>
+<td><strong>Tema</strong></td>
+<td>Login Seguro</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td>Eu, como usuária com pouca autonomia digital (ou comerciante ocupada), desejo fazer login de forma segura no app para proteger meus dados, sem complicações ou esquecimento de senha.</td>
+</tr>
+<tr>
+<td><strong>Critérios de Aceitação</strong></td>
+<td>- Login com biometria, senha ou autenticação de dois fatores (2FA)  <br> - Mensagens claras em caso de erro  <br> - Opção de lembrar acesso ou recuperar senha</td>
+</tr>
+<tr>
+<td><strong>Prioridade Usuário</strong></td>
+<td>Alta</td>
+</tr>
+<tr>
+<td><strong>Status</strong></td>
+<td>Validado pelo usuário.</td>
+</tr>
+</tbody>
+</table>
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/EnzoEmir">Enzo Emir</a></p></font></p>
+<h3 id="historia-07-assistente-via-chat"><a name="h07"></a> História 07 — Assistente via chat</h3>
+<p><font size="3"><p style="text-align: center">Tabela 9: História de assistente via chat</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US07</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF15</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS13</a>)</td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Atendimento via chat</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como aposentado com baixa autonomia digital, desejo que minha filha possa usar um chat no app para tirar dúvidas e resolver problemas, para que não precisemos ir até a agência.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O botão de acesso ao chat deve estar visível e acessível na tela principal. <br> - O chat deve aceitar linguagem natural e ter respostas claras, com possibilidade de atendimento humano. <br> - O histórico das conversas deve ficar salvo para consultas futuras.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/MM4k">Marcelo Makoto</a></p></font></p>
+<h3 id="historia-08-campo-de-busca"><a name="h08"></a> História 08 — Campo de busca</h3>
+<p><font size="3"><p style="text-align: center">Tabela 10: História de campo de busca</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US08</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF16</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais">IS14</a>)</td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Campo de busca</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuário avançado que domina tecnologia, desejo buscar rapidamente funcionalidades como extrato ou saque, para navegar de forma mais eficiente no aplicativo.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- Campo de busca disponível no topo da tela ou menu. <br> - Resultados sugeridos enquanto o usuário digita. <br> - Funcionalidade acessível com poucas interações.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/MM4k">Marcelo Makoto</a></p></font></p>
+<h3 id="historia-09-aba-de-solicitacao-e-acompanhamento-de-saques"><a name="h09"></a> História 09 — Aba de solicitação e acompanhamento de saques</h3>
+<p><font size="3"><p style="text-align: center">Tabela 11: História de aba de solicitação e acompanhamento de saques</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US09</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF24</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-funcionais">OB07</a>)</td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Aba de solicitação e acompanhamento de saques</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como técnica de enfermagem que busca praticidade, desejo acessar uma aba exclusiva para solicitação e acompanhamento de saques, para saber se o dinheiro foi liberado sem complicação.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- Aba visível com ícone descritivo (ex.: “Saques”). <br> - Exibe etapas do processo: solicitado, em análise, aprovado, concluído. <br> - Possibilidade de iniciar um novo pedido de saque.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/MM4k">Marcelo Makoto</a></p></font></p>
+<h3 id="historia-10-aba-de-informacoes-adicionais"><a name="h10"></a> História 10 — Aba de informações adicionais</h3>
+<p><font size="3"><p style="text-align: center">Tabela 12: História de aba de informações adicionais</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US10</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF25</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#requisitos-funcionais">OB09</a>)</td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Aba de informações adicionais</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como comerciante que evita processos longos, desejo acessar uma aba com informações como PIS/PASEP, sistemática de saque e ajuda, para entender melhor meus direitos sem perder tempo.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- Aba identificada com título e ícone compreensíveis (ex.: “Mais opções”). <br> - Itens organizados por categorias. <br> - Explicações em formato visual e direto.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/MM4k">Marcelo Makoto</a></p></font></p>
+<h3 id="historia-11-resumo-dos-tipos-de-saque"><a name="h11"></a> História 11 — Resumo dos tipos de saque</h3>
+<p><font size="3"><p style="text-align: center">Tabela 13: História de resumo dos tipos de saque</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US11</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF26</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST02</a>)</td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Resumo dos tipos de saque</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuário que controla ativamente suas finanças, desejo visualizar um resumo dos tipos de saque disponíveis, para escolher a melhor opção para meu perfil.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- Cards ou tabelas explicando os tipos (aniversário, rescisão, calamidade etc.). <br> - Destaque para prazos, regras e vantagens de cada tipo. <br> - Link direto para alterar a sistemática de saque.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/MM4k">Marcelo Makoto</a></p></font></p>
+<h3 id="historia-12-disponibilidade-de-saque-rescisao"><a name="h12"></a> História 12 — Disponibilidade de Saque-Rescisão</h3>
+<p><font size="3"><p style="text-align: center">Tabela 14: História de disponibilidade de saque-rescisão</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US12</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF36</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST013, ST014</a>)</td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Disponibilidade de Saque-rescisão</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuária que busca agilidade em momentos de desligamento, desejo poder solicitar o saque do FGTS na modalidade Saque-rescisão, para ter acesso rápido ao valor após a demissão.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- A opção de Saque-rescisão deve estar disponível na aba de saques. <br> - O sistema deve verificar automaticamente se o usuário tem direito ao saque. <br> - O app deve exibir prazos, valores e instruções de forma clara.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/MM4k">Marcelo Makoto</a></p></font></p>
+<h3 id="historia-13-ver-informacoes-sobre-saques-bloqueados"><a name="h13"></a> História 13 — Ver Informações Sobre Saques Bloqueados</h3>
+<p><font size="3"><p style="text-align: center">Tabela 15: História de bloqueio de saque</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US13</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF11</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS08</a>)</td>
+    <tr>
+      <td>Tema</td>
+      <td>Ver Informações Sobre Saques Bloqueados</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>visualizar informações sobre meus saques bloqueados e os respectivos motivos do bloqueio</em> para <em> entender minha situação e buscar a regularização, se possível.</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve exibir uma lista clara dos saques que estão bloqueados. <br> - Para cada saque bloqueado, o sistema deve apresentar o motivo específico do bloqueio.<br> - O usuário deve conseguir acessar essa informação de forma intuitiva dentro do aplicativo. </td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/danielle-soaress">Danielle Soares</a></p></font></p>
+<h3 id="historia-14-cadastro-de-multiplas-contas-bancarias"><a name="h14"></a> História 14 — Cadastro de Múltiplas Contas Bancárias</h3>
+<p><font size="3"><p style="text-align: center">Tabela 16: História de cadastro de contas bancárias</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US14</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF35</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS12</a>)</td>
+    <tr>
+      <td>Tema</td>
+      <td>Cadastro de Múltiplas Contas Bancárias</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>cadastrar mais de uma conta bancária de diferentes instituições financeiras</em> para <em>ter flexibilidade na hora de receber meus saques e benefícios.</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve permitir a adição de novas contas bancárias. <br> - O usuário deve conseguir cadastrar contas de diferentes instituições financeiras. <br> - O sistema deve validar os dados da conta bancária no momento do cadastro. <br> - O usuário deve poder visualizar e gerenciar todas as contas cadastradas.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/danielle-soaress">Danielle Soares</a></p></font></p>
+<h3 id="historia-15-consulta-ao-saldo-do-fgts"><a name="h15"></a> História 15 —  Consulta ao Saldo do FGTS</h3>
+<p><font size="3"><p style="text-align: center">Tabela 17: História de consulta ao saldo do FGTS</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US15</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF03</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN05</a>)</td>
+    <tr>
+      <td>Tema</td>
+      <td>Consulta ao Saldo do FGTS</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>consultar o saldo da minha conta vinculada do FGTS</em> para <em>acompanhar minhas economias e planejar meus próximos passos.</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve exibir o saldo atualizado da conta vinculada do FGTS. <br> - O saldo deve ser apresentado de forma clara e visível na tela principal ou em seção dedicada. <br> - O usuário deve conseguir acessar essa informação de forma rápida e segura.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/danielle-soaress">Danielle Soares</a></p></font></p>
+<h3 id="historia-16-atualizacao-de-dados-pessoais"><a name="h16"></a> História 16 — Atualização de Dados Pessoais</h3>
+<p><font size="3"><p style="text-align: center">Tabela 18: História de atualização de dados pessoais</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US16</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF05</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS01</a>)</td>
+    <tr>
+      <td>Tema</td>
+      <td>Atualização de Dados Pessoais</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>usuário do aplicativo FGTS</em>, desejo <em>atualizar meus dados pessoais</em> para <em>manter minhas informações corretas e atualizadas no sistema.</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve permitir a edição de dados como endereço, telefone e e-mail. <br> - As alterações devem ser salvas e refletidas imediatamente após a confirmação do usuário. <br> - O sistema deve garantir a segurança dos dados pessoais durante o processo de atualização. <br> - O usuário deve ser notificado sobre a conclusão da atualização.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/danielle-soaress">Danielle Soares</a></p></font></p>
+<h3 id="historia-17-disponibilizar-saque-aniversario"><a name="h17"></a> História 17 — Disponibilizar Saque-Aniversário</h3>
+<p><font size="3"><p style="text-align: center">Tabela 19: História de disponibilização de saque-aniversário</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US17</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF04</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN06</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST013</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST014</a>)</td>
+    <tr>
+      <td>Tema</td>
+      <td>Disponibilizar Saque-Aniversário</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>utilizar a funcionalidade de saque-aniversário de forma acessível</em>, para <em>poder sacar o valor disponível sem barreiras de uso.</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve apresentar a opção de saque-aniversário de forma clara e visível. <br> - A funcionalidade deve ser navegável e operável por meio de teclado e leitores de tela. <br> - O aplicativo deve fornecer feedback visual e auditivo adequado durante o processo de saque. <br> - As informações sobre o valor disponível para saque e as datas devem ser de fácil compreensão.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/danielle-soaress">Danielle Soares</a></p></font></p>
+<h3 id="historia-18-comentarios-sobre-status-do-saque"><a name="h18"></a> História 18 — Comentários sobre Status do Saque</h3>
+<p><font size="3"><p style="text-align: center">Tabela 20: História de Usuário Comentários sobre Status Saque</p></font></p>
+<div align="center">
+<table border="1">
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US18</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF39</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#EN_RF">EN02</a>)</td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Comentários sobre Status</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>usuário do sistema</em>, desejo <em>visualizar comentários explicativos sobre o status de cada  saque</em> para <em>entender melhor sua situação ou andamento</em>.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>
+        - O sistema deve exibir um campo de comentário associado ao status de cada saque.<br>
+        - O comentário deve ser visível para o usuário sempre que o status for exibido.<br>
+        - O conteúdo do comentário deve ser claro e explicativo, indicando o motivo do status atual.
+      </td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/danielle-soaress">Danielle Soares</a></p></font></p>
+<h3 id="historia-19-canal-de-suportechatbot"><a name="h19"></a> História 19 — Canal de Suporte/Chatbot</h3>
+<p><font size="3"><p style="text-align: center">Tabela 21: História de Canal de Suporte/Chatbot</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US19</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF02</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais">EN04</a>)</td>
+    <tr>
+      <td>Tema</td>
+      <td>Suporte ao Usuário</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuário do aplicativo, desejo ter acesso a um canal de suporte ou chatbot para esclarecer minhas dúvidas de forma rápida e eficiente.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O usuário deve conseguir iniciar uma conversa com o chatbot a qualquer momento. <br> - O chatbot deve ser capaz de responder a perguntas frequentes sobre o uso do aplicativo. <br> - O usuário deve ter a opção de ser direcionado a um atendente humano caso o chatbot não consiga resolver sua dúvida. <br> - O canal de suporte deve estar disponível em horários comerciais para atendimento humano.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/dudaa28">Maria Eduarda</a></p></font></p>
+<h3 id="historia-20-ajuste-de-tamanho-de-fonte"><a name="h20"></a> História 20 — Ajuste de Tamanho de Fonte</h3>
+<p><font size="3"><p style="text-align: center">Tabela 22: História de ajuste de tamanho de fonte</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US20</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF30</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais">ST08</a>)</td>
+    <tr>
+      <td>Tema</td>
+      <td>Acessibilidade</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuário, desejo poder ajustar o tamanho das fontes na interface para melhorar a legibilidade e personalizar minha experiência de uso.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O usuário deve conseguir encontrar a opção de ajuste de tamanho de fonte nas configurações. <br>  - O aplicativo deve oferecer pelo menos três opções de tamanho de fonte (Pequena, Média, Grande). <br>  - O tamanho da fonte deve ser aplicado de forma consistente em toda a interface do aplicativo. <br> - O ajuste deve ser salvo e persistir entre as sessões de uso. </td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/dudaa28">Maria Eduarda</a></p></font></p>
+<h3 id="historia-21-notificacoes-de-status-e-saques"><a name="h21"></a> História 21 — Notificações de Status e Saques</h3>
+<p><font size="3"><p style="text-align: center">Tabela 23: História de notificações de status e saque</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US21</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF27</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST03</a>,
+      <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST09</a>,
+      <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST015</a>)</td>
+    <tr>
+      <td>Tema</td>
+      <td>Notificações do sistema</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuário do sistema FGTS, desejo receber notificações sobre o status da solicitação e confirmação de saque para acompanhar o andamento e ter confirmação das ações realizadas.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve notificar automaticamente o usuário quando o status da solicitação mudar.  <br> - O sistema deve notificar o usuário quando o saque for efetivado. <br> - As notificações devem ser enviadas via aplicativo e/ou e-mail cadastrado. </td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/dudaa28">Maria Eduarda</a></p></font></p>
+<h3 id="historia-22-solicitacao-de-saques"><a name="h22"></a> História 22 — Solicitação de Saques</h3>
+<p><font size="3"><p style="text-align: center">Tabela 24: História de solicitação de saques</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> ID</td>
+      <td>US22</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF28</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#tabela-3-requisitos-funcionais">EN01</a>,
+      <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS03</a>,
+      <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST06</a>,
+      <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB03</a>)</td>
+    <tr>
+      <td>Tema</td>
+      <td>Solicitação de Saque</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como trabalhador com direito ao FGTS, desejo solicitar saques através do sistema para acessar meus recursos de forma prática e segura.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve permitir que o usuário visualize as opções disponíveis de saque.  <br> - O sistema deve permitir a solicitação diretamente pela plataforma.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/dudaa28">Maria Eduarda</a></p></font></p>
+<h3 id="historia-23-visualizacao-de-dados-bancarios"><a name="h23"></a> História 23 — Visualização de Dados Bancários</h3>
+<p><font size="3"><p style="text-align: center">Tabela 25: História de visualização de dados bancários</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US23</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF31</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST010</a>)</td>
+    <tr>
+      <td>Tema</td>
+      <td>Visualização de dados bancários</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuário do sistema FGTS, desejo visualizar os dados da conta bancária cadastrada para verificar se as informações estão corretas.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve exibir os dados da conta bancária cadastrada no perfil do usuário.  <br>- Os dados devem estar atualizados e legíveis ao usuário.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/dudaa28">Maria Eduarda</a></p></font></p>
+<h3 id="historia-24-agendamento-de-saque-futuro"><a name="h24"></a> História 24 — Agendamento de Saque Futuro</h3>
+<p><font size="3"><p style="text-align: center">Tabela 26: História de agendamento de saque futuro</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US24</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td> 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF42</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/#requisitos-elicitados">BS10</a>)
+      </td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Agendamento de Saque</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como trabalhador com direito ao FGTS, desejo agendar um saque para uma data futura para poder me planejar financeiramente com antecedência.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>
+        - O sistema deve permitir a seleção de uma data futura para o saque. <br>
+        - O sistema deve exibir um resumo do agendamento antes da confirmação. <br>
+        - O usuário deve receber uma notificação de confirmação do agendamento.
+      </td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/dudaa28">Maria Eduarda</a></p></font></p>
+<h3 id="historia-25-visualizacao-do-historico-de-movimentacoes-financeiras"><a name="h25"></a> História 25 — Visualização do histórico de movimentações financeiras</h3>
+<p><font size="3"><p style="text-align: center">Tabela 27: História de visualização do histórico de movimentação financeira</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US25</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF12</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS09</a>)</td>
+    <tr>
+      <td>Tema</td>
+      <td>Visualização do histórico de movimentação financeira</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuário do sistema FGTS, desejo visualizar o histórico das movimentações financeiras para que eu possa acompanhar e controlar melhor minhas transações.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve apresentar uma lista cronológica das movimentações financeiras. <br> - O histórico deve estar acessível na página "Movimentações".</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></p></font></p>
+<h3 id="historia-26-filtrar-extrato-por-data"><a name="h26"></a> História 26 — Filtrar extrato por data</h3>
+<p><font size="3"><p style="text-align: center">Tabela 28: História de filtrar o extrato por data</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US26</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF13</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS10</a>)</td>
+    <tr>
+      <td>Tema</td>
+      <td>Filtrar extrato por data</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuário do sistema FGTS, desejo filtrar o extrato por data para encontrar movimentações em períodos específicos.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve permitir ao usuário selecionar um intervalo de datas para filtragem. <br> - Apenas movimentações dentro do período selecionado devem ser exibidas <br> - A filtragem deve estar disponível na página "Movimentações".</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Baixa</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></p></font></p>
+<h3 id="historia-27-visualizar-empregadores-anteriores-com-botao-para-consultar-contas-vinculadas"><a name="h27"></a> História 27 — Visualizar empregadores anteriores com botão para consultar contas vinculadas</h3>
+<p><font size="3"><p style="text-align: center">Tabela 29: História de visualizar  empregadores anteriores com botão para consultar contas vinculadas</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US27</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF21</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao">OB02</a>)</td>
+    <tr>
+      <td>Tema</td>
+      <td>Visualizar empregadores anteriores com botão para consultar contas vinculadas</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuário do sistema FGTS, desejo visualizar um resumo dos meus empregadores anteriores com o botão de consultar contas vinculadas.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve exibir uma lista com os empregadores anteriores do usuário. <br> - A interface deve ser clara e acessível tanto em dispositivos móveis quanto em desktops.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></p></font></p>
+<h3 id="historia-28-visualizar-nome-completo-dos-empregadores-anteriores"><a name="h28"></a> História 28 — Visualizar nome completo dos empregadores anteriores</h3>
+<p><font size="3"><p style="text-align: center">Tabela 30: História de visualizar  nome completo dos empregadores anteriores</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US28</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF22</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao">OB05</a>)</td>
+    <tr>
+      <td>Tema</td>
+      <td>Visualizar nome completo dos empregadores anteriores</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuário do sistema FGTS, desejo visualizar o nome completo dos meus empregadores anteriores para facilitar a identificação correta de cada vínculo empregatício.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve exibir o nome completo (razão social) de cada empregador anterior. <br> - Os nomes devem estar completos, sem abreviações.<br> - A informação deve ser exibida de forma legível e organizada na interface.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></p></font></p>
+<h3 id="historia-29-visualizar-historico-de-saques-realizados"><a name="h29"></a> História 29 — Visualizar histórico de saques realizados</h3>
+<p><font size="3"><p style="text-align: center">Tabela 31: História de visualizar histórico de saques realizados</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US29</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF23</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao">OB06</a>)</td>
+    <tr>
+      <td>Tema</td>
+      <td>Visualizar histórico de saques realizados</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como usuário do sistema FGTS, desejo visualizar o histórico de saques realizados para acompanhar e controlar os valores retirados da minha conta.</td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve exibir uma lista com todos os saques realizados pelo usuário. <br> - Cada saque deve apresentar data, valor e motivo (quando disponível).<br> - As informações devem estar organizadas de forma cronológica.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></p></font></p>
+<h3 id="historia-30-enviar-documentos-digitalizados-para-comprovacao-de-saque"><a name="h30"></a> História 30 — Enviar Documentos Digitalizados para Comprovação de Saque</h3>
+<p><font size="3"><p style="text-align: center">Tabela 32: História de envio de documentos para comprovação de saque</p></font></p>
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th><strong>Item</strong></th>
+        <th><strong>Descrição</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>ID</strong></td>
+        <td>
+          US30
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Rastreabilidade</strong></td>
+        <td>
+          <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF41</a>
+          (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/#BS_RF">BS03</a>)
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Tema</strong></td>
+        <td>Envio de documentos para comprovação de saque</td>
+      </tr>
+      <tr>
+        <td><strong>Descrição</strong></td>
+        <td>Eu, como usuário do sistema FGTS, desejo enviar documentos digitalizados (PDF ou imagem) para comprovar minha elegibilidade em situações específicas de saque, como doença grave ou aposentadoria.</td>
+      </tr>
+      <tr>
+        <td><strong>Critérios de Aceitação</strong></td>
+        <td>
+          - O sistema deve permitir o upload de arquivos em PDF, JPG ou PNG. <br>
+          - O upload deve estar disponível apenas quando o motivo do saque exigir comprovação documental. <br>
+          - O sistema deve confirmar o recebimento do documento enviado. <br>
+          - O tamanho do arquivo não deve ultrapassar o limite estabelecido (ex: 10MB).
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Prioridade do Usuário</strong></td>
+        <td>Média</td>
+      </tr>
+      <tr>
+        <td><strong>Status</strong></td>
+        <td>Validado pelo usuário.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></p></font></p>
+<h3 id="historia-31-cancelamento-de-saque"><a name="h31"></a> História 31 — Cancelamento de Saque</h3>
+<p><font size="3"><p style="text-align: center">Tabela 33: História de Cancelamento de Saque</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US31</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF09</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS06</a>)</td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Cancelamento</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>usuário do aplicativo</em>, desejo <em>cancelar um saque solicitado</em> para <em>evitar transferências indesejadas ou feitas por engano</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve exibir a opção de cancelamento apenas para saques com status "pendente" <br> - O sistema deve exibir uma mensagem de confirmação antes de efetuar o cancelamento</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/VictorPontual">Victor Pontual</a></p></font></p>
+<h3 id="historia-32-filtro-por-tipo-de-saque"><a name="h32"></a> História 32 — Filtro por Tipo de Saque</h3>
+<p><font size="3"><p style="text-align: center">Tabela 34: História de Filtro por Tipo de Saque</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US32</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF10</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS07</a>)</td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Consulta e Filtro</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>usuário do aplicativo</em>, desejo <em>filtrar os saques por tipo</em> para <em>localizar facilmente saques específicos como aniversário, doença ou falecimento</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve exibir uma lista de tipos de saque para seleção <br> - Ao selecionar um tipo, apenas os saques correspondentes devem ser exibidos</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/VictorPontual">Victor Pontual</a></p></font></p>
+<h3 id="historia-33-interface-de-login-simples"><a name="h33"></a> História 33 —  Interface de Login Simples</h3>
+<p><font size="3"><p style="text-align: center">Tabela 35: História de Interface de Login Simples</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US33</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF32</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST011</a>)</td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Autenticação</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>usuário iniciante</em>, desejo <em>uma interface de login simples</em> para <em>acessar o aplicativo sem dificuldades</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- A tela de login deve conter apenas os campos essenciais (CPF e senha) <br> - A interface deve ser limpa e responsiva</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/VictorPontual">Victor Pontual</a></p></font></p>
+<h3 id="historia-34-escolha-da-sistematica-de-saque"><a name="h34"></a> História 34 —  Escolha da Sistemática de Saque</h3>
+<p><font size="3"><p style="text-align: center">Tabela 36: História de Escolha da Sistemática de Saque</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US34</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF33</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST012</a>)</td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Saque</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>trabalhador com conta FGTS</em>, desejo <em>acessar uma página para escolher a sistemática de saque</em> para <em>optar entre saque-rescisão e saque-aniversário conforme minha necessidade</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- A página deve apresentar ambas as opções com explicações resumidas <br> - O sistema deve permitir a confirmação da escolha</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/VictorPontual">Victor Pontual</a></p></font></p>
+<h3 id="historia-35-disponibilizacao-de-termo-de-adesao"><a name="h35"></a> História 35 —  Disponibilização de Termo de Adesão</h3>
+<p><font size="3"><p style="text-align: center">Tabela 37: História de Disponibilização de Termo de Adesão</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US35</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF34</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST016</a>)</td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Adesão</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>usuário interessado em aderir a uma sistemática de saque</em>, desejo <em>acessar o termo de adesão</em> para <em>conhecer as condições e formalizar minha escolha</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O termo deve estar disponível em formato acessível (PDF ou visualização direta) <br> - O sistema deve solicitar confirmação de leitura antes de prosseguir</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/VictorPontual">Victor Pontual</a></p></font></p>
+<h3 id="historia-36-notificacao-de-recebimento-do-saque"><a name="h36"></a> História 36 — Notificação de Recebimento do Saque</h3>
+<p><font size="3"><p style="text-align: center">Tabela 38: História de Notificação de Recebimento do Saque</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US36</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF40</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST015</a>)</td>
+    </tr>
+    <tr>
+      <td>Tema</td>
+      <td>Notificação</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>usuário que aguarda o recebimento do saque</em>, desejo <em>ser notificado assim que o valor for depositado</em> para <em>acompanhar e confirmar a liberação do meu dinheiro</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve enviar uma notificação push no momento da confirmação do saque <br> - A mensagem deve conter data e valor do saque recebido</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/VictorPontual">Victor Pontual</a></p></font></p>
+<h3 id="historia-37-consulta-de-dados-pessoais"><a name="h37"></a> História 37 — Consulta de dados pessoais</h3>
+<p><font size="3"><p style="text-align: center">Tabela 39: História de consulta de dados pessoais</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US37</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF06</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS02</a>)</td>
+    <tr>
+      <td>Tema</td>
+      <td>Consulta de dados pessoais</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>consultar os meus dados pessoais</em> para <em>garantir que meus dados se encontram em conformidade no sistema.</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve exibir os dados pessoais do usuário. <br> - O sistema deve garantir segurança na exibição dos dados pessoais.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/eduardodpms">Eduardo de Pina</a></p></font></p>
+<h3 id="historia-38-consultar-saldo"><a name="h38"></a> História 38 — Consultar saldo</h3>
+<p><font size="3"><p style="text-align: center">Tabela 40: História de consulta de Saldo</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US38</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF37</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB04</a>)</td>
+    <tr>
+      <td>Tema</td>
+      <td>Consultar Saldo</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>poder consultar o saldo da minha conta</em> para <em>verificar a situação do meu FGTS</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve exibir o saldo vinculado à conta do usuário.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/eduardodpms">Eduardo de Pina</a></p></font></p>
+<h3 id="historia-39-exibir-extrato-para-o-empregador"><a name="h39"></a> História 39 — Exibir extrato para o empregador</h3>
+<p><font size="3"><p style="text-align: center">Tabela 41: História de exibição de extrato pro empregador</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US39</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF07</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS04</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB04</a>)</td>
+    <tr>
+      <td>Tema</td>
+      <td>Exibir extrato pro empregador</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>empregador vinculado ao FGTS</em>, desejo <em>poder consultar o extrato dos meus depósitos</em> para <em>gerenciar o tráfego do FGTS na minha conta.</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve exibir as movimentações referentes à conta do empregador. <br> - O sistema deve diferenciar as movimentações de entrada e de saída.<br> - O sistema deve garantir que haja uma visualização rápida e direta do extrato.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/eduardodpms">Eduardo de Pina</a></p></font></p>
+<h3 id="historia-40-permitir-o-cadastro-de-conta-bancaria"><a name="h40"></a> História 40 — Permitir o cadastro de conta bancária</h3>
+<p><font size="3"><p style="text-align: center">Tabela 42: História de cadastro de conta bancária</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US40</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF14</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS11</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST05</a>, <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Observacao/#OB_RF">OB08</a>)</td>
+    <tr>
+      <td>Tema</td>
+      <td>Permitir o cadastro de conta bancária</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>cadastrar uma conta bancária no aplicativo</em> para <em>garantir os meus benefícios do FGTS.</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve permitir que o beneficiário cadastre uma conta bancária. <br> - O cadastro de conta bancária deve passar por verificações de segurança junto ao banco.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Alta</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/eduardodpms">Eduardo de Pina</a></p></font></p>
+<h3 id="historia-41-secao-de-ajuda-com-orientacoes"><a name="h41"></a> História 41 — Seção de ajuda com orientações</h3>
+<p><font size="3"><p style="text-align: center">Tabela 43: História de seção de ajuda com orientações</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US41</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF18</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#IS_RF">IS16</a>)</td>
+    <tr>
+      <td>Tema</td>
+      <td>Seção de ajuda com orientações</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>tirar uma dúvida relacionada ao uso do aplicativo</em> para <em>melhorar a minha usabilidade.</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve possuir uma página de ajuda. <br> - O acesso à página de ajuda deve ser facilitado e visível ao público</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Média</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/eduardodpms">Eduardo de Pina</a></p></font></p>
+<h3 id="historia-42-guia-interativo-para-orientacao"><a name="h42"></a> História 42 — Guia interativo para orientação</h3>
+<p><font size="3"><p style="text-align: center">Tabela 44: História de guia interativo</p></font></p>
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th><strong>Item</strong></th>
+      <th><strong>Descrição</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ID</td>
+      <td>US42</td>
+    </tr>
+    <tr>
+      <td>Rastreabilidade</td>
+      <td><a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">RF29</a> (<a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#ST_RF">ST07</a>)</td>
+    <tr>
+      <td>Tema</td>
+      <td>Guia interativo</td>
+    </tr>
+    <tr>
+      <td>Descrição</td>
+      <td>Eu, como <em>beneficiário do FGTS</em>, desejo <em>ser guiado pelo aplicativo</em> para <em>realizar ações básicas.</em></td>
+    </tr>
+    <tr>
+      <td>Critérios de Aceitação</td>
+      <td>- O sistema deve guiar o usuário pelas funções básicas do aplicativo. <br> - O guia deve ser explicativo, claro e fácil de encontrar.</td>
+    </tr>
+    <tr>
+      <td>Prioridade Usuário</td>
+      <td>Baixa</td>
+    </tr>
+    <tr>
+      <td>Status</td>
+      <td>Validado pelo usuário.</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://github.com/eduardodpms">Eduardo de Pina</a></p></font></p>
+<h2 id="validacao">Validação</h2>
+<p>Validação das histórias de usuário 13-30 presentes no vídeo a seguir:</p>
+<p style="text-align: center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/_XVw-l1hJv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
+<p><font size="2"><p style="text-align: center">Observação: no vídeo, houve algumas inconsistências nas numerações dos casos de uso, decorrentes de alterações posteriores. A história 12 citada no vídeo corresponde à 13, a 13 à 14, e assim sucessivamente.</p></font></p>
+<p>Validação das histórias de usuário 01-12 e 31-42 presentes no vídeo a seguir:</p>
+<p style="text-align: center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6RrwddCuJdU?si=LqQ4cmGbbc1WM4Nd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
+<h2 id="referencias-bibliograficas">Referências Bibliográficas</h2>
+<blockquote>
+<p><a id="REF1" href="#anchor_1">1.</a>  PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016, 940 p.</p>
+<p><a id="REF2" href="#anchor_2">2.</a>  SERRANO, Milene; SERRANO, Maurício. Requisitos – Aula 15. UnB, 2025. Disponível em: https://aprender3.unb.br/pluginfile.php/3096144/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf. Acesso em: 30 de maio 2025.</p>
+<p><a id="REF3" href="#anchor_3">3.</a> WAKE, Bill. INVEST in Good Stories, and SMART Tasks. Disponível em: https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/. Acesso em: 30 maio 2025.</p>
+<p><a id="REF4" href="#anchor_4">4.</a> JEFFRIES, Ron. The Three ‘C’s Revisited. Disponível em: https://ronjeffries.com/articles/019-01ff/3cs-revisited/. Acesso em: 30 maio 2025.</p>
+</blockquote>
+<p><font size="3"><p style="text-align: center">Figura 1: Foto referência</p></font></p>
+<div align="center">
+  <img src="./../../assets/referencias/historia.png" alt="FIGURA 1">
+</div>
+
+<p><font size="2"><p style="text-align: center">Fonte: <a href="https://aprender3.unb.br/pluginfile.php/3096144/mod_resource/content/1/Requisitos%20-%20Aula%2015a.pdf">SERRANO, 2025</a> </p></font></p>
+<h2 id="historico-de-versao">Histórico de Versão</h2>
+<table>
+<thead>
+<tr>
+<th>Versão</th>
+<th>Data</th>
+<th>Descrição</th>
+<th>Autor(es)</th>
+<th>Revisor(es)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>1.0</code></td>
+<td>27/05/2025</td>
+<td>Criação da página</td>
+<td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+<td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+</tr>
+<tr>
+<td><code>1.1</code></td>
+<td>27/05/2025</td>
+<td>Adicionando Introdução, Metodologia e Participantes</td>
+<td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+<td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+</tr>
+<tr>
+<td><code>1.2</code></td>
+<td>28/05/2025</td>
+<td>Adicionando Histórias 1 a 6</td>
+<td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+<td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+</tr>
+<tr>
+<td><code>1.3</code></td>
+<td>28/05/2025</td>
+<td>Adição das Histórias de Usuário 7 a 11</td>
+<td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+<td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+</tr>
+<tr>
+<td><code>1.4</code></td>
+<td>29/05/2025</td>
+<td>Adição do modelo de tabela</td>
+<td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+<td><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
+</tr>
+<tr>
+<td><code>1.5</code></td>
+<td>30/05/2025</td>
+<td>Adicionando Histórias 12 a 16</td>
+<td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+<td><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
+</tr>
+<tr>
+<td><code>1.6</code></td>
+<td>30/05/2025</td>
+<td>Adicionando Histórias 18 a 22</td>
+<td><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
+<td><a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></td>
+</tr>
+<tr>
+<td><code>1.7</code></td>
+<td>30/05/2025</td>
+<td>Adicionando fonte tabelas</td>
+<td><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
+<td><a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></td>
+</tr>
+<tr>
+<td><code>1.8</code></td>
+<td>30/05/2025</td>
+<td>Atualizando sumário</td>
+<td><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
+<td><a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></td>
+</tr>
+<tr>
+<td><code>1.9</code></td>
+<td>30/05/2025</td>
+<td>Adicionando Histórias 23, 24, 25, 26 e 27</td>
+<td><a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></td>
+<td><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+</tr>
+<tr>
+<td><code>2.0</code></td>
+<td>30/05/2025</td>
+<td>Atualizando sumário</td>
+<td><a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></td>
+<td><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
+</tr>
+<tr>
+<td><code>2.1</code></td>
+<td>30/05/2025</td>
+<td>Adicionando Histórias 29 à 33</td>
+<td><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
+<td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+</tr>
+<tr>
+<td><code>2.2</code></td>
+<td>30/05/2025</td>
+<td>Adicionando histórias 34 à 39</td>
+<td><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+<td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+</tr>
+<tr>
+<td><code>2.3</code></td>
+<td>30/05/2025</td>
+<td>Adicionando história 17</td>
+<td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+<td><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+</tr>
+<tr>
+<td><code>2.4</code></td>
+<td>30/05/2025</td>
+<td>Adicionando história 35</td>
+<td><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
+<td><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+</tr>
+<tr>
+<td><code>2.5</code></td>
+<td>30/05/2025</td>
+<td>Adicionando história 41</td>
+<td><a href="https://github.com/Leticia-Arisa-K-Higa">Leticia Arisa</a></td>
+<td><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
+</tr>
+<tr>
+<td><code>2.6</code></td>
+<td>30/05/2025</td>
+<td>Adicionando história 42</td>
+<td><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
+<td><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+</tr>
+<tr>
+<td><code>2.7</code></td>
+<td>31/05/2025</td>
+<td>Corrigindo numerações</td>
+<td><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+<td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+</tr>
+<tr>
+<td><code>2.8</code></td>
+<td>30/05/2025</td>
+<td>Referências Bibliográficas</td>
+<td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+<td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+</tr>
+<tr>
+<td><code>2.9</code></td>
+<td>31/05/2025</td>
+<td>Adicionando video validação 13-30 e Foto referência</td>
+<td><a href="https://github.com/dudaa28">Maria Eduarda</a></td>
+<td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+</tr>
+<tr>
+<td><code>3.0</code></td>
+<td>31/05/2025</td>
+<td>Correção do link do vídeo</td>
+<td><a href="https://github.com/danielle-soaress">Danielle Soares</a></td>
+<td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+</tr>
+<tr>
+<td><code>3.1</code></td>
+<td>04/06/2025</td>
+<td>Padronizando US e atualizando status</td>
+<td><a href="https://github.com/eduardodpms">Eduardo de Pina</a></td>
+<td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+</tr>
+<tr>
+<td><code>3.2</code></td>
+<td>07/06/2025</td>
+<td>Atualizando tabelas seguindo os novos requisitos</td>
+<td><a href="https://github.com/EnzoEmir">Enzo Emir</a></td>
+<td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+</tr>
+<tr>
+<td><code>3.3</code></td>
+<td>22/06/2025</td>
+<td>Adição de revisores</td>
+<td><a href="https://github.com/VictorPontual">Victor Pontual</a></td>
+<td><a href="https://github.com/MM4k">Marcelo Makoto</a></td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var tab,labels=set.querySelector(".tabbed-labels");for(tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+  Voltar para o topo
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+      <div class="md-progress" data-md-component="progress" role="progressbar"></div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.instant", "content.code.annotate", "content.tabs.link", "header.autohide", "navigation.expand", "navigation.instant.progress", "navigation.tracking", "navigation.tabs", "navigation.top"], "search": "../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "mais 1 nesta p\u00e1gina", "search.result.more.other": "# mais nesta p\u00e1gina", "search.result.none": "Nenhum documento encontrado", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.1e8ae164.min.js"></script>
+      
+    
+  </body>
+</html>
