@@ -238,4 +238,4 @@ Aqui, apresenta-se uma tabela para navegação rápida entre os conteúdos da se
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 10/06/2025 | Criação do documento | [Eduardo de Pina](https://github.com/eduardodpms) | [Danielle Soares](https://github.com/danielle-soaress) |
-| `1.1` | 22/06/2025 | Ajuste das inspeções da monitora | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.1` | 22/06/2025 | Ajuste das inspeções da monitora | [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir) |

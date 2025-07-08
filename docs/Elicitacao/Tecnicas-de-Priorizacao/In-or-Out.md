@@ -186,4 +186,4 @@ ___
 | `1.2`  | 21/06/2025 | Refinamento na Página | [Maria Eduarda](https://github.com/dudaa28) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.3`  | 21/06/2025 | Arrumando bibliografia | [Enzo Emir](https://github.com/EnzoEmir) | [Victor Pontual](https://github.com/VictorPontual) |
 | `1.4` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
-| `1.5` | 26/06/2025 | Gravação Presencial | [Danielle Soares](https://github.com/danielle-soaress) | -- |
+| `1.5` | 26/06/2025 | Gravação Presencial | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |

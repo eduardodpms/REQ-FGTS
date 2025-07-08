@@ -123,7 +123,7 @@ Foi realizada a inspeção do artefato *$100 Test* com base na técnica de inspe
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 22/06/2025 | Criação do documento | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| `1.1` | 27/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `1.1` | 27/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | [Eduardo de Pina](https://github.com/eduardodpms) |
 
 
 [image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIcAAAAZCAYAAAAbiz05AAAC60lEQVR4Xu2Zz0uyQRDH+1fKQ3Ux6NYxkE7hRQmqQ2CXjl365cHsXESeJILoVkg/jDoEEZEQBSKYXj1kKRh0CTGKionvwiy7j66g7+1tPrDM7szsPrvu16eaekgQHPR4HYLAiDgEJ1ocvb29FA6HzVhbFhYWvC7F5eWl12UxPT2tLJ6H1g3dzhM6wxIH22KxSN/f3zoJvtnZWdX/+fnR47u7OytnaWmJPj4+rLmVSoUGBgb0GLAwWl1yIBCgoaEhPUZOJBIxMprF8fb2RnNzc+T3++nz89OKCd3TJA6wsrKi++0wxcFAHBDQ19eXHo+NjVk5IyMjljhOT0+tOJicnFQWOfPz86r/+vpKz8/PTeIAw8PDur+8vGxEhG5pEsfo6KiyoVCIQxSLxawL4bEpjomJCeVjcfT39yu/z+ez5s7MzKg3E4tjampKx0BfXx8NDg6qfjAYtMQBkR0fH1vrjY+PKwsf3lLA+6YRukN+IRWciDgEJyIOwYmIQ3CixXF0dGT6BUHEIbjpWBxXV1fKokJarVY9UTebm5vK7uzsqLneCmupVLLG7fDOBfgTF/719XU1LhQKyi4uLqqay+3trWpMPB6np6cn2t7e1mfn2szh4SGVy2W6v7/X+SjwoXEN5eDggPb29mhra4ve399pd3eXarWazm3F6uqqsqlUSvuw57OzM70u9g/fxsaG9TlhLyguYvzw8KDnoqGkwHnX19dqPY7j/ABnz+fzqs9gv4lEQs89Pz+34h2L4/HxUW/KFIf3wl5eXqwxg0KWeWjGrKri0v6V/f19qtfrtLa2RhcXF9rPz0ZjITEsDsROTk60Hx8iX3gul9N+gNxsNmv5ULHltUyQ6z0b78Vcl33JZJLS6TQ1Gg3lN0VgAj+Eaj4TZ8cZWEjtwBcW9+KlY3EIfwcRh+BExCE4cYrj5uZG9zOZjLKtft4J/y8txeH9ryzEEY1GRRx/jJbiEAQg5XPBiYhDcCLiEJyIOAQnvzTCbUjexVWuAAAAAElFTkSuQmCC>

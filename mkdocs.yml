@@ -80,6 +80,7 @@ nav:
     - Entrega 4: Entregas/Entrega-4.md
     - Entrega 5: Entregas/Entrega-5.md
     - Entrega 6: Entregas/Entrega-6.md
+    - Entrega Final: Entregas/Entrega-Final.md
   - Inspeção:
     - Introdução: Inspecao/Introducao.md
     - Entrega 1:
@@ -144,10 +145,10 @@ nav:
     - Planejamento Geral: Verificacao/planejamento-geral.md
     - Grupo:
       - Entrega 1:
-        - Planejamento de Verificação - Entrega 1: Verificacao/Grupo/Entrega-1/planejamento-verificacao-entrega-1.md
+        - Planejamento de Verificação: Verificacao/Grupo/Entrega-1/planejamento-de-verificacao.md
         - Rich Picture: Verificacao/Grupo/Entrega-1/verificacao-rich-picture.md
       - Entrega 2:
-        - Planejamento de Verificação - Entrega 2: Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2.md
+        - Planejamento de Verificação: Verificacao/Grupo/Entrega-2/planejamento-de-verificacao.md
         - Perfil de Usuário: Verificacao/Grupo/Entrega-2/verificacao-perfil-de-usuario.md
         - Personas: Verificacao/Grupo/Entrega-2/verificacao-personas.md
         - Brainstorming: Verificacao/Grupo/Entrega-2/verificacao-brainstorming.md
@@ -160,13 +161,13 @@ nav:
         - Three-Level Scale: Verificacao/Grupo/Entrega-2/verificacao-three-level-scale.md
         - $100 Test: Verificacao/Grupo/Entrega-2/verificacao-100-test.md
       - Entrega 3:
-        - Planejamento de Verificação - Entrega 3: Verificacao/Grupo/Entrega-3/planejamento-verificacao-entrega-3.md
+        - Planejamento de Verificação: Verificacao/Grupo/Entrega-3/planejamento-de-verificacao.md
         - Casos de Uso: Verificacao/Grupo/Entrega-3/verificacao-casos-de-uso.md
         - Cenários: Verificacao/Grupo/Entrega-3/verificacao-cenarios.md
         - Léxicos: Verificacao/Grupo/Entrega-3/verificacao-lexicos.md
         - Especificação Suplementar: Verificacao/Grupo/Entrega-3/verificacao-especificacao-suplementar.md
       - Entrega 4:
-        - Planejamento de Verificação - Entrega 4: Verificacao/Grupo/Entrega-4/planejamento-verificacao-entrega-4.md
+        - Planejamento de Verificação: Verificacao/Grupo/Entrega-4/planejamento-de-verificacao.md
         - NFR Framework: Verificacao/Grupo/Entrega-4/verificacao-nfr-framework.md
         - Backlog: Verificacao/Grupo/Entrega-4/verificacao-backlog.md
         - Histórias de Usuário: Verificacao/Grupo/Entrega-4/verificacao-historias-de-usuario.md
@@ -179,8 +180,8 @@ nav:
     - Ferramentas Utilizadas : Final/Ferramentas.md
     - Tecnicas Utilizadas : Final/Tecnicas.md
     - Artefatos Criados : Final/Artefatos.md
-    - Tabela Verificacao/Validação: Final/Tab_Ver_Val.md
-    - Vídeos : Final/Videos.md
+    - Tabela Verificação/Validação: Final/Tab_Ver_Val.md
+    - Vídeos do Projeto : Final/Videos.md
     - Considerações Finais : Final/Consideracoes.md
 
 

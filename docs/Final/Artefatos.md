@@ -22,6 +22,11 @@ Este documento tem como objetivo apresentar todos os artefatos que foram desenvo
       <td> 02/07/2025 </td>
       <td> 20:16 </td>
     </tr>
+    <tr>
+      <td> Leticia Arisa </td>
+      <td> 02/07/2025 </td>
+      <td> 21:00 </td>
+    </tr>
   </tbody>
 </table>
 
@@ -145,5 +150,5 @@ Este documento tem como objetivo apresentar todos os artefatos que foram desenvo
 |:-----: | :--------: | :------------------------------- | :---------- | :---------- |
 | `1.0`    | 02/07/2025 | Criação da página de artefatos criados | [Marcelo Makoto](https://github.com/MM4k)   | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.1`    | 02/07/2025 | Adição de Introdução, Cronograma de Participantes e tabelas das Entregas 1-2 | [Marcelo Makoto](https://github.com/MM4k)   | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| `1.2`    | 02/07/2025 | Adição de tabelas das Entregas 3-4 | [Marcelo Makoto](https://github.com/MM4k)   | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| `1.3`    | 02/07/2025 | Adição de tabelas das Entregas 5-6 | [Marcelo Makoto](https://github.com/MM4k)   | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
+| `1.2`    | 02/07/2025 | Adição de tabelas das Entregas 3-4 | [Marcelo Makoto](https://github.com/MM4k)   | [Maria Eduarda](https://github.com/dudaa28) |
+| `1.3`    | 02/07/2025 | Adição de tabelas das Entregas 5-6 | [Marcelo Makoto](https://github.com/MM4k)   | [Enzo Emir](https://github.com/EnzoEmir) |

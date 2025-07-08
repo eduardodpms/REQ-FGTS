@@ -220,5 +220,5 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 | `1.4` | 21/05/2025 | Referências bibliográficas no texto | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `1.5` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.5` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
-| `1.6`  | 28/06/2025 | Elicitação Presencial e Atualizção do Texto | [Danielle Soares](https://github.com/danielle-soaress) | -- |
-| `1.7`  | 28/06/2025 | Atualizando tabela | [Danielle Soares](https://github.com/danielle-soaress) | -- |
+| `1.6`  | 28/06/2025 | Elicitação Presencial e Atualizção do Texto | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.7`  | 28/06/2025 | Atualizando tabela | [Danielle Soares](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |

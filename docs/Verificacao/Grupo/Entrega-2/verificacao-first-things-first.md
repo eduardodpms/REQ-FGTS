@@ -110,7 +110,7 @@ O artefato, após inspeção minuciosa de seus elementos, foi definido como apro
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 22/06/2025 | Criação da página e documentação | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
-| `1.1` | 26/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `1.1` | 26/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | [Eduardo de Pina](https://github.com/eduardodpms) |
 
 
 
