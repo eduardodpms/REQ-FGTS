@@ -2705,6 +2705,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/100-Test/#aplicacao-da-tecnica">$100</a><br>
         Satisfação - O requisito foi classificado como prioridade ALTA na técnica 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/Three-Level-Scale/#requisitos-priorizados">Three-Level Scale</a><br>
+        Agregação - O requisito é classificado nos Épicos <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Product-Backlog/#tema1>E02</a> e <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Product-Backlog/#tema2>E04</a>
       </td>
     </tr>
     <tr>
@@ -2755,6 +2756,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/100-Test/#aplicacao-da-tecnica">$100</a><br>
         Satisfação - O requisito foi classificado como prioridade ALTA na técnica 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/Three-Level-Scale/#requisitos-priorizados">Three-Level Scale</a><br>
+        Agregação - O requisito é classificado no Épico <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Product-Backlog/#tema1>E01</a>
       </td>
     </tr>
     <tr>
@@ -2805,6 +2807,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/100-Test/#aplicacao-da-tecnica">$100</a><br>
         Satisfação - O requisito foi classificado como prioridade ALTA na técnica 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/Three-Level-Scale/#requisitos-priorizados">Three-Level Scale</a><br>
+        Agregação - O requisito é classificado no Épico <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Product-Backlog/#tema3>E08</a>
       </td>
     </tr>
     <tr>
@@ -2845,7 +2848,8 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/#cenario-12-secao-de-ajuda-com-explicacoes-relacionadas-ao-app">Cenário 12</a>, 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L46">L46</a>, 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L47">L47</a>, 
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h41">H41</a>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h41">H41</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Validacao/Prototipacao/">Prototipação</a>
       </td>
     </tr>
     <tr>
@@ -2859,6 +2863,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/100-Test/#aplicacao-da-tecnica">$100</a><br>
         Satisfação - O requisito foi classificado como prioridade BAIXA na técnica 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/Three-Level-Scale/#requisitos-priorizados">Three-Level Scale</a><br>
+        Agregação - O requisito é classificado no Épico <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Product-Backlog/#tema2>E07</a>
       </td>
     </tr>
     <tr>
@@ -2900,7 +2905,8 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/#cenario-13-guia-interativo-para-orientacao-sobre-o-uso-do-aplicativo">Cenário 13</a>, 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L48">L48</a>, 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/L49">L49</a>, 
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h42">H42</a>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#h42">H42</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Validacao/Prototipacao/">Prototipação</a>
       </td>
     </tr>
     <tr>
@@ -2914,6 +2920,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/100-Test/#aplicacao-da-tecnica">$100</a><br>
         Satisfação - O requisito foi classificado como prioridade BAIXA na técnica 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/Three-Level-Scale/#requisitos-priorizados">Three-Level Scale</a><br>
+        Agregação - O requisito é classificado no Épico <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Product-Backlog/#tema2>E07</a>
       </td>
     </tr>
     <tr>
@@ -2994,7 +3001,8 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
       <td> Elementos </td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/EspecificacaoSuplementar/#requisitos-nao-funcionais">Especificação Suplementar</a>, 
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#CE10">Cartão de Especificação 10</a>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#CE11">Cartão de Especificação 11</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Validacao/Prototipacao/">Prototipação</a>
       </td>
     </tr>
     <tr>
@@ -3008,6 +3016,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/100-Test/#aplicacao-da-tecnica">$100</a><br>
         Satisfação - O requisito foi classificado como prioridade ALTA na técnica 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/Three-Level-Scale/#requisitos-priorizados">Three-Level Scale</a><br>
+        Satisfação - O requisito não funcional é satisfeito pelo NFR framework(<a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#CE11>Cartão de Especificação 11/a>)<br>
       </td>
     </tr>
     <tr>
@@ -3045,7 +3054,8 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
       <td> Elementos </td>
       <td>
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/EspecificacaoSuplementar/#requisitos-nao-funcionais">Especificação Suplementar</a>, 
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#CE11">Cartão de Especificação 11</a>
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#CE12">Cartão de Especificação 12</a>, 
+        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Validacao/Prototipacao/">Prototipação</a>
       </td>
     </tr>
     <tr>
@@ -3059,6 +3069,7 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/100-Test/#aplicacao-da-tecnica">$100</a><br>
         Satisfação - O requisito foi classificado como prioridade MÉDIA na técnica 
         <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/Three-Level-Scale/#requisitos-priorizados">Three-Level Scale</a><br>
+        Satisfação - O requisito não funcional é satisfeito pelo NFR framework(<a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/#CE12>Cartão de Especificação 12</a>)<br>
       </td>
     </tr>
     <tr>
@@ -3169,3 +3180,4 @@ No presente documento, estão os resultados da aplicação deste modelo de rastr
 | `2.6` | 07/07/2025 | correção dos elementos dos elos de minha autoria | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `2.7` | 07/07/2025 | Correção dos elementos dos elos feitos por mim | [Enzo Emir](https://github.com/EnzoEmir) | [Victor Pontual](https://github.com/VictorPontual) |
 | `2.8` | 07/07/2025 | Correção de elementos gerais dos elos | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
+| `2.9` | 07/07/2025 | Correção de elementos dos elos de minha autoria | [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir) |
