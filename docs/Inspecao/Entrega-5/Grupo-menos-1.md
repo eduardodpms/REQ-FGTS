@@ -79,4 +79,4 @@ Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0` | 24/06/2025 | Criação do documento | [Eduardo de Pina](https://github.com/eduardodpms) | - |
+| `1.0` | 24/06/2025 | Criação do documento | [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir)  |
