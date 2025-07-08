@@ -9,7 +9,7 @@
 
 ## • Apresentação 💡
 
-Neste site está hospedada toda a documentação referente às atividades desenvolvidas pelo [***Grupo 07***](#membros-da-equipe) na disciplina de "*Requisitos de Software*", da [*Universidade de Brasília* (*FCTE*)](https://fcte.unb.br) no 1° período de 2025. Nesse contexto,  verifica-se o processo de desenvolvimento das atividades pelo time, incluindo artefatos como gerência (pré-rastreabilidade e pós-rastreabilidade), elicitação e modelagem de requisitos. A escolha do app [*FGTS*](https://www.caixa.gov.br/atendimento/aplicativos/fgts/Paginas/default.aspx) está detalhada na página [*Aplicativo*](Planejamento/Aplicativo.md).
+Neste site está hospedada toda a documentação referente às atividades desenvolvidas pelo [***Grupo 07***](#membros-da-equipe) na disciplina de "*Requisitos de Software*", da [*Universidade de Brasília* (*FCTE*)](https://fcte.unb.br) no 1° período de 2025. Nesse contexto, verifica-se o processo de desenvolvimento das atividades pelo time, incluindo artefatos como gerência (pré-rastreabilidade e pós-rastreabilidade), elicitação e modelagem de requisitos. A escolha do app [*FGTS*](https://www.caixa.gov.br/atendimento/aplicativos/fgts/Paginas/default.aspx) está detalhada na página [*Aplicativo*](Planejamento/Aplicativo.md).
 
 ---
 
@@ -17,14 +17,16 @@ Neste site está hospedada toda a documentação referente às atividades desenv
 
 Os artefatos desenvolvidos estão listados a seguir, com seus respectivos links nesta página:
 
-1. [Pré-Rastreabilidade 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Pre-Rastreabilidade/Rich-Picture/)
-2. [Elicitação de Requisitos 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Perfil-de-Usuario/)
-3. [Modelagem de Requisitos I 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/)
-4. [Modelagem de Requisitos II (Ágil) 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/)
-5. Análise de Requisitos ([Verificação 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/planejamento-geral/)) e ([Validação 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Validacao/Prototipacao/))
-6. [Pós-Rastreabilidade 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Matriz-de-Rastreabilidade/)
+1. [*Pré-Rastreabilidade* 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Pre-Rastreabilidade/Rich-Picture/)
+2. [*Elicitação de Requisitos* 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Perfil-de-Usuario/)
+3. [*Modelagem de Requisitos I* 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/)
+4. [*Modelagem de Requisitos II (Ágil)* 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/)
+5. Análise de Requisitos ([*Verificação* 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/planejamento-geral/)) e ([*Validação* 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Validacao/Prototipacao/))
+6. [*Pós-Rastreabilidade* 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Matriz-de-Rastreabilidade/)
 
-*Obs.: A entrega `6`, no plano da disciplina, foi definida para ser realizada antes da entrega `5`.*
+- ***Obs. 1:** A entrega `6`, no plano da disciplina, foi definida para antes da entrega `5`.*
+- ***Obs. 2:** A entrega `Final`, está definida em [**Entrega Final** 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Final/Execucao/).*
+
 
 ---
 
