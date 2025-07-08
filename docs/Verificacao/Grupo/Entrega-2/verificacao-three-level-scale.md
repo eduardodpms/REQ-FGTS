@@ -127,7 +127,7 @@ O artefato permanece em acompanhamento até que essa correção seja implementad
 | :-: | :-: | :-: | :-: | :-: |
 | `1.0` | 21/06/2025 | Criação do documento | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | [Marcelo Makoto](https://github.com/MM4k) |
 | `1.1` | 22/06/2025 | Adição de revisor | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
-| `1.2` | 26/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `1.2` | 26/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | [Eduardo de Pina](https://github.com/eduardodpms) |
 
 
 

@@ -103,7 +103,7 @@ As listas de verificação foram elaboradas levando em consideração as ativida
 | `1.3` | 21/06/2025 | Adição de Listas de Verificação | [Marcelo Makoto](https://github.com/MM4k) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.4` | 21/06/2025 | Referências e prints das referências | [Danielle Soares](https://github.com/danielle-soaress) | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) |
 | `1.5` | 22/06/2025 | Adicionando legendas e fontes das listas | [Eduardo de Pina](https://github.com/eduardodpms) | [Marcelo Makoto](https://github.com/MM4k) |
-| `1.6` | 07/07/2025 | Adicionando autores | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `1.6` | 07/07/2025 | Adicionando autores | [Enzo Emir](https://github.com/EnzoEmir) | [Eduardo de Pina](https://github.com/eduardodpms) |
 
 
 
