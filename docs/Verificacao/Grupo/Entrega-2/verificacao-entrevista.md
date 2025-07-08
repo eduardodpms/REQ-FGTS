@@ -132,4 +132,4 @@ Este processo reforça a importância da documentação detalhada em técnicas d
 | Versão | Data       | Descrição                          | Autor          | Revisor   |
 | ------ | ---------- | ---------------------------------- | -------------- | --------- |
 | `1.0`    | 22/06/2025 | Criação e conclusão da verificação | [Victor Pontual](https://github.com/VictorPontual) | [Enzo Emir](https://github.com/EnzoEmir) |
-| `1.1` | 27/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | - |
+| `1.1` | 27/06/2025 | Adicionando autor na tabela | [Enzo Emir](https://github.com/EnzoEmir) | [Eduardo de Pina](https://github.com/eduardodpms) |
