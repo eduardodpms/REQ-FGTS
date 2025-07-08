@@ -13,7 +13,7 @@ A entrega final do projeto consiste, no contexto do planejamento da disciplina <
 ## Apresentação
 
 <p style="text-align: center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b1tTkWnEP6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
 
@@ -30,4 +30,5 @@ A entrega final do projeto consiste, no contexto do planejamento da disciplina <
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | :-: | :-: | :-: | :-: | :-: |
-| `1.0`  | 06/07/2025 | Criação do documento | [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.0`  | 07/07/2025 | Criação do documento | [Eduardo de Pina](https://github.com/eduardodpms) | [Enzo Emir](https://github.com/EnzoEmir) |
+| `1.1`  | 07/07/2025 | Adição do vídeo da apresentação | [Eduardo de Pina](https://github.com/eduardodpms) | [Maria Eduarda](https://github.com/dudaa28) |
