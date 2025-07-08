@@ -537,3 +537,4 @@ No contexto do app FGTS, uma pós-condição para o caso de uso **Visualizar Dat
 | `2.5` | 18/05/2025 | Gravação da Verificação | [Maria Eduarda](https://github.com/dudaa28) | [Danielle](https://github.com/danielle-soaress) | [Enzo Emir](https://github.com/EnzoEmir) |
 | `2.6` | 08/06/2025 | Adição de hiperlinks | [Danielle](https://github.com/danielle-soaress) | [Victor Pontual](https://github.com/VictorPontual) |
 | `2.7` | 22/06/2025 | Adição de revisores | [Victor Pontual](https://github.com/VictorPontual) | [Marcelo Makoto](https://github.com/MM4k) |
+| `2.8` | 07/07/2025 | Legenda dos diagramas | [Danielle](https://github.com/danielle-soaress) | [Victor Pontual](https://github.com/VictorPontual) |
