@@ -34,8 +34,8 @@ Nesta seção, cada integrante da equipe compartilha, de forma individual, as pr
     </tr>
     <tr>
       <td> Leticia Arisa </td>
-      <td> - </td>
-      <td> - </td>
+      <td> 06/07/2025 </td>
+      <td> 10:20 </td>
     </tr>
     <tr>
       <td> Marcelo Makoto </td>
