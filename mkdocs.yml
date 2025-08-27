@@ -1,5 +1,5 @@
-repo_url: https://github.com/Requisitos-de-Software/2025.1-FGTS/tree/main
-repo_name: 2025.1-FGTS
+repo_url: https://github.com/eduardodpms/REQ-FGTS/tree/main
+repo_name: REQ-FGTS
 
 markdown_extensions:
   - admonition
@@ -18,7 +18,7 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.keys
 
-site_name: FGTS
+site_name: REQ-FGTS
 
 theme:
   name: material

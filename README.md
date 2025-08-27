@@ -24,7 +24,7 @@ O objetivo do desenvolvimento em questão é proporcionar aos componentes do tim
 
 Toda a documentação pertinente ao desenvolvimento do projeto está mantida na página referenciada pelo link a seguir. Esse registro é sustentado com o auxílio das ferramentas [*GitHub Pages*](https://pages.github.com) e [*MkDocs*](https://www.mkdocs.org).
 
-### ► *Acesse:* *https://requisitos-de-software.github.io/2025.1-FGTS 🔗*
+### ► *Acesse:* *https://eduardodpms.github.io/REQ-FGTS 🔗*
 
 <br>
 
@@ -32,7 +32,7 @@ Toda a documentação pertinente ao desenvolvimento do projeto está mantida na 
 
 O [*FGTS*](https://www.caixa.gov.br/atendimento/aplicativos/fgts/Paginas/default.aspx) é um aplicativo *mobile* mantido pela [Caixa Econômica Federal](https://www.caixa.gov.br/Paginas/home-caixa.aspx), e permite que trabalhadores brasileiros consultem informações sobre o [Fundo de Garantia do Tempo de Serviço (FGTS)](https://www.caixa.gov.br/beneficios-trabalhador/fgts/Paginas/default.aspx). Com ele, é possível acompanhar depósitos feitos pelos empregadores, atualizar dados cadastrais e receber notificações sobre movimentações na conta. Também é possível solicitar saques, incluindo o saque-aniversário, saques por emergência, e realizar transferências via PIX. O aplicativo está disponível para smartphones [*Android*](https://play.google.com/store/apps/details?id=br.gov.caixa.fgts.trabalhador&hl=pt_BR) e [*IOS*](https://apps.apple.com/br/app/fgts/id1038441027).
 
-Para demais informações referentes ao *app* e termos de uso, visite a [página de documentação](https://requisitos-de-software.github.io/2025.1-FGTS/Planejamento/Aplicativo/).
+Para demais informações referentes ao *app* e termos de uso, visite a [página de documentação](https://eduardodpms.github.io/REQ-FGTS/Planejamento/Aplicativo/).
 
 <br>
 
@@ -40,15 +40,15 @@ Para demais informações referentes ao *app* e termos de uso, visite a [página
 
 Os artefatos previstos, associados a cada entrega, estão listados a seguir com seus respectivos links na página de documentação. As informações de cada entrega estão descritas em [*6. Histórico de Entregas 📅*](#6-histórico-de-entregas-).
 
-1. [*Pré-Rastreabilidade* 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Pre-Rastreabilidade/Rich-Picture/)
-2. [*Elicitação de Requisitos* 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Perfil-de-Usuario/)
-3. [*Modelagem de Requisitos I* 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/)
-4. [*Modelagem de Requisitos II (Ágil)* 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/)
-5. *Análise de Requisitos* ([*Verificação* 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/planejamento-geral/)) e ([*Validação* 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Validacao/Prototipacao/))
-6. [*Pós-Rastreabilidade* 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Matriz-de-Rastreabilidade/)
+1. [*Pré-Rastreabilidade* 🔗](https://eduardodpms.github.io/REQ-FGTS/Pre-Rastreabilidade/Rich-Picture/)
+2. [*Elicitação de Requisitos* 🔗](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Perfil-de-Usuario/)
+3. [*Modelagem de Requisitos I* 🔗](https://eduardodpms.github.io/REQ-FGTS/Modelagem-I/Diagrama/)
+4. [*Modelagem de Requisitos II (Ágil)* 🔗](https://eduardodpms.github.io/REQ-FGTS/Modelagem-II/NFR-Framework/)
+5. *Análise de Requisitos* ([*Verificação* 🔗](https://eduardodpms.github.io/REQ-FGTS/Verificacao/planejamento-geral/)) e ([*Validação* 🔗](https://eduardodpms.github.io/REQ-FGTS/Validacao/Prototipacao/))
+6. [*Pós-Rastreabilidade* 🔗](https://eduardodpms.github.io/REQ-FGTS/Pos-Rastreabilidade/Matriz-de-Rastreabilidade/)
 
 - ***Obs. 1:** A entrega `6` foi definida, na organização da disciplina, para ser realizada **antes** da entrega `5`.*
-- ***Obs. 2:** A entrega `Final`, correspondente à **etapa final** do projeto, está definida em [**Entrega Final** 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Final/Execucao/).*
+- ***Obs. 2:** A entrega `Final`, correspondente à **etapa final** do projeto, está definida em [**Entrega Final** 🔗](https://eduardodpms.github.io/REQ-FGTS/Final/Execucao/).*
 
 <br>
 

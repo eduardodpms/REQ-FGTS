@@ -17,17 +17,17 @@ Neste site está hospedada toda a documentação referente às atividades desenv
 
 Os artefatos desenvolvidos estão listados a seguir, com seus respectivos links nesta página:
 
-1. [*Pré-Rastreabilidade* 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Pre-Rastreabilidade/Rich-Picture/)
-2. [*Elicitação de Requisitos* 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Perfil-de-Usuario/)
-3. [*Modelagem de Requisitos I* 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/)
-4. [*Modelagem de Requisitos II (Ágil)* 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/)
-5. Análise de Requisitos ([*Verificação* 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/planejamento-geral/)) e ([*Validação* 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Validacao/Prototipacao/))
-6. [*Pós-Rastreabilidade* 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Matriz-de-Rastreabilidade/)
+1. [*Pré-Rastreabilidade* 🔗](https://eduardodpms.github.io/REQ-FGTS/Pre-Rastreabilidade/Rich-Picture/)
+2. [*Elicitação de Requisitos* 🔗](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Perfil-de-Usuario/)
+3. [*Modelagem de Requisitos I* 🔗](https://eduardodpms.github.io/REQ-FGTS/Modelagem-I/Diagrama/)
+4. [*Modelagem de Requisitos II (Ágil)* 🔗](https://eduardodpms.github.io/REQ-FGTS/Modelagem-II/NFR-Framework/)
+5. Análise de Requisitos ([*Verificação* 🔗](https://eduardodpms.github.io/REQ-FGTS/Verificacao/planejamento-geral/)) e ([*Validação* 🔗](https://eduardodpms.github.io/REQ-FGTS/Validacao/Prototipacao/))
+6. [*Pós-Rastreabilidade* 🔗](https://eduardodpms.github.io/REQ-FGTS/Pos-Rastreabilidade/Matriz-de-Rastreabilidade/)
 
 <br>
 
 - ***Obs. 1:** A entrega `6`, no plano da disciplina, foi definida para antes da entrega `5`.*
-- ***Obs. 2:** A entrega `Final` está definida em [**Entrega Final** 🔗](https://requisitos-de-software.github.io/2025.1-FGTS/Final/Execucao/).*
+- ***Obs. 2:** A entrega `Final` está definida em [**Entrega Final** 🔗](https://eduardodpms.github.io/REQ-FGTS/Final/Execucao/).*
 
 ---
 
