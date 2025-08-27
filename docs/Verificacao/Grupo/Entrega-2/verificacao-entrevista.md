@@ -8,11 +8,11 @@ Adotando a abordagem formal proposta por **Fagan**, estruturamos a inspeção em
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados da verificação realizada sobre o artefato de [Entrevista](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/) na versão 1.6, datada de **21/06/2025**, correspondente à **Etapa 2** do projeto do [grupo](https://github.com/Requisitos-de-Software/2025.1-FGTS).
+O objetivo deste documento é relatar os resultados da verificação realizada sobre o artefato de [Entrevista](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/) na versão 1.6, datada de **21/06/2025**, correspondente à **Etapa 2** do projeto do [grupo](https://github.com/eduardodpms/REQ-FGTS).
 
 ## Metodologia
 
-A verificação seguiu a checklist previamente definida no [planejamento de verificação](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/). Cada item foi avaliado com as opções: **Sim**, **Não** ou **Incompleto**, com campo aberto para inclusão de observações.
+A verificação seguiu a checklist previamente definida no [planejamento de verificação](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/). Cada item foi avaliado com as opções: **Sim**, **Não** ou **Incompleto**, com campo aberto para inclusão de observações.
 
 Além da avaliação objetiva, foram feitas análises críticas quanto à clareza, estrutura e alinhamento do conteúdo com as boas práticas de Engenharia de Requisitos.
 
@@ -59,26 +59,26 @@ Nesta etapa, o integrante [Victor Pontual](https://github.com/VictorPontual) atu
 
 | Item | Avaliação | Observação | Print | Autor |
 | ----- | :---: | :---: | :---: | :---: |
-| 01   | Sim       | O artefato contém referências bibliográficas adequadas.              | ![Bibliografia](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Entrevista/bibliografia_entre.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
-| 02   | Sim       | Existe histórico de versões com identificação, descrição e autoria.  | ![Versões](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Entrevista/versoes_entre.png?raw=true)           | [Victor Pontual](https://github.com/VictorPontual)
-| 03   | Sim       | As tabelas e registros apresentam fonte dos dados coletados.         | ![Fonte](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Entrevista/tabela_entre.png?raw=true)               | [Victor Pontual](https://github.com/VictorPontual)
-| 04   | Sim       | O artefato apresenta introdução contextualizando a técnica aplicada. | ![Introdução](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Entrevista/introducao_entre.png?raw=true)     | [Victor Pontual](https://github.com/VictorPontual)
-| 05   | Sim       | A linguagem está formal e adequada ao contexto técnico.              | ![Linguagem](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Entrevista/introducao_entre.png?raw=true)       | [Victor Pontual](https://github.com/VictorPontual)
-| 06   | Sim       | Há coerência entre textos, imagens e registros de entrevistas.       | ![Coerência](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Entrevista/coerencia_entre.png?raw=true)       | [Victor Pontual](https://github.com/VictorPontual)
+| 01   | Sim       | O artefato contém referências bibliográficas adequadas.              | ![Bibliografia](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Entrevista/bibliografia_entre.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
+| 02   | Sim       | Existe histórico de versões com identificação, descrição e autoria.  | ![Versões](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Entrevista/versoes_entre.png?raw=true)           | [Victor Pontual](https://github.com/VictorPontual)
+| 03   | Sim       | As tabelas e registros apresentam fonte dos dados coletados.         | ![Fonte](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Entrevista/tabela_entre.png?raw=true)               | [Victor Pontual](https://github.com/VictorPontual)
+| 04   | Sim       | O artefato apresenta introdução contextualizando a técnica aplicada. | ![Introdução](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Entrevista/introducao_entre.png?raw=true)     | [Victor Pontual](https://github.com/VictorPontual)
+| 05   | Sim       | A linguagem está formal e adequada ao contexto técnico.              | ![Linguagem](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Entrevista/introducao_entre.png?raw=true)       | [Victor Pontual](https://github.com/VictorPontual)
+| 06   | Sim       | Há coerência entre textos, imagens e registros de entrevistas.       | ![Coerência](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Entrevista/coerencia_entre.png?raw=true)       | [Victor Pontual](https://github.com/VictorPontual)
 
 ### Itens Específicos sobre Entrevista
 
 | Item | Avaliação | Observação | Print | Autor |
 | ----- | :---: | :---: | :---: | :---: | 
-| 01   | Sim       | Existe um cronograma com datas da realização das entrevistas.                                           | ![Cronograma](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Entrevista/cronograma_entre.png?raw=true)      | [Victor Pontual](https://github.com/VictorPontual)
+| 01   | Sim       | Existe um cronograma com datas da realização das entrevistas.                                           | ![Cronograma](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Entrevista/cronograma_entre.png?raw=true)      | [Victor Pontual](https://github.com/VictorPontual)
 | 02   | Não       | O local das entrevistas não foi especificado no documento.                                                  |                 | [Victor Pontual](https://github.com/VictorPontual)
 | 03   | Não       | Não foi demostrado a definição conjunta de cronograma e local entre equipe e participantes entrevistados.              | | [Victor Pontual](https://github.com/VictorPontual)
-| 04   | Sim       | Existe registro formal da participação de usuários reais durante a elicitação.                          | ![Registro](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Entrevista/gravacao_entre.png?raw=true)        | [Victor Pontual](https://github.com/VictorPontual)
-| 05   | Sim       | Foram feitas gravações ou anotações formais das entrevistas.                                            | ![Registro](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Entrevista/gravacao_entre.png?raw=true)          | [Victor Pontual](https://github.com/VictorPontual)
-| 06   | Sim       | O objetivo da entrevista está claro.                                                                    | ![Objetivo](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Entrevista/introducao_entre.png?raw=true)          | [Victor Pontual](https://github.com/VictorPontual)
+| 04   | Sim       | Existe registro formal da participação de usuários reais durante a elicitação.                          | ![Registro](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Entrevista/gravacao_entre.png?raw=true)        | [Victor Pontual](https://github.com/VictorPontual)
+| 05   | Sim       | Foram feitas gravações ou anotações formais das entrevistas.                                            | ![Registro](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Entrevista/gravacao_entre.png?raw=true)          | [Victor Pontual](https://github.com/VictorPontual)
+| 06   | Sim       | O objetivo da entrevista está claro.                                                                    | ![Objetivo](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Entrevista/introducao_entre.png?raw=true)          | [Victor Pontual](https://github.com/VictorPontual)
 | 07   | Não    | O roteiro de questões e as informações que se desejam buscar não estão identificados.                       |             | [Victor Pontual](https://github.com/VictorPontual)
 | 08   | Não      | As perguntas não foram registradas metodicamente |         | [Victor Pontual](https://github.com/VictorPontual)
-| 09   | Sim       | Os aspectos importantes da entrevista foram registrados de forma completa.                              |     ![Registro](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Entrevista/gravacao_entre.png?raw=true)       | [Victor Pontual](https://github.com/VictorPontual)
+| 09   | Sim       | Os aspectos importantes da entrevista foram registrados de forma completa.                              |     ![Registro](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Entrevista/gravacao_entre.png?raw=true)       | [Victor Pontual](https://github.com/VictorPontual)
 
 
 

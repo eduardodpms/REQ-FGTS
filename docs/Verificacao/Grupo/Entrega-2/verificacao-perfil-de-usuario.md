@@ -8,11 +8,11 @@ O conteúdo foi analisado com base nas orientações apresentadas na obra **Inte
 
 ## Objetivo
 
-Este documento tem como objetivo relatar os resultados da verificação realizada sobre o artefato [Perfil de Usuário](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Perfil-de-Usuario/) na versão 1.6, datada de 21/06/2025, da Etapa 2 do [Grupo FGTS](https://github.com/Requisitos-de-Software/2025.1-FGTS).
+Este documento tem como objetivo relatar os resultados da verificação realizada sobre o artefato [Perfil de Usuário](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Perfil-de-Usuario/) na versão 1.6, datada de 21/06/2025, da Etapa 2 do [Grupo FGTS](https://github.com/eduardodpms/REQ-FGTS).
 
 ## Metodologia
 
-A verificação foi realizada com base na checklist definida no [Planejamento de Verificação da Entrega 2](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/). Para cada item da lista, o avaliador marcou **Sim**, **Não** ou **Incompleto**, além de incluir observações quando necessário.
+A verificação foi realizada com base na checklist definida no [Planejamento de Verificação da Entrega 2](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/). Para cada item da lista, o avaliador marcou **Sim**, **Não** ou **Incompleto**, além de incluir observações quando necessário.
 
 ## Cronograma e Participantes
 
@@ -59,12 +59,12 @@ Nesta etapa o integrante [Enzo Emir](https://github.com/EnzoEmir), será respons
 
 | Item | Avaliação | Observação | Print | Autor |
 | ----- | :---: | :---: | :---: | :---: |
-| **01:** O artefato apresenta uma bibliografia/referência bibliográfica? | Sim | - | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/ref_perf.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
-| **02:** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | Sim | - | ![Hist](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/hist_perf.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
-| **03:** As tabelas e imagens apresentam legenda e fonte? | Sim | - | ![Fonte](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/fonte_perf.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
-| **04:** O artefato apresenta uma introdução? | Sim | - | ![Intro](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/intro_perf.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
-| **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Sim | - | ![Formal](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/intro_perf.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
-| **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Sim | - | ![Coerencia](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/fonte_perf.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **01:** O artefato apresenta uma bibliografia/referência bibliográfica? | Sim | - | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/ref_perf.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **02:** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | Sim | - | ![Hist](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/hist_perf.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **03:** As tabelas e imagens apresentam legenda e fonte? | Sim | - | ![Fonte](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/fonte_perf.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **04:** O artefato apresenta uma introdução? | Sim | - | ![Intro](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/intro_perf.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Sim | - | ![Formal](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/intro_perf.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Sim | - | ![Coerencia](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/fonte_perf.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
 
 
 
@@ -72,11 +72,11 @@ Nesta etapa o integrante [Enzo Emir](https://github.com/EnzoEmir), será respons
 
 | Item | Avaliação | Observação | Print | Autor |
 | ----- | :---: | :---: | :---: | :---: |
-| **01:** O perfil do usuário especifica características demográficas, como idade, gênero, nível de instrução e outras características relevantes? | Sim | - | ![Perf_Us](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/perf_us.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
-| **02:** O perfil do usuário especifica características comportamentais, como nível de experiência e atitudes em relação à tecnologia (tecnófilos/tecnófobos)? | Sim | - | ![Perf_Us](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/perf_us.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
-| **03:** O perfil de usuário especifica as tarefas primárias dos usuários? | Sim | - | ![Perf_Us](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/perf_us.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
-| **04:** Os dados utilizados para construir o perfil de usuário foram obtidos por meio de estudos, como entrevistas, questionários ou observação? | Não | Apenas fontes secundárias foram utilizadas (sites, TCCs, IA). | ![Metodo_Per](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/metodo_per.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
-| **05:** Ao final, os usuários foram categorizados em grupos com base em suas semelhanças, considerando a porcentagem em cada faixa? | Sim | - | ![Perf_Us](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/perf_us.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **01:** O perfil do usuário especifica características demográficas, como idade, gênero, nível de instrução e outras características relevantes? | Sim | - | ![Perf_Us](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/perf_us.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **02:** O perfil do usuário especifica características comportamentais, como nível de experiência e atitudes em relação à tecnologia (tecnófilos/tecnófobos)? | Sim | - | ![Perf_Us](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/perf_us.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **03:** O perfil de usuário especifica as tarefas primárias dos usuários? | Sim | - | ![Perf_Us](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/perf_us.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **04:** Os dados utilizados para construir o perfil de usuário foram obtidos por meio de estudos, como entrevistas, questionários ou observação? | Não | Apenas fontes secundárias foram utilizadas (sites, TCCs, IA). | ![Metodo_Per](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/metodo_per.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **05:** Ao final, os usuários foram categorizados em grupos com base em suas semelhanças, considerando a porcentagem em cada faixa? | Sim | - | ![Perf_Us](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/perf_us.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
 
 
 

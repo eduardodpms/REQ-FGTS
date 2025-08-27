@@ -531,7 +531,7 @@ O léxico L13 utiliza o requisito funcional EN03 (O sistema deve permitir que o 
 
 ### L14: Oferecer Canal de Suporte
 
-Os léxicos apresentados a seguir (Tabelas 17 e 18) foram construidos a partir do requisito funcional não implementado que propõe que o aplicativo ofereça um canal de suporte ou chatbot para esclarecer dúvidas dos usuários ([EN04](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais)). Os termos selecionados refletem ações e objetos associados à comunicação entre usuário e sistema, além de aspectos da assistência virtual.
+Os léxicos apresentados a seguir (Tabelas 17 e 18) foram construidos a partir do requisito funcional não implementado que propõe que o aplicativo ofereça um canal de suporte ou chatbot para esclarecer dúvidas dos usuários ([EN04](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais)). Os termos selecionados refletem ações e objetos associados à comunicação entre usuário e sistema, além de aspectos da assistência virtual.
 
 
 <font size="3"><p style="text-align: center">Tabela 17: Léxico 14 – Oferecer Canal de Suporte (L14)</p></font>
@@ -573,7 +573,7 @@ Os léxicos apresentados a seguir (Tabelas 17 e 18) foram construidos a partir d
 
 ---
 
-Os léxicos listados nas Tabelas 19 a 22 têm como base o requisito funcional não implementado que prevê a possibilidade de ajustar o tamanho das fontes na interface do aplicativo ([ST08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais)). Os termos foram escolhidos para representar tanto ações quanto objetos e estados associados à personalização da interface e à acessibilidade, considerando a melhoria da experiência para usuários com diferentes perfis.
+Os léxicos listados nas Tabelas 19 a 22 têm como base o requisito funcional não implementado que prevê a possibilidade de ajustar o tamanho das fontes na interface do aplicativo ([ST08](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais)). Os termos foram escolhidos para representar tanto ações quanto objetos e estados associados à personalização da interface e à acessibilidade, considerando a melhoria da experiência para usuários com diferentes perfis.
 
 ---
 
@@ -928,7 +928,7 @@ O léxico L32 está relacionado ao requisito funcional IS12 (O aplicativo deve p
 
 ### <a name="L33"></a> L33: Exibir informações detalhadas
 
-O L33, apresentado na tabela 36, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
+O L33, apresentado na tabela 36, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
 
 <font size="3"><p style="text-align: center">Tabela 36: Léxico 33 – Exibir informações detalhadas (L31)</p></font>
 
@@ -939,9 +939,9 @@ O L33, apresentado na tabela 36, utiliza o seguinte requisito não implementado:
 | **Termo** | Exibir informações detalhadas | 
 | **Tipo** | Verbo | 
 | **Impacto** |  O sistema consulta o banco de dados para recuperar os registros relacionados à movimentação financeira selecionada. <br> O sistema abre uma nova aba que apresenta as informações detalhadas.  | 
-| **Noção** | Tarefa realizada pelo sistema. <br> Acontece quando o usuário seleciona uma transação no [histórico de movimentações financeiras](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L35). <br> Sistema verifica se os dados das movimentações financeiras estão registrados. | 
+| **Noção** | Tarefa realizada pelo sistema. <br> Acontece quando o usuário seleciona uma transação no [histórico de movimentações financeiras](https://eduardodpms.github.io/REQ-FGTS/Modelagem-I/Lexicos/#L35). <br> Sistema verifica se os dados das movimentações financeiras estão registrados. | 
 | **Sinônimos** | Mostrar informações detalhada | 
-|**Conexões**| [L35](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L35)|
+|**Conexões**| [L35](https://eduardodpms.github.io/REQ-FGTS/Modelagem-I/Lexicos/#L35)|
 | **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | 
 
 </center>
@@ -952,7 +952,7 @@ O L33, apresentado na tabela 36, utiliza o seguinte requisito não implementado:
 
 ### <a name="L34"></a> L34: Informações detalhadas
 
-O L34, apresentado na tabela 37, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
+O L34, apresentado na tabela 37, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
 
 
 <font size="3"><p style="text-align: center">Tabela 37: Léxico 34 – Informações detalhadas (L32)</p></font>
@@ -963,10 +963,10 @@ O L34, apresentado na tabela 37, utiliza o seguinte requisito não implementado:
 | :-:       | :-:            |
 | **Termo** | Informações detalhadas | 
 | **Tipo** | Objeto | 
-| **Impacto** | Podem ser [exibidas](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L33) ao usuário, armazenadas e consultadas. | 
-| **Noção** | Conjunto de dados de uma movimentação financeira. <br> São consultadas no [histórico de movimentações financeiras](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L35). | 
+| **Impacto** | Podem ser [exibidas](https://eduardodpms.github.io/REQ-FGTS/Modelagem-I/Lexicos/#L33) ao usuário, armazenadas e consultadas. | 
+| **Noção** | Conjunto de dados de uma movimentação financeira. <br> São consultadas no [histórico de movimentações financeiras](https://eduardodpms.github.io/REQ-FGTS/Modelagem-I/Lexicos/#L35). | 
 | **Sinônimos** | Dados específicos <br> informações completas | 
-|**Conexões**| [L33](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L33), [L35](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L35)|
+|**Conexões**| [L33](https://eduardodpms.github.io/REQ-FGTS/Modelagem-I/Lexicos/#L33), [L35](https://eduardodpms.github.io/REQ-FGTS/Modelagem-I/Lexicos/#L35)|
 | **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | 
 
 </center>
@@ -977,7 +977,7 @@ O L34, apresentado na tabela 37, utiliza o seguinte requisito não implementado:
 
 ### <a name="L35"></a> L35: Histórico de movimentações financeiras
 
-O L35, apresentado na tabela 38, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
+O L35, apresentado na tabela 38, utiliza o seguinte requisito não implementado: O aplicativo deve exibir informações detalhadas sobre o histórico de movimentações financeiras(<a href ="https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS09</a>)
 
 <font size="3"><p style="text-align: center">Tabela 38: Léxico 35 – Histórico de movimentações financeiras (L33)</p></font>
 
@@ -987,10 +987,10 @@ O L35, apresentado na tabela 38, utiliza o seguinte requisito não implementado:
 | :-:       | :-:            |
 | **Termo** | Histórico de movimentações financeiras | 
 | **Tipo** | Objeto | 
-| **Impacto** | Podem ser exibidas ao usuário, consultado e [filtrado por data](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L36). | 
-| **Noção** | Registros de movimentações financeiras realizadas pelo usuário ao longo do tempo. <br> Pode [exibir informações detalhadas](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L33) das movimentações financeiras. | 
+| **Impacto** | Podem ser exibidas ao usuário, consultado e [filtrado por data](https://eduardodpms.github.io/REQ-FGTS/Modelagem-I/Lexicos/#L36). | 
+| **Noção** | Registros de movimentações financeiras realizadas pelo usuário ao longo do tempo. <br> Pode [exibir informações detalhadas](https://eduardodpms.github.io/REQ-FGTS/Modelagem-I/Lexicos/#L33) das movimentações financeiras. | 
 | **Sinônimos** | Extrato, Registro de transações, Lista de movimentações. | 
-|**Conexões**| [L33](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L33), [L36](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L36)|
+|**Conexões**| [L33](https://eduardodpms.github.io/REQ-FGTS/Modelagem-I/Lexicos/#L33), [L36](https://eduardodpms.github.io/REQ-FGTS/Modelagem-I/Lexicos/#L36)|
 | **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | 
 
 </center>
@@ -1007,7 +1007,7 @@ O L35, apresentado na tabela 38, utiliza o seguinte requisito não implementado:
 <center>
 
 O L36, apresentado na tabela 39, utiliza o seguinte requisito não implementado: O aplicativo deve permitir o filtro do extrato por data (mês e ano) 
-(<a href ="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS10</a>)
+(<a href ="https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Requisitos-elicitados/#requisitos-funcionais">IS10</a>)
 
 <font size="3"><p style="text-align: center">Tabela 39: Léxico 36 – Filtrar (L36)</p></font>
 
@@ -1015,10 +1015,10 @@ O L36, apresentado na tabela 39, utiliza o seguinte requisito não implementado:
 | :-:       | :-:            |
 | **Termo** | Filtrar | 
 | **Tipo** | Verbo | 
-| **Impacto** | Permite que o usuário restrinja as movimentações exibidas no [histórico de movimentações financeiras](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L35) com base na data(mês e ano). | 
+| **Impacto** | Permite que o usuário restrinja as movimentações exibidas no [histórico de movimentações financeiras](https://eduardodpms.github.io/REQ-FGTS/Modelagem-I/Lexicos/#L35) com base na data(mês e ano). | 
 | **Noção** | Tarefa realizada pelo usuário. <br> Acontece quando o usuário seleciona uma data(mês e ano) específico. <br> sistema valida a data selecionada. | 
 | **Sinônimos** | Aplicar, Buscar | 
-|**Conexões**| [L35](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/#L35)|
+|**Conexões**| [L35](https://eduardodpms.github.io/REQ-FGTS/Modelagem-I/Lexicos/#L35)|
 | **Autor** | [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa) | 
 
 </center>

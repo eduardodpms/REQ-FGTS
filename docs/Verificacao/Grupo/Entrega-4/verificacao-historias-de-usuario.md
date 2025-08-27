@@ -10,11 +10,11 @@ Ao longo do processo, reunimos dados, apontamos os principais problemas encontra
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato de [Histórias de Usuário](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/Historias-De-Usuario/#introducao) na versão 3.2 de data 07/06/2025 da Entrega 4 do [grupo](https://github.com/Requisitos-de-Software/2025.1-FGTS).
+O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato de [Histórias de Usuário](https://eduardodpms.github.io/REQ-FGTS/Modelagem-II/Historias-De-Usuario/#introducao) na versão 3.2 de data 07/06/2025 da Entrega 4 do [grupo](https://github.com/eduardodpms/REQ-FGTS).
 
 ## Metodologia
 
-A verificação foi realizada com base nas listas de verificação definidas no [planejamento](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/). Para cada item, o avaliador marcou **Sim**, **Não** ou **Incompleto** e pôde incluir observações quando necessário.
+A verificação foi realizada com base nas listas de verificação definidas no [planejamento](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/). Para cada item, o avaliador marcou **Sim**, **Não** ou **Incompleto** e pôde incluir observações quando necessário.
 
 ## Cronograma e Participantes
 
@@ -55,7 +55,7 @@ Nesta etapa o integrante [Marcelo Makoto](https://github.com/MM4k), será respon
 
 ## Inspeção
 
-As tabelas abaixo apresentam a inspeção da Lista de Verificação das "Histórias de Usuário" realizada pelo avaliador, conforme as listas de verificação definidas no [Planejamento](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/).
+As tabelas abaixo apresentam a inspeção da Lista de Verificação das "Histórias de Usuário" realizada pelo avaliador, conforme as listas de verificação definidas no [Planejamento](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/).
 
 
 ### Itens Gerais
@@ -64,12 +64,12 @@ As tabelas abaixo apresentam a inspeção da Lista de Verificação das "Histór
 
 | Item | Avaliação | Observação | Print | Autor |
 | ----- | :---: | :---: | :---: | :---: |
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image1] | [Marcelo Makoto](https://github.com/MM4k)
-| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image2] | [Marcelo Makoto](https://github.com/MM4k)
-| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image3] | [Marcelo Makoto](https://github.com/MM4k)
-| ***04:*** O artefato apresenta uma introdução? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image4] | [Marcelo Makoto](https://github.com/MM4k)
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image5] | [Marcelo Makoto](https://github.com/MM4k)
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image6] | [Marcelo Makoto](https://github.com/MM4k)
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(1)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image1] | [Marcelo Makoto](https://github.com/MM4k)
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(1)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image2] | [Marcelo Makoto](https://github.com/MM4k)
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(1)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image3] | [Marcelo Makoto](https://github.com/MM4k)
+| ***04:*** O artefato apresenta uma introdução? [(1)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image4] | [Marcelo Makoto](https://github.com/MM4k)
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(1)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image5] | [Marcelo Makoto](https://github.com/MM4k)
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(1)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image6] | [Marcelo Makoto](https://github.com/MM4k)
 
 
 ### Histórias de Usuário
@@ -80,13 +80,13 @@ As tabelas abaixo apresentam a inspeção da Lista de Verificação das "Histór
 
 | Item | Avaliação | Observação | Print | Autor |
 | ----- | :---: | :---: | :---: | :---: |
-| ***01:*** Os títulos das histórias de usuário são auto-explicativos? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-4/planejamento-verificacao-entrega-4/#REF1) | Sim | \- | ![][image7] | [Marcelo Makoto](https://github.com/MM4k)
-| ***02:*** O “quem”, “o que” e o “por que” estão definidos na história de usuário? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-4/planejamento-verificacao-entrega-4/#REF1) | Sim | \- | ![][image5] | [Marcelo Makoto](https://github.com/MM4k)
-| ***03:*** Existe a participação do cliente e/ou persona na validação das histórias de usuário? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-4/planejamento-verificacao-entrega-4/#REF1) | Sim | \- | ![][image8] | [Marcelo Makoto](https://github.com/MM4k)
-| ***04:*** A história possui critérios de aceitação? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-4/planejamento-verificacao-entrega-4/#REF1) | Sim | \- | ![][image9] | [Marcelo Makoto](https://github.com/MM4k)
-| ***05:*** Existe a participação do cliente e/ou persona na elicitação de requisitos? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-4/planejamento-verificacao-entrega-4/#REF1) | Sim | \- | ![][image8] | [Marcelo Makoto](https://github.com/MM4k)
-| ***06:*** Todas as histórias de usuários podem ser testadas? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-4/planejamento-verificacao-entrega-4/#REF1) | Sim | \- | ![][image10] | [Marcelo Makoto](https://github.com/MM4k)
-| ***07:*** As Histórias de Usuário seguem algum modelo ou padrão? [(2)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-4/planejamento-verificacao-entrega-4/#REF3) | Sim | \- | ![][image11] | [Marcelo Makoto](https://github.com/MM4k)
+| ***01:*** Os títulos das histórias de usuário são auto-explicativos? [(1)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-4/planejamento-verificacao-entrega-4/#REF1) | Sim | \- | ![][image7] | [Marcelo Makoto](https://github.com/MM4k)
+| ***02:*** O “quem”, “o que” e o “por que” estão definidos na história de usuário? [(1)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-4/planejamento-verificacao-entrega-4/#REF1) | Sim | \- | ![][image5] | [Marcelo Makoto](https://github.com/MM4k)
+| ***03:*** Existe a participação do cliente e/ou persona na validação das histórias de usuário? [(1)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-4/planejamento-verificacao-entrega-4/#REF1) | Sim | \- | ![][image8] | [Marcelo Makoto](https://github.com/MM4k)
+| ***04:*** A história possui critérios de aceitação? [(1)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-4/planejamento-verificacao-entrega-4/#REF1) | Sim | \- | ![][image9] | [Marcelo Makoto](https://github.com/MM4k)
+| ***05:*** Existe a participação do cliente e/ou persona na elicitação de requisitos? [(1)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-4/planejamento-verificacao-entrega-4/#REF1) | Sim | \- | ![][image8] | [Marcelo Makoto](https://github.com/MM4k)
+| ***06:*** Todas as histórias de usuários podem ser testadas? [(1)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-4/planejamento-verificacao-entrega-4/#REF1) | Sim | \- | ![][image10] | [Marcelo Makoto](https://github.com/MM4k)
+| ***07:*** As Histórias de Usuário seguem algum modelo ou padrão? [(2)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-4/planejamento-verificacao-entrega-4/#REF3) | Sim | \- | ![][image11] | [Marcelo Makoto](https://github.com/MM4k)
 
 
 ## Análise de Resultados

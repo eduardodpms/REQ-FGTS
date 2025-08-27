@@ -8,11 +8,11 @@ Seguindo a metodologia de inspeção formal proposta por Fagan, estruturamos o p
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato de [Introspecção](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) na versão 1.5 de data 17/05/2025 da Etapa 2 do [grupo](https://github.com/Requisitos-de-Software/2025.1-FGTS).
+O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato de [Introspecção](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) na versão 1.5 de data 17/05/2025 da Etapa 2 do [grupo](https://github.com/eduardodpms/REQ-FGTS).
 
 ## Metodologia
 
-A verificação seguiu as checklists previamente definidas no [planejamento de verificação](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/). Para cada critério avaliado, a resposta foi classificada como **Sim**, **Não** ou **Incompleto**, permitindo também a inclusão de observações mais detalhadas sempre que necessário.
+A verificação seguiu as checklists previamente definidas no [planejamento de verificação](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/). Para cada critério avaliado, a resposta foi classificada como **Sim**, **Não** ou **Incompleto**, permitindo também a inclusão de observações mais detalhadas sempre que necessário.
 
 Embora a metodologia tenha um caráter técnico e objetivo, durante a análise foi inevitável fazer considerações de caráter qualitativo, refletindo sobre a clareza, completude e relevância do conteúdo.
 
@@ -65,25 +65,25 @@ O resultado da verificação ficou organizado nas seguintes categorias:
 
 | Item | Avaliação | Observação | Print | Autor |
 | ----- | :---: | :---: | :---: | :---: |
-| 01   | Sim       | O artefato contém referências bibliográficas adequadas.                    | ![Bibliografia](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Introspeccao/bibliografia_into.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
-| 02   | Sim       | Existe um histórico de versões, com identificador, descrição e autoria.    | ![Fonte](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Introspeccao/versoes_intro.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
-| 03   | Sim       | As tabelas presentes no documento apresentam a fonte dos dados.        | ![Tabela](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Introspeccao/coerencia_intro.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
-| 04   | Sim       | Há uma introdução que contextualiza o artefato.                            | ![Introdução](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Introspeccao/introducao_intro.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
-| 05   | Sim       | O texto adota linguagem formal e adequada ao contexto técnico.             | ![Introdução](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Introspeccao/introducao_intro.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
-| 06   | Sim       | Existe coerência entre os textos, tabelas e demais representações visuais. | ![Coerência](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Introspeccao/coerencia_intro.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
+| 01   | Sim       | O artefato contém referências bibliográficas adequadas.                    | ![Bibliografia](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Introspeccao/bibliografia_into.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
+| 02   | Sim       | Existe um histórico de versões, com identificador, descrição e autoria.    | ![Fonte](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Introspeccao/versoes_intro.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
+| 03   | Sim       | As tabelas presentes no documento apresentam a fonte dos dados.        | ![Tabela](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Introspeccao/coerencia_intro.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
+| 04   | Sim       | Há uma introdução que contextualiza o artefato.                            | ![Introdução](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Introspeccao/introducao_intro.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
+| 05   | Sim       | O texto adota linguagem formal e adequada ao contexto técnico.             | ![Introdução](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Introspeccao/introducao_intro.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
+| 06   | Sim       | Existe coerência entre os textos, tabelas e demais representações visuais. | ![Coerência](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Introspeccao/coerencia_intro.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
 
 
 ### Itens Específicos sobre Introspecção
 
 | Item | Avaliação | Observação | Print | Autor |
 | ----- | :---: | :---: | :---: | :---: |
-| 01   | Sim       | Foi identificado um cronograma com datas para a realização da elicitação de requisitos.                              | ![Cronograma](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Introspeccao/cronograma_intro.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
-| 02   | Sim       | O local de realização da elicitação não foi especificado no artefato.                                                    | ![Local](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Introspeccao/local_intro.png?raw=true)| [Victor Pontual](https://github.com/VictorPontual)
+| 01   | Sim       | Foi identificado um cronograma com datas para a realização da elicitação de requisitos.                              | ![Cronograma](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Introspeccao/cronograma_intro.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
+| 02   | Sim       | O local de realização da elicitação não foi especificado no artefato.                                                    | ![Local](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Introspeccao/local_intro.png?raw=true)| [Victor Pontual](https://github.com/VictorPontual)
 | 03   | Não       | Não há evidências de que cronograma e local tenham sido definidos em conjunto com cliente ou persona.                    |  |  [Victor Pontual](https://github.com/VictorPontual)
 | 04   | Não       | Não há registro de participação de cliente ou persona durante a elicitação, o que é esperado na técnica de introspecção. |  | [Victor Pontual](https://github.com/VictorPontual)
-| 05   | Sim     | Foram apresentadas gravações ou registros formais das atividades de elicitação.                                      | ![Gravação](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Introspeccao/gravacao_intro.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
-| 06   | Sim       | O participante conduziu a introspecção de forma imersiva, simulando a experiência de um usuário real.                    | ![Gravação](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Introspeccao/gravacao_intro.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
-| 07   | Sim       | Durante a imersão, foi feita uma análise sobre as propriedades desejáveis para o sistema ter sucesso.                    | ![Gravação](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Introspeccao/gravacao_intro.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
+| 05   | Sim     | Foram apresentadas gravações ou registros formais das atividades de elicitação.                                      | ![Gravação](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Introspeccao/gravacao_intro.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
+| 06   | Sim       | O participante conduziu a introspecção de forma imersiva, simulando a experiência de um usuário real.                    | ![Gravação](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Introspeccao/gravacao_intro.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
+| 07   | Sim       | Durante a imersão, foi feita uma análise sobre as propriedades desejáveis para o sistema ter sucesso.                    | ![Gravação](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Introspeccao/gravacao_intro.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
 
 
 ## Análise de Resultados

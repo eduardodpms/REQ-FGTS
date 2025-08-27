@@ -19,7 +19,7 @@ As inspeções passivas são aquelas realizadas por terceiros sobre a entrega do
 
 ### - Inspeções *Ativas*
 
-As inspeções ativas, por sua vez, são aquelas realizadas pelo próprio grupo 7 sobre alguma entrega, e indicam a visão dos componentes do nosso time sobre os artefatos entregues. As listas de verificação aqui seguem o modelo desenvolvido pelo grupo 7, entregues juntas à apresentação da entrega do grupo, na seção [Entregas](https://requisitos-de-software.github.io/2025.1-FGTS/Entregas/Entrega-1/). As inspeções *ativas* são:
+As inspeções ativas, por sua vez, são aquelas realizadas pelo próprio grupo 7 sobre alguma entrega, e indicam a visão dos componentes do nosso time sobre os artefatos entregues. As listas de verificação aqui seguem o modelo desenvolvido pelo grupo 7, entregues juntas à apresentação da entrega do grupo, na seção [Entregas](https://eduardodpms.github.io/REQ-FGTS/Entregas/Entrega-1/). As inspeções *ativas* são:
 
 - **Inspeção do Grupo (Auto-inspeção)**: Referente à avaliação do nosso grupo (*grupo 7*) sobre a entrega do nosso próprio grupo. Entregue junto à entrega do nosso grupo;
 - **Inspeção do Grupo +1**: Referente à avaliação do nosso grupo (*grupo 7*) sobre a entrega do grupo +1 ([*Grupo 8 - e-GDF*](https://github.com/Requisitos-de-Software/2025.1-e-GDF)). Entregue no dia seguinte à data limite da entrega.
@@ -44,11 +44,11 @@ Aqui, apresenta-se uma tabela para navegação rápida entre os conteúdos da se
   <tbody>
     <tr>
       <td rowspan="4", style="text-align: center; vertical-align: middle;">
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Entregas/Entrega-1/">
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Entregas/Entrega-1/">
           <span style="font-size: 20px;">Entrega 1</span>
         </a>
         <br><br>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Pre-Rastreabilidade/Rich-Picture/">
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Pre-Rastreabilidade/Rich-Picture/">
           <i>Pré-Rastreabilidade</i>
         </a>
       </td>
@@ -56,32 +56,32 @@ Aqui, apresenta-se uma tabela para navegação rápida entre os conteúdos da se
         <span style="color: blue;">Inspeção Passiva</span>
       </td>
       <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-1/Monitora/">Inspeção da Monitora</a>
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Inspecao/Entrega-1/Monitora/">Inspeção da Monitora</a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-1/Grupo-menos-1/">Inspeção do Grupo -1</a>
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Inspecao/Entrega-1/Grupo-menos-1/">Inspeção do Grupo -1</a>
       </td>
     </tr>
     <tr>
       <td rowspan="2", style="text-align: center; vertical-align: middle;"><span style="color: orange;">Inspeção Ativa</span></td>
       <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-1/Grupo/">Inspeção do Grupo (Auto-inspeção)</a>
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Inspecao/Entrega-1/Grupo/">Inspeção do Grupo (Auto-inspeção)</a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-1/Grupo-mais-1/">Inspeção do Grupo +1</a>
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Inspecao/Entrega-1/Grupo-mais-1/">Inspeção do Grupo +1</a>
       </td>
     </tr>
     <tr>
       <td rowspan="4", style="text-align: center; vertical-align: middle;">
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Entregas/Entrega-2/">
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Entregas/Entrega-2/">
           <span style="font-size: 20px;">Entrega 2</span>
         </a>
         <br><br>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Perfil-de-Usuario/">
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Perfil-de-Usuario/">
           <i>Elicitação de Requisitos</i>
         </a>
       </td>
@@ -89,32 +89,32 @@ Aqui, apresenta-se uma tabela para navegação rápida entre os conteúdos da se
         <span style="color: blue;">Inspeção Passiva</span>
       </td>
       <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-2/Monitora/">Inspeção da Monitora</a>
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Inspecao/Entrega-2/Monitora/">Inspeção da Monitora</a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-2/Grupo-menos-1/">Inspeção do Grupo -1</a>
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Inspecao/Entrega-2/Grupo-menos-1/">Inspeção do Grupo -1</a>
       </td>
     </tr>
     <tr>
       <td rowspan="2", style="text-align: center; vertical-align: middle;"><span style="color: orange;">Inspeção Ativa</span></td>
       <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-2/Grupo/">Inspeção do Grupo (Auto-inspeção)</a>
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Inspecao/Entrega-2/Grupo/">Inspeção do Grupo (Auto-inspeção)</a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-2/Grupo-mais-1/">Inspeção do Grupo +1</a>
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Inspecao/Entrega-2/Grupo-mais-1/">Inspeção do Grupo +1</a>
       </td>
     </tr>
     <tr>
       <td rowspan="4", style="text-align: center; vertical-align: middle;">
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Entregas/Entrega-3/">
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Entregas/Entrega-3/">
           <span style="font-size: 20px;">Entrega 3</span>
         </a>
         <br><br>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/">
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Modelagem-I/Diagrama/">
           <i>Modelagem de Requisitos I</i>
         </a>
       </td>
@@ -122,32 +122,32 @@ Aqui, apresenta-se uma tabela para navegação rápida entre os conteúdos da se
         <span style="color: blue;">Inspeção Passiva</span>
       </td>
       <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-3/Monitora/">Inspeção da Monitora</a>
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Inspecao/Entrega-3/Monitora/">Inspeção da Monitora</a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-3/Grupo-menos-1/">Inspeção do Grupo -1</a>
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Inspecao/Entrega-3/Grupo-menos-1/">Inspeção do Grupo -1</a>
       </td>
     </tr>
     <tr>
       <td rowspan="2", style="text-align: center; vertical-align: middle;"><span style="color: orange;">Inspeção Ativa</span></td>
       <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-3/Grupo/">Inspeção do Grupo (Auto-inspeção)</a>
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Inspecao/Entrega-3/Grupo/">Inspeção do Grupo (Auto-inspeção)</a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-3/Grupo-mais-1/">Inspeção do Grupo +1</a>
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Inspecao/Entrega-3/Grupo-mais-1/">Inspeção do Grupo +1</a>
       </td>
     </tr>
     <tr>
       <td rowspan="3", style="text-align: center; vertical-align: middle;">
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Entregas/Entrega-4/">
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Entregas/Entrega-4/">
           <span style="font-size: 20px;">Entrega 4</span>
         </a>
         <br><br>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-II/NFR-Framework/">
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Modelagem-II/NFR-Framework/">
           <i>Modelagem de Requisitos II<br>(Ágil)</i>
         </a>
       </td>
@@ -155,23 +155,23 @@ Aqui, apresenta-se uma tabela para navegação rápida entre os conteúdos da se
         <span style="color: blue;">Inspeção Passiva</span>
       </td>
       <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-4/Grupo-menos-1/">Inspeção do Grupo -1</a>
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Inspecao/Entrega-4/Grupo-menos-1/">Inspeção do Grupo -1</a>
       </td>
     </tr>
     <tr>
       <td rowspan="2", style="text-align: center; vertical-align: middle;"><span style="color: orange;">Inspeção Ativa</span></td>
       <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-4/Grupo/">Inspeção do Grupo (Auto-inspeção)</a>
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Inspecao/Entrega-4/Grupo/">Inspeção do Grupo (Auto-inspeção)</a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-4/Grupo-mais-1/">Inspeção do Grupo +1</a>
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Inspecao/Entrega-4/Grupo-mais-1/">Inspeção do Grupo +1</a>
       </td>
     </tr>
     <tr>
       <td rowspan="3", style="text-align: center; vertical-align: middle;">
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Entregas/Entrega-5/">
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Entregas/Entrega-5/">
           <span style="font-size: 20px;">Entrega 5</span>
         </a>
         <br><br>
@@ -183,27 +183,27 @@ Aqui, apresenta-se uma tabela para navegação rápida entre os conteúdos da se
         <span style="color: blue;">Inspeção Passiva</span>
       </td>
       <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-5/Grupo-menos-1/">Inspeção do Grupo -1</a>
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Inspecao/Entrega-5/Grupo-menos-1/">Inspeção do Grupo -1</a>
       </td>
     </tr>
     <tr>
       <td rowspan="2", style="text-align: center; vertical-align: middle;"><span style="color: orange;">Inspeção Ativa</span></td>
       <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-5/Grupo/">Inspeção do Grupo (Auto-inspeção)</a>
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Inspecao/Entrega-5/Grupo/">Inspeção do Grupo (Auto-inspeção)</a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-5/Grupo-mais-1/">Inspeção do Grupo +1</a>
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Inspecao/Entrega-5/Grupo-mais-1/">Inspeção do Grupo +1</a>
       </td>
     </tr>
     <tr>
       <td rowspan="3", style="text-align: center; vertical-align: middle;">
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Entregas/Entrega-6/">
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Entregas/Entrega-6/">
           <span style="font-size: 20px;">Entrega 6</span>
         </a>
         <br><br>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Pos-Rastreabilidade/Elos-Forward-From/">
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Pos-Rastreabilidade/Elos-Forward-From/">
           <i>Pós-Rastreabilidade</i>
         </a>
       </td>
@@ -211,18 +211,18 @@ Aqui, apresenta-se uma tabela para navegação rápida entre os conteúdos da se
         <span style="color: blue;">Inspeção Passiva</span>
       </td>
       <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-6/Grupo-menos-1/">Inspeção do Grupo -1</a>
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Inspecao/Entrega-6/Grupo-menos-1/">Inspeção do Grupo -1</a>
       </td>
     </tr>
     <tr>
       <td rowspan="2", style="text-align: center; vertical-align: middle;"><span style="color: orange;">Inspeção Ativa</span></td>
       <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-6/Grupo/">Inspeção do Grupo (Auto-inspeção)</a>
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Inspecao/Entrega-6/Grupo/">Inspeção do Grupo (Auto-inspeção)</a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://requisitos-de-software.github.io/2025.1-FGTS/Inspecao/Entrega-6/Grupo-mais-1/">Inspeção do Grupo +1</a>
+        <a href="https://eduardodpms.github.io/REQ-FGTS/Inspecao/Entrega-6/Grupo-mais-1/">Inspeção do Grupo +1</a>
       </td>
     </tr>
   </tbody>

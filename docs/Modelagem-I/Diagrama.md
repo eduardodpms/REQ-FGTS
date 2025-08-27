@@ -152,7 +152,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **RF39**                     | **Descrição** |
 |----------------------------------|----------------|
 | **Nome do Caso de Uso**          | Visualizar Status Comentado do Saque |
-| **Rastreabilidade** | [EN02](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) |
+| **Rastreabilidade** | [EN02](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) |
 | **Ator Principal**               | Usuário |
 | **Atores Secundários**           | Sistema do FGTS, Servidor da Caixa |
 | **Objetivo**                     | Permitir que o usuário acompanhe o andamento do processo de saque com status detalhado e comentários explicativos. |
@@ -175,7 +175,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **RF01**                     | **Descrição** |
 |----------------------------------|----------------|
 | **Nome do Caso de Uso**          | Visualizar Data Prevista para Liberação de Valores |
-| **Rastreabilidade** | [EN03](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) |
+| **Rastreabilidade** | [EN03](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) |
 | **Ator Principal**               | Usuário |
 | **Atores Secundários**           | Sistema do FGTS, Servidor de Notificações |
 | **Objetivo**                     | Permitir que o usuário consulte a data estimada para liberação do valor solicitado no saque do FGTS. |
@@ -196,7 +196,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **RF02**                     | **Descrição** |
 |---------------------------------|---------------|
 | **Nome do Caso de Uso**          | Acessar Suporte via Chatbot |
-| **Rastreabilidade** | [EN04](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) |
+| **Rastreabilidade** | [EN04](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) |
 | **Ator Principal**               | Usuário |
 | **Atores Secundários**           | Sistema FGTS, Serviço de Chatbot |
 | **Objetivo**                    | Permitir que o usuário utilize um canal de suporte automatizado (chatbot) para esclarecer dúvidas sobre o aplicativo e serviços do FGTS. |
@@ -220,7 +220,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **RF09**                     | **Descrição** |
 |----------------------------------|----------------|
 | **Nome do Caso de Uso**          | Cancelar Solicitação de Saque |
-| **Rastreabilidade** | [IS06](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
+| **Rastreabilidade** | [IS06](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
 | **Ator Principal**               | Usuário |
 | **Atores Secundários**           | Sistema do FGTS |
 | **Objetivo**                     | Permitir que o usuário cancele uma solicitação de saque feita anteriormente no aplicativo FGTS.|
@@ -242,7 +242,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **RF10**                     | **Descrição** |
 |----------------------------------|----------------|
 | **Nome do Caso de Uso**          | Filtrar Saques por Tipo |
-| **Rastreabilidade** | [IS07](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
+| **Rastreabilidade** | [IS07](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
 | **Ator Principal**               | Usuário |
 | **Atores Secundários**           | Sistema do FGTS |
 | **Objetivo**                     | Permitir que o usuário filtre a lista de solicitações de saque por tipo (ex: aniversário, doença, falecimento) para facilitar a consulta. |
@@ -265,7 +265,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **RF11** | **Descrição** |
 |---------|----------------|
 | **Nome do Caso de Uso**          | Consultar Saques Bloqueados |
-| **Rastreabilidade** | [IS08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
+| **Rastreabilidade** | [IS08](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
 | **Atores** | Usuário (Ator Primário), Sistema do FGTS (Ator Secundário) |
 | **Ação** | O usuário visualiza seus saques bloqueados e os respectivos motivos. |
 | **Pré-condições** | <p>O usuário deve estar autenticado no aplicativo FGTS.</p><p>Deve existir pelo menos um saque bloqueado registrado no sistema.</p> |
@@ -287,7 +287,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **IS09** | **Descrição** |
 | ----- | ---------- |
 | **Nome do Caso de Uso**          | Exibir informações detalhadas sobre o histórico de movimentações financeiras |
-| **Rastreabilidade** | [IS09](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
+| **Rastreabilidade** | [IS09](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
 | **Atores** | Usuários do aplicativo FGTS |
 | **Ação** | O usuário acessa o histórico de movimentações financeiras e seleciona uma movimentação para visualizar informações detalhadas |
 | **Pré-condições** | O usuário deve estar logado no aplicativo FGTS. <br> O sistema deve possuir movimentações financeiras registradas. |
@@ -306,7 +306,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **IS10** | **Descrição** |
 | ----- | ---------- |
 | **Nome do Caso de Uso**          | Filtrar extrato por data |
-| **Rastreabilidade** | [IS10](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
+| **Rastreabilidade** | [IS10](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
 | **Atores** | Usuários do aplicativo FGTS |
 | **Ação** | O usuário filtra as movimentações financeiras exibidas no histórico de movimentações financeiras com base no mês e no ano |
 | **Pré-condições** | O usuário deve estar logado no aplicativo FGTS. <br> O sistema deve possuir movimentações financeiras com diferentes datas registradas.  |
@@ -327,7 +327,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **RF35** | **Descrição** |
 |---------|----------------|
 | **Nome do Caso de Uso**          | Cadastrar Múltiplas Contas Bancárias |
-| **Rastreabilidade** | [IS12](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
+| **Rastreabilidade** | [IS12](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
 | **Atores** | Sistema do FGTS |
 | **Ação** | <p>O usuário pode cadastrar uma ou mais contas bancárias de diferentes instituições financeiras.</p> |
 | **Pré-condições** | <p>O usuário deve estar autenticado no aplicativo FGTS.</p><p>O usuário deve possuir os dados completos da conta bancária a ser cadastrada.</p> |
@@ -348,7 +348,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **RF15**                     | **Descrição** |
 |----------------------------------|----------------|
 | **Nome do Caso de Uso**          | Contato com Assistente via Chat |
-| **Rastreabilidade** | [IS13](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
+| **Rastreabilidade** | [IS13](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
 | **Ator Principal**               | Usuário |
 | **Atores Secundários**           | Sistema do FGTS, Assistente Virtual |
 | **Objetivo**                     | Permitir que o usuário entre em contato com um assistente via chat para tirar dúvidas ou obter suporte relacionado ao FGTS. |
@@ -370,7 +370,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **RF16**                     | **Descrição** |
 |----------------------------------|----------------|
 | **Nome do Caso de Uso**          | Busca de Funcionalidades e Informações |
-| **Rastreabilidade** | [IS14](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
+| **Rastreabilidade** | [IS14](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) |
 | **Ator Principal**               | Usuário |
 | **Atores Secundários**           | Sistema do FGTS |
 | **Objetivo**                     | Permitir que o usuário localize rapidamente funcionalidades ou informações no aplicativo por meio de um campo de busca. |
@@ -392,7 +392,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **RF18** | **Descrição** |
 |-|-|
 | **Nome do Caso de Uso** | Página de Ajuda |
-| **Rastreabilidade** | [IS16](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) |
+| **Rastreabilidade** | [IS16](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais) |
 | **Ator Principal** | Usuário |
 | **Atores Secundários** | - |
 | **Objetivo** | Proporcionar uma seção explicativa ao usuário, que solucione dúvidas relacionadas ao uso do aplicativo. |
@@ -416,7 +416,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **RF29** | **Descrição** |
 |-|-|
 | **Nome do Caso de Uso** | Guia Interativo |
-| **Rastreabilidade** | [ST07](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais) |
+| **Rastreabilidade** | [ST07](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais) |
 | **Ator Principal** | Usuário |
 | **Atores Secundários** | - |
 | **Objetivo** | Auxiliar, interativamente, o usuário durante a realização de ações básicas no app. |
@@ -438,7 +438,7 @@ As informações estão organizadas em campos como **Nome**, **Descrição**, **
 | **RF30**                     | **Descrição** |
 |----------------------------------|----------------|
 | **Nome do Caso de Uso**          | Ajustar Tamanho da Fonte |
-| **Rastreabilidade** | [ST08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais) |
+| **Rastreabilidade** | [ST08](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais) |
 | **Ator Principal**               | Usuário |
 | **Atores Secundários**           | Sistema FGTS |
 | **Objetivo**                     | Permitir que o usuário personalize o tamanho das fontes na interface do aplicativo para melhor acessibilidade e leitura. |
@@ -476,20 +476,20 @@ No contexto do app FGTS, uma pós-condição para o caso de uso **Visualizar Dat
 
 | Caso de Uso                 | Fluxo Básico                                                                                     | Fluxos Alternativos                         | Fluxos de Exceção                                                                                               |
 | --------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| [EN02](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) | Usuário acessa o app → vai à seção Saque → seleciona pedido → vê status e comentário atualizados | Seleciona outro pedido → vê status anterior | Falha conexão → mostra erro e tenta de novo<br>Sem saques → informa ausência<br>Comentário ausente → link ajuda |                                                                                            |
-| [EN03](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) | Usuário acessa app → vai a Meus Saques → seleciona saque → vê data prevista e histórico | Consulta histórico de datas → vê etapas → recebe notificações | Data expirou → aviso e orientação<br>Sem previsão → informa ausência<br>Sem conexão → erro e tentar novamente |
-| [EN04](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) | Usuário abre app → vai à seção Suporte → interage com chatbot → recebe resposta → continua ou encerra conversa | Usuário envia dúvida para atendimento humano → sistema registra e informa prazo | Chatbot indisponível → mostra erro e sugere canais alternativos<br>Falha conexão → informa erro e pede nova tentativa |
-| [IS06](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) | Usuário acessa app → vai a Meus Saques → seleciona saque → clica em cancelar → confirma → sistema cancela e notifica | Usuário não confirma cancelamento → operação abortada | Saque já processado → bloqueia ação<br>Falha conexão/erro → mostra erro |
-| [IS07](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) | Usuário acessa app → vai a Histórico de Saques → seleciona filtro → escolhe tipo → sistema exibe lista filtrada | Usuário remove filtro → vê todos os saques<br>Sistema informa ausência de saques do tipo | Falha conexão → mostra erro<br>Erro no filtro → tenta novamente |
-|    [IS08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/)     | Usuário acessa app → faz login → vai a Saques → seleciona Saques Bloqueados → vê lista com motivos | Motivo bloqueio ausente → mensagem genérica<br>Sem saques bloqueados → informa ausência<br>Usuário pede mais info → link ajuda | Falha conexão login → erro e orientação para tentar novamente |
-|    [IS09](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/)     | Usuário faz login → acessa movimentações → vê lista → seleciona movimentação → vê detalhes  | Usuário usa filtro → vê movimentações do período            | Sem movimentações → sistema avisa                            |
-| [IS10](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/)        | Usuário faz login → acessa movimentações → seleciona filtro por mês/ano → vê movimentações    | Usuário faz login → acessa movimentações → vê lista completa | Data inválida ou sem movimentações → sistema exibe mensagem de erro          |
-| [IS12](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/)        | Usuário loga no app → vai em “Meus Dados” → seleciona “Conta Bancária” → clica em “Cadastrar nova conta” → preenche dados → confirma → sistema valida → conta associada ao perfil | Usuário tenta cadastrar conta já existente → sistema mostra mensagem de conta duplicada e impede cadastro | Dados inválidos/incompletos → sistema exibe erro e destaca campos<br>Falha de conexão → mensagem e orientação para tentar novamente |
-| [IS13](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) | Usuário acessa o app FGTS → seleciona "Ajuda" ou "Suporte" → sistema exibe interface de chat → usuário digita dúvida → assistente responde → usuário continua conversa ou encerra | Usuário acessa chat por outro ponto do app (ex: status de saque) → assistente direciona para funcionalidades específicas | Falha de conexão com servidor → exibe erro e oferece tentar novamente<br>Módulo de chat indisponível → oferece contato por outros canais<br>Dúvida não compreendida → oferece opções adicionais ou redireciona para atendimento humano |
-| [IS14](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) | Usuário acessa o app FGTS → digita termo no campo de busca → sistema processa e exibe resultados → usuário seleciona funcionalidade/informação → sistema redireciona para a área escolhida | Usuário limpa campo de busca para nova consulta → sistema sugere termos relacionados | Termo pesquisado não retorna resultados → sistema informa ausência<br>Falha na comunicação com servidor → exibe erro e permite nova tentativa |
-| [IS16](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais)            | Usuário acessa app FGTS → na autenticação ou página inicial seleciona "Ajuda" → sistema direciona à página de ajuda → usuário seleciona dúvida listada ou pesquisa → sistema abre explicação detalhada | Usuário aborta operação e retorna à página inicial | Falha de conexão → app exibe aviso e mostra informações de ajuda offline                                      |
-| [ST07](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#antonio-ribeiro-persona-secundaria)       | Usuário acessa app FGTS → clica no botão "?" em qualquer ação → sistema inicia guia interativo com balão e seta → usuário segue passo a passo para usar funções do app | Usuário aborta guia clicando em "X" → usuário volta etapa anterior clicando em seta | Falha de conexão → app exibe erro e impede acesso à opção para o guia interativo                                         |
-| [ST08](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais) | Usuário acessa configurações do app → seleciona "Ajuste de Fonte" → escolhe tamanho desejado (pequeno, médio, grande) → sistema aplica novo tamanho → sistema confirma atualização com feedback | Usuário testa diferentes tamanhos antes de confirmar → usuário opta por restaurar tamanho padrão | Tamanho inválido/incompatível → sistema exibe erro e mantém tamanho anterior<br>Erro ao salvar preferências → sistema alerta e solicita nova tentativa |
+| [EN02](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) | Usuário acessa o app → vai à seção Saque → seleciona pedido → vê status e comentário atualizados | Seleciona outro pedido → vê status anterior | Falha conexão → mostra erro e tenta de novo<br>Sem saques → informa ausência<br>Comentário ausente → link ajuda |                                                                                            |
+| [EN03](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) | Usuário acessa app → vai a Meus Saques → seleciona saque → vê data prevista e histórico | Consulta histórico de datas → vê etapas → recebe notificações | Data expirou → aviso e orientação<br>Sem previsão → informa ausência<br>Sem conexão → erro e tentar novamente |
+| [EN04](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Entrevista/#requisitos-funcionais) | Usuário abre app → vai à seção Suporte → interage com chatbot → recebe resposta → continua ou encerra conversa | Usuário envia dúvida para atendimento humano → sistema registra e informa prazo | Chatbot indisponível → mostra erro e sugere canais alternativos<br>Falha conexão → informa erro e pede nova tentativa |
+| [IS06](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) | Usuário acessa app → vai a Meus Saques → seleciona saque → clica em cancelar → confirma → sistema cancela e notifica | Usuário não confirma cancelamento → operação abortada | Saque já processado → bloqueia ação<br>Falha conexão/erro → mostra erro |
+| [IS07](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) | Usuário acessa app → vai a Histórico de Saques → seleciona filtro → escolhe tipo → sistema exibe lista filtrada | Usuário remove filtro → vê todos os saques<br>Sistema informa ausência de saques do tipo | Falha conexão → mostra erro<br>Erro no filtro → tenta novamente |
+|    [IS08](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/)     | Usuário acessa app → faz login → vai a Saques → seleciona Saques Bloqueados → vê lista com motivos | Motivo bloqueio ausente → mensagem genérica<br>Sem saques bloqueados → informa ausência<br>Usuário pede mais info → link ajuda | Falha conexão login → erro e orientação para tentar novamente |
+|    [IS09](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/)     | Usuário faz login → acessa movimentações → vê lista → seleciona movimentação → vê detalhes  | Usuário usa filtro → vê movimentações do período            | Sem movimentações → sistema avisa                            |
+| [IS10](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/)        | Usuário faz login → acessa movimentações → seleciona filtro por mês/ano → vê movimentações    | Usuário faz login → acessa movimentações → vê lista completa | Data inválida ou sem movimentações → sistema exibe mensagem de erro          |
+| [IS12](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/)        | Usuário loga no app → vai em “Meus Dados” → seleciona “Conta Bancária” → clica em “Cadastrar nova conta” → preenche dados → confirma → sistema valida → conta associada ao perfil | Usuário tenta cadastrar conta já existente → sistema mostra mensagem de conta duplicada e impede cadastro | Dados inválidos/incompletos → sistema exibe erro e destaca campos<br>Falha de conexão → mensagem e orientação para tentar novamente |
+| [IS13](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) | Usuário acessa o app FGTS → seleciona "Ajuda" ou "Suporte" → sistema exibe interface de chat → usuário digita dúvida → assistente responde → usuário continua conversa ou encerra | Usuário acessa chat por outro ponto do app (ex: status de saque) → assistente direciona para funcionalidades específicas | Falha de conexão com servidor → exibe erro e oferece tentar novamente<br>Módulo de chat indisponível → oferece contato por outros canais<br>Dúvida não compreendida → oferece opções adicionais ou redireciona para atendimento humano |
+| [IS14](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/) | Usuário acessa o app FGTS → digita termo no campo de busca → sistema processa e exibe resultados → usuário seleciona funcionalidade/informação → sistema redireciona para a área escolhida | Usuário limpa campo de busca para nova consulta → sistema sugere termos relacionados | Termo pesquisado não retorna resultados → sistema informa ausência<br>Falha na comunicação com servidor → exibe erro e permite nova tentativa |
+| [IS16](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Introspeccao/#requisitos-funcionais)            | Usuário acessa app FGTS → na autenticação ou página inicial seleciona "Ajuda" → sistema direciona à página de ajuda → usuário seleciona dúvida listada ou pesquisa → sistema abre explicação detalhada | Usuário aborta operação e retorna à página inicial | Falha de conexão → app exibe aviso e mostra informações de ajuda offline                                      |
+| [ST07](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#antonio-ribeiro-persona-secundaria)       | Usuário acessa app FGTS → clica no botão "?" em qualquer ação → sistema inicia guia interativo com balão e seta → usuário segue passo a passo para usar funções do app | Usuário aborta guia clicando em "X" → usuário volta etapa anterior clicando em seta | Falha de conexão → app exibe erro e impede acesso à opção para o guia interativo                                         |
+| [ST08](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Storytelling/#requisitos-funcionais) | Usuário acessa configurações do app → seleciona "Ajuste de Fonte" → escolhe tamanho desejado (pequeno, médio, grande) → sistema aplica novo tamanho → sistema confirma atualização com feedback | Usuário testa diferentes tamanhos antes de confirmar → usuário opta por restaurar tamanho padrão | Tamanho inválido/incompatível → sistema exibe erro e mantém tamanho anterior<br>Erro ao salvar preferências → sistema alerta e solicita nova tentativa |
 
 <font size="2"><p style="text-align: center"><b>Fonte: <i> [Maria Eduarda](https://github.com/dudaa28) </i></b></p></font>
 

@@ -6,11 +6,11 @@ Após o planejamento da verificação, iniciou-se a inspeção do artefato *Rich
 
 ## Objetivo
 
-O objetivo deste documento é propor o relato dos resultados das verificações realizadas no que tange ao artefato *Rich Picture* na versão 1.5, de data 22/06/2025, contido no escopo da [entrega 1](https://requisitos-de-software.github.io/2025.1-FGTS/Entregas/Entrega-1/) do [grupo](https://github.com/Requisitos-de-Software/2025.1-FGTS).
+O objetivo deste documento é propor o relato dos resultados das verificações realizadas no que tange ao artefato *Rich Picture* na versão 1.5, de data 22/06/2025, contido no escopo da [entrega 1](https://eduardodpms.github.io/REQ-FGTS/Entregas/Entrega-1/) do [grupo](https://github.com/eduardodpms/REQ-FGTS).
 
 ## Metodologia
 
-A verificação foi realizada com base nas checklists definidas no [planejamento](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-1/planejamento-verificacao-entrega-1/). Para cada item, o avaliador marcou **Sim**, **Não** ou **Incompleto** e foi capaz de incluir observações, quando necessário.
+A verificação foi realizada com base nas checklists definidas no [planejamento](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-1/planejamento-verificacao-entrega-1/). Para cada item, o avaliador marcou **Sim**, **Não** ou **Incompleto** e foi capaz de incluir observações, quando necessário.
 
 ## Cronograma e Participantes
 
@@ -51,7 +51,7 @@ Nesta etapa, o integrante [Eduardo de Pina](https://github.com/eduardodpms) ser�
 
 ## Inspeção
 
-As tabelas 2 e 3 abaixo apresentam a inspeção, respectivamente, dos itens gerais e do artefado **First-Things-First** realizada pelo avaliador, conforme as checklists definidas no [Planejamento](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-1/planejamento-verificacao-entrega-1/).
+As tabelas 2 e 3 abaixo apresentam a inspeção, respectivamente, dos itens gerais e do artefado **First-Things-First** realizada pelo avaliador, conforme as checklists definidas no [Planejamento](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-1/planejamento-verificacao-entrega-1/).
 
 ### ✅ Itens Gerais
 
@@ -59,12 +59,12 @@ As tabelas 2 e 3 abaixo apresentam a inspeção, respectivamente, dos itens gera
 
 | Item | Referência | Avaliação | Observação | Print | Autor |
 | :---- | :---: | :---: | :---: | :---: | :---: |
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(2)](#RP2)| ![][image1] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/1.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
-| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(2)](#RP2)| ![][image2] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/2.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
-| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(2)](#RP2)| ![][image3] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/3.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
-| ***04:*** O artefato apresenta uma introdução? [(2)](#RP2)| ![][image4] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/4.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(2)](#RP2)|  | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/4.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(2)](#RP2)| ![][image5] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/5.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(2)](#RP2)| ![][image1] | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/rich_picture/1.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(2)](#RP2)| ![][image2] | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/rich_picture/2.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(2)](#RP2)| ![][image3] | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/rich_picture/3.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***04:*** O artefato apresenta uma introdução? [(2)](#RP2)| ![][image4] | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/rich_picture/4.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(2)](#RP2)|  | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/rich_picture/4.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(2)](#RP2)| ![][image5] | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/rich_picture/5.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
 
 
 ### ✅ Rich Picture
@@ -73,13 +73,13 @@ As tabelas 2 e 3 abaixo apresentam a inspeção, respectivamente, dos itens gera
 
 | Item | Referência | Avaliação | Observação | Print | Autor |
 | :---- | :---: | :---: | :---: | :---: | :---: |
-| ***07:*** O Rich Picture representa todos os atores envolvidos no sistema? [(1)](#RP1)| ![][image6] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/6.png?raw=true) <br> ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/7.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
-| ***08:*** Os fluxos de informação entre os elementos estão ilustrados? [(1)](#RP1)| ![][image7] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/8.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
-| ***09:*** As principais operações do sistema estão representadas? [(1)](#RP1)| ![][image8] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/9.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
-| ***10:*** Os limites do sistema estão claramente indicados? [(1)](#RP1)| ![][image9] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/9.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
-| **11:** Os armazenamentos de dados (tabelas) estão representados adequadamente? [(1)](#RP1)| ![][image10] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/10.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***07:*** O Rich Picture representa todos os atores envolvidos no sistema? [(1)](#RP1)| ![][image6] | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/rich_picture/6.png?raw=true) <br> ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/rich_picture/7.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***08:*** Os fluxos de informação entre os elementos estão ilustrados? [(1)](#RP1)| ![][image7] | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/rich_picture/8.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***09:*** As principais operações do sistema estão representadas? [(1)](#RP1)| ![][image8] | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/rich_picture/9.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***10:*** Os limites do sistema estão claramente indicados? [(1)](#RP1)| ![][image9] | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/rich_picture/9.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| **11:** Os armazenamentos de dados (tabelas) estão representados adequadamente? [(1)](#RP1)| ![][image10] | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/rich_picture/10.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
 | ***12:*** O Rich Picture foi validado com a equipe ou stakeholders? [(2)](#RP2)| ![][image11] | Não | \- | - | [Eduardo de Pina](https://github.com/eduardodpms)
-| ***13:*** O artefato possui uma legenda explicando os símbolos utilizados no diagrama? [(2)](#RP2)| ![][image12] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/rich_picture/3.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***13:*** O artefato possui uma legenda explicando os símbolos utilizados no diagrama? [(2)](#RP2)| ![][image12] | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/rich_picture/3.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
 
 ## Análise de Resultados
 
@@ -92,7 +92,7 @@ Foi identificado que a equipe não realizou uma validação do rich picture, de 
 Validar o artefato para atender ao critério **ID - 12**, referente à validação do Rich Picture, por meio de uma das formas a seguir:
 
 - Validação com usuário;
-- Validação pela equipe de desenvolvedores do aplicativo (veja [*Comprovação Informal*](https://requisitos-de-software.github.io/2025.1-FGTS/Validacao/Comprovacao/)).
+- Validação pela equipe de desenvolvedores do aplicativo (veja [*Comprovação Informal*](https://eduardodpms.github.io/REQ-FGTS/Validacao/Comprovacao/)).
 
 ## Acompanhamento
 

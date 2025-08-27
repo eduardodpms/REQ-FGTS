@@ -10,11 +10,11 @@ Ao longo do processo, reunimos dados, apontamos os principais problemas encontra
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato de [Léxicos](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/) na versão 3.1 de data 22/06/2025 da Etapa 3 do [grupo](https://github.com/Requisitos-de-Software/2025.1-FGTS).
+O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato de [Léxicos](https://eduardodpms.github.io/REQ-FGTS/Modelagem-I/Lexicos/) na versão 3.1 de data 22/06/2025 da Etapa 3 do [grupo](https://github.com/eduardodpms/REQ-FGTS).
 
 ## Metodologia
 
-A verificação foi realizada com base nas checklists definidas no [planejamento](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-3/planejamento-verificacao-entrega-3/). Para cada item, o avaliador marcou **Sim**, **Não** ou **Incompleto** e pôde incluir observações quando necessário.
+A verificação foi realizada com base nas checklists definidas no [planejamento](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-3/planejamento-verificacao-entrega-3/). Para cada item, o avaliador marcou **Sim**, **Não** ou **Incompleto** e pôde incluir observações quando necessário.
 
 
 ## Cronograma e Participantes
@@ -57,7 +57,7 @@ Nesta etapa a integrante [Maria Eduarda](https://github.com/dudaa28), será resp
 
 ## Inspeção
 
-A tabela abaixo, apresenta a inspeção  da Lista de Verificação do artefado **Léxicos** realizada pelo avaliador, conforme as checklists definidas no [Planejamento](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-3/planejamento-verificacao-entrega-3/).
+A tabela abaixo, apresenta a inspeção  da Lista de Verificação do artefado **Léxicos** realizada pelo avaliador, conforme as checklists definidas no [Planejamento](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-3/planejamento-verificacao-entrega-3/).
 
 ### Itens Gerais
 

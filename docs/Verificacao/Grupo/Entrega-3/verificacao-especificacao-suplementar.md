@@ -4,13 +4,13 @@
 
 A verificação do artefato de **Especificação Suplementar** teve como principal objetivo avaliar se o documento atende aos requisitos mínimos de qualidade esperados para esta etapa do projeto, com foco específico na categorização dos requisitos não funcionais segundo o modelo **FURPS+**.
 
-A inspeção foi conduzida com base na técnica formal proposta por **Fagan**, utilizando uma checklist estruturada e seguindo as diretrizes de qualidade definidas no [planejamento de verificação](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/).
+A inspeção foi conduzida com base na técnica formal proposta por **Fagan**, utilizando uma checklist estruturada e seguindo as diretrizes de qualidade definidas no [planejamento de verificação](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/).
 
 Além da análise objetiva de cada item da lista de verificação, foram feitas observações qualitativas sobre clareza, completude e coerência geral do artefato.
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados da verificação realizada sobre o artefato de [Especificação Suplementar](https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/EspecificacaoSuplementar/) na versão 1.4 de data **22/06/2025**, referente à Etapa 2 do [projeto](https://github.com/Requisitos-de-Software/2025.1-FGTS).
+O objetivo deste documento é relatar os resultados da verificação realizada sobre o artefato de [Especificação Suplementar](https://eduardodpms.github.io/REQ-FGTS/Modelagem-I/EspecificacaoSuplementar/) na versão 1.4 de data **22/06/2025**, referente à Etapa 2 do [projeto](https://github.com/eduardodpms/REQ-FGTS).
 
 ## Metodologia
 
@@ -64,12 +64,12 @@ Nesta verificação, o integrante **Victor Pontual** atuou como avaliador, enqua
 
 | Item | Avaliação | Observação | Print | Autor |
 | ----- | :---: | :---: | :---: | :---: |
-| 01   | Sim       | O artefato contém referências bibliográficas adequadas.                | ![Bibliografia](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/bibliografia.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
-| 02   | Sim       | Existe um histórico de versões, com id, descrição e autoria.           | ![Histórico](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/historico.png?raw=true)       | [Victor Pontual](https://github.com/VictorPontual)
-| 03   | Sim       | As tabelas e imagens possuem legendas e fontes corretamente indicadas. | ![Tabelas](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/tabelas.png?raw=true)           | [Victor Pontual](https://github.com/VictorPontual)
-| 04   | Sim       | Há uma introdução contextualizando o artefato.                         | ![Introdução](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/introducao.png?raw=true)     | [Victor Pontual](https://github.com/VictorPontual)
-| 05   | Sim       | O texto utiliza linguagem formal e técnica.                            | ![Linguagem](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/introducao.png?raw=true)       | [Victor Pontual](https://github.com/VictorPontual)
-| 06   | Sim       | Há coerência entre os elementos gráficos e o conteúdo textual.         | ![Coerência](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/coerencia.png?raw=true)       | [Victor Pontual](https://github.com/VictorPontual)
+| 01   | Sim       | O artefato contém referências bibliográficas adequadas.                | ![Bibliografia](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/bibliografia.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
+| 02   | Sim       | Existe um histórico de versões, com id, descrição e autoria.           | ![Histórico](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/historico.png?raw=true)       | [Victor Pontual](https://github.com/VictorPontual)
+| 03   | Sim       | As tabelas e imagens possuem legendas e fontes corretamente indicadas. | ![Tabelas](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/tabelas.png?raw=true)           | [Victor Pontual](https://github.com/VictorPontual)
+| 04   | Sim       | Há uma introdução contextualizando o artefato.                         | ![Introdução](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/introducao.png?raw=true)     | [Victor Pontual](https://github.com/VictorPontual)
+| 05   | Sim       | O texto utiliza linguagem formal e técnica.                            | ![Linguagem](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/introducao.png?raw=true)       | [Victor Pontual](https://github.com/VictorPontual)
+| 06   | Sim       | Há coerência entre os elementos gráficos e o conteúdo textual.         | ![Coerência](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/coerencia.png?raw=true)       | [Victor Pontual](https://github.com/VictorPontual)
 
 ---
 
@@ -77,10 +77,10 @@ Nesta verificação, o integrante **Victor Pontual** atuou como avaliador, enqua
 
 | Item | Avaliação | Observação | Print | Autor |
 | ----- | :---: | :---: | :---: | :---: |
-| 01   | Sim       | O documento segue a estrutura baseada no modelo FURPS+.                  | ![Coerência](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/coerencia.png?raw=true)               | [Victor Pontual](https://github.com/VictorPontual)
-| 02   | Sim       | Há definição de requisitos de tempo de resposta na seção de desempenho.  | ![Desempenho](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/desempenho.png?raw=true)       | [Victor Pontual](https://github.com/VictorPontual)
+| 01   | Sim       | O documento segue a estrutura baseada no modelo FURPS+.                  | ![Coerência](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/coerencia.png?raw=true)               | [Victor Pontual](https://github.com/VictorPontual)
+| 02   | Sim       | Há definição de requisitos de tempo de resposta na seção de desempenho.  | ![Desempenho](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/desempenho.png?raw=true)       | [Victor Pontual](https://github.com/VictorPontual)
 | 03   | Não      | Foram definidos os ambientes e plataformas de execução do aplicativo.    |           | [Victor Pontual](https://github.com/VictorPontual)
-| 04   | não       | Todos os requisitos não funcionais descritos são testáveis/verificáveis. | ![Testabilidade](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/testabilidade.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
+| 04   | não       | Todos os requisitos não funcionais descritos são testáveis/verificáveis. | ![Testabilidade](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/EspecificacaoSuplementar/testabilidade.png?raw=true) | [Victor Pontual](https://github.com/VictorPontual)
 
 ## Análise de Resultados
 

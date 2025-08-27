@@ -6,11 +6,11 @@ Após o planejamento da verificação, iniciou-se a inspeção do artefato *Cen�
 
 ## Objetivo
 
-O objetivo deste documento é propor o relato dos resultados das verificações realizadas no que tange ao artefato *Cenários* na versão 2.3, de data 22/06/2025, contido no escopo da [entrega 3](https://requisitos-de-software.github.io/2025.1-FGTS/Entregas/Entrega-3/) do [grupo](https://github.com/Requisitos-de-Software/2025.1-FGTS).
+O objetivo deste documento é propor o relato dos resultados das verificações realizadas no que tange ao artefato *Cenários* na versão 2.3, de data 22/06/2025, contido no escopo da [entrega 3](https://eduardodpms.github.io/REQ-FGTS/Entregas/Entrega-3/) do [grupo](https://github.com/eduardodpms/REQ-FGTS).
 
 ## Metodologia
 
-A verificação foi realizada com base nas checklists definidas no [planejamento](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-3/planejamento-verificacao-entrega-3/). Para cada item, o avaliador marcou **Sim**, **Não** ou **Incompleto** e foi capaz de incluir observações, quando necessário.
+A verificação foi realizada com base nas checklists definidas no [planejamento](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-3/planejamento-verificacao-entrega-3/). Para cada item, o avaliador marcou **Sim**, **Não** ou **Incompleto** e foi capaz de incluir observações, quando necessário.
 
 ## Cronograma e Participantes
 
@@ -51,7 +51,7 @@ Nesta etapa, o integrante [Eduardo de Pina](https://github.com/eduardodpms) ser�
 
 ## Inspeção
 
-As tabelas 2 e 3 abaixo apresentam a inspeção, respectivamente, dos itens gerais e do artefado **Cenários** realizada pelo avaliador, conforme as checklists definidas no [Planejamento](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-3/planejamento-verificacao-entrega-3/).
+As tabelas 2 e 3 abaixo apresentam a inspeção, respectivamente, dos itens gerais e do artefado **Cenários** realizada pelo avaliador, conforme as checklists definidas no [Planejamento](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-3/planejamento-verificacao-entrega-3/).
 
 ### ✅ Itens Gerais
 
@@ -59,12 +59,12 @@ As tabelas 2 e 3 abaixo apresentam a inspeção, respectivamente, dos itens gera
 
 | Item | Referência | Avaliação | Observação | Print | Autor |
 | :---- | :---: | :---: | :---: | :---: | :---: |
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(1)](#RF1)| ![][imagex1] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/1.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
-| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(1)](#RF1)| ![][imagex2] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/2.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
-| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(1)](#RF1)| ![][imagex3] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/3.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
-| ***04:*** O artefato apresenta uma introdução? [(1)](#RF1)| ![][imagex4] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/4.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(1)](#RF1)| - | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/5.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(1)](#RF1)| ![][imagex5] | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/3.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(1)](#RF1)| ![][imagex1] | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/cenarios/1.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(1)](#RF1)| ![][imagex2] | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/cenarios/2.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(1)](#RF1)| ![][imagex3] | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/cenarios/3.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***04:*** O artefato apresenta uma introdução? [(1)](#RF1)| ![][imagex4] | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/cenarios/4.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(1)](#RF1)| - | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/cenarios/5.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(1)](#RF1)| ![][imagex5] | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/cenarios/3.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
 
 
 ### ✅ Cenários
@@ -73,14 +73,14 @@ As tabelas 2 e 3 abaixo apresentam a inspeção, respectivamente, dos itens gera
 
 | Item | Referência | Avaliação | Observação | Print | Autor |
 | :---- | :---: | :---: | :---: | :---: | :---: |
-| ***07:*** Os cenários possuem título? [(3)](#RF3) | ***![][image5]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/6.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
-| ***08:*** Há a identificação clara do ambiente ou contexto da situação que motiva os objetivos e ações do cenário? [(3)](#RF3) | ***![][image6]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/7.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
-| ***09:*** Os cenários descrevem claramente o comportamento e as experiências dos atores envolvidos? [(3)](#RF3) | ***![][image7]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/12.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
-| ***10:*** Cada cenário possui um objetivo principal claramente definido? [(3)](#RF3) | ***![][image8]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/9.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
-| ***11:*** Os cenários incluem pelo menos um ator principal? [(3)](#RF3) | ***![][image9]*** | Incompleto | O ator "Principal" não possui diferenciação. | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/8.png?raw=true) |  [Eduardo de Pina](https://github.com/eduardodpms)
-| ***12:*** Cada cenário possui um contexto que descreve o estado inicial com suas pré condições, local e tempo? [(3)](#RF3) | ***![][image10]*** | Incompleto | Não há diferenciação em pré condições, local e tempo. | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/7.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
-| ***13:*** Os cenários possuem episódios? [(3)](#RF3) | ***![][image11]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/11.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
-| ***14:*** Os cenários identificam os recursos (objetos passivos com os quais lidam os atores)? [(3)](#RF3) | ***![][image12]*** | Sim | \- | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cenarios/10.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***07:*** Os cenários possuem título? [(3)](#RF3) | ***![][image5]*** | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/cenarios/6.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***08:*** Há a identificação clara do ambiente ou contexto da situação que motiva os objetivos e ações do cenário? [(3)](#RF3) | ***![][image6]*** | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/cenarios/7.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***09:*** Os cenários descrevem claramente o comportamento e as experiências dos atores envolvidos? [(3)](#RF3) | ***![][image7]*** | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/cenarios/12.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***10:*** Cada cenário possui um objetivo principal claramente definido? [(3)](#RF3) | ***![][image8]*** | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/cenarios/9.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***11:*** Os cenários incluem pelo menos um ator principal? [(3)](#RF3) | ***![][image9]*** | Incompleto | O ator "Principal" não possui diferenciação. | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/cenarios/8.png?raw=true) |  [Eduardo de Pina](https://github.com/eduardodpms)
+| ***12:*** Cada cenário possui um contexto que descreve o estado inicial com suas pré condições, local e tempo? [(3)](#RF3) | ***![][image10]*** | Incompleto | Não há diferenciação em pré condições, local e tempo. | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/cenarios/7.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***13:*** Os cenários possuem episódios? [(3)](#RF3) | ***![][image11]*** | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/cenarios/11.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
+| ***14:*** Os cenários identificam os recursos (objetos passivos com os quais lidam os atores)? [(3)](#RF3) | ***![][image12]*** | Sim | \- | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/cenarios/10.png?raw=true) | [Eduardo de Pina](https://github.com/eduardodpms)
 
 
 

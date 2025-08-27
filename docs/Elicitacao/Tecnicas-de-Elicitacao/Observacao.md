@@ -189,7 +189,7 @@ As funcionalidades observadas foram organizadas a seguir como possíveis **Requi
 
 ## Registro Visual da Observação
 
-<p style="text-align: center">Figura 1 – Print da anotação feita durante a observação da usuária Maria Eduarda</p> <div align="center"> <img src="https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/de360069d904511f4ce44b321816e0403384e92c/docs/assets/observa%C3%A7%C3%A3o/notasDeObserva%C3%A7%C3%A3o.jpg?raw=true" width="500px"/> </div> <p style="text-align: center; font-size: 16px;">Fonte: <i>Victor Pontual (anotações registradas durante a observação)</i></p>
+<p style="text-align: center">Figura 1 – Print da anotação feita durante a observação da usuária Maria Eduarda</p> <div align="center"> <img src="https://github.com/eduardodpms/REQ-FGTS/blob/de360069d904511f4ce44b321816e0403384e92c/docs/assets/observa%C3%A7%C3%A3o/notasDeObserva%C3%A7%C3%A3o.jpg?raw=true" width="500px"/> </div> <p style="text-align: center; font-size: 16px;">Fonte: <i>Victor Pontual (anotações registradas durante a observação)</i></p>
 
 ## Gravação
 

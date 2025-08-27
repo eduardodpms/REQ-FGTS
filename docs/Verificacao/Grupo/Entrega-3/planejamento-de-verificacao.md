@@ -61,19 +61,19 @@ A metodologia utilizada na etapa de verificação é o método de inspeção de 
 
 Os artefatos da Entrega 3 verificados foram:
 
-- <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Diagrama/>Casos de uso</a>
-- <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Cenarios/>Cenários</a>
-- <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/Lexicos/>Léxicos</a>
-- <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Modelagem-I/EspecificacaoSuplementar/>Especificação Suplementar</a>
+- <a href = https://eduardodpms.github.io/REQ-FGTS/Modelagem-I/Diagrama/>Casos de uso</a>
+- <a href = https://eduardodpms.github.io/REQ-FGTS/Modelagem-I/Cenarios/>Cenários</a>
+- <a href = https://eduardodpms.github.io/REQ-FGTS/Modelagem-I/Lexicos/>Léxicos</a>
+- <a href = https://eduardodpms.github.io/REQ-FGTS/Modelagem-I/EspecificacaoSuplementar/>Especificação Suplementar</a>
 
 ## Resultados
 
 Os resultados das verificações de cada artefato podem ser visualizados nas páginas abaixo:
 
-- <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-3/verificacao-casos-de-uso/>Verificação Casos de uso</a>
-- <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-3/verificacao-cenarios/>Verificação Cenários</a>
-- <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-3/verificacao-lexicos/>Verificação Léxicos</a>
-- <a href = https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-3/verificacao-especificacao-suplementar/>Verificação Especificação Suplementar</a>
+- <a href = https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-3/verificacao-casos-de-uso/>Verificação Casos de uso</a>
+- <a href = https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-3/verificacao-cenarios/>Verificação Cenários</a>
+- <a href = https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-3/verificacao-lexicos/>Verificação Léxicos</a>
+- <a href = https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-3/verificacao-especificacao-suplementar/>Verificação Especificação Suplementar</a>
 
 ## Listas de Verificação
 

@@ -10,11 +10,11 @@ Ao longo do processo, reunimos dados, apontamos os principais problemas encontra
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato de [$100 Test](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/100-Test/#introducao) na versão 1.5 de data 21/06/2025 da Entrega 2 do [grupo](https://github.com/Requisitos-de-Software/2025.1-FGTS).
+O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato de [$100 Test](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Priorizacao/100-Test/#introducao) na versão 1.5 de data 21/06/2025 da Entrega 2 do [grupo](https://github.com/eduardodpms/REQ-FGTS).
 
 ## Metodologia
 
-A verificação foi realizada com base nas listas de verificação definidas no [planejamento](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/). Para cada item, o avaliador marcou **Sim**, **Não** ou **Incompleto** e pôde incluir observações quando necessário.
+A verificação foi realizada com base nas listas de verificação definidas no [planejamento](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/). Para cada item, o avaliador marcou **Sim**, **Não** ou **Incompleto** e pôde incluir observações quando necessário.
 
 ## Cronograma e Participantes
 
@@ -55,7 +55,7 @@ Nesta etapa o integrante [Marcelo Makoto](https://github.com/MM4k), será respon
 
 ## Inspeção
 
-As tabelas abaixo apresentam a inspeção da Lista de Verificação da técnica de priorização "$100 Test" realizada pelo avaliador, conforme as listas de verificação definidas no [Planejamento](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/).
+As tabelas abaixo apresentam a inspeção da Lista de Verificação da técnica de priorização "$100 Test" realizada pelo avaliador, conforme as listas de verificação definidas no [Planejamento](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/).
 
 
 ### Itens Gerais
@@ -64,12 +64,12 @@ As tabelas abaixo apresentam a inspeção da Lista de Verificação da técnica 
 
 | Item | Avaliação | Observação | Print | Autor |
 | ----- | :---: | :---: | :---: | :---: |
-| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image1] | [Marcelo Makoto](https://github.com/MM4k)
-| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image2] | [Marcelo Makoto](https://github.com/MM4k)
-| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image3] | [Marcelo Makoto](https://github.com/MM4k)
-| ***04:*** O artefato apresenta uma introdução? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image4] | [Marcelo Makoto](https://github.com/MM4k)
-| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image5] | [Marcelo Makoto](https://github.com/MM4k)
-| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image6] | [Marcelo Makoto](https://github.com/MM4k)
+| ***01:*** O artefato apresenta uma bibliografia/referência bibliográfica? [(1)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image1] | [Marcelo Makoto](https://github.com/MM4k)
+| ***02:*** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? [(1)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image2] | [Marcelo Makoto](https://github.com/MM4k)
+| ***03:*** As tabelas e imagens apresentam legenda e fonte? [(1)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image3] | [Marcelo Makoto](https://github.com/MM4k)
+| ***04:*** O artefato apresenta uma introdução? [(1)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image4] | [Marcelo Makoto](https://github.com/MM4k)
+| ***05:*** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? [(1)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image5] | [Marcelo Makoto](https://github.com/MM4k)
+| ***06:*** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? [(1)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image6] | [Marcelo Makoto](https://github.com/MM4k)
 
 
 ### $100 Test
@@ -80,16 +80,16 @@ As tabelas abaixo apresentam a inspeção da Lista de Verificação da técnica 
 
 | Item | Avaliação | Observação | Print | Autor |
 | ----- | :---: | :---: | :---: | :---: |
-| ***01:*** Existe um cronograma com data para realização da priorização dos requisitos? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image3] | [Marcelo Makoto](https://github.com/MM4k)
-| ***02:*** O local para a priorização foi definido? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image3] | [Marcelo Makoto](https://github.com/MM4k)
-| ***03:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image3] | [Marcelo Makoto](https://github.com/MM4k)
-| ***04:*** As técnicas MoSCoW e/ou 100$ só foram usadas após outras duas técnicas? [(1)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image7] | [Marcelo Makoto](https://github.com/MM4k)
-| ***05:*** Cada participante possui $100 para aplicar durante a priorização? [(2)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image8] | [Marcelo Makoto](https://github.com/MM4k)
-| ***06:*** O peso atribuído aos requisitos reflete adequadamente sua importância, com os mais críticos recebendo maior ponderação e os menos críticos, menor? [(2)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image9] | [Marcelo Makoto](https://github.com/MM4k)
-| ***07:*** Os pesos foram distribuídos de forma que nenhum requisito recebeu a prioridade máxima ($100)? [(2)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image10] | [Marcelo Makoto](https://github.com/MM4k)
-| ***08:*** Os resultados da priorização foram reunidos em uma tabela? [(2)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image11] | [Marcelo Makoto](https://github.com/MM4k)
-| ***09:*** É possível identificar claramente a prioridade total de cada requisito? [(2)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image12] | [Marcelo Makoto](https://github.com/MM4k)
-| ***10:*** É possível identificar claramente quais requisitos tem prioridade maior/menor? [(2)](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image13] | [Marcelo Makoto](https://github.com/MM4k)
+| ***01:*** Existe um cronograma com data para realização da priorização dos requisitos? [(1)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image3] | [Marcelo Makoto](https://github.com/MM4k)
+| ***02:*** O local para a priorização foi definido? [(1)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image3] | [Marcelo Makoto](https://github.com/MM4k)
+| ***03:*** O cronograma e local da priorização foram definidos com o cliente e/ou persona? [(1)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image3] | [Marcelo Makoto](https://github.com/MM4k)
+| ***04:*** As técnicas MoSCoW e/ou 100$ só foram usadas após outras duas técnicas? [(1)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF1) | Sim | \- | ![][image7] | [Marcelo Makoto](https://github.com/MM4k)
+| ***05:*** Cada participante possui $100 para aplicar durante a priorização? [(2)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image8] | [Marcelo Makoto](https://github.com/MM4k)
+| ***06:*** O peso atribuído aos requisitos reflete adequadamente sua importância, com os mais críticos recebendo maior ponderação e os menos críticos, menor? [(2)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image9] | [Marcelo Makoto](https://github.com/MM4k)
+| ***07:*** Os pesos foram distribuídos de forma que nenhum requisito recebeu a prioridade máxima ($100)? [(2)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image10] | [Marcelo Makoto](https://github.com/MM4k)
+| ***08:*** Os resultados da priorização foram reunidos em uma tabela? [(2)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image11] | [Marcelo Makoto](https://github.com/MM4k)
+| ***09:*** É possível identificar claramente a prioridade total de cada requisito? [(2)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image12] | [Marcelo Makoto](https://github.com/MM4k)
+| ***10:*** É possível identificar claramente quais requisitos tem prioridade maior/menor? [(2)](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/#RF4) | Sim | \- | ![][image13] | [Marcelo Makoto](https://github.com/MM4k)
 
 
 ## Análise de Resultados

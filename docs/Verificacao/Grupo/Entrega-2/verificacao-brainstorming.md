@@ -10,11 +10,11 @@ Ao longo do processo, reunimos dados, apontamos os principais problemas encontra
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato de [Brainstorming](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/#gravacao-da-elicitacao) na versão 1.3 de data 21/06/2025 da Etapa 2 do [grupo](https://github.com/Requisitos-de-Software/2025.1-FGTS).
+O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato de [Brainstorming](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Elicitacao/Brainstorming/#gravacao-da-elicitacao) na versão 1.3 de data 21/06/2025 da Etapa 2 do [grupo](https://github.com/eduardodpms/REQ-FGTS).
 
 ## Metodologia
 
-A verificação foi realizada com base nas checklists definidas no [planejamento](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/). Para cada item, o avaliador marcou **Sim**, **Não** ou **Incompleto** e pôde incluir observações quando necessário.
+A verificação foi realizada com base nas checklists definidas no [planejamento](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/). Para cada item, o avaliador marcou **Sim**, **Não** ou **Incompleto** e pôde incluir observações quando necessário.
 
 
 ## Cronograma e Participantes
@@ -57,7 +57,7 @@ Nesta etapa a integrante [Maria Eduarda](https://github.com/dudaa28), será resp
 
 ## Inspeção
 
-A tabela abaixo, apresenta a inspeção  da Lista de Verificação do artefado **Brainstorming** realizada pelo avaliador, conforme as checklists definidas no [Planejamento](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/).
+A tabela abaixo, apresenta a inspeção  da Lista de Verificação do artefado **Brainstorming** realizada pelo avaliador, conforme as checklists definidas no [Planejamento](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/).
 
 ### Itens Gerais
 

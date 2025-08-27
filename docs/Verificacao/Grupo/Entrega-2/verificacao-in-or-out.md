@@ -8,11 +8,11 @@ O conteúdo foi analisado com base nas orientações apresentadas na obra **Soft
 
 ## Objetivo
 
-Este documento tem como objetivo relatar os resultados da verificação realizada sobre o artefato [In or Out](https://requisitos-de-software.github.io/2025.1-FGTS/Elicitacao/Tecnicas-de-Priorizacao/In-or-Out/), na versão 1.2, datada de 21/06/2025, referente à Etapa 2 do [Grupo FGTS](https://github.com/Requisitos-de-Software/2025.1-FGTS).
+Este documento tem como objetivo relatar os resultados da verificação realizada sobre o artefato [In or Out](https://eduardodpms.github.io/REQ-FGTS/Elicitacao/Tecnicas-de-Priorizacao/In-or-Out/), na versão 1.2, datada de 21/06/2025, referente à Etapa 2 do [Grupo FGTS](https://github.com/eduardodpms/REQ-FGTS).
 
 ## Metodologia
 
-A verificação foi realizada com base na checklist definida no [Planejamento de Verificação da Entrega 2](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/). Para cada item da lista, o avaliador marcou **Sim**, **Não** ou **Incompleto**, além de incluir observações quando necessário.
+A verificação foi realizada com base na checklist definida no [Planejamento de Verificação da Entrega 2](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-2/planejamento-verificacao-entrega-2/). Para cada item da lista, o avaliador marcou **Sim**, **Não** ou **Incompleto**, além de incluir observações quando necessário.
 
 ## Cronograma e Participantes
 
@@ -59,12 +59,12 @@ Nesta etapa o integrante [Enzo Emir](https://github.com/EnzoEmir), será respons
 
 | Item | Avaliação | Observação | Print | Autor |
 | ----- | :---: | :---: | :---: | :---: |
-| **01:** O artefato apresenta uma bibliografia/referência bibliográfica? | Sim | - | ![Ref](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/ref_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
-| **02:** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | Sim | - | ![Hist](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/historico_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
-| **03:** As tabelas e imagens apresentam legenda e fonte? | Sim | - | ![Fonte](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/fonte_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
-| **04:** O artefato apresenta uma introdução? | Sim | - | ![Intro](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/intro_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
-| **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Sim | - | ![Formal](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/intro_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
-| **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Sim | - | ![Coerencia](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/lista_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **01:** O artefato apresenta uma bibliografia/referência bibliográfica? | Sim | - | ![Ref](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/ref_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **02:** O artefato apresenta um histórico de versões com id, item das versões, autores e revisores? | Sim | - | ![Hist](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/historico_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **03:** As tabelas e imagens apresentam legenda e fonte? | Sim | - | ![Fonte](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/fonte_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **04:** O artefato apresenta uma introdução? | Sim | - | ![Intro](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/intro_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **05:** A linguagem utilizada é formal e adequada ao contexto técnico/acadêmico? | Sim | - | ![Formal](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/intro_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **06:** Há coerência entre o conteúdo textual e os artefatos gráficos (tabelas, imagens, fluxogramas)? | Sim | - | ![Coerencia](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/lista_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
 
 
 
@@ -72,11 +72,11 @@ Nesta etapa o integrante [Enzo Emir](https://github.com/EnzoEmir), será respons
 
 | Item | Avaliação | Observação | Print | Autor |
 | ----- | :---: | :---: | :---: | :---: |
-| **01:** Existe um cronograma com data para realização da priorização dos requisitos? | Sim | - | ![Cronograma](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/cronograma_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
-| **02:** O local para a priorização foi definido? | Sim | - | ![Local](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/local_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
-| **03:** A prioridade de cada requisito foi decidida de forma binária (In/Out)? | Sim | - | ![Binario](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/bin_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
-| **04:** Houve participação de stakeholders? | Sim | - | ![Stakeholders](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/bin_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
-| **05:** Todos os requisitos a serem priorizados foram reunidos em uma lista? | Sim | - | ![Lista](https://github.com/Requisitos-de-Software/2025.1-FGTS/blob/main/docs/assets/Verificacao/lista_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **01:** Existe um cronograma com data para realização da priorização dos requisitos? | Sim | - | ![Cronograma](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/cronograma_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **02:** O local para a priorização foi definido? | Sim | - | ![Local](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/local_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **03:** A prioridade de cada requisito foi decidida de forma binária (In/Out)? | Sim | - | ![Binario](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/bin_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **04:** Houve participação de stakeholders? | Sim | - | ![Stakeholders](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/bin_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
+| **05:** Todos os requisitos a serem priorizados foram reunidos em uma lista? | Sim | - | ![Lista](https://github.com/eduardodpms/REQ-FGTS/blob/main/docs/assets/Verificacao/lista_in.png?raw=true) | [Enzo Emir](https://github.com/EnzoEmir)
 
 
 

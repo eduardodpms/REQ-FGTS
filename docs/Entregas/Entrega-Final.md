@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A entrega final do projeto consiste, no contexto do planejamento da disciplina <a href="#REF1">^1^</a>, à etapa posterior às 6 entregas desenvolvidas pelo time, cujo objetivo principal é a correção de inconsistências presentes em todos os artefatos do projeto, em conjunto com uma série de tabelas e textos que especificam todo o âmbito do desenvolvimento do projeto. Dessa forma, os membros do time formularam a página [Entrega Final](https://requisitos-de-software.github.io/2025.1-FGTS/Final/Execucao/), contendo todos esses itens. A apresentação, por sua vez, consiste na exposição, pelos componentes da equipe, do resultado final do projeto após todos os ajustes e considerações dessa etapa. Confira a gravação em [*Apresentação*](#apresentacao).
+A entrega final do projeto consiste, no contexto do planejamento da disciplina <a href="#REF1">^1^</a>, à etapa posterior às 6 entregas desenvolvidas pelo time, cujo objetivo principal é a correção de inconsistências presentes em todos os artefatos do projeto, em conjunto com uma série de tabelas e textos que especificam todo o âmbito do desenvolvimento do projeto. Dessa forma, os membros do time formularam a página [Entrega Final](https://eduardodpms.github.io/REQ-FGTS/Final/Execucao/), contendo todos esses itens. A apresentação, por sua vez, consiste na exposição, pelos componentes da equipe, do resultado final do projeto após todos os ajustes e considerações dessa etapa. Confira a gravação em [*Apresentação*](#apresentacao).
 
 ## Participantes
 

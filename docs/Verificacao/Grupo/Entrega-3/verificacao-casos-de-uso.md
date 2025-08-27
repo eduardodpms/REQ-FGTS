@@ -10,11 +10,11 @@ Ao longo do processo, foram reunidos dados, identificando os principais problema
 
 ## Objetivo
 
-O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato de Casos de Uso na versão 2.6 de data 08/06/2025 da Etapa 3 do [grupo](https://github.com/Requisitos-de-Software/2025.1-FGTS).
+O objetivo deste documento é relatar os resultados das verificações realizadas acerca do artefato de Casos de Uso na versão 2.6 de data 08/06/2025 da Etapa 3 do [grupo](https://github.com/eduardodpms/REQ-FGTS).
 
 ## Metodologia
 
-A verificação foi realizada com base nas checklists definidas no [planejamento](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-3/planejamento-verificacao-entrega-3/). Para cada item, o avaliador marcou **Sim**, **Não** ou **Inconpleto** e pôde incluir observações quando necessário.
+A verificação foi realizada com base nas checklists definidas no [planejamento](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-3/planejamento-verificacao-entrega-3/). Para cada item, o avaliador marcou **Sim**, **Não** ou **Inconpleto** e pôde incluir observações quando necessário.
 
 ## Cronograma e Participantes
 
@@ -56,7 +56,7 @@ Nesta etapa a integrante [Leticia Arisa](https://github.com/Leticia-Arisa-K-Higa
 
 ## Inspeção
 
-A tabela abaixo, apresenta a inspeção da Lista de Verificação do artefato Casos de Uso realizada pelo avaliador, conforme as checklists definidas no [Planejamento](https://requisitos-de-software.github.io/2025.1-FGTS/Verificacao/Grupo/Entrega-3/planejamento-verificacao-entrega-3/).
+A tabela abaixo, apresenta a inspeção da Lista de Verificação do artefato Casos de Uso realizada pelo avaliador, conforme as checklists definidas no [Planejamento](https://eduardodpms.github.io/REQ-FGTS/Verificacao/Grupo/Entrega-3/planejamento-verificacao-entrega-3/).
 
 ###**Itens Gerais**
 
